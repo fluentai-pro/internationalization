@@ -1420,7 +1420,7 @@
   },
   "v2_12e1ceb7": {
     "description": "Auto-generated translation for: Users Usage",
-    "message": "Users Usage"
+    "message": "User Usage"
   },
   "v2_1288bb66": {
     "description": "Auto-generated translation for: Analytics",
@@ -2287,6 +2287,14 @@
     "description": "Auto-generated translation for: Level 3 (deepest level)",
     "message": "Level 3 (deepest level)"
   },
+  "v2_67616676": {
+    "description": "Auto-generated translation for: Level 2",
+    "message": "Level 2"
+  },
+  "v2_77f5d93c": {
+    "description": "Auto-generated translation for: Hover for level 3",
+    "message": "Hover for level 3"
+  },
   "v2_67616675": {
     "description": "Auto-generated translation for: Level 1",
     "message": "Level 1"
@@ -2621,6 +2629,18 @@
     "description": "Auto-generated translation for: Backer",
     "message": "Backer"
   },
+  "v2_0e69d1e6": {
+    "description": "Auto-generated translation for: Perfect for casual language learners. Practice at your own pace with essential features in sufficient quantity.",
+    "message": "Perfect for casual language learners. Practice at your own pace with essential features in sufficient quantity."
+  },
+  "v2_2cd351d1": {
+    "description": "Auto-generated translation for: For dedicated learners seeking full access with unlimited features.",
+    "message": "For dedicated learners seeking full access with unlimited features."
+  },
+  "v2_15748521": {
+    "description": "Auto-generated translation for: For users who want to support the app and help us grow. Enjoy all core features and early access to new updates.",
+    "message": "For users who want to support the app and help us grow. Enjoy all core features and early access to new updates."
+  },
   "v2_6eeca84d": {
     "description": "Auto-generated translation for: Everything in Unlimited",
     "message": "Everything in Unlimited"
@@ -2716,6 +2736,10 @@
   "v2_1090cb35": {
     "description": "Auto-generated translation for: Pronunciation",
     "message": "Pronunciation"
+  },
+  "v2_39356904": {
+    "description": "Auto-generated translation for: Analysis",
+    "message": "Analysis"
   },
   "v2_68d35012": {
     "description": "Auto-generated translation for: Subtitle Length",
@@ -3087,14 +3111,6 @@
     "description": "Auto-generated translation for: Please wait while we update your extension to $version",
     "message": "Please wait while we update your extension to $version"
   },
-  "v2_67616676": {
-    "description": "Auto-generated translation for: Level 2",
-    "message": "Level 2"
-  },
-  "v2_77f5d93c": {
-    "description": "Auto-generated translation for: Hover for level 3",
-    "message": "Hover for level 3"
-  },
   "v2_62387b79": {
     "description": "Auto-generated translation for: Join our affiliate program.",
     "message": "Join our affiliate program."
@@ -3158,10 +3174,6 @@
   "v2_5ae80293": {
     "description": "Auto-generated translation for: Follow Us",
     "message": "Follow Us"
-  },
-  "v2_39356904": {
-    "description": "Auto-generated translation for: Analysis",
-    "message": "Analysis"
   },
   "v2_0d844c9c": {
     "description": "Auto-generated translation for: Learn any language<br/>while watching.<br/><span class=\"gradient-highlighted-text\">Effortlessly.</span>",
@@ -3502,8 +3514,8 @@
     "message": "FluentAI is temporarily unavailable on Chrome"
   },
   "v2_62f19e8e": {
-    "description": "Auto-generated translation for: Due to recent changes by the Chrome Web Store, FluentAI is temporarily unavailable on Chrome. We're working on a fix ASAP. In the meantime, you can continue learning with Firefox. Sorry for the inconvenience.",
-    "message": "Due to recent changes by the Chrome Web Store, FluentAI is temporarily unavailable on Chrome. We're working on a fix ASAP. In the meantime, you can continue learning with Firefox. Sorry for the inconvenience."
+    "description": "Auto-generated translation for: Due to recent changes by the Chrome Web Store, FluentAI is temporarily unavailable on Chrome. We’re working on a fix ASAP. In the meantime, you can continue learning with Firefox. Sorry for the inconvenience.",
+    "message": "Due to recent changes by the Chrome Web Store, FluentAI is temporarily unavailable on Chrome. We’re working on a fix ASAP. In the meantime, you can continue learning with Firefox. Sorry for the inconvenience."
   },
   "v2_25b7fb91": {
     "description": "Auto-generated translation for: We genuinely appreciate you taking the time to share your experience. We are gonna look at your feedback and address it as soon as possible.",
@@ -4000,6 +4012,22 @@
   "v2_3dba0078": {
     "description": "Auto-generated translation for: Our Mission",
     "message": "Our Mission"
+  },
+  "name": {
+    "message": "FluentAI: Dual Subtitles for Netflix & more",
+    "description": "Manifest name for Chrome extension (en_GB)"
+  },
+  "description": {
+    "message": "Discover the best way to learn a new language while watching your favorite movies and series on Netflix, YouTube, and Disney+.",
+    "description": "Manifest description for Chrome extension (en_GB)"
+  },
+  "ExtensionName": {
+    "message": "FluentAI: Dual Subtitles for Netflix & more",
+    "description": "Manifest ExtensionName for Chrome extension (en_GB)"
+  },
+  "ExtensionDescription": {
+    "message": "Discover the best way to learn a new language while watching your favorite movies and series on Netflix, YouTube, and Disney+.",
+    "description": "Manifest ExtensionDescription for Chrome extension (en_GB)"
   },
   "v2_7804285f": {
     "description": "Auto-generated translation for: Log in",
