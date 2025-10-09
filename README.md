@@ -4,35 +4,40 @@ Open source translations for the FluentAI browser extension and website.
 
 ## Structure
 
-This repository contains simple JSON files for each supported language:
+All translation files are organized in the `languages/` directory, with files named in their native language:
 
-- `en.json` - English translations
-- `fr.json` - French translations  
-- `es.json` - Spanish translations
-- `de.json` - German translations
-- `zh_CN.json` - Chinese (Simplified) translations
-- ... and many more
+```
+languages/
+├── English.json           # English translations
+├── Français.json         # French translations
+├── Español.json          # Spanish translations
+├── Deutsch.json          # German translations
+├── 中文 (简体).json       # Chinese (Simplified)
+├── 日本語.json            # Japanese
+└── ... and 47 more languages
+```
 
 Each file contains key-value pairs where:
 - **Key**: Translation identifier (hash-based)
-- **Value**: Translated text
+- **Value**: Translated text in that language
 
 ## Contributing
 
 ### Adding New Translations
 
 1. Fork this repository
-2. Edit the appropriate language file (e.g., `fr.json` for French)
-3. Add or modify translations as key-value pairs
-4. Submit a pull request
+2. Navigate to the `languages/` directory
+3. Edit the appropriate language file (e.g., `Français.json` for French)
+4. Add or modify translations as key-value pairs
+5. Submit a pull request
 
 ### Adding New Languages
 
-1. Create a new JSON file with the locale code (e.g., `pt.json` for Portuguese)
-2. Copy the structure from `en.json`
-3. Translate all values to the target language
-4. Add the language to `languages.json` with proper metadata
-5. Submit a pull request
+1. Navigate to the `languages/` directory
+2. Create a new JSON file with the native language name (e.g., `Português.json` for Portuguese)
+3. Copy the structure from `English.json`
+4. Translate all values to the target language
+5. Submit a pull request with the new language file
 
 ### Translation Guidelines
 
@@ -43,7 +48,7 @@ Each file contains key-value pairs where:
 
 ## Language Support
 
-See `languages.json` for the complete list of supported languages and their metadata.
+We currently support 53 languages! Check the `languages/` directory to see all available translations. Each file is named in its native language for easy identification.
 
 ## Integration
 
