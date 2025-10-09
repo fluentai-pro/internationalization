@@ -31,19 +31,13 @@ Each file contains key-value pairs where:
 4. Add or modify translations as key-value pairs
 5. Submit a pull request
 
-### Adding New Languages
-
-1. Navigate to the `languages/` directory
-2. Create a new JSON file with the native language name (e.g., `Português.json` for Portuguese)
-3. Copy the structure from `English.json`
-4. Translate all values to the target language
-5. Submit a pull request with the new language file
 
 ### Translation Guidelines
 
 - Keep the same keys as the English version
 - Maintain any placeholders in the format `$placeholder$`
 - Ensure translations are natural and contextually appropriate
+- Only modify existing translations - do not add new language files
 - Test your translations by building the extension locally
 
 ## Language Support
