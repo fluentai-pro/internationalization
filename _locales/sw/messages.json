@@ -1908,50 +1908,6 @@
     "description": "Auto-generated translation for: Feature Request",
     "message": "Ombi la Kipengele"
   },
-  "v2_3a65e355": {
-    "description": "Auto-generated translation for: AI-Powered Feature",
-    "message": "Kipengele Kinachoendeshwa na Akili Bandia"
-  },
-  "v2_06bc4e73": {
-    "description": "Auto-generated translation for: Enable <span class=\"gradient-highlighted-text\">Neural Subtitles</span>",
-    "message": "Washa <span class=\"gradient-highlighted-text\">Manukuu ya Neural</span>"
-  },
-  "v2_73d22fbb": {
-    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy and natural language understanding.",
-    "message": "Furahia unakili wa wakati halisi unaoendeshwa na akili bandia (AI) kwa usahihi usio na kifani na uelewa wa lugha asilia."
-  },
-  "v2_773fa217": {
-    "description": "Auto-generated translation for: Real-time transcription with minimal latency",
-    "message": "Unukuzi wa wakati halisi na ucheleweshaji mdogo"
-  },
-  "v2_4e98e4da": {
-    "description": "Auto-generated translation for: Advanced noise reduction and clarity enhancement",
-    "message": "Upunguzaji wa hali ya juu wa kelele na uboreshaji wa uwazi"
-  },
-  "v2_60ed6ff7": {
-    "description": "Auto-generated translation for: Automatic punctuation and formatting",
-    "message": "Uwekaji alama za uandishi na uumbizaji otomatiki"
-  },
-  "v2_0258e117": {
-    "description": "Auto-generated translation for: Enabling Neural Subtitles for video ID <span class=\"font-mono font-bold text-violet-500\">$video_id$</span> on <span class=\"font-bold text-violet-500\">$platform$</span>",
-    "message": "Inawezesha Manukuu Neuroni kwa video ID <span class=\"font-mono font-bold text-violet-500\">$video_id$</span> kwenye <span class=\"font-bold text-violet-500\">$platform$</span>",
-    "placeholders": {
-      "video_id": {
-        "content": "$1"
-      },
-      "platform": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_2fbb7529": {
-    "description": "Auto-generated translation for: No subtitles found for this video. Our AI will automatically detect the language and generate accurate subtitles in real-time.",
-    "message": "Hakuna manukuu yaliyopatikana kwa video hii. Akili bandia yetu itatambua lugha kiotomatiki na itazalisha manukuu sahihi kwa wakati halisi."
-  },
-  "v2_17cd008a": {
-    "description": "Auto-generated translation for: Automatic language detection and support for multiple languages",
-    "message": "Utambuzi wa lugha otomatiki na usaidizi kwa lugha nyingi"
-  },
   "v2_52c6292d": {
     "description": "Auto-generated translation for: No status set",
     "message": "Hakuna hali iliyowekwa"
@@ -4949,18 +4905,6 @@
     "description": "Auto-generated translation for: Casual Usage",
     "message": "Matumizi ya Kawaida"
   },
-  "v2_7197e5f0": {
-    "description": "Auto-generated translation for: Usage Context",
-    "message": "Mazingira ya Matumizi"
-  },
-  "v2_272e0c06": {
-    "description": "Auto-generated translation for: Grammar Structure",
-    "message": "Muundo wa Sarufi"
-  },
-  "v2_04766316": {
-    "description": "Auto-generated translation for: Overall Meaning",
-    "message": "Maana ya Jumla"
-  },
   "v2_6d2708eb": {
     "description": "Auto-generated translation for: Pro trial: $time$ left",
     "message": "Jaribio la Pro: $time$ imesalia",
@@ -5541,10 +5485,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_560cedf1": {
-    "description": "Auto-generated translation for: Original",
-    "message": "Asili"
   },
   "v2_653d8c1f": {
     "description": "Auto-generated translation for: Add Config",
@@ -6228,10 +6168,6 @@
     "description": "Auto-generated translation for: Processing your audio for neural subtitles",
     "message": "Inachakata sauti yako kwa ajili ya manukuu ya neura"
   },
-  "v2_747c4b3c": {
-    "description": "Auto-generated translation for: Join thousands of successful language learners who have transformed their learning with FluentAI+.",
-    "message": "Jiunge na maelfu ya wanaojifunza lugha wenye mafanikio ambao wameubadilisha kujifunza kwao kwa FluentAI+."
-  },
   "v2_2adaa19e": {
     "description": "Auto-generated translation for: Subtitle Panel List",
     "message": "Orodha ya Vipaneli vya Manukuu"
@@ -6709,10 +6645,6 @@
     "description": "Auto-generated translation for: Create subtitles for videos that don't have any, making any content accessible for language learning.",
     "message": "Unda manukuu kwa video ambazo hazina yoyote, ili kufanya maudhui yoyote yawe na uwezo wa kufikiwa kwa ajili ya kujifunza lugha."
   },
-  "v2_7eb5105b": {
-    "description": "Auto-generated translation for: Unlock <span class=\"gradient-highlighted-text\">AI Subtitles</span>",
-    "message": "Fungua <span class=\"gradient-highlighted-text\">Manukuu ya AI</span>"
-  },
   "v2_26bbe0e0": {
     "description": "Auto-generated translation for: You have reached your AI Subtitles quota limit. Upgrade for access to AI-powered subtitles.",
     "message": "Umeifikia kikomo cha kileo chako cha AI Subtitles. Sasisha ili upate upatikanaji wa subtitles zinazotumia AI."
@@ -6868,5 +6800,514 @@
   "v2_4fcfcdf3": {
     "description": "Auto-generated translation for: Bookmark Sentence",
     "message": "Alama Sentensi"
+  },
+  "v2_2993a8c6": {
+    "description": "Auto-generated translation for: No subtitle available to copy",
+    "message": "Hakuna manukuu yanayopatikana"
+  },
+  "v2_2face5db": {
+    "description": "Auto-generated translation for: Subtitle copied to clipboard",
+    "message": "Manukuu yamenakiliwa kwenye ubaomkono"
+  },
+  "v2_0ac1de2c": {
+    "description": "Auto-generated translation for: Neural subtitles enabled successfully",
+    "message": "Manukuu ya neva yamewashwa kikamilifu"
+  },
+  "v2_0575abd3": {
+    "description": "Auto-generated translation for: Failed to associate with existing transcription",
+    "message": "Imeshindwa kuunganishwa na unukuzi uliopo"
+  },
+  "v2_35fed33f": {
+    "description": "Auto-generated translation for: Failed to request transcription",
+    "message": "Imeshindwa kuomba unukuzi"
+  },
+  "v2_2743fe99": {
+    "description": "Auto-generated translation for: An error occurred while checking transcription status",
+    "message": "Kuna hitilafu iliyotokea wakati wa kuangalia hali ya unukuzi"
+  },
+  "v2_16f3b323": {
+    "description": "Auto-generated translation for: Mapping tokens for $lang$",
+    "message": "Kupanga tokeni za $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_57761200": {
+    "description": "Auto-generated translation for: Unbookmarking sentences not yet implemented",
+    "message": "Kuondoa alamisho za sentensi ambazo hazijatekelezwa"
+  },
+  "v2_3c750a29": {
+    "description": "Auto-generated translation for: Remove sentence bookmark",
+    "message": "Ondoa alamisho ya sentensi"
+  },
+  "v2_53aa3213": {
+    "description": "Auto-generated translation for: Bookmark sentence",
+    "message": "Alamisha sentensi"
+  },
+  "v2_6388b573": {
+    "description": "Auto-generated translation for: Contribute",
+    "message": "Changia"
+  },
+  "v2_36c2510a": {
+    "description": "Auto-generated translation for: Join the mission to revolutionize language learning with exclusive perks.",
+    "message": "Jiunge na dhamira ya kubadilisha ujifunzaji wa lugha na marupurupu ya kipekee."
+  },
+  "v2_41069f9e": {
+    "description": "Auto-generated translation for: Part of Speech",
+    "message": "Aina ya neno"
+  },
+  "v2_18c5187f": {
+    "description": "Auto-generated translation for: Unlock AI Subtitles",
+    "message": "Fungua Manukuu ya AI"
+  },
+  "v2_6460648d": {
+    "description": "Auto-generated translation for: to see instant translations",
+    "message": "kuona tafsiri za papo hapo"
+  },
+  "v2_7d5b0274": {
+    "description": "Auto-generated translation for: to hear word pronunciation",
+    "message": "kusikia matamshi ya neno"
+  },
+  "v2_0e8caf3c": {
+    "description": "Auto-generated translation for: for detailed word analysis and information",
+    "message": "kwa uchambuzi wa kina wa maneno na maelezo"
+  },
+  "v2_5cbcbf51": {
+    "description": "Auto-generated translation for: to see detailed grammar explanations",
+    "message": "kuona ufafanuzi wa kina wa sarufi"
+  },
+  "v2_503b541d": {
+    "description": "Auto-generated translation for: Select multiple words",
+    "message": "Chagua maneno mengi"
+  },
+  "v2_7a6f00e3": {
+    "description": "Auto-generated translation for: to merge into phrases with translations",
+    "message": "kuunganisha katika misemo yenye tafsiri"
+  },
+  "v2_68217313": {
+    "description": "Auto-generated translation for: Choose a video",
+    "message": "Chagua video"
+  },
+  "v2_65e0d045": {
+    "description": "Auto-generated translation for: Open any movie or video on your streaming platform",
+    "message": "Fungua filamu au video yoyote kwenye jukwaa lako la utiririshaji"
+  },
+  "v2_6e2ab0b6": {
+    "description": "Auto-generated translation for: Click FluentAI button",
+    "message": "Bonyeza kitufe cha FluentAI"
+  },
+  "v2_168fd63f": {
+    "description": "Auto-generated translation for: Find and click the FluentAI button in the bottom bar",
+    "message": "Tafuta na ubofye kitufe cha FluentAI kwenye upau wa chini"
+  },
+  "v2_1e18293c": {
+    "description": "Auto-generated translation for: Start learning",
+    "message": "Anza kujifunza"
+  },
+  "v2_5b90e4bc": {
+    "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
+    "message": "Furahia manukuu na tafsiri zinazotumia AI"
+  },
+  "v2_186f9e96": {
+    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
+    "message": "Tumia Manukuu Yaliyopo Yanayotumia Akili Bandia"
+  },
+  "v2_41b77648": {
+    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
+    "message": "Video hili tayari lina manukuu yanayotumia neva kutoka kwa mtumiaji mwingine."
+  },
+  "v2_20adfd45": {
+    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
+    "message": "Furahia unukuzi unaotumia AI kwa wakati halisi na usahihi usio na kifani."
+  },
+  "v2_5b65a386": {
+    "description": "Auto-generated translation for: AI-Powered Accuracy",
+    "message": "Usahihi unaoendeshwa na AI"
+  },
+  "v2_39122f31": {
+    "description": "Auto-generated translation for: Advanced neural networks for superior transcription quality",
+    "message": "Mitandao changamano ya neva kwa ubora wa hali ya juu wa unukuzi"
+  },
+  "v2_1a691bce": {
+    "description": "Auto-generated translation for: Lightning Fast",
+    "message": "Haraka Kama Umeme"
+  },
+  "v2_5cdcb9f7": {
+    "description": "Auto-generated translation for: Get your transcription in seconds, not minutes",
+    "message": "Pata unukuzi wako kwa sekunde, si dakika"
+  },
+  "v2_610776c5": {
+    "description": "Auto-generated translation for: Multi-Language Support",
+    "message": "Usaidizi wa Lugha Nyingi"
+  },
+  "v2_1db21d42": {
+    "description": "Auto-generated translation for: Supports 50+ languages with accurate detection",
+    "message": "Inaweza kutumia lugha zaidi ya 50 na utambuzi sahihi"
+  },
+  "v2_4bc9e888": {
+    "description": "Auto-generated translation for: Enhanced Learning",
+    "message": "Mafunzo Yaliyoboreshwa"
+  },
+  "v2_607da960": {
+    "description": "Auto-generated translation for: Perfect word-level timing for immersive language learning",
+    "message": "Uoanishaji kamili wa neno kwa neno kwa ujifunzaji wa lugha wenye kuzamisha"
+  },
+  "v2_69ee2bd3": {
+    "description": "Auto-generated translation for: Use Neural Subtitles",
+    "message": "Tumia Manukuu ya Neural"
+  },
+  "v2_04f3ee3b": {
+    "description": "Auto-generated translation for: Insufficient quota. Please upgrade your plan.",
+    "message": "Kiwango hakitoshi. Tafadhali boresha kifurushi chako."
+  },
+  "v2_1143d851": {
+    "description": "Auto-generated translation for: Please select a language to continue",
+    "message": "Tafadhali chagua lugha ili uendelee"
+  },
+  "v2_0442ce8f": {
+    "description": "Auto-generated translation for: Daily Quota",
+    "message": "Kiwango cha Siku"
+  },
+  "v2_09e12465": {
+    "description": "Auto-generated translation for: Monthly Quota",
+    "message": "Kiwango cha Kila Mwezi"
+  },
+  "v2_1c043be4": {
+    "description": "Auto-generated translation for: Your video is",
+    "message": "Video yako ni"
+  },
+  "v2_2942d8c2": {
+    "description": "Auto-generated translation for: You used",
+    "message": "Ulitumia"
+  },
+  "v2_514ed700": {
+    "description": "Auto-generated translation for: You'll have",
+    "message": "Utakuwa na"
+  },
+  "v2_0032a007": {
+    "description": "Auto-generated translation for: left",
+    "message": "kushoto"
+  },
+  "v2_0fe0365f": {
+    "description": "Auto-generated translation for: Resets in",
+    "message": "Inarejeshwa baada ya"
+  },
+  "v2_4d1b86d1": {
+    "description": "Auto-generated translation for: Checking subscription status",
+    "message": "Kukagua hali ya usajili"
+  },
+  "v2_2874ef0f": {
+    "description": "Auto-generated translation for: Checking onboarding status",
+    "message": "Kukagua hali ya kukaribisha"
+  },
+  "v2_0aa2c1c3": {
+    "description": "Auto-generated translation for: Fetching text tracks",
+    "message": "Inapakia nyimbo za maandishi"
+  },
+  "v2_6531d18a": {
+    "description": "Auto-generated translation for: Initializing settings",
+    "message": "Inaanzisha mipangilio"
+  },
+  "v2_1ebb520c": {
+    "description": "Auto-generated translation for: Applying video settings",
+    "message": "Inatumia mipangilio ya video"
+  },
+  "v2_2473aba8": {
+    "description": "Auto-generated translation for: Try AI Subtitles",
+    "message": "Jaribu Manukuu ya AI"
+  },
+  "v2_23ea242e": {
+    "description": "Auto-generated translation for: No subtitles found. Use AI to generate accurate subtitles from audio.",
+    "message": "Hakuna manukuu yaliyopatikana. Tumia AI kuunda manukuu sahihi kutoka kwa sauti."
+  },
+  "v2_60edc1ee": {
+    "description": "Auto-generated translation for: Generate AI Subtitles",
+    "message": "Tengeneza Manukuu ya AI"
+  },
+  "v2_243f0c42": {
+    "description": "Auto-generated translation for: Auto Resume",
+    "message": "Endelea Kiotomatiki"
+  },
+  "v2_1c3e3ef1": {
+    "description": "Auto-generated translation for: Automatically resume playback after a delay",
+    "message": "Endelea kucheza kiotomatiki baada ya kuchelewa"
+  },
+  "v2_0423c240": {
+    "description": "Auto-generated translation for: Wait a little",
+    "message": "Subiri kidogo"
+  },
+  "v2_67090514": {
+    "description": "Auto-generated translation for: Wait longer",
+    "message": "Subiri zaidi"
+  },
+  "v2_0ab26f78": {
+    "description": "Auto-generated translation for: Playback Mode",
+    "message": "Hali ya Kucheza"
+  },
+  "v2_0011f408": {
+    "description": "Auto-generated translation for: Choose how subtitles affect playback",
+    "message": "Chagua jinsi manukuu yanavyoathiri uchezaji"
+  },
+  "v2_51350959": {
+    "description": "Auto-generated translation for: Lingering subtitle",
+    "message": "Manukuu yanayoendelea"
+  },
+  "v2_0bd10da6": {
+    "description": "Auto-generated translation for: Keep the current subtitle visible, even after it has ended",
+    "message": "Weka manukuu ya sasa yaonekane, hata baada ya kuisha"
+  },
+  "v2_54604014": {
+    "description": "Auto-generated translation for: Text-to-Speech",
+    "message": "Maandishi-kwa-Sauti"
+  },
+  "v2_53ba623b": {
+    "description": "Auto-generated translation for: Scene Replay",
+    "message": "Rudia Onyesho"
+  },
+  "v2_40e44961": {
+    "description": "Auto-generated translation for: Repeat Type",
+    "message": "Rudia Aina"
+  },
+  "v2_14049c22": {
+    "description": "Auto-generated translation for: Choose how to repeat each subtitle",
+    "message": "Chagua jinsi ya kurudia kila manukuu"
+  },
+  "v2_2367164a": {
+    "description": "Auto-generated translation for: Repeat Count",
+    "message": "Rudia Hesabu"
+  },
+  "v2_147a23ac": {
+    "description": "Auto-generated translation for: Number of times to repeat",
+    "message": "Idadi ya nyakati za kurudia"
+  },
+  "v2_5fb9c84a": {
+    "description": "Auto-generated translation for: Copy Current Subtitle",
+    "message": "Nakili Manukuu ya Sasa"
+  },
+  "v2_6eada463": {
+    "description": "Auto-generated translation for: Copy Subtitle",
+    "message": "Nakili Manukuu"
+  },
+  "v2_612e7777": {
+    "description": "Auto-generated translation for: Sign in to access your learning history and continue your language journey.",
+    "message": "Ingia ili kufikia historia yako ya masomo na uendelee na safari yako ya kujifunza lugha."
+  },
+  "v2_3121b76a": {
+    "description": "Auto-generated translation for: New to FluentAI?",
+    "message": "Mgeni kwenye FluentAI?"
+  },
+  "v2_6bca16e7": {
+    "description": "Auto-generated translation for: Compare with:",
+    "message": "Linganisha na:"
+  },
+  "v2_08539d25": {
+    "description": "Auto-generated translation for: Choose a platform",
+    "message": "Chagua jukwaa"
+  },
+  "v2_0ac54765": {
+    "description": "Auto-generated translation for: Select Netflix, YouTube, Disney+, or Prime Video.",
+    "message": "Chagua Netflix, YouTube, Disney+, au Prime Video."
+  },
+  "v2_6d55fa84": {
+    "description": "Auto-generated translation for: Pick any movie or show with subtitles.",
+    "message": "Chagua filamu au kipindi chochote chenye manukuu."
+  },
+  "v2_755656fd": {
+    "description": "Auto-generated translation for: Click FluentAI icon",
+    "message": "Bonyeza aikoni ya FluentAI"
+  },
+  "v2_6dab96df": {
+    "description": "Auto-generated translation for: Click the FluentAI button in the bottom bar.",
+    "message": "Bonyeza kitufe cha FluentAI kwenye upau wa chini."
+  },
+  "v2_4f4cebf2": {
+    "description": "Auto-generated translation for: Click any word for translations. Use the power button to toggle on/off.",
+    "message": "Bofya neno lolote ili upate tafsiri. Tumia kitufe cha kuwasha/kuzima."
+  },
+  "v2_340572b0": {
+    "description": "Auto-generated translation for: Back to all reviews",
+    "message": "Rudi kwenye ukaguzi wote"
+  },
+  "v2_1566328c": {
+    "description": "Auto-generated translation for: People Talk About Us",
+    "message": "Watu Wanatusema"
+  },
+  "v2_64fd368f": {
+    "description": "Auto-generated translation for: Published on",
+    "message": "Ilichapishwa mnamo"
+  },
+  "v2_46e5bc8c": {
+    "description": "Auto-generated translation for: View Original Post",
+    "message": "Tazama Chapisho Asili"
+  },
+  "v2_28f29261": {
+    "description": "Auto-generated translation for: More Reviews & Discussions",
+    "message": "Mapitio na Majadiliano Zaidi"
+  },
+  "v2_57c8afe5": {
+    "description": "Auto-generated translation for: Earn 20% commission on all referred subscriptions.",
+    "message": "Pata kamisheni ya 20% kwa usajili wote unaoleta."
+  },
+  "v2_280b4142": {
+    "description": "Auto-generated translation for:  Start today!",
+    "message": "Anza leo!"
+  },
+  "v2_03c8934e": {
+    "description": "Auto-generated translation for: Apply",
+    "message": "Tuma Maombi"
+  },
+  "v2_7962fcd7": {
+    "description": "Auto-generated translation for: Scroll right",
+    "message": "Sogeza kulia"
+  },
+  "v2_078fb05b": {
+    "description": "Auto-generated translation for: Feedback",
+    "message": "Maoni"
+  },
+  "v2_28932aa7": {
+    "description": "Auto-generated translation for: Dual subtitles for Netflix, YouTube, Amazon Prime, and Disney Plus.",
+    "message": "Manukuu pacha kwa Netflix, YouTube, Amazon Prime, na Disney Plus."
+  },
+  "v2_76068a05": {
+    "description": "Auto-generated translation for: Netflix & YouTube",
+    "message": "Netflix & YouTube"
+  },
+  "v2_123785cf": {
+    "description": "Auto-generated translation for: Open on Desktop",
+    "message": "Fungua Kwenye Kompyuta ya Mezani"
+  },
+  "v2_74f4651f": {
+    "description": "Auto-generated translation for: Send this link to yourself to open and download on desktop",
+    "message": "Tuma kiungo hiki kwako mwenyewe ili ufungue na kupakua kwenye kompyuta ya mezani"
+  },
+  "v2_05d7a524": {
+    "description": "Auto-generated translation for: Send via WhatsApp",
+    "message": "Tuma kupitia WhatsApp"
+  },
+  "v2_35bf526b": {
+    "description": "Auto-generated translation for: Send via Telegram",
+    "message": "Tuma kupitia Telegram"
+  },
+  "v2_1d200049": {
+    "description": "Auto-generated translation for: Link Copied!",
+    "message": "Kiungo Kimekopiliwa!"
+  },
+  "v2_32591a3b": {
+    "description": "Auto-generated translation for: Copy Link",
+    "message": "Nakili Kiungo"
+  },
+  "v2_640403e3": {
+    "description": "Auto-generated translation for: Learn languages with smart subtitles while watching your favorite content on Netflix, YouTube, Prime Video, and Disney+.",
+    "message": "Jifunze lugha kwa kutumia manukuu mahiri huku ukitazama maudhui unayopenda kwenye Netflix, YouTube, Prime Video, na Disney+."
+  },
+  "v2_6313ed38": {
+    "description": "Auto-generated translation for: With our smart subtitles and cool features, learn any language by watching your favorite content. Finally, fun and easy.",
+    "message": "Ukiwa na manukuu yetu mahiri na vipengele maridadi, jifunze lugha yoyote kwa kutazama maudhui unayopenda. Hatimaye, ni rahisi na ya kufurahisha."
+  },
+  "v2_03044907": {
+    "description": "Auto-generated translation for: Learn languages with smart subtitles on YouTube, Netflix, Prime, and Disney.",
+    "message": "Jifunze lugha ukitumia manukuu mahiri kwenye YouTube, Netflix, Prime, na Disney."
+  },
+  "v2_672803b1": {
+    "description": "Auto-generated translation for: Best experienced on desktop.",
+    "message": "Hufanya vizuri zaidi inapotumiwa kwenye kompyuta ya mezani."
+  },
+  "v2_3218409c": {
+    "description": "Auto-generated translation for: Mobile app coming soon!",
+    "message": "Programu ya simu inakuja hivi karibuni!"
+  },
+  "v2_56305e75": {
+    "description": "Auto-generated translation for: EPUB Reader",
+    "message": "Kisoma EPUB"
+  },
+  "v2_4dafb55f": {
+    "description": "Auto-generated translation for: Have a question or feedback? We'd love to hear from you.",
+    "message": "Una swali au maoni? Tungependa kusikia kutoka kwako."
+  },
+  "v2_77dafdc8": {
+    "description": "Auto-generated translation for: Your name",
+    "message": "Jina lako"
+  },
+  "v2_76a09b5e": {
+    "description": "Auto-generated translation for: your.email@example.com",
+    "message": "barua.pepe.yako@mfano.com"
+  },
+  "v2_55dcbd93": {
+    "description": "Auto-generated translation for: Tell us what's on your mind...",
+    "message": "Tuambie yaliyo moyoni mwako..."
+  },
+  "v2_79f215f0": {
+    "description": "Auto-generated translation for: Message Sent!",
+    "message": "Ujumbe Umetumwa!"
+  },
+  "v2_4899b091": {
+    "description": "Auto-generated translation for: Send Message",
+    "message": "Tuma Ujumbe"
+  },
+  "v2_09e358ad": {
+    "description": "Auto-generated translation for: Thank you! We'll get back to you soon.",
+    "message": "Asante! Tutakujulisha hivi karibuni."
+  },
+  "v2_1c124c60": {
+    "description": "Auto-generated translation for: Message sent successfully! We'll get back to you soon.",
+    "message": "Ujumbe umetumwa vizuri! Tutawasiliana nawe hivi karibuni."
+  },
+  "v2_5e42d59a": {
+    "description": "Auto-generated translation for: Failed to send message. Please try again.",
+    "message": "Imeshindwa kutuma ujumbe. Tafadhali jaribu tena."
+  },
+  "v2_6c2e4f8d": {
+    "description": "Auto-generated translation for: Please select a valid EPUB file",
+    "message": "Tafadhali chagua faili halali ya EPUB"
+  },
+  "v2_60a948e9": {
+    "description": "Auto-generated translation for: Upload EPUB",
+    "message": "Pakia EPUB"
+  },
+  "v2_2feeabab": {
+    "description": "Auto-generated translation for: Drag and drop your EPUB file here, or click to browse",
+    "message": "Buruta na udondoshe faili yako ya EPUB hapa, au bofya ili uvinjari"
+  },
+  "v2_35a26b53": {
+    "description": "Auto-generated translation for: Uploading...",
+    "message": "Inapakia..."
+  },
+  "v2_01a5d0c2": {
+    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
+    "message": "Chagua EPUB kutoka maktaba yako ili uanze kusoma"
+  },
+  "v2_6c4fc568": {
+    "description": "Auto-generated translation for: No pages found in this EPUB",
+    "message": "Hakuna kurasa zilizopatikana kwenye EPUB hii"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "Iliyotangulia"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "Hakuna maudhui yanayopatikana kwa ukurasa huu"
+  },
+  "v2_76053a41": {
+    "description": "Auto-generated translation for: EPUB uploaded successfully",
+    "message": "EPUB imepakiwa kwa mafanikio"
+  },
+  "v2_7a198fa7": {
+    "description": "Auto-generated translation for: My EPUBs",
+    "message": "EPUB zangu"
+  },
+  "v2_689705df": {
+    "description": "Auto-generated translation for: Upload",
+    "message": "Pakia"
+  },
+  "v2_7e3c46f3": {
+    "description": "Auto-generated translation for: No EPUBs in your library yet",
+    "message": "Hakuna EPUB kwenye maktaba yako bado"
+  },
+  "v2_5759320a": {
+    "description": "Auto-generated translation for: Upload your first EPUB",
+    "message": "Pakia EPUB yako ya kwanza"
   }
 }

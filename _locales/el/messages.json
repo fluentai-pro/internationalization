@@ -1908,50 +1908,6 @@
     "description": "Auto-generated translation for: Feature Request",
     "message": "Αίτημα για Δυνατότητα"
   },
-  "v2_3a65e355": {
-    "description": "Auto-generated translation for: AI-Powered Feature",
-    "message": "Λειτουργία με τεχνητή νοημοσύνη"
-  },
-  "v2_06bc4e73": {
-    "description": "Auto-generated translation for: Enable <span class=\"gradient-highlighted-text\">Neural Subtitles</span>",
-    "message": "Ενεργοποίηση <span class=\"gradient-highlighted-text\">Νευρωνικών Υποτίτλων</span>"
-  },
-  "v2_73d22fbb": {
-    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy and natural language understanding.",
-    "message": "Ζήστε την εμπειρία μεταγραφής σε πραγματικό χρόνο με τεχνητή νοημοσύνη, με απαράμιλλη ακρίβεια και κατανόηση της φυσικής γλώσσας."
-  },
-  "v2_773fa217": {
-    "description": "Auto-generated translation for: Real-time transcription with minimal latency",
-    "message": "Μεταγραφή σε πραγματικό χρόνο με ελάχιστη καθυστέρηση"
-  },
-  "v2_4e98e4da": {
-    "description": "Auto-generated translation for: Advanced noise reduction and clarity enhancement",
-    "message": "Προηγμένη μείωση θορύβου και βελτίωση ευκρίνειας"
-  },
-  "v2_60ed6ff7": {
-    "description": "Auto-generated translation for: Automatic punctuation and formatting",
-    "message": "Αυτόματη στίξη και μορφοποίηση"
-  },
-  "v2_0258e117": {
-    "description": "Auto-generated translation for: Enabling Neural Subtitles for video ID <span class=\"font-mono font-bold text-violet-500\">$video_id$</span> on <span class=\"font-bold text-violet-500\">$platform$</span>",
-    "message": "Ενεργοποίηση των Νευρωνικών Υποτίτλων για το video ID <span class=\"font-mono font-bold text-violet-500\">$video_id$</span> στην πλατφόρμα <span class=\"font-bold text-violet-500\">$platform$</span>",
-    "placeholders": {
-      "video_id": {
-        "content": "$1"
-      },
-      "platform": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_2fbb7529": {
-    "description": "Auto-generated translation for: No subtitles found for this video. Our AI will automatically detect the language and generate accurate subtitles in real-time.",
-    "message": "Δεν βρέθηκαν υπότιτλοι για αυτό το βίντεο. Η τεχνητή νοημοσύνη μας θα ανιχνεύσει αυτόματα τη γλώσσα και θα δημιουργήσει ακριβείς υπότιτλους σε πραγματικό χρόνο."
-  },
-  "v2_17cd008a": {
-    "description": "Auto-generated translation for: Automatic language detection and support for multiple languages",
-    "message": "Αυτόματη ανίχνευση γλώσσας και υποστήριξη για πολλές γλώσσες"
-  },
   "v2_52c6292d": {
     "description": "Auto-generated translation for: No status set",
     "message": "Δεν έχει οριστεί κατάσταση"
@@ -4949,18 +4905,6 @@
     "description": "Auto-generated translation for: Casual Usage",
     "message": "Περιστασιακή Χρήση"
   },
-  "v2_7197e5f0": {
-    "description": "Auto-generated translation for: Usage Context",
-    "message": "Πλαίσιο Χρήσης"
-  },
-  "v2_272e0c06": {
-    "description": "Auto-generated translation for: Grammar Structure",
-    "message": "Δομή Γραμματικής"
-  },
-  "v2_04766316": {
-    "description": "Auto-generated translation for: Overall Meaning",
-    "message": "Συνολική έννοια"
-  },
   "v2_6d2708eb": {
     "description": "Auto-generated translation for: Pro trial: $time$ left",
     "message": "Προ-δοκιμή: απομένουν $time$",
@@ -5541,10 +5485,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_560cedf1": {
-    "description": "Auto-generated translation for: Original",
-    "message": "Πρωτότυπο"
   },
   "v2_653d8c1f": {
     "description": "Auto-generated translation for: Add Config",
@@ -6228,10 +6168,6 @@
     "description": "Auto-generated translation for: Processing your audio for neural subtitles",
     "message": "Επεξεργασία του ήχου σας για νευρωνικούς υπότιτλους"
   },
-  "v2_747c4b3c": {
-    "description": "Auto-generated translation for: Join thousands of successful language learners who have transformed their learning with FluentAI+.",
-    "message": "Ενταχθείτε σε χιλιάδες επιτυχημένους μαθητές γλωσσών που έχουν μεταμορφώσει την εκμάθησή τους με το FluentAI+."
-  },
   "v2_2adaa19e": {
     "description": "Auto-generated translation for: Subtitle Panel List",
     "message": "Λίστα Πάνελ Υποτίτλων"
@@ -6709,10 +6645,6 @@
     "description": "Auto-generated translation for: Create subtitles for videos that don't have any, making any content accessible for language learning.",
     "message": "Δημιουργήστε υπότιτλους για βίντεο που δεν έχουν κανέναν, καθιστώντας οποιοδήποτε περιεχόμενο προσιτό για τη μάθηση γλωσσών."
   },
-  "v2_7eb5105b": {
-    "description": "Auto-generated translation for: Unlock <span class=\"gradient-highlighted-text\">AI Subtitles</span>",
-    "message": "Ξεκλείδωσε <span class=\"gradient-highlighted-text\">AI Υπότιτλοι</span>"
-  },
   "v2_26bbe0e0": {
     "description": "Auto-generated translation for: You have reached your AI Subtitles quota limit. Upgrade for access to AI-powered subtitles.",
     "message": "Έχετε φτάσει το όριο του quota σας στα AI Subtitles. Αναβαθμίστε για πρόσβαση σε υπότιτλους τεχνητής νοημοσύνης."
@@ -6868,5 +6800,514 @@
   "v2_4fcfcdf3": {
     "description": "Auto-generated translation for: Bookmark Sentence",
     "message": "Σελιδοδείκτης Πρότασης"
+  },
+  "v2_2993a8c6": {
+    "description": "Auto-generated translation for: No subtitle available to copy",
+    "message": "Δεν υπάρχει διαθέσιμος υπότιτλος για αντιγραφή"
+  },
+  "v2_2face5db": {
+    "description": "Auto-generated translation for: Subtitle copied to clipboard",
+    "message": "Ο υπότιτλος αντιγράφηκε στο πρόχειρο."
+  },
+  "v2_0ac1de2c": {
+    "description": "Auto-generated translation for: Neural subtitles enabled successfully",
+    "message": "Οι νευρωνικοί υπότιτλοι ενεργοποιήθηκαν επιτυχώς"
+  },
+  "v2_0575abd3": {
+    "description": "Auto-generated translation for: Failed to associate with existing transcription",
+    "message": "Αποτυχία συσχέτισης με υπάρχουσα μεταγραφή"
+  },
+  "v2_35fed33f": {
+    "description": "Auto-generated translation for: Failed to request transcription",
+    "message": "Αποτυχία αιτήματος μεταγραφής"
+  },
+  "v2_2743fe99": {
+    "description": "Auto-generated translation for: An error occurred while checking transcription status",
+    "message": "Παρουσιάστηκε σφάλμα κατά τον έλεγχο της κατάστασης μεταγραφής"
+  },
+  "v2_16f3b323": {
+    "description": "Auto-generated translation for: Mapping tokens for $lang$",
+    "message": "Αντιστοίχιση tokens για $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_57761200": {
+    "description": "Auto-generated translation for: Unbookmarking sentences not yet implemented",
+    "message": "Κατάργηση σελιδοδείκτη προτάσεων που δεν έχουν εφαρμοστεί ακόμα"
+  },
+  "v2_3c750a29": {
+    "description": "Auto-generated translation for: Remove sentence bookmark",
+    "message": "Κατάργηση σελιδοδείκτη πρότασης"
+  },
+  "v2_53aa3213": {
+    "description": "Auto-generated translation for: Bookmark sentence",
+    "message": "Προσθήκη σε σελιδοδείκτη"
+  },
+  "v2_6388b573": {
+    "description": "Auto-generated translation for: Contribute",
+    "message": "Συνεισφέρετε"
+  },
+  "v2_36c2510a": {
+    "description": "Auto-generated translation for: Join the mission to revolutionize language learning with exclusive perks.",
+    "message": "Λάβετε μέρος στην αποστολή να φέρετε την επανάσταση στην εκμάθηση γλωσσών με αποκλειστικά προνόμια."
+  },
+  "v2_41069f9e": {
+    "description": "Auto-generated translation for: Part of Speech",
+    "message": "Μέρος του λόγου"
+  },
+  "v2_18c5187f": {
+    "description": "Auto-generated translation for: Unlock AI Subtitles",
+    "message": "Ξεκλειδώστε τους Υπότιτλους AI"
+  },
+  "v2_6460648d": {
+    "description": "Auto-generated translation for: to see instant translations",
+    "message": "για να δείτε άμεσες μεταφράσεις"
+  },
+  "v2_7d5b0274": {
+    "description": "Auto-generated translation for: to hear word pronunciation",
+    "message": "για να ακούσετε την προφορά της λέξης"
+  },
+  "v2_0e8caf3c": {
+    "description": "Auto-generated translation for: for detailed word analysis and information",
+    "message": "για λεπτομερή ανάλυση και πληροφορίες λέξεων"
+  },
+  "v2_5cbcbf51": {
+    "description": "Auto-generated translation for: to see detailed grammar explanations",
+    "message": "για να δείτε λεπτομερείς επεξηγήσεις γραμματικής"
+  },
+  "v2_503b541d": {
+    "description": "Auto-generated translation for: Select multiple words",
+    "message": "Επιλογή πολλαπλών λέξεων"
+  },
+  "v2_7a6f00e3": {
+    "description": "Auto-generated translation for: to merge into phrases with translations",
+    "message": "για συγχώνευση σε φράσεις με μεταφράσεις"
+  },
+  "v2_68217313": {
+    "description": "Auto-generated translation for: Choose a video",
+    "message": "Επιλέξτε ένα βίντεο"
+  },
+  "v2_65e0d045": {
+    "description": "Auto-generated translation for: Open any movie or video on your streaming platform",
+    "message": "Ανοίξτε οποιαδήποτε ταινία ή βίντεο στην πλατφόρμα streaming σας"
+  },
+  "v2_6e2ab0b6": {
+    "description": "Auto-generated translation for: Click FluentAI button",
+    "message": "Κάντε κλικ στο κουμπί FluentAI"
+  },
+  "v2_168fd63f": {
+    "description": "Auto-generated translation for: Find and click the FluentAI button in the bottom bar",
+    "message": "Βρείτε και κάντε κλικ στο κουμπί FluentAI στην κάτω γραμμή."
+  },
+  "v2_1e18293c": {
+    "description": "Auto-generated translation for: Start learning",
+    "message": "Ξεκινήστε να μαθαίνετε"
+  },
+  "v2_5b90e4bc": {
+    "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
+    "message": "Απολαύστε υπότιτλους και μεταφράσεις με τεχνητή νοημοσύνη"
+  },
+  "v2_186f9e96": {
+    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
+    "message": "Χρήση υπαρχόντων νευρωνικών υπότιτλων"
+  },
+  "v2_41b77648": {
+    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
+    "message": "Αυτό το βίντεο διαθέτει ήδη νευρωνικούς υπότιτλους από άλλο χρήστη."
+  },
+  "v2_20adfd45": {
+    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
+    "message": "Απολαύστε μεταγραφή σε πραγματικό χρόνο με την υποστήριξη τεχνητής νοημοσύνης και ασύγκριτη ακρίβεια."
+  },
+  "v2_5b65a386": {
+    "description": "Auto-generated translation for: AI-Powered Accuracy",
+    "message": "Ακρίβεια με τη δύναμη της Τεχνητής Νοημοσύνης"
+  },
+  "v2_39122f31": {
+    "description": "Auto-generated translation for: Advanced neural networks for superior transcription quality",
+    "message": "Προηγμένα νευρωνικά δίκτυα για ανώτερη ποιότητα μεταγραφής"
+  },
+  "v2_1a691bce": {
+    "description": "Auto-generated translation for: Lightning Fast",
+    "message": "Αστραπιαία"
+  },
+  "v2_5cdcb9f7": {
+    "description": "Auto-generated translation for: Get your transcription in seconds, not minutes",
+    "message": "Λάβετε τη μεταγραφή σας σε δευτερόλεπτα, όχι σε λεπτά"
+  },
+  "v2_610776c5": {
+    "description": "Auto-generated translation for: Multi-Language Support",
+    "message": "Υποστήριξη Πολλαπλών Γλωσσών"
+  },
+  "v2_1db21d42": {
+    "description": "Auto-generated translation for: Supports 50+ languages with accurate detection",
+    "message": "Υποστηρίζει πάνω από 50 γλώσσες με ακριβή ανίχνευση"
+  },
+  "v2_4bc9e888": {
+    "description": "Auto-generated translation for: Enhanced Learning",
+    "message": "Ενισχυμένη Μάθηση"
+  },
+  "v2_607da960": {
+    "description": "Auto-generated translation for: Perfect word-level timing for immersive language learning",
+    "message": "Ιδανικός χρονισμός σε επίπεδο λέξης για καθηλωτική εκμάθηση γλώσσας"
+  },
+  "v2_69ee2bd3": {
+    "description": "Auto-generated translation for: Use Neural Subtitles",
+    "message": "Χρήση νευρωνικών υποτίτλων"
+  },
+  "v2_04f3ee3b": {
+    "description": "Auto-generated translation for: Insufficient quota. Please upgrade your plan.",
+    "message": "Ανεπαρκής ποσόστωση. Αναβαθμίστε το πρόγραμμά σας."
+  },
+  "v2_1143d851": {
+    "description": "Auto-generated translation for: Please select a language to continue",
+    "message": "Παρακαλώ επιλέξτε μια γλώσσα για να συνεχίσετε"
+  },
+  "v2_0442ce8f": {
+    "description": "Auto-generated translation for: Daily Quota",
+    "message": "Ημερήσια ποσόστωση"
+  },
+  "v2_09e12465": {
+    "description": "Auto-generated translation for: Monthly Quota",
+    "message": "Μηνιαία Ποσόστωση"
+  },
+  "v2_1c043be4": {
+    "description": "Auto-generated translation for: Your video is",
+    "message": "Το βίντεό σας είναι"
+  },
+  "v2_2942d8c2": {
+    "description": "Auto-generated translation for: You used",
+    "message": "Χρησιμοποίησες"
+  },
+  "v2_514ed700": {
+    "description": "Auto-generated translation for: You'll have",
+    "message": "Θα έχετε"
+  },
+  "v2_0032a007": {
+    "description": "Auto-generated translation for: left",
+    "message": "αριστερά"
+  },
+  "v2_0fe0365f": {
+    "description": "Auto-generated translation for: Resets in",
+    "message": "Επαναφέρεται σε"
+  },
+  "v2_4d1b86d1": {
+    "description": "Auto-generated translation for: Checking subscription status",
+    "message": "Έλεγχος κατάστασης συνδρομής"
+  },
+  "v2_2874ef0f": {
+    "description": "Auto-generated translation for: Checking onboarding status",
+    "message": "Έλεγχος κατάστασης ενσωμάτωσης"
+  },
+  "v2_0aa2c1c3": {
+    "description": "Auto-generated translation for: Fetching text tracks",
+    "message": "Ανάκτηση κομματιών κειμένου"
+  },
+  "v2_6531d18a": {
+    "description": "Auto-generated translation for: Initializing settings",
+    "message": "Αρχικοποίηση ρυθμίσεων"
+  },
+  "v2_1ebb520c": {
+    "description": "Auto-generated translation for: Applying video settings",
+    "message": "Εφαρμογή ρυθμίσεων βίντεο"
+  },
+  "v2_2473aba8": {
+    "description": "Auto-generated translation for: Try AI Subtitles",
+    "message": "Δοκιμάστε τους υπότιτλους AI"
+  },
+  "v2_23ea242e": {
+    "description": "Auto-generated translation for: No subtitles found. Use AI to generate accurate subtitles from audio.",
+    "message": "Δεν βρέθηκαν υπότιτλοι. Χρησιμοποιήστε την τεχνητή νοημοσύνη για να δημιουργήσετε ακριβείς υπότιτλους από τον ήχο."
+  },
+  "v2_60edc1ee": {
+    "description": "Auto-generated translation for: Generate AI Subtitles",
+    "message": "Δημιουργία Υποτίτλων με Τεχνητή Νοημοσύνη"
+  },
+  "v2_243f0c42": {
+    "description": "Auto-generated translation for: Auto Resume",
+    "message": "Αυτόματη επανεκκίνηση"
+  },
+  "v2_1c3e3ef1": {
+    "description": "Auto-generated translation for: Automatically resume playback after a delay",
+    "message": "Αυτόματη επανάληψη αναπαραγωγής μετά από καθυστέρηση"
+  },
+  "v2_0423c240": {
+    "description": "Auto-generated translation for: Wait a little",
+    "message": "Περίμενε λίγο"
+  },
+  "v2_67090514": {
+    "description": "Auto-generated translation for: Wait longer",
+    "message": "Περίμενε περισσότερο"
+  },
+  "v2_0ab26f78": {
+    "description": "Auto-generated translation for: Playback Mode",
+    "message": "Λειτουργία Αναπαραγωγής"
+  },
+  "v2_0011f408": {
+    "description": "Auto-generated translation for: Choose how subtitles affect playback",
+    "message": "Επιλέξτε πώς οι υπότιτλοι επηρεάζουν την αναπαραγωγή"
+  },
+  "v2_51350959": {
+    "description": "Auto-generated translation for: Lingering subtitle",
+    "message": "Παραμένουσα λεζάντα"
+  },
+  "v2_0bd10da6": {
+    "description": "Auto-generated translation for: Keep the current subtitle visible, even after it has ended",
+    "message": "Διατήρηση του τρέχοντος υποτίτλου ορατού, ακόμα και μετά το τέλος του"
+  },
+  "v2_54604014": {
+    "description": "Auto-generated translation for: Text-to-Speech",
+    "message": "Μετατροπή κειμένου σε ομιλία"
+  },
+  "v2_53ba623b": {
+    "description": "Auto-generated translation for: Scene Replay",
+    "message": "Επανάληψη Σκηνής"
+  },
+  "v2_40e44961": {
+    "description": "Auto-generated translation for: Repeat Type",
+    "message": "Επανάληψη Τύπου"
+  },
+  "v2_14049c22": {
+    "description": "Auto-generated translation for: Choose how to repeat each subtitle",
+    "message": "Επιλέξτε πώς θα επαναλαμβάνεται κάθε υπότιτλος"
+  },
+  "v2_2367164a": {
+    "description": "Auto-generated translation for: Repeat Count",
+    "message": "Αριθμός επαναλήψεων"
+  },
+  "v2_147a23ac": {
+    "description": "Auto-generated translation for: Number of times to repeat",
+    "message": "Αριθμός επαναλήψεων"
+  },
+  "v2_5fb9c84a": {
+    "description": "Auto-generated translation for: Copy Current Subtitle",
+    "message": "Αντιγραφή τρέχοντος υποτίτλου"
+  },
+  "v2_6eada463": {
+    "description": "Auto-generated translation for: Copy Subtitle",
+    "message": "Αντιγραφή υποτίτλου"
+  },
+  "v2_612e7777": {
+    "description": "Auto-generated translation for: Sign in to access your learning history and continue your language journey.",
+    "message": "Συνδεθείτε για να αποκτήσετε πρόσβαση στο ιστορικό εκμάθησής σας και να συνεχίσετε το γλωσσικό σας ταξίδι."
+  },
+  "v2_3121b76a": {
+    "description": "Auto-generated translation for: New to FluentAI?",
+    "message": "Είστε νέος χρήστης του FluentAI;"
+  },
+  "v2_6bca16e7": {
+    "description": "Auto-generated translation for: Compare with:",
+    "message": "Σύγκριση με:"
+  },
+  "v2_08539d25": {
+    "description": "Auto-generated translation for: Choose a platform",
+    "message": "Επιλέξτε μια πλατφόρμα"
+  },
+  "v2_0ac54765": {
+    "description": "Auto-generated translation for: Select Netflix, YouTube, Disney+, or Prime Video.",
+    "message": "Επιλέξτε Netflix, YouTube, Disney+ ή Prime Video."
+  },
+  "v2_6d55fa84": {
+    "description": "Auto-generated translation for: Pick any movie or show with subtitles.",
+    "message": "Διαλέξτε οποιαδήποτε ταινία ή εκπομπή με υπότιτλους."
+  },
+  "v2_755656fd": {
+    "description": "Auto-generated translation for: Click FluentAI icon",
+    "message": "Κάντε κλικ στο εικονίδιο FluentAI"
+  },
+  "v2_6dab96df": {
+    "description": "Auto-generated translation for: Click the FluentAI button in the bottom bar.",
+    "message": "Κάντε κλικ στο κουμπί FluentAI στην κάτω γραμμή."
+  },
+  "v2_4f4cebf2": {
+    "description": "Auto-generated translation for: Click any word for translations. Use the power button to toggle on/off.",
+    "message": "Κάντε κλικ σε οποιαδήποτε λέξη για μεταφράσεις. Χρησιμοποιήστε το κουμπί λειτουργίας για εναλλαγή ενεργοποίησης/απενεργοποίησης."
+  },
+  "v2_340572b0": {
+    "description": "Auto-generated translation for: Back to all reviews",
+    "message": "Πίσω σε όλες τις κριτικές"
+  },
+  "v2_1566328c": {
+    "description": "Auto-generated translation for: People Talk About Us",
+    "message": "Ο κόσμος μιλάει για εμάς"
+  },
+  "v2_64fd368f": {
+    "description": "Auto-generated translation for: Published on",
+    "message": "Δημοσιεύθηκε στις"
+  },
+  "v2_46e5bc8c": {
+    "description": "Auto-generated translation for: View Original Post",
+    "message": "Προβολή αρχικής δημοσίευσης"
+  },
+  "v2_28f29261": {
+    "description": "Auto-generated translation for: More Reviews & Discussions",
+    "message": "Περισσότερες Κριτικές & Συζητήσεις"
+  },
+  "v2_57c8afe5": {
+    "description": "Auto-generated translation for: Earn 20% commission on all referred subscriptions.",
+    "message": "Κερδίστε 20% προμήθεια σε όλες τις συνδρομές που παραπέμπετε."
+  },
+  "v2_280b4142": {
+    "description": "Auto-generated translation for:  Start today!",
+    "message": "Ξεκίνα σήμερα!"
+  },
+  "v2_03c8934e": {
+    "description": "Auto-generated translation for: Apply",
+    "message": "Εφαρμογή"
+  },
+  "v2_7962fcd7": {
+    "description": "Auto-generated translation for: Scroll right",
+    "message": "Κύλιση δεξιά"
+  },
+  "v2_078fb05b": {
+    "description": "Auto-generated translation for: Feedback",
+    "message": "Ανατροφοδότηση"
+  },
+  "v2_28932aa7": {
+    "description": "Auto-generated translation for: Dual subtitles for Netflix, YouTube, Amazon Prime, and Disney Plus.",
+    "message": "Διπλοί υπότιτλοι για Netflix, YouTube, Amazon Prime και Disney Plus."
+  },
+  "v2_76068a05": {
+    "description": "Auto-generated translation for: Netflix & YouTube",
+    "message": "Netflix & YouTube"
+  },
+  "v2_123785cf": {
+    "description": "Auto-generated translation for: Open on Desktop",
+    "message": "Άνοιγμα στην επιφάνεια εργασίας"
+  },
+  "v2_74f4651f": {
+    "description": "Auto-generated translation for: Send this link to yourself to open and download on desktop",
+    "message": "Στείλτε αυτόν τον σύνδεσμο στον εαυτό σας για να τον ανοίξετε και να τον κατεβάσετε στην επιφάνεια εργασίας."
+  },
+  "v2_05d7a524": {
+    "description": "Auto-generated translation for: Send via WhatsApp",
+    "message": "Αποστολή μέσω WhatsApp"
+  },
+  "v2_35bf526b": {
+    "description": "Auto-generated translation for: Send via Telegram",
+    "message": "Αποστολή μέσω Telegram"
+  },
+  "v2_1d200049": {
+    "description": "Auto-generated translation for: Link Copied!",
+    "message": "Ο σύνδεσμος αντιγράφηκε!"
+  },
+  "v2_32591a3b": {
+    "description": "Auto-generated translation for: Copy Link",
+    "message": "Αντιγραφή συνδέσμου"
+  },
+  "v2_640403e3": {
+    "description": "Auto-generated translation for: Learn languages with smart subtitles while watching your favorite content on Netflix, YouTube, Prime Video, and Disney+.",
+    "message": "Μάθετε γλώσσες με έξυπνους υπότιτλους ενώ παρακολουθείτε το αγαπημένο σας περιεχόμενο σε Netflix, YouTube, Prime Video και Disney+."
+  },
+  "v2_6313ed38": {
+    "description": "Auto-generated translation for: With our smart subtitles and cool features, learn any language by watching your favorite content. Finally, fun and easy.",
+    "message": "Με τους έξυπνους υπότιτλους και τις απίθανες λειτουργίες μας, μάθετε οποιαδήποτε γλώσσα βλέποντας το αγαπημένο σας περιεχόμενο. Επιτέλους, διασκεδαστικό και εύκολο."
+  },
+  "v2_03044907": {
+    "description": "Auto-generated translation for: Learn languages with smart subtitles on YouTube, Netflix, Prime, and Disney.",
+    "message": "Μάθετε γλώσσες με έξυπνους υπότιτλους στο YouTube, το Netflix, το Prime και το Disney."
+  },
+  "v2_672803b1": {
+    "description": "Auto-generated translation for: Best experienced on desktop.",
+    "message": "Καλύτερη εμπειρία σε επιτραπέζιο υπολογιστή."
+  },
+  "v2_3218409c": {
+    "description": "Auto-generated translation for: Mobile app coming soon!",
+    "message": "Έρχεται σύντομα η εφαρμογή για κινητά!"
+  },
+  "v2_56305e75": {
+    "description": "Auto-generated translation for: EPUB Reader",
+    "message": "Αναγνώστης EPUB"
+  },
+  "v2_4dafb55f": {
+    "description": "Auto-generated translation for: Have a question or feedback? We'd love to hear from you.",
+    "message": "Έχετε κάποια ερώτηση ή σχόλιο; Θα χαρούμε να σας ακούσουμε."
+  },
+  "v2_77dafdc8": {
+    "description": "Auto-generated translation for: Your name",
+    "message": "Το όνομά σας"
+  },
+  "v2_76a09b5e": {
+    "description": "Auto-generated translation for: your.email@example.com",
+    "message": "your.email@example.com"
+  },
+  "v2_55dcbd93": {
+    "description": "Auto-generated translation for: Tell us what's on your mind...",
+    "message": "Πες μας τι σκέφτεσαι..."
+  },
+  "v2_79f215f0": {
+    "description": "Auto-generated translation for: Message Sent!",
+    "message": "Το μήνυμα εστάλη!"
+  },
+  "v2_4899b091": {
+    "description": "Auto-generated translation for: Send Message",
+    "message": "Αποστολή μηνύματος"
+  },
+  "v2_09e358ad": {
+    "description": "Auto-generated translation for: Thank you! We'll get back to you soon.",
+    "message": "Ευχαριστούμε! Θα επικοινωνήσουμε μαζί σας σύντομα."
+  },
+  "v2_1c124c60": {
+    "description": "Auto-generated translation for: Message sent successfully! We'll get back to you soon.",
+    "message": "Το μήνυμα στάλθηκε επιτυχώς! Θα επικοινωνήσουμε μαζί σας σύντομα."
+  },
+  "v2_5e42d59a": {
+    "description": "Auto-generated translation for: Failed to send message. Please try again.",
+    "message": "Αποτυχία αποστολής μηνύματος. Παρακαλώ δοκιμάστε ξανά."
+  },
+  "v2_6c2e4f8d": {
+    "description": "Auto-generated translation for: Please select a valid EPUB file",
+    "message": "Παρακαλούμε επιλέξτε ένα έγκυρο αρχείο EPUB"
+  },
+  "v2_60a948e9": {
+    "description": "Auto-generated translation for: Upload EPUB",
+    "message": "Αποστολή EPUB"
+  },
+  "v2_2feeabab": {
+    "description": "Auto-generated translation for: Drag and drop your EPUB file here, or click to browse",
+    "message": "Σύρετε και αποθέστε το αρχείο EPUB εδώ, ή κάντε κλικ για αναζήτηση"
+  },
+  "v2_35a26b53": {
+    "description": "Auto-generated translation for: Uploading...",
+    "message": "Μεταφόρτωση..."
+  },
+  "v2_01a5d0c2": {
+    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
+    "message": "Επιλέξτε ένα EPUB από τη βιβλιοθήκη σας για να ξεκινήσετε την ανάγνωση"
+  },
+  "v2_6c4fc568": {
+    "description": "Auto-generated translation for: No pages found in this EPUB",
+    "message": "Δεν βρέθηκαν σελίδες σε αυτό το EPUB"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "Προηγούμενο"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "Δεν υπάρχει διαθέσιμο περιεχόμενο για αυτήν τη σελίδα"
+  },
+  "v2_76053a41": {
+    "description": "Auto-generated translation for: EPUB uploaded successfully",
+    "message": "Το EPUB ανέβηκε επιτυχώς"
+  },
+  "v2_7a198fa7": {
+    "description": "Auto-generated translation for: My EPUBs",
+    "message": "Τα EPUB μου"
+  },
+  "v2_689705df": {
+    "description": "Auto-generated translation for: Upload",
+    "message": "Ανέβασμα"
+  },
+  "v2_7e3c46f3": {
+    "description": "Auto-generated translation for: No EPUBs in your library yet",
+    "message": "Δεν υπάρχουν ακόμα EPUB στη βιβλιοθήκη σας"
+  },
+  "v2_5759320a": {
+    "description": "Auto-generated translation for: Upload your first EPUB",
+    "message": "Ανεβάστε το πρώτο σας EPUB"
   }
 }

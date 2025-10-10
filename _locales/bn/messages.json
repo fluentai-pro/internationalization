@@ -1908,50 +1908,6 @@
     "description": "Auto-generated translation for: Feature Request",
     "message": "\"বৈশিষ্ট্য অনুরোধ\""
   },
-  "v2_3a65e355": {
-    "description": "Auto-generated translation for: AI-Powered Feature",
-    "message": "এআই-চালিত বৈশিষ্ট্য"
-  },
-  "v2_06bc4e73": {
-    "description": "Auto-generated translation for: Enable <span class=\"gradient-highlighted-text\">Neural Subtitles</span>",
-    "message": "<span class=\"gradient-highlighted-text\">নিউরাল সাবটাইটেল</span> সক্রিয় করুন"
-  },
-  "v2_73d22fbb": {
-    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy and natural language understanding.",
-    "message": "অতুলনীয় নির্ভুলতা এবং স্বাভাবিক ভাষার উপলব্ধি সহ রিয়েল-টাইম এআই (AI) দ্বারা চালিত প্রতিলিপি (Transcription) অভিজ্ঞতা লাভ করুন।"
-  },
-  "v2_773fa217": {
-    "description": "Auto-generated translation for: Real-time transcription with minimal latency",
-    "message": "ন্যূনতম লেটেন্সি সহ রিয়েল-টাইম প্রতিলিপি"
-  },
-  "v2_4e98e4da": {
-    "description": "Auto-generated translation for: Advanced noise reduction and clarity enhancement",
-    "message": "উন্নত নয়েজ কমানো এবং স্বচ্ছতা বৃদ্ধি"
-  },
-  "v2_60ed6ff7": {
-    "description": "Auto-generated translation for: Automatic punctuation and formatting",
-    "message": "স্বয়ংক্রিয় বিরামচিহ্ন এবং বিন্যাস"
-  },
-  "v2_0258e117": {
-    "description": "Auto-generated translation for: Enabling Neural Subtitles for video ID <span class=\"font-mono font-bold text-violet-500\">$video_id$</span> on <span class=\"font-bold text-violet-500\">$platform$</span>",
-    "message": "<span class=\"font-mono font-bold text-violet-500\">$platform$</span>-এ ভিডিও আইডি <span class=\"font-mono font-bold text-violet-500\">$video_id$</span>-এর জন্য নিউরাল সাবটাইটেল সক্রিয় করা হচ্ছে",
-    "placeholders": {
-      "video_id": {
-        "content": "$1"
-      },
-      "platform": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_2fbb7529": {
-    "description": "Auto-generated translation for: No subtitles found for this video. Our AI will automatically detect the language and generate accurate subtitles in real-time.",
-    "message": "এই ভিডিওটির জন্য কোনো সাবটাইটেল পাওয়া যায়নি। আমাদের এআই স্বয়ংক্রিয়ভাবে ভাষা সনাক্ত করবে এবং রিয়েল-টাইমে নির্ভুল সাবটাইটেল তৈরি করবে।"
-  },
-  "v2_17cd008a": {
-    "description": "Auto-generated translation for: Automatic language detection and support for multiple languages",
-    "message": "স্বয়ংক্রিয় ভাষা সনাক্তকরণ এবং একাধিক ভাষার জন্য সমর্থন"
-  },
   "v2_52c6292d": {
     "description": "Auto-generated translation for: No status set",
     "message": "কোনো স্ট্যাটাস সেট করা হয়নি"
@@ -5096,18 +5052,6 @@
     "description": "Auto-generated translation for: Casual Usage",
     "message": "সাধারণ ব্যবহার"
   },
-  "v2_7197e5f0": {
-    "description": "Auto-generated translation for: Usage Context",
-    "message": "ব্যবহারের প্রেক্ষাপট"
-  },
-  "v2_272e0c06": {
-    "description": "Auto-generated translation for: Grammar Structure",
-    "message": "ব্যাকরণ কাঠামো"
-  },
-  "v2_04766316": {
-    "description": "Auto-generated translation for: Overall Meaning",
-    "message": "সামগ্রিক অর্থ"
-  },
   "v2_6d2708eb": {
     "description": "Auto-generated translation for: Pro trial: $time$ left",
     "message": "প্রো ট্রায়াল: আর $time$ বাকি",
@@ -5688,10 +5632,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_560cedf1": {
-    "description": "Auto-generated translation for: Original",
-    "message": "আসল"
   },
   "v2_653d8c1f": {
     "description": "Auto-generated translation for: Add Config",
@@ -6375,10 +6315,6 @@
     "description": "Auto-generated translation for: Processing your audio for neural subtitles",
     "message": "আপনার অডিও নিউরাল সাবটাইটেলের জন্য প্রক্রিয়া করা হচ্ছে"
   },
-  "v2_747c4b3c": {
-    "description": "Auto-generated translation for: Join thousands of successful language learners who have transformed their learning with FluentAI+.",
-    "message": "হাজারো সফল ভাষা শিক্ষার্থীর সাথে যোগ দিন যারা FluentAI+ দিয়ে তাদের শিক্ষাকে রূপান্তরিত করেছেন।"
-  },
   "v2_2adaa19e": {
     "description": "Auto-generated translation for: Subtitle Panel List",
     "message": "উপশিরোনাম প্যানেল তালিকা"
@@ -6856,10 +6792,6 @@
     "description": "Auto-generated translation for: Create subtitles for videos that don't have any, making any content accessible for language learning.",
     "message": "যেসব ভিডিওতে কোনো সাবটাইটেল নেই, সেগুলোর জন্য সাবটাইটেল তৈরি করুন, যাতে যেকোনো কন্টেন্ট ভাষা শেখার জন্য অ্যাক্সেসযোগ্য হয়।"
   },
-  "v2_7eb5105b": {
-    "description": "Auto-generated translation for: Unlock <span class=\"gradient-highlighted-text\">AI Subtitles</span>",
-    "message": "আনলক করুন <span class=\"gradient-highlighted-text\">এআই সাবটাইটেল</span>"
-  },
   "v2_26bbe0e0": {
     "description": "Auto-generated translation for: You have reached your AI Subtitles quota limit. Upgrade for access to AI-powered subtitles.",
     "message": "আপনি আপনার AI সাবটাইটেল কোটার সীমায় পৌঁছে গেছেন। AI-চালিত সাবটাইটেল অ্যাক্সেসের জন্য আপগ্রেড করুন।"
@@ -7015,5 +6947,514 @@
   "v2_4fcfcdf3": {
     "description": "Auto-generated translation for: Bookmark Sentence",
     "message": "বুকমার্ক বাক্য"
+  },
+  "v2_2993a8c6": {
+    "description": "Auto-generated translation for: No subtitle available to copy",
+    "message": "কপি করার জন্য কোনো সাবটাইটেল উপলব্ধ নেই"
+  },
+  "v2_2face5db": {
+    "description": "Auto-generated translation for: Subtitle copied to clipboard",
+    "message": "সাবটাইটেল ক্লিপবোর্ডে কপি করা হয়েছে"
+  },
+  "v2_0ac1de2c": {
+    "description": "Auto-generated translation for: Neural subtitles enabled successfully",
+    "message": "নিউরাল সাবটাইটেল সফলভাবে সক্রিয় করা হয়েছে"
+  },
+  "v2_0575abd3": {
+    "description": "Auto-generated translation for: Failed to associate with existing transcription",
+    "message": "বিদ্যমান প্রতিলিপির সাথে যুক্ত করা যায়নি"
+  },
+  "v2_35fed33f": {
+    "description": "Auto-generated translation for: Failed to request transcription",
+    "message": "অনুলিখন অনুরোধ ব্যর্থ হয়েছে"
+  },
+  "v2_2743fe99": {
+    "description": "Auto-generated translation for: An error occurred while checking transcription status",
+    "message": "অনুলিপি স্থিতি পরীক্ষা করার সময় একটি ত্রুটি হয়েছে"
+  },
+  "v2_16f3b323": {
+    "description": "Auto-generated translation for: Mapping tokens for $lang$",
+    "message": "$lang$-এর জন্য টোকেন ম্যাপিং",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_57761200": {
+    "description": "Auto-generated translation for: Unbookmarking sentences not yet implemented",
+    "message": "বাক্য আনবুকমার্ক করা এখনো প্রয়োগ করা হয়নি"
+  },
+  "v2_3c750a29": {
+    "description": "Auto-generated translation for: Remove sentence bookmark",
+    "message": "বাক্য বুকমার্ক সরান"
+  },
+  "v2_53aa3213": {
+    "description": "Auto-generated translation for: Bookmark sentence",
+    "message": "বাক্য বুকমার্ক করুন"
+  },
+  "v2_6388b573": {
+    "description": "Auto-generated translation for: Contribute",
+    "message": "অবদান রাখুন"
+  },
+  "v2_36c2510a": {
+    "description": "Auto-generated translation for: Join the mission to revolutionize language learning with exclusive perks.",
+    "message": "বিশেষ সুবিধার সাথে ভাষা শিক্ষাকে নতুন করে সংজ্ঞায়িত করার এই মিশনে যোগ দিন।"
+  },
+  "v2_41069f9e": {
+    "description": "Auto-generated translation for: Part of Speech",
+    "message": "Parts of speech"
+  },
+  "v2_18c5187f": {
+    "description": "Auto-generated translation for: Unlock AI Subtitles",
+    "message": "এআই সাবটাইটেল আনলক করুন"
+  },
+  "v2_6460648d": {
+    "description": "Auto-generated translation for: to see instant translations",
+    "message": "তাৎক্ষণিক অনুবাদ দেখতে"
+  },
+  "v2_7d5b0274": {
+    "description": "Auto-generated translation for: to hear word pronunciation",
+    "message": "শব্দের উচ্চারণ শুনতে"
+  },
+  "v2_0e8caf3c": {
+    "description": "Auto-generated translation for: for detailed word analysis and information",
+    "message": "বিশদ শব্দ বিশ্লেষণ এবং তথ্যের জন্য"
+  },
+  "v2_5cbcbf51": {
+    "description": "Auto-generated translation for: to see detailed grammar explanations",
+    "message": "বিস্তারিত ব্যাকরণ ব্যাখ্যা দেখতে"
+  },
+  "v2_503b541d": {
+    "description": "Auto-generated translation for: Select multiple words",
+    "message": "একাধিক শব্দ নির্বাচন করুন"
+  },
+  "v2_7a6f00e3": {
+    "description": "Auto-generated translation for: to merge into phrases with translations",
+    "message": "অনুবাদ সহ বাক্যাংশে একত্রিত করতে"
+  },
+  "v2_68217313": {
+    "description": "Auto-generated translation for: Choose a video",
+    "message": "একটি ভিডিও চয়ন করুন"
+  },
+  "v2_65e0d045": {
+    "description": "Auto-generated translation for: Open any movie or video on your streaming platform",
+    "message": "আপনার স্ট্রিমিং প্ল্যাটফর্মে যেকোনো চলচ্চিত্র বা ভিডিও খুলুন"
+  },
+  "v2_6e2ab0b6": {
+    "description": "Auto-generated translation for: Click FluentAI button",
+    "message": "FluentAI বাটনে ক্লিক করুন"
+  },
+  "v2_168fd63f": {
+    "description": "Auto-generated translation for: Find and click the FluentAI button in the bottom bar",
+    "message": "নিচের বারে FluentAI বোতামটি খুঁজুন এবং ক্লিক করুন"
+  },
+  "v2_1e18293c": {
+    "description": "Auto-generated translation for: Start learning",
+    "message": "শেখা শুরু করুন"
+  },
+  "v2_5b90e4bc": {
+    "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
+    "message": "এআই-চালিত সাবটাইটেল এবং অনুবাদ উপভোগ করুন"
+  },
+  "v2_186f9e96": {
+    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
+    "message": "বিদ্যমান নিউরাল সাবটাইটেল ব্যবহার করুন"
+  },
+  "v2_41b77648": {
+    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
+    "message": "এই ভিডিওতে অন্য একজন ব্যবহারকারীর থেকে নিউরাল সাবটাইটেল ইতিমধ্যেই উপলব্ধ রয়েছে।"
+  },
+  "v2_20adfd45": {
+    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
+    "message": "অতুলনীয় নির্ভুলতার সাথে রিয়েল-টাইম এআই-চালিত ট্রান্সক্রিপশনের অভিজ্ঞতা নিন।"
+  },
+  "v2_5b65a386": {
+    "description": "Auto-generated translation for: AI-Powered Accuracy",
+    "message": "এআই-চালিত নির্ভুলতা"
+  },
+  "v2_39122f31": {
+    "description": "Auto-generated translation for: Advanced neural networks for superior transcription quality",
+    "message": "উচ্চতর প্রতিলিপি মানের জন্য উন্নত নিউরাল নেটওয়ার্ক"
+  },
+  "v2_1a691bce": {
+    "description": "Auto-generated translation for: Lightning Fast",
+    "message": "বজ্র গতিতে দ্রুত"
+  },
+  "v2_5cdcb9f7": {
+    "description": "Auto-generated translation for: Get your transcription in seconds, not minutes",
+    "message": "মিনিট নয়, সেকেন্ডের মধ্যেই আপনার প্রতিলিখন পান"
+  },
+  "v2_610776c5": {
+    "description": "Auto-generated translation for: Multi-Language Support",
+    "message": "বহু-ভাষা সমর্থন"
+  },
+  "v2_1db21d42": {
+    "description": "Auto-generated translation for: Supports 50+ languages with accurate detection",
+    "message": "সঠিক সনাক্তকরণ সহ 50+টির বেশি ভাষা সমর্থন করে"
+  },
+  "v2_4bc9e888": {
+    "description": "Auto-generated translation for: Enhanced Learning",
+    "message": "উন্নত শিক্ষা"
+  },
+  "v2_607da960": {
+    "description": "Auto-generated translation for: Perfect word-level timing for immersive language learning",
+    "message": "ভাষা শেখার জন্য নিখুঁত শব্দ-স্তরের সময়জ্ঞান"
+  },
+  "v2_69ee2bd3": {
+    "description": "Auto-generated translation for: Use Neural Subtitles",
+    "message": "নিউরাল সাবটাইটেল ব্যবহার করুন"
+  },
+  "v2_04f3ee3b": {
+    "description": "Auto-generated translation for: Insufficient quota. Please upgrade your plan.",
+    "message": "অপর্যাপ্ত কোটা। আপনার প্ল্যান আপগ্রেড করুন।"
+  },
+  "v2_1143d851": {
+    "description": "Auto-generated translation for: Please select a language to continue",
+    "message": "চালিয়ে যেতে একটি ভাষা নির্বাচন করুন"
+  },
+  "v2_0442ce8f": {
+    "description": "Auto-generated translation for: Daily Quota",
+    "message": "দৈনিক কোটা"
+  },
+  "v2_09e12465": {
+    "description": "Auto-generated translation for: Monthly Quota",
+    "message": "মাসিক কোটা"
+  },
+  "v2_1c043be4": {
+    "description": "Auto-generated translation for: Your video is",
+    "message": "আপনার ভিডিওটি হল"
+  },
+  "v2_2942d8c2": {
+    "description": "Auto-generated translation for: You used",
+    "message": "আপনি ব্যবহার করেছেন"
+  },
+  "v2_514ed700": {
+    "description": "Auto-generated translation for: You'll have",
+    "message": "আপনার থাকবে"
+  },
+  "v2_0032a007": {
+    "description": "Auto-generated translation for: left",
+    "message": "বাম"
+  },
+  "v2_0fe0365f": {
+    "description": "Auto-generated translation for: Resets in",
+    "message": "রিসেট করা হবে"
+  },
+  "v2_4d1b86d1": {
+    "description": "Auto-generated translation for: Checking subscription status",
+    "message": "সাবস্ক্রিপশন স্থিতি পরীক্ষা করা হচ্ছে"
+  },
+  "v2_2874ef0f": {
+    "description": "Auto-generated translation for: Checking onboarding status",
+    "message": "অনবোর্ডিং স্থিতি পরীক্ষা করা হচ্ছে"
+  },
+  "v2_0aa2c1c3": {
+    "description": "Auto-generated translation for: Fetching text tracks",
+    "message": "টেক্সট ট্র্যাক আনা হচ্ছে"
+  },
+  "v2_6531d18a": {
+    "description": "Auto-generated translation for: Initializing settings",
+    "message": "সেটিংস চালু হচ্ছে"
+  },
+  "v2_1ebb520c": {
+    "description": "Auto-generated translation for: Applying video settings",
+    "message": "ভিডিও সেটিংস প্রয়োগ করা হচ্ছে"
+  },
+  "v2_2473aba8": {
+    "description": "Auto-generated translation for: Try AI Subtitles",
+    "message": "এআই সাবটাইটেল ব্যবহার করে দেখুন"
+  },
+  "v2_23ea242e": {
+    "description": "Auto-generated translation for: No subtitles found. Use AI to generate accurate subtitles from audio.",
+    "message": "কোনো সাবটাইটেল পাওয়া যায়নি। অডিও থেকে সঠিক সাবটাইটেল তৈরি করতে এআই ব্যবহার করুন।"
+  },
+  "v2_60edc1ee": {
+    "description": "Auto-generated translation for: Generate AI Subtitles",
+    "message": "এআই সাবটাইটেল তৈরি করুন"
+  },
+  "v2_243f0c42": {
+    "description": "Auto-generated translation for: Auto Resume",
+    "message": "অটো রেজিউম"
+  },
+  "v2_1c3e3ef1": {
+    "description": "Auto-generated translation for: Automatically resume playback after a delay",
+    "message": "কিছুক্ষণ পর স্বয়ংক্রিয়ভাবে প্লেব্যাক আবার শুরু করুন"
+  },
+  "v2_0423c240": {
+    "description": "Auto-generated translation for: Wait a little",
+    "message": "একটু অপেক্ষা করুন"
+  },
+  "v2_67090514": {
+    "description": "Auto-generated translation for: Wait longer",
+    "message": "আরও অপেক্ষা করুন"
+  },
+  "v2_0ab26f78": {
+    "description": "Auto-generated translation for: Playback Mode",
+    "message": "প্লেব্যাক মোড"
+  },
+  "v2_0011f408": {
+    "description": "Auto-generated translation for: Choose how subtitles affect playback",
+    "message": "সাবটাইটেলগুলি প্লেব্যাককে কীভাবে প্রভাবিত করে তা চয়ন করুন"
+  },
+  "v2_51350959": {
+    "description": "Auto-generated translation for: Lingering subtitle",
+    "message": "স্থায়ী উপশিরোনাম"
+  },
+  "v2_0bd10da6": {
+    "description": "Auto-generated translation for: Keep the current subtitle visible, even after it has ended",
+    "message": "বর্তমান সাবটাইটেল শেষ হয়ে যাওয়ার পরেও দৃশ্যমান রাখুন"
+  },
+  "v2_54604014": {
+    "description": "Auto-generated translation for: Text-to-Speech",
+    "message": "টেক্সট-টু-স্পিচ"
+  },
+  "v2_53ba623b": {
+    "description": "Auto-generated translation for: Scene Replay",
+    "message": "দৃশ্যের পুনরাবৃত্তি"
+  },
+  "v2_40e44961": {
+    "description": "Auto-generated translation for: Repeat Type",
+    "message": "পুনরাবৃত্তি টাইপ করুন"
+  },
+  "v2_14049c22": {
+    "description": "Auto-generated translation for: Choose how to repeat each subtitle",
+    "message": "প্রতিটি উপশিরোনাম কীভাবে পুনরাবৃত্তি করবেন তা চয়ন করুন"
+  },
+  "v2_2367164a": {
+    "description": "Auto-generated translation for: Repeat Count",
+    "message": "পুনরাবৃত্তির সংখ্যা"
+  },
+  "v2_147a23ac": {
+    "description": "Auto-generated translation for: Number of times to repeat",
+    "message": "পুনরাবৃত্তির সংখ্যা"
+  },
+  "v2_5fb9c84a": {
+    "description": "Auto-generated translation for: Copy Current Subtitle",
+    "message": "বর্তমান সাবটাইটেল কপি করুন"
+  },
+  "v2_6eada463": {
+    "description": "Auto-generated translation for: Copy Subtitle",
+    "message": "সাবটাইটেল কপি করুন"
+  },
+  "v2_612e7777": {
+    "description": "Auto-generated translation for: Sign in to access your learning history and continue your language journey.",
+    "message": "আপনার শেখার ইতিহাস অ্যাক্সেস করতে এবং আপনার ভাষার যাত্রা চালিয়ে যেতে সাইন ইন করুন।"
+  },
+  "v2_3121b76a": {
+    "description": "Auto-generated translation for: New to FluentAI?",
+    "message": "FluentAI-তে নতুন?"
+  },
+  "v2_6bca16e7": {
+    "description": "Auto-generated translation for: Compare with:",
+    "message": "এর সাথে তুলনা করুন:"
+  },
+  "v2_08539d25": {
+    "description": "Auto-generated translation for: Choose a platform",
+    "message": "একটি প্ল্যাটফর্ম বেছে নিন"
+  },
+  "v2_0ac54765": {
+    "description": "Auto-generated translation for: Select Netflix, YouTube, Disney+, or Prime Video.",
+    "message": "Netflix, YouTube, Disney+, অথবা Prime Video বেছে নিন।"
+  },
+  "v2_6d55fa84": {
+    "description": "Auto-generated translation for: Pick any movie or show with subtitles.",
+    "message": "সাবটাইটেল সহ যেকোনো চলচ্চিত্র বা অনুষ্ঠান বেছে নিন।"
+  },
+  "v2_755656fd": {
+    "description": "Auto-generated translation for: Click FluentAI icon",
+    "message": "FluentAI আইকনে ক্লিক করুন"
+  },
+  "v2_6dab96df": {
+    "description": "Auto-generated translation for: Click the FluentAI button in the bottom bar.",
+    "message": "নিচের বারে ফ্লুয়েন্টএআই বোতামে ক্লিক করুন।"
+  },
+  "v2_4f4cebf2": {
+    "description": "Auto-generated translation for: Click any word for translations. Use the power button to toggle on/off.",
+    "message": "অনুবাদ দেখতে যেকোনো শব্দে ক্লিক করুন। চালু/বন্ধ করতে পাওয়ার বাটন ব্যবহার করুন।"
+  },
+  "v2_340572b0": {
+    "description": "Auto-generated translation for: Back to all reviews",
+    "message": "সমস্ত রিভিউ-এ ফিরে যান"
+  },
+  "v2_1566328c": {
+    "description": "Auto-generated translation for: People Talk About Us",
+    "message": "মানুষ আমাদের নিয়ে কথা বলে"
+  },
+  "v2_64fd368f": {
+    "description": "Auto-generated translation for: Published on",
+    "message": "প্রকাশিত হয়েছে"
+  },
+  "v2_46e5bc8c": {
+    "description": "Auto-generated translation for: View Original Post",
+    "message": "আসল পোস্ট দেখুন"
+  },
+  "v2_28f29261": {
+    "description": "Auto-generated translation for: More Reviews & Discussions",
+    "message": "আরও পর্যালোচনা এবং আলোচনা"
+  },
+  "v2_57c8afe5": {
+    "description": "Auto-generated translation for: Earn 20% commission on all referred subscriptions.",
+    "message": "আপনার রেফার করা সকল সাবস্ক্রিপশনে ২০% কমিশন উপার্জন করুন।"
+  },
+  "v2_280b4142": {
+    "description": "Auto-generated translation for:  Start today!",
+    "message": "আজই শুরু করুন!"
+  },
+  "v2_03c8934e": {
+    "description": "Auto-generated translation for: Apply",
+    "message": "আবেদন করুন"
+  },
+  "v2_7962fcd7": {
+    "description": "Auto-generated translation for: Scroll right",
+    "message": "ডানে স্ক্রল করুন"
+  },
+  "v2_078fb05b": {
+    "description": "Auto-generated translation for: Feedback",
+    "message": "মতামত"
+  },
+  "v2_28932aa7": {
+    "description": "Auto-generated translation for: Dual subtitles for Netflix, YouTube, Amazon Prime, and Disney Plus.",
+    "message": "Netflix, YouTube, Amazon Prime এবং Disney Plus-এর জন্য ডুয়াল সাবটাইটেল।"
+  },
+  "v2_76068a05": {
+    "description": "Auto-generated translation for: Netflix & YouTube",
+    "message": "নেটফ্লিক্স ও ইউটিউব"
+  },
+  "v2_123785cf": {
+    "description": "Auto-generated translation for: Open on Desktop",
+    "message": "ডেস্কটপে খুলুন"
+  },
+  "v2_74f4651f": {
+    "description": "Auto-generated translation for: Send this link to yourself to open and download on desktop",
+    "message": "ডেস্কটপে খুলতে ও ডাউনলোড করতে এই লিঙ্কটি নিজের কাছে পাঠান"
+  },
+  "v2_05d7a524": {
+    "description": "Auto-generated translation for: Send via WhatsApp",
+    "message": "হোয়াটসঅ্যাপের মাধ্যমে পাঠান"
+  },
+  "v2_35bf526b": {
+    "description": "Auto-generated translation for: Send via Telegram",
+    "message": "টেলিগ্রামের মাধ্যমে পাঠান"
+  },
+  "v2_1d200049": {
+    "description": "Auto-generated translation for: Link Copied!",
+    "message": "লিঙ্ক কপি করা হয়েছে!"
+  },
+  "v2_32591a3b": {
+    "description": "Auto-generated translation for: Copy Link",
+    "message": "লিঙ্ক কপি করুন"
+  },
+  "v2_640403e3": {
+    "description": "Auto-generated translation for: Learn languages with smart subtitles while watching your favorite content on Netflix, YouTube, Prime Video, and Disney+.",
+    "message": "Netflix, YouTube, Prime Video, এবং Disney+-এ আপনার পছন্দের কন্টেন্ট দেখার সময় স্মার্ট সাবটাইটেল সহ ভাষা শিখুন।"
+  },
+  "v2_6313ed38": {
+    "description": "Auto-generated translation for: With our smart subtitles and cool features, learn any language by watching your favorite content. Finally, fun and easy.",
+    "message": "আমাদের স্মার্ট সাবটাইটেল এবং দারুণ সব ফিচারের মাধ্যমে আপনার পছন্দের কন্টেন্ট দেখে যেকোনো ভাষা শিখুন। অবশেষে, মজাদার এবং সহজ।"
+  },
+  "v2_03044907": {
+    "description": "Auto-generated translation for: Learn languages with smart subtitles on YouTube, Netflix, Prime, and Disney.",
+    "message": "YouTube, Netflix, Prime এবং Disney-এ স্মার্ট সাবটাইটেলের সাহায্যে ভাষা শিখুন।"
+  },
+  "v2_672803b1": {
+    "description": "Auto-generated translation for: Best experienced on desktop.",
+    "message": "ডেস্কটপে সবচেয়ে ভালো অভিজ্ঞতা পাওয়া যায়।"
+  },
+  "v2_3218409c": {
+    "description": "Auto-generated translation for: Mobile app coming soon!",
+    "message": "মোবাইল অ্যাপ শীঘ্রই আসছে!"
+  },
+  "v2_56305e75": {
+    "description": "Auto-generated translation for: EPUB Reader",
+    "message": "ইপাব রিডার"
+  },
+  "v2_4dafb55f": {
+    "description": "Auto-generated translation for: Have a question or feedback? We'd love to hear from you.",
+    "message": "কোনো প্রশ্ন বা মতামত আছে? আমরা আপনার কথা শুনতে চাই।"
+  },
+  "v2_77dafdc8": {
+    "description": "Auto-generated translation for: Your name",
+    "message": "আপনার নাম"
+  },
+  "v2_76a09b5e": {
+    "description": "Auto-generated translation for: your.email@example.com",
+    "message": "আপনার.ইমেল@উদাহরণ.কম"
+  },
+  "v2_55dcbd93": {
+    "description": "Auto-generated translation for: Tell us what's on your mind...",
+    "message": "আপনার মনের কথা বলুন..."
+  },
+  "v2_79f215f0": {
+    "description": "Auto-generated translation for: Message Sent!",
+    "message": "বার্তা পাঠানো হয়েছে!"
+  },
+  "v2_4899b091": {
+    "description": "Auto-generated translation for: Send Message",
+    "message": "বার্তা পাঠান"
+  },
+  "v2_09e358ad": {
+    "description": "Auto-generated translation for: Thank you! We'll get back to you soon.",
+    "message": "ধন্যবাদ! আমরা শীঘ্রই আপনার সাথে যোগাযোগ করব।"
+  },
+  "v2_1c124c60": {
+    "description": "Auto-generated translation for: Message sent successfully! We'll get back to you soon.",
+    "message": "মেসেজ সফলভাবে পাঠানো হয়েছে! আমরা শীঘ্রই আপনার সাথে যোগাযোগ করব।"
+  },
+  "v2_5e42d59a": {
+    "description": "Auto-generated translation for: Failed to send message. Please try again.",
+    "message": "মেসেজ পাঠানো যায়নি। অনুগ্রহ করে আবার চেষ্টা করুন।"
+  },
+  "v2_6c2e4f8d": {
+    "description": "Auto-generated translation for: Please select a valid EPUB file",
+    "message": "একটি বৈধ EPUB ফাইল নির্বাচন করুন"
+  },
+  "v2_60a948e9": {
+    "description": "Auto-generated translation for: Upload EPUB",
+    "message": "EPUB আপলোড করুন"
+  },
+  "v2_2feeabab": {
+    "description": "Auto-generated translation for: Drag and drop your EPUB file here, or click to browse",
+    "message": "আপনার EPUB ফাইল এখানে টেনে আনুন, অথবা ব্রাউজ করতে ক্লিক করুন"
+  },
+  "v2_35a26b53": {
+    "description": "Auto-generated translation for: Uploading...",
+    "message": "আপলোড হচ্ছে..."
+  },
+  "v2_01a5d0c2": {
+    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
+    "message": "পড়া শুরু করতে আপনার লাইব্রেরি থেকে একটি EPUB নির্বাচন করুন"
+  },
+  "v2_6c4fc568": {
+    "description": "Auto-generated translation for: No pages found in this EPUB",
+    "message": "এই EPUB-এ কোনো পৃষ্ঠা পাওয়া যায়নি"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "পূর্ববর্তী"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "এই পৃষ্ঠার জন্য কোনো বিষয়বস্তু উপলব্ধ নেই"
+  },
+  "v2_76053a41": {
+    "description": "Auto-generated translation for: EPUB uploaded successfully",
+    "message": "EPUB সফলভাবে আপলোড হয়েছে"
+  },
+  "v2_7a198fa7": {
+    "description": "Auto-generated translation for: My EPUBs",
+    "message": "আমার ইপাবগুলি"
+  },
+  "v2_689705df": {
+    "description": "Auto-generated translation for: Upload",
+    "message": "আপলোড করুন"
+  },
+  "v2_7e3c46f3": {
+    "description": "Auto-generated translation for: No EPUBs in your library yet",
+    "message": "আপনার লাইব্রেরিতে এখনো কোনো EPUB নেই"
+  },
+  "v2_5759320a": {
+    "description": "Auto-generated translation for: Upload your first EPUB",
+    "message": "আপনার প্রথম EPUB আপলোড করুন"
   }
 }

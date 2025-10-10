@@ -1908,50 +1908,6 @@
     "description": "Auto-generated translation for: Feature Request",
     "message": "ഫീച്ചർ അഭ്യർത്ഥന"
   },
-  "v2_3a65e355": {
-    "description": "Auto-generated translation for: AI-Powered Feature",
-    "message": "AI സാങ്കേതികവിദ്യ ഉപയോഗിക്കുന്ന ഫീച്ചർ"
-  },
-  "v2_06bc4e73": {
-    "description": "Auto-generated translation for: Enable <span class=\"gradient-highlighted-text\">Neural Subtitles</span>",
-    "message": "<span class=\"gradient-highlighted-text\">ന്യൂറൽ സബ്‌ടൈറ്റിലുകൾ</span> പ്രവർത്തനക്ഷമമാക്കുക"
-  },
-  "v2_73d22fbb": {
-    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy and natural language understanding.",
-    "message": "സമാനതകളില്ലാത്ത കൃത്യതയും സ്വാഭാവിക ഭാഷാ പരിജ്ഞാനവുമുള്ള തത്സമയ AI-പവർ ട്രാൻസ്ക്രിപ്ഷൻ അനുഭവിച്ചറിയൂ."
-  },
-  "v2_773fa217": {
-    "description": "Auto-generated translation for: Real-time transcription with minimal latency",
-    "message": "കുറഞ്ഞ ലേറ്റൻസിയോടെ തത്സമയ ലിപി പകർത്ത്"
-  },
-  "v2_4e98e4da": {
-    "description": "Auto-generated translation for: Advanced noise reduction and clarity enhancement",
-    "message": "വികസിപ്പിച്ച ശബ്ദ ശല്യം കുറയ്ക്കലും വ്യക്തത മെച്ചപ്പെടുത്തലും"
-  },
-  "v2_60ed6ff7": {
-    "description": "Auto-generated translation for: Automatic punctuation and formatting",
-    "message": "സ്വയം ചിഹ്നനവും രൂപകൽപ്പനയും"
-  },
-  "v2_0258e117": {
-    "description": "Auto-generated translation for: Enabling Neural Subtitles for video ID <span class=\"font-mono font-bold text-violet-500\">$video_id$</span> on <span class=\"font-bold text-violet-500\">$platform$</span>",
-    "message": "<span class=\"font-bold text-violet-500\">$platform$</span>-ൽ വീഡിയോ ID <span class=\"font-mono font-bold text-violet-500\">$video_id$</span>-യ്‌ക്കായി ന്യൂറൽ സബ്‌ടൈറ്റിലുകൾ പ്രവർത്തനക്ഷമമാക്കുന്നു",
-    "placeholders": {
-      "video_id": {
-        "content": "$1"
-      },
-      "platform": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_2fbb7529": {
-    "description": "Auto-generated translation for: No subtitles found for this video. Our AI will automatically detect the language and generate accurate subtitles in real-time.",
-    "message": "ഈ വീഡിയോയ്ക്ക് സബ്‌ടൈറ്റിലുകൾ ലഭ്യമല്ല. ഞങ്ങളുടെ AI സ്വയം ഭാഷ കണ്ടെത്തുകയും തത്സമയം കൃത്യമായ സബ്‌ടൈറ്റിലുകൾ നിർമ്മിക്കുകയും ചെയ്യും."
-  },
-  "v2_17cd008a": {
-    "description": "Auto-generated translation for: Automatic language detection and support for multiple languages",
-    "message": "സ്വയം ഭാഷ കണ്ടെത്തലും ഒന്നിലധികം ഭാഷകൾക്കുള്ള പിന്തുണയും"
-  },
   "v2_52c6292d": {
     "description": "Auto-generated translation for: No status set",
     "message": "സ്ഥിതി വിവരണം നൽകിയിട്ടില്ല"
@@ -4949,18 +4905,6 @@
     "description": "Auto-generated translation for: Casual Usage",
     "message": "സാധാരണ ഉപയോഗം"
   },
-  "v2_7197e5f0": {
-    "description": "Auto-generated translation for: Usage Context",
-    "message": "ഉപയോഗ സന്ദർഭം"
-  },
-  "v2_272e0c06": {
-    "description": "Auto-generated translation for: Grammar Structure",
-    "message": "വ്യാകരണ ഘടന"
-  },
-  "v2_04766316": {
-    "description": "Auto-generated translation for: Overall Meaning",
-    "message": "മൊത്തത്തിലുള്ള അർത്ഥം"
-  },
   "v2_6d2708eb": {
     "description": "Auto-generated translation for: Pro trial: $time$ left",
     "message": "പ്രോ ട്രയൽ: $time$ ശേഷിക്കുന്നു",
@@ -5541,10 +5485,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_560cedf1": {
-    "description": "Auto-generated translation for: Original",
-    "message": "യഥാർത്ഥമായത്"
   },
   "v2_653d8c1f": {
     "description": "Auto-generated translation for: Add Config",
@@ -6228,10 +6168,6 @@
     "description": "Auto-generated translation for: Processing your audio for neural subtitles",
     "message": "നിങ്ങളുടെ ഓഡിയോ ന്യൂറൽ സബ്റ്റൈറ്റിലുകൾക്കായി പ്രോസസ്സ് ചെയ്യുന്നു"
   },
-  "v2_747c4b3c": {
-    "description": "Auto-generated translation for: Join thousands of successful language learners who have transformed their learning with FluentAI+.",
-    "message": "FluentAI+ ഉപയോഗിച്ച് അവരുടെ പഠനം പരിവർത്തനം ചെയ്ത വിജയകരമായ ഭാഷാഭ്യാസികളായ ആയിരക്കണക്കിന് പേരോടൊപ്പം ചേരൂ."
-  },
   "v2_2adaa19e": {
     "description": "Auto-generated translation for: Subtitle Panel List",
     "message": "ഉപശീർഷക പാനൽ പട്ടിക"
@@ -6709,10 +6645,6 @@
     "description": "Auto-generated translation for: Create subtitles for videos that don't have any, making any content accessible for language learning.",
     "message": "ഉപശീർഷകങ്ങൾ ഇല്ലാത്ത വീഡിയോകൾക്ക് ഉപശീർഷകങ്ങൾ സൃഷ്ടിക്കുക, ഭാഷാപഠനത്തിന് ഏതു ഉള്ളടക്കവും പ്രാപ്യമാക്കുന്നു."
   },
-  "v2_7eb5105b": {
-    "description": "Auto-generated translation for: Unlock <span class=\"gradient-highlighted-text\">AI Subtitles</span>",
-    "message": "<span class=\"gradient-highlighted-text\">AI സബ്‌ടൈറ്റിലുകൾ</span> അൺലോക്ക് ചെയ്യുക"
-  },
   "v2_26bbe0e0": {
     "description": "Auto-generated translation for: You have reached your AI Subtitles quota limit. Upgrade for access to AI-powered subtitles.",
     "message": "നിങ്ങൾ AI സബ്‌ടൈറ്റിലുകളുടെ ക്വോട്ട പരിധി എത്തി. AI-പവർഡ് സബ്‌ടൈറ്റിലുകൾക്കുള്ള ആക്സസ്സിനായി അപ്ഗ്രേഡ് ചെയ്യുക."
@@ -6868,5 +6800,514 @@
   "v2_4fcfcdf3": {
     "description": "Auto-generated translation for: Bookmark Sentence",
     "message": "ബുക്ക്‌മാർക്ക് വാക്യം"
+  },
+  "v2_2993a8c6": {
+    "description": "Auto-generated translation for: No subtitle available to copy",
+    "message": "സബ്ടൈറ്റിലുകളൊന്നും ലഭ്യമല്ല"
+  },
+  "v2_2face5db": {
+    "description": "Auto-generated translation for: Subtitle copied to clipboard",
+    "message": "സബ്‌ടൈറ്റിൽ ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി"
+  },
+  "v2_0ac1de2c": {
+    "description": "Auto-generated translation for: Neural subtitles enabled successfully",
+    "message": "ന്യൂറൽ സബ്ടൈറ്റിലുകൾ വിജയകരമായി പ്രവർത്തനക്ഷമമാക്കി"
+  },
+  "v2_0575abd3": {
+    "description": "Auto-generated translation for: Failed to associate with existing transcription",
+    "message": "നിലവിലുള്ള ട്രാൻസ്ക്രിപ്ഷനുമായി ബന്ധപ്പെടുത്തുന്നതിൽ പരാജയപ്പെട്ടു"
+  },
+  "v2_35fed33f": {
+    "description": "Auto-generated translation for: Failed to request transcription",
+    "message": "ട്രാൻസ്ക്രിപ്ഷൻ അഭ്യർത്ഥിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
+  },
+  "v2_2743fe99": {
+    "description": "Auto-generated translation for: An error occurred while checking transcription status",
+    "message": "ട്രാൻസ്ക്രിപ്ഷൻ നില പരിശോധിക്കുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു"
+  },
+  "v2_16f3b323": {
+    "description": "Auto-generated translation for: Mapping tokens for $lang$",
+    "message": "$lang$-നായുള്ള ടോക്കണുകൾ മാപ്പുചെയ്യുന്നു",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_57761200": {
+    "description": "Auto-generated translation for: Unbookmarking sentences not yet implemented",
+    "message": "വാക്യങ്ങൾ അൺബുക്ക്മാർക്ക് ചെയ്യുന്നത് ഇതുവരെ നടപ്പിലാക്കിയിട്ടില്ല"
+  },
+  "v2_3c750a29": {
+    "description": "Auto-generated translation for: Remove sentence bookmark",
+    "message": "വാക്യ ബുക്ക്‌മാർക്ക് നീക്കം ചെയ്യുക"
+  },
+  "v2_53aa3213": {
+    "description": "Auto-generated translation for: Bookmark sentence",
+    "message": "വാക്യം ബുക്ക്മാർക്ക് ചെയ്യുക"
+  },
+  "v2_6388b573": {
+    "description": "Auto-generated translation for: Contribute",
+    "message": "സംഭാവന ചെയ്യുക"
+  },
+  "v2_36c2510a": {
+    "description": "Auto-generated translation for: Join the mission to revolutionize language learning with exclusive perks.",
+    "message": "പ്രത്യേകാനുകൂല്യങ്ങളോടെയുള്ള ഭാഷാ പഠന വിപ്ലവ ദൗത്യത്തിൽ ചേരുക."
+  },
+  "v2_41069f9e": {
+    "description": "Auto-generated translation for: Part of Speech",
+    "message": "വ്യാകരണ രൂപം"
+  },
+  "v2_18c5187f": {
+    "description": "Auto-generated translation for: Unlock AI Subtitles",
+    "message": "എഐ സബ്ടൈറ്റിലുകൾ അൺലോക്ക് ചെയ്യുക"
+  },
+  "v2_6460648d": {
+    "description": "Auto-generated translation for: to see instant translations",
+    "message": "തൽക്ഷണ വിവർത്തനങ്ങൾ കാണാൻ"
+  },
+  "v2_7d5b0274": {
+    "description": "Auto-generated translation for: to hear word pronunciation",
+    "message": "വാക്കിന്റെ ഉച്ചാരണം കേൾക്കാൻ"
+  },
+  "v2_0e8caf3c": {
+    "description": "Auto-generated translation for: for detailed word analysis and information",
+    "message": "വിശദമായ പദ വിശകലനത്തിനും വിവരങ്ങൾക്കും"
+  },
+  "v2_5cbcbf51": {
+    "description": "Auto-generated translation for: to see detailed grammar explanations",
+    "message": "വിശദമായ വ്യാകരണ വിശദീകരണങ്ങൾ കാണാൻ"
+  },
+  "v2_503b541d": {
+    "description": "Auto-generated translation for: Select multiple words",
+    "message": "ഒന്നിലധികം വാക്കുകൾ തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_7a6f00e3": {
+    "description": "Auto-generated translation for: to merge into phrases with translations",
+    "message": "വിവർത്തനങ്ങളോടുകൂടിയ പദസഞ്ചയങ്ങളിലേക്ക് ലയിപ്പിക്കാൻ"
+  },
+  "v2_68217313": {
+    "description": "Auto-generated translation for: Choose a video",
+    "message": "ഒരു വീഡിയോ തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_65e0d045": {
+    "description": "Auto-generated translation for: Open any movie or video on your streaming platform",
+    "message": "നിങ്ങളുടെ സ്ട്രീമിംഗ് പ്ലാറ്റ്‌ഫോമിൽ ഏതെങ്കിലും സിനിമയോ വീഡിയോയോ തുറക്കുക"
+  },
+  "v2_6e2ab0b6": {
+    "description": "Auto-generated translation for: Click FluentAI button",
+    "message": "ഫ്ലുവൻ്റ്എഐ ബട്ടൺ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "v2_168fd63f": {
+    "description": "Auto-generated translation for: Find and click the FluentAI button in the bottom bar",
+    "message": "താഴെയുള്ള ബാറിൽ FluentAI ബട്ടൺ കണ്ടെത്തി ക്ലിക്ക് ചെയ്യുക"
+  },
+  "v2_1e18293c": {
+    "description": "Auto-generated translation for: Start learning",
+    "message": "പഠിച്ചുതുടങ്ങുക"
+  },
+  "v2_5b90e4bc": {
+    "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
+    "message": "AI-യുടെ സഹായത്തിലുള്ള സബ്ടൈറ്റിലുകളും വിവർത്തനങ്ങളും ആസ്വദിക്കൂ"
+  },
+  "v2_186f9e96": {
+    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
+    "message": "നിലവിലുള്ള ന്യൂറൽ സബ്‌ടൈറ്റിലുകൾ ഉപയോഗിക്കുക"
+  },
+  "v2_41b77648": {
+    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
+    "message": "ഈ വീഡിയോയ്ക്ക് മറ്റൊരു ഉപയോക്താവ് നൽകിയ ന്യൂറൽ സബ്‌ടൈറ്റിലുകൾ ഇതിനകം ലഭ്യമാണ്."
+  },
+  "v2_20adfd45": {
+    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
+    "message": "അതുല്യമായ കൃത്യതയോടെ തത്സമയ AI-പ്രവർത്തിക്കുന്ന ട്രാൻസ്ക്രിപ്ഷൻ അനുഭവിക്കുക."
+  },
+  "v2_5b65a386": {
+    "description": "Auto-generated translation for: AI-Powered Accuracy",
+    "message": "AI-യുടെ പിന്തുണയുള്ള കൃത്യത"
+  },
+  "v2_39122f31": {
+    "description": "Auto-generated translation for: Advanced neural networks for superior transcription quality",
+    "message": "മികച്ച ട്രാൻസ്ക്രിപ്ഷൻ നിലവാരത്തിനായി നൂതന ന്യൂറൽ നെറ്റ്‌വർക്കുകൾ"
+  },
+  "v2_1a691bce": {
+    "description": "Auto-generated translation for: Lightning Fast",
+    "message": "മിന്നൽ വേഗത്തിൽ"
+  },
+  "v2_5cdcb9f7": {
+    "description": "Auto-generated translation for: Get your transcription in seconds, not minutes",
+    "message": "നിങ്ങളുടെ ട്രാൻസ്ക്രിപ്ഷൻ നിമിഷങ്ങൾക്കുള്ളിൽ നേടൂ, മിനിറ്റുകൾ കാത്തുനിൽക്കേണ്ടതില്ല."
+  },
+  "v2_610776c5": {
+    "description": "Auto-generated translation for: Multi-Language Support",
+    "message": "ബഹുഭാഷാ പിന്തുണ"
+  },
+  "v2_1db21d42": {
+    "description": "Auto-generated translation for: Supports 50+ languages with accurate detection",
+    "message": "കൃത്യമായ കണ്ടെത്തലുകളോടെ 50+ ഭാഷകളെ പിന്തുണയ്ക്കുന്നു"
+  },
+  "v2_4bc9e888": {
+    "description": "Auto-generated translation for: Enhanced Learning",
+    "message": "മെച്ചപ്പെട്ട പഠനം"
+  },
+  "v2_607da960": {
+    "description": "Auto-generated translation for: Perfect word-level timing for immersive language learning",
+    "message": "ആഴത്തിലുള്ള ഭാഷാ പഠനത്തിനായി മികച്ച പദ-തല സമയക്രമീകരണം"
+  },
+  "v2_69ee2bd3": {
+    "description": "Auto-generated translation for: Use Neural Subtitles",
+    "message": "ന്യൂറൽ സബ്ടൈറ്റിലുകൾ ഉപയോഗിക്കുക"
+  },
+  "v2_04f3ee3b": {
+    "description": "Auto-generated translation for: Insufficient quota. Please upgrade your plan.",
+    "message": "വേണ്ടത്ര ക്വാട്ടയില്ല. നിങ്ങളുടെ പ്ലാൻ അപ്ഗ്രേഡ് ചെയ്യുക."
+  },
+  "v2_1143d851": {
+    "description": "Auto-generated translation for: Please select a language to continue",
+    "message": "തുടരാൻ ഒരു ഭാഷ തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_0442ce8f": {
+    "description": "Auto-generated translation for: Daily Quota",
+    "message": "പ്രതിദിന ക്വാട്ട"
+  },
+  "v2_09e12465": {
+    "description": "Auto-generated translation for: Monthly Quota",
+    "message": "പ്രതിമാസ кവota"
+  },
+  "v2_1c043be4": {
+    "description": "Auto-generated translation for: Your video is",
+    "message": "നിങ്ങളുടെ വീഡിയോ"
+  },
+  "v2_2942d8c2": {
+    "description": "Auto-generated translation for: You used",
+    "message": "നിങ്ങൾ ഉപയോഗിച്ചു"
+  },
+  "v2_514ed700": {
+    "description": "Auto-generated translation for: You'll have",
+    "message": "നിങ്ങൾക്ക് ഉണ്ടാകും"
+  },
+  "v2_0032a007": {
+    "description": "Auto-generated translation for: left",
+    "message": "ഇടത്"
+  },
+  "v2_0fe0365f": {
+    "description": "Auto-generated translation for: Resets in",
+    "message": "വീണ്ടും ആരംഭിക്കുന്നു"
+  },
+  "v2_4d1b86d1": {
+    "description": "Auto-generated translation for: Checking subscription status",
+    "message": "സബ്സ്ക്രിപ്ഷൻ നില പരിശോധിക്കുന്നു"
+  },
+  "v2_2874ef0f": {
+    "description": "Auto-generated translation for: Checking onboarding status",
+    "message": "ഓൺബോർഡിംഗ് നില പരിശോധിക്കുന്നു"
+  },
+  "v2_0aa2c1c3": {
+    "description": "Auto-generated translation for: Fetching text tracks",
+    "message": "ടെക്സ്റ്റ് ട്രാക്കുകൾ ലഭ്യമാക്കുന്നു"
+  },
+  "v2_6531d18a": {
+    "description": "Auto-generated translation for: Initializing settings",
+    "message": "ക്രമീകരണങ്ങൾ ആരംഭിക്കുന്നു"
+  },
+  "v2_1ebb520c": {
+    "description": "Auto-generated translation for: Applying video settings",
+    "message": "വീഡിയോ ക്രമീകരണങ്ങൾ പ്രയോഗിക്കുന്നു"
+  },
+  "v2_2473aba8": {
+    "description": "Auto-generated translation for: Try AI Subtitles",
+    "message": "എഐ സബ്ടൈറ്റിലുകൾ പരീക്ഷിക്കുക"
+  },
+  "v2_23ea242e": {
+    "description": "Auto-generated translation for: No subtitles found. Use AI to generate accurate subtitles from audio.",
+    "message": "സബ്ടൈറ്റിലുകളൊന്നും കണ്ടെത്തിയില്ല. ഓഡിയോയിൽ നിന്ന് കൃത്യമായ സബ്ടൈറ്റിലുകൾ സൃഷ്ടിക്കാൻ AI ഉപയോഗിക്കുക."
+  },
+  "v2_60edc1ee": {
+    "description": "Auto-generated translation for: Generate AI Subtitles",
+    "message": "AI സബ്‌ടൈറ്റിലുകൾ ഉണ്ടാക്കുക"
+  },
+  "v2_243f0c42": {
+    "description": "Auto-generated translation for: Auto Resume",
+    "message": "ഓട്ടോ റെസ്യൂമെ"
+  },
+  "v2_1c3e3ef1": {
+    "description": "Auto-generated translation for: Automatically resume playback after a delay",
+    "message": "ഒരു കാലതാമസത്തിനുശേഷം പ്ലേബാക്ക് സ്വയമേവ പുനരാരംഭിക്കുക"
+  },
+  "v2_0423c240": {
+    "description": "Auto-generated translation for: Wait a little",
+    "message": "അൽപം കാത്തിരിക്കുക"
+  },
+  "v2_67090514": {
+    "description": "Auto-generated translation for: Wait longer",
+    "message": "കൂടുതൽ കാത്തിരിക്കുക"
+  },
+  "v2_0ab26f78": {
+    "description": "Auto-generated translation for: Playback Mode",
+    "message": "പ്ലേബാക്ക് മോഡ്"
+  },
+  "v2_0011f408": {
+    "description": "Auto-generated translation for: Choose how subtitles affect playback",
+    "message": "സബ്‌ടൈറ്റിലുകൾ പ്ലേബാക്കിനെ എങ്ങനെ ബാധിക്കുമെന്ന് തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_51350959": {
+    "description": "Auto-generated translation for: Lingering subtitle",
+    "message": "നീണ്ടുനിൽക്കുന്ന അടിക്കുറിപ്പ്"
+  },
+  "v2_0bd10da6": {
+    "description": "Auto-generated translation for: Keep the current subtitle visible, even after it has ended",
+    "message": "സബ്‌ടൈറ്റിൽ അവസാനിച്ചതിന് ശേഷവും അത് ദൃശ്യമാക്കി നിലനിർത്തുക"
+  },
+  "v2_54604014": {
+    "description": "Auto-generated translation for: Text-to-Speech",
+    "message": "ടെക്സ്റ്റ്-ടു-സ്പീച്ച്"
+  },
+  "v2_53ba623b": {
+    "description": "Auto-generated translation for: Scene Replay",
+    "message": "രംഗ പുനരാവിഷ്കരണം"
+  },
+  "v2_40e44961": {
+    "description": "Auto-generated translation for: Repeat Type",
+    "message": "ആവർത്തന തരം"
+  },
+  "v2_14049c22": {
+    "description": "Auto-generated translation for: Choose how to repeat each subtitle",
+    "message": "ഓരോ സബ്ടൈറ്റിലും എങ്ങനെ ആവർത്തിക്കണമെന്ന് തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_2367164a": {
+    "description": "Auto-generated translation for: Repeat Count",
+    "message": "ആവർത്തനങ്ങളുടെ എണ്ണം"
+  },
+  "v2_147a23ac": {
+    "description": "Auto-generated translation for: Number of times to repeat",
+    "message": "എത്ര തവണ ആവർത്തിക്കണം"
+  },
+  "v2_5fb9c84a": {
+    "description": "Auto-generated translation for: Copy Current Subtitle",
+    "message": "നിലവിലുള്ള സബ്ടൈറ്റില്‍ പകർത്തുക"
+  },
+  "v2_6eada463": {
+    "description": "Auto-generated translation for: Copy Subtitle",
+    "message": "സബ്‌ ടൈറ്റിൽ പകർത്തുക"
+  },
+  "v2_612e7777": {
+    "description": "Auto-generated translation for: Sign in to access your learning history and continue your language journey.",
+    "message": "നിങ്ങളുടെ പഠന ചരിത്രം ആക്‌സസ് ചെയ്യാനും ഭാഷാ പഠനം തുടരാനും സൈൻ ഇൻ ചെയ്യുക."
+  },
+  "v2_3121b76a": {
+    "description": "Auto-generated translation for: New to FluentAI?",
+    "message": "ഫ്ലുവൻ്റ്എഐയെക്കുറിച്ച് പുതിയതാണോ?"
+  },
+  "v2_6bca16e7": {
+    "description": "Auto-generated translation for: Compare with:",
+    "message": "ഇതുമായി താരതമ്യം ചെയ്യുക:"
+  },
+  "v2_08539d25": {
+    "description": "Auto-generated translation for: Choose a platform",
+    "message": "ഒരു പ്ലാറ്റ്‌ഫോം തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_0ac54765": {
+    "description": "Auto-generated translation for: Select Netflix, YouTube, Disney+, or Prime Video.",
+    "message": "നെറ്റ്ഫ്ലിക്സ്, YouTube, Disney+, അല്ലെങ്കിൽ Prime Video തിരഞ്ഞെടുക്കുക."
+  },
+  "v2_6d55fa84": {
+    "description": "Auto-generated translation for: Pick any movie or show with subtitles.",
+    "message": "സബ്ടൈറ്റിലുകളുള്ള ഏതെങ്കിലും സിനിമയോ ഷോയോ തിരഞ്ഞെടുക്കുക."
+  },
+  "v2_755656fd": {
+    "description": "Auto-generated translation for: Click FluentAI icon",
+    "message": "ഫ്ലൂൻ്റ്എഐ ഐക്കണിൽ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "v2_6dab96df": {
+    "description": "Auto-generated translation for: Click the FluentAI button in the bottom bar.",
+    "message": "താഴെയുള്ള ബാറിൽ FluentAI ബട്ടൺ ക്ലിക്കുചെയ്യുക."
+  },
+  "v2_4f4cebf2": {
+    "description": "Auto-generated translation for: Click any word for translations. Use the power button to toggle on/off.",
+    "message": "വിവർത്തനങ്ങൾക്കായി ഏതൊരു വാക്കിലും ക്ലിക്ക് ചെയ്യുക. ഓൺ/ഓഫ് ചെയ്യാൻ പവർ ബട്ടൺ ഉപയോഗിക്കുക."
+  },
+  "v2_340572b0": {
+    "description": "Auto-generated translation for: Back to all reviews",
+    "message": "എല്ലാ അവലോകനങ്ങളിലേക്കും തിരികെ"
+  },
+  "v2_1566328c": {
+    "description": "Auto-generated translation for: People Talk About Us",
+    "message": "ആളുകൾ ഞങ്ങളെപ്പറ്റി സംസാരിക്കുന്നു"
+  },
+  "v2_64fd368f": {
+    "description": "Auto-generated translation for: Published on",
+    "message": "പ്രസിദ്ധീകരിച്ചത്"
+  },
+  "v2_46e5bc8c": {
+    "description": "Auto-generated translation for: View Original Post",
+    "message": "യഥാർത്ഥ പോസ്റ്റ് കാണുക"
+  },
+  "v2_28f29261": {
+    "description": "Auto-generated translation for: More Reviews & Discussions",
+    "message": "കൂടുതൽ അവലോകനങ്ങളും ചർച്ചകളും"
+  },
+  "v2_57c8afe5": {
+    "description": "Auto-generated translation for: Earn 20% commission on all referred subscriptions.",
+    "message": "എല്ലാ റെഫർ ചെയ്ത സബ്‌സ്‌ക്രിപ്‌ഷനുകളിലും 20% കമ്മീഷൻ നേടുക."
+  },
+  "v2_280b4142": {
+    "description": "Auto-generated translation for:  Start today!",
+    "message": "ഇന്ന് തുടങ്ങുക!"
+  },
+  "v2_03c8934e": {
+    "description": "Auto-generated translation for: Apply",
+    "message": "അപേക്ഷിക്കുക"
+  },
+  "v2_7962fcd7": {
+    "description": "Auto-generated translation for: Scroll right",
+    "message": "വലത്തേക്ക് സ്ക്രോൾ ചെയ്യുക"
+  },
+  "v2_078fb05b": {
+    "description": "Auto-generated translation for: Feedback",
+    "message": "പ്രതികരണം"
+  },
+  "v2_28932aa7": {
+    "description": "Auto-generated translation for: Dual subtitles for Netflix, YouTube, Amazon Prime, and Disney Plus.",
+    "message": "Netflix, YouTube, Amazon Prime, Disney Plus എന്നിവയ്‌ക്കായുള്ള ഇരട്ട സബ്‌ടൈറ്റിലുകൾ."
+  },
+  "v2_76068a05": {
+    "description": "Auto-generated translation for: Netflix & YouTube",
+    "message": "നെറ്റ്ഫ്ലിക്സ് & യൂട്യൂബ്"
+  },
+  "v2_123785cf": {
+    "description": "Auto-generated translation for: Open on Desktop",
+    "message": "ഡെസ്ക്ടോപ്പിൽ തുറക്കുക"
+  },
+  "v2_74f4651f": {
+    "description": "Auto-generated translation for: Send this link to yourself to open and download on desktop",
+    "message": "ഡെസ്ക്ടോപ്പിൽ തുറക്കുന്നതിനും ഡൗൺലോഡ് ചെയ്യുന്നതിനും ഈ ലിങ്ക് നിങ്ങൾക്കുതന്നെ അയയ്ക്കുക"
+  },
+  "v2_05d7a524": {
+    "description": "Auto-generated translation for: Send via WhatsApp",
+    "message": "വാട്ട്‌സ്ആപ്പ് വഴി അയയ്ക്കുക"
+  },
+  "v2_35bf526b": {
+    "description": "Auto-generated translation for: Send via Telegram",
+    "message": "ടെലിഗ്രാം വഴി അയയ്ക്കുക"
+  },
+  "v2_1d200049": {
+    "description": "Auto-generated translation for: Link Copied!",
+    "message": "ലിങ്ക് പകർത്തി!"
+  },
+  "v2_32591a3b": {
+    "description": "Auto-generated translation for: Copy Link",
+    "message": "ലിങ്ക് പകർത്തുക"
+  },
+  "v2_640403e3": {
+    "description": "Auto-generated translation for: Learn languages with smart subtitles while watching your favorite content on Netflix, YouTube, Prime Video, and Disney+.",
+    "message": "Netflix, YouTube, Prime Video, Disney+ എന്നിവയിൽ നിങ്ങളുടെ പ്രിയപ്പെട്ട കണ്ടന്റ് കാണുമ്പോൾ സ്മാർട്ട് സബ്‌ടൈറ്റിലുകളോടെ ഭാഷകൾ പഠിക്കൂ."
+  },
+  "v2_6313ed38": {
+    "description": "Auto-generated translation for: With our smart subtitles and cool features, learn any language by watching your favorite content. Finally, fun and easy.",
+    "message": "ഞങ്ങളുടെ സ്മാർട്ട് സബ്‌ടൈറ്റിലുകളും മികച്ച ഫീച്ചറുകളും ഉപയോഗിച്ച്, നിങ്ങളുടെ ഇഷ്ടപ്പെട്ട ഉള്ളടക്കം കണ്ടുകൊണ്ട് ഏത് ഭാഷയും പഠിക്കൂ. ആസ്വാദ്യകരവും എളുപ്പവുമാണിത്."
+  },
+  "v2_03044907": {
+    "description": "Auto-generated translation for: Learn languages with smart subtitles on YouTube, Netflix, Prime, and Disney.",
+    "message": "YouTube, Netflix, Prime, Disney എന്നിവയിലെ സ്‌മാർട്ട് സബ്‌ടൈറ്റിലുകൾ ഉപയോഗിച്ച് ഭാഷകൾ പഠിക്കൂ."
+  },
+  "v2_672803b1": {
+    "description": "Auto-generated translation for: Best experienced on desktop.",
+    "message": "ഡെസ്ക്ടോപ്പിൽ മികച്ച അനുഭവം."
+  },
+  "v2_3218409c": {
+    "description": "Auto-generated translation for: Mobile app coming soon!",
+    "message": "മൊബൈൽ ആപ്പ് ഉടൻ വരുന്നു!"
+  },
+  "v2_56305e75": {
+    "description": "Auto-generated translation for: EPUB Reader",
+    "message": "ഇപബ് റീഡർ"
+  },
+  "v2_4dafb55f": {
+    "description": "Auto-generated translation for: Have a question or feedback? We'd love to hear from you.",
+    "message": "ചോദ്യങ്ങളോ അഭിപ്രായങ്ങളോ ഉണ്ടോ? നിങ്ങളിൽ നിന്ന് കേൾക്കാൻ ഞങ്ങൾ ആഗ്രഹിക്കുന്നു."
+  },
+  "v2_77dafdc8": {
+    "description": "Auto-generated translation for: Your name",
+    "message": "നിങ്ങളുടെ പേര്"
+  },
+  "v2_76a09b5e": {
+    "description": "Auto-generated translation for: your.email@example.com",
+    "message": "നിങ്ങളുടെ.email@example.com"
+  },
+  "v2_55dcbd93": {
+    "description": "Auto-generated translation for: Tell us what's on your mind...",
+    "message": "നിങ്ങളുടെ മനസ്സിലുള്ളത് ഞങ്ങളോട് പറയുക..."
+  },
+  "v2_79f215f0": {
+    "description": "Auto-generated translation for: Message Sent!",
+    "message": "സന്ദേശം അയച്ചു!"
+  },
+  "v2_4899b091": {
+    "description": "Auto-generated translation for: Send Message",
+    "message": "സന്ദേശം അയയ്ക്കുക"
+  },
+  "v2_09e358ad": {
+    "description": "Auto-generated translation for: Thank you! We'll get back to you soon.",
+    "message": "നന്ദി! ഞങ്ങൾ ഉടൻതന്നെ നിങ്ങളെ ബന്ധപ്പെടുന്നതാണ്."
+  },
+  "v2_1c124c60": {
+    "description": "Auto-generated translation for: Message sent successfully! We'll get back to you soon.",
+    "message": "സന്ദേശം വിജയകരമായി അയച്ചു! ഞങ്ങൾ ഉടൻ നിങ്ങളെ ബന്ധപ്പെടാം."
+  },
+  "v2_5e42d59a": {
+    "description": "Auto-generated translation for: Failed to send message. Please try again.",
+    "message": "സന്ദേശം അയയ്‌ക്കുന്നതിൽ പരാജയപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക."
+  },
+  "v2_6c2e4f8d": {
+    "description": "Auto-generated translation for: Please select a valid EPUB file",
+    "message": "ദയവായി ഒരു സാധുവായ EPUB ഫയൽ തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_60a948e9": {
+    "description": "Auto-generated translation for: Upload EPUB",
+    "message": "ഇപബ് അപ്‌ലോഡ് ചെയ്യുക"
+  },
+  "v2_2feeabab": {
+    "description": "Auto-generated translation for: Drag and drop your EPUB file here, or click to browse",
+    "message": "നിങ്ങളുടെ EPUB ഫയൽ ഇവിടെ ഇടുക, അല്ലെങ്കിൽ ബ്രൗസ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക"
+  },
+  "v2_35a26b53": {
+    "description": "Auto-generated translation for: Uploading...",
+    "message": "അപ്‌ലോഡുചെയ്യുന്നു..."
+  },
+  "v2_01a5d0c2": {
+    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
+    "message": "വായിക്കാൻ തുടങ്ങുന്നതിന് നിങ്ങളുടെ ലൈബ്രറിയിൽ നിന്നും ഒരു EPUB തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_6c4fc568": {
+    "description": "Auto-generated translation for: No pages found in this EPUB",
+    "message": "ഈ EPUB-ൽ പേജുകളൊന്നും കണ്ടെത്തിയില്ല"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "മുൻപത്തെ"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "ഈ പേജിന് ഉള്ളടക്കമൊന്നും ലഭ്യമല്ല"
+  },
+  "v2_76053a41": {
+    "description": "Auto-generated translation for: EPUB uploaded successfully",
+    "message": "EPUB വിജയകരമായി അപ്‌ലോഡ് ചെയ്തു"
+  },
+  "v2_7a198fa7": {
+    "description": "Auto-generated translation for: My EPUBs",
+    "message": "എന്റെ EPUB-കൾ"
+  },
+  "v2_689705df": {
+    "description": "Auto-generated translation for: Upload",
+    "message": "അപ്‌ലോഡ് ചെയ്യുക"
+  },
+  "v2_7e3c46f3": {
+    "description": "Auto-generated translation for: No EPUBs in your library yet",
+    "message": "നിങ്ങളുടെ ലൈബ്രറിയിൽ ഇതുവരെ EPUB-കൾ ഇല്ല"
+  },
+  "v2_5759320a": {
+    "description": "Auto-generated translation for: Upload your first EPUB",
+    "message": "നിങ്ങളുടെ ആദ്യത്തെ EPUB അപ്‌ലോഡ് ചെയ്യുക"
   }
 }

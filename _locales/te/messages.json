@@ -1908,50 +1908,6 @@
     "description": "Auto-generated translation for: Feature Request",
     "message": "\"ఫీచర్ అభ్యర్థన\""
   },
-  "v2_3a65e355": {
-    "description": "Auto-generated translation for: AI-Powered Feature",
-    "message": "AI ద్వారా శక్తివంతమైన ఫీచర్"
-  },
-  "v2_06bc4e73": {
-    "description": "Auto-generated translation for: Enable <span class=\"gradient-highlighted-text\">Neural Subtitles</span>",
-    "message": "<span class=\"gradient-highlighted-text\">న్యూరల్ సబ్‌టైటిల్స్‌</span>ను ప్రారంభించు"
-  },
-  "v2_73d22fbb": {
-    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy and natural language understanding.",
-    "message": "నిజ-సమయ AI-ఆధారిత లిపిలేఖన అనుభవాన్ని అసమాన ఖచ్చితత్వంతో మరియు సహజ భాషా అవగాహనతో పొందండి."
-  },
-  "v2_773fa217": {
-    "description": "Auto-generated translation for: Real-time transcription with minimal latency",
-    "message": "తక్కువ జాప్యంతో నిజ-సమయ లిపి మార్పిడి"
-  },
-  "v2_4e98e4da": {
-    "description": "Auto-generated translation for: Advanced noise reduction and clarity enhancement",
-    "message": "అధునాతన శబ్ద తగ్గింపు మరియు స్పష్టత మెరుగుదల"
-  },
-  "v2_60ed6ff7": {
-    "description": "Auto-generated translation for: Automatic punctuation and formatting",
-    "message": "స్వయంచాలక విరామ చిహ్నాలు మరియు ఫార్మాటింగ్"
-  },
-  "v2_0258e117": {
-    "description": "Auto-generated translation for: Enabling Neural Subtitles for video ID <span class=\"font-mono font-bold text-violet-500\">$video_id$</span> on <span class=\"font-bold text-violet-500\">$platform$</span>",
-    "message": "<span class=\"font-bold text-violet-500\">$platform$</span> నందు వీడియో ID <span class=\"font-mono font-bold text-violet-500\">$video_id$</span> కోసం న్యూరల్ సబ్‌టైటిల్స్‌ను ప్రారంభించడమైనది",
-    "placeholders": {
-      "video_id": {
-        "content": "$1"
-      },
-      "platform": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_2fbb7529": {
-    "description": "Auto-generated translation for: No subtitles found for this video. Our AI will automatically detect the language and generate accurate subtitles in real-time.",
-    "message": "ఈ వీడియోకు సబ్‌టైటిల్స్ కనుగొనబడలేదు. మా AI స్వయంచాలకంగా భాషను గుర్తిస్తుంది మరియు నిజ సమయంలో ఖచ్చితమైన సబ్‌టైటిల్స్‌ను ఉత్పత్తి చేస్తుంది."
-  },
-  "v2_17cd008a": {
-    "description": "Auto-generated translation for: Automatic language detection and support for multiple languages",
-    "message": "స్వయంచాలక భాష గుర్తింపు మరియు బహుళ భాషలకు మద్దతు"
-  },
   "v2_52c6292d": {
     "description": "Auto-generated translation for: No status set",
     "message": "స్థితి ఏదీ సెట్ చేయలేదు"
@@ -5096,18 +5052,6 @@
     "description": "Auto-generated translation for: Casual Usage",
     "message": "సాధారణ వాడుక"
   },
-  "v2_7197e5f0": {
-    "description": "Auto-generated translation for: Usage Context",
-    "message": "వినియోగ సందర్భం"
-  },
-  "v2_272e0c06": {
-    "description": "Auto-generated translation for: Grammar Structure",
-    "message": "వ్యాకరణ నిర్మాణం"
-  },
-  "v2_04766316": {
-    "description": "Auto-generated translation for: Overall Meaning",
-    "message": "మొత్తం అర్థం"
-  },
   "v2_6d2708eb": {
     "description": "Auto-generated translation for: Pro trial: $time$ left",
     "message": "ప్రో ట్రైల్: $time$ మిగిలి ఉంది",
@@ -5688,10 +5632,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_560cedf1": {
-    "description": "Auto-generated translation for: Original",
-    "message": "అసలైనది"
   },
   "v2_653d8c1f": {
     "description": "Auto-generated translation for: Add Config",
@@ -6375,10 +6315,6 @@
     "description": "Auto-generated translation for: Processing your audio for neural subtitles",
     "message": "మీ ఆడియోను న్యూరల్ సబ్‌టైటిల్స్ కోసం ప్రాసెసింగ్ చేస్తున్నాం"
   },
-  "v2_747c4b3c": {
-    "description": "Auto-generated translation for: Join thousands of successful language learners who have transformed their learning with FluentAI+.",
-    "message": "FluentAI+తో తమ భాషా అధ్యయనాన్ని మార్చుకున్న వేల మంది విజయవంతమైన భాషా నేర్స్‌తో చేరండి."
-  },
   "v2_2adaa19e": {
     "description": "Auto-generated translation for: Subtitle Panel List",
     "message": "ఉపశీర్షిక ప్యానెల్ జాబితా"
@@ -6856,10 +6792,6 @@
     "description": "Auto-generated translation for: Create subtitles for videos that don't have any, making any content accessible for language learning.",
     "message": "సబ్‌టైటిల్స్ లేని వీడియోల కోసం సబ్‌టైటిల్స్‌ను సృష్టించండి, భాషా నేర్చుకోవడానికి ఏదైనా కంటెంట్‌ను అందుబాటులో ఉంచడం."
   },
-  "v2_7eb5105b": {
-    "description": "Auto-generated translation for: Unlock <span class=\"gradient-highlighted-text\">AI Subtitles</span>",
-    "message": "అన్‌లాక్ <span class=\"gradient-highlighted-text\">AI ఉపశీర్షికలు</span>"
-  },
   "v2_26bbe0e0": {
     "description": "Auto-generated translation for: You have reached your AI Subtitles quota limit. Upgrade for access to AI-powered subtitles.",
     "message": "మీరు మీ AI ఉపశీర్షికల కోటా పరిమితిని చేరుకున్నారు. AI-పవర్డ్ ఉపశీర్షికలకు ప్రవేశం కోసం అప్‌గ్రేడ్ చేయండి."
@@ -7015,5 +6947,514 @@
   "v2_4fcfcdf3": {
     "description": "Auto-generated translation for: Bookmark Sentence",
     "message": "బుక్‌మార్క్ వాక్యం"
+  },
+  "v2_2993a8c6": {
+    "description": "Auto-generated translation for: No subtitle available to copy",
+    "message": "కాపీ చేయడానికి ఉపశీర్షిక అందుబాటులో లేదు"
+  },
+  "v2_2face5db": {
+    "description": "Auto-generated translation for: Subtitle copied to clipboard",
+    "message": "ఉపశీర్షిక క్లిప్‌బోర్డ్‌కు కాపీ చేయబడింది"
+  },
+  "v2_0ac1de2c": {
+    "description": "Auto-generated translation for: Neural subtitles enabled successfully",
+    "message": "న్యూరల్ ఉపశీర్షికలు విజయవంతంగా ప్రారంభించబడ్డాయి"
+  },
+  "v2_0575abd3": {
+    "description": "Auto-generated translation for: Failed to associate with existing transcription",
+    "message": "ఇప్పటికే ఉన్న ట్రాన్స్‌క్రిప్షన్‌తో అనుబంధించడంలో విఫలమైంది"
+  },
+  "v2_35fed33f": {
+    "description": "Auto-generated translation for: Failed to request transcription",
+    "message": "ట్రాన్స్‌క్రిప్షన్ అభ్యర్థన విఫలమైంది"
+  },
+  "v2_2743fe99": {
+    "description": "Auto-generated translation for: An error occurred while checking transcription status",
+    "message": "ట్రాన్‌స్క్రిప్షన్ స్థితిని తనిఖీ చేయడంలో ఎర్రర్ ఏర్పడింది"
+  },
+  "v2_16f3b323": {
+    "description": "Auto-generated translation for: Mapping tokens for $lang$",
+    "message": "$lang$ కోసం టోకెన్‌లను మ్యాపింగ్ చేస్తోంది",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_57761200": {
+    "description": "Auto-generated translation for: Unbookmarking sentences not yet implemented",
+    "message": "వాక్యాలను అన్‌బుక్‌మార్క్ చేయడం ఇంకా అమలు చేయబడలేదు."
+  },
+  "v2_3c750a29": {
+    "description": "Auto-generated translation for: Remove sentence bookmark",
+    "message": "వాక్యపు బుక్‌మార్క్‌ను తీసివేయండి"
+  },
+  "v2_53aa3213": {
+    "description": "Auto-generated translation for: Bookmark sentence",
+    "message": "వాక్యాన్ని బుక్‌మార్క్ చేయండి"
+  },
+  "v2_6388b573": {
+    "description": "Auto-generated translation for: Contribute",
+    "message": "సహకరించండి"
+  },
+  "v2_36c2510a": {
+    "description": "Auto-generated translation for: Join the mission to revolutionize language learning with exclusive perks.",
+    "message": "ప్రత్యేకమైన ప్రయోజనాలతో భాషా అభ్యాసాన్ని విప్లవాత్మకంగా మార్చడానికి మిషన్‌లో చేరండి."
+  },
+  "v2_41069f9e": {
+    "description": "Auto-generated translation for: Part of Speech",
+    "message": "భాషా భాగం"
+  },
+  "v2_18c5187f": {
+    "description": "Auto-generated translation for: Unlock AI Subtitles",
+    "message": "AI సబ్‌టైటిల్‌లను అన్‌లాక్ చేయండి"
+  },
+  "v2_6460648d": {
+    "description": "Auto-generated translation for: to see instant translations",
+    "message": "తక్షణ అనువాదాలను చూడటానికి"
+  },
+  "v2_7d5b0274": {
+    "description": "Auto-generated translation for: to hear word pronunciation",
+    "message": "పదం యొక్క ఉచ్చారణ వినడానికి"
+  },
+  "v2_0e8caf3c": {
+    "description": "Auto-generated translation for: for detailed word analysis and information",
+    "message": "వివరణాత్మక పద విశ్లేషణ మరియు సమాచారం కోసం"
+  },
+  "v2_5cbcbf51": {
+    "description": "Auto-generated translation for: to see detailed grammar explanations",
+    "message": "వివరణాత్మక వ్యాకరణ వివరణలను చూడటానికి"
+  },
+  "v2_503b541d": {
+    "description": "Auto-generated translation for: Select multiple words",
+    "message": "బహుళ పదాలను ఎంచుకోండి"
+  },
+  "v2_7a6f00e3": {
+    "description": "Auto-generated translation for: to merge into phrases with translations",
+    "message": "అనువాదాలతో కూడిన పదబంధాలలో విలీనం చేయడానికి"
+  },
+  "v2_68217313": {
+    "description": "Auto-generated translation for: Choose a video",
+    "message": "వీడియోను ఎంచుకోండి"
+  },
+  "v2_65e0d045": {
+    "description": "Auto-generated translation for: Open any movie or video on your streaming platform",
+    "message": "మీ స్ట్రీమింగ్ ప్లాట్‌ఫారమ్‌లో ఏదైనా సినిమా లేదా వీడియోను తెరవండి"
+  },
+  "v2_6e2ab0b6": {
+    "description": "Auto-generated translation for: Click FluentAI button",
+    "message": "ఫ్లూయెంట్ఏఐ బటన్‌ని క్లిక్ చేయండి"
+  },
+  "v2_168fd63f": {
+    "description": "Auto-generated translation for: Find and click the FluentAI button in the bottom bar",
+    "message": "దిగువన ఉన్న బార్‌లో FluentAI బటన్‌ను కనుగొని, దానిపై క్లిక్ చేయండి"
+  },
+  "v2_1e18293c": {
+    "description": "Auto-generated translation for: Start learning",
+    "message": "నేర్చుకోవడం ప్రారంభించండి"
+  },
+  "v2_5b90e4bc": {
+    "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
+    "message": "AI-శక్తితో సబ్‌టైటిల్‌లు మరియు అనువాదాలను ఆస్వాదించండి"
+  },
+  "v2_186f9e96": {
+    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
+    "message": "ఇప్పటికే ఉన్న న్యూరల్ ఉపశీర్షికలను ఉపయోగించండి"
+  },
+  "v2_41b77648": {
+    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
+    "message": "ఈ వీడియోకు మరొక వినియోగదారు నుండి న్యూరల్ సబ్‌టైటిల్స్ ఇప్పటికే అందుబాటులో ఉన్నాయి."
+  },
+  "v2_20adfd45": {
+    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
+    "message": "అత్యంత ఖచ్చితత్వంతో కూడిన రియల్ టైమ్ AI-ఆధారిత ట్రాన్స్‌క్రిప్షన్‌ను అనుభవించండి."
+  },
+  "v2_5b65a386": {
+    "description": "Auto-generated translation for: AI-Powered Accuracy",
+    "message": "AI-శక్తితో మెరుగైన కచ్చితత్వం"
+  },
+  "v2_39122f31": {
+    "description": "Auto-generated translation for: Advanced neural networks for superior transcription quality",
+    "message": "అత్యుత్తమ ట్రాన్స్‌క్రిప్షన్ నాణ్యత కోసం అధునాతన న్యూరల్ నెట్‌వర్క్‌లు"
+  },
+  "v2_1a691bce": {
+    "description": "Auto-generated translation for: Lightning Fast",
+    "message": "మెరుపు వేగంతో"
+  },
+  "v2_5cdcb9f7": {
+    "description": "Auto-generated translation for: Get your transcription in seconds, not minutes",
+    "message": "నిమిషాల్లో కాదు, సెకన్లలో మీ ట్రాన్స్‌క్రిప్షన్‌ను పొందండి"
+  },
+  "v2_610776c5": {
+    "description": "Auto-generated translation for: Multi-Language Support",
+    "message": "బహుళ భాషా మద్దతు"
+  },
+  "v2_1db21d42": {
+    "description": "Auto-generated translation for: Supports 50+ languages with accurate detection",
+    "message": "ఖచ్చితమైన గుర్తింపుతో 50+ భాషలకు మద్దతు ఇస్తుంది"
+  },
+  "v2_4bc9e888": {
+    "description": "Auto-generated translation for: Enhanced Learning",
+    "message": "మెరుగైన అభ్యాసం"
+  },
+  "v2_607da960": {
+    "description": "Auto-generated translation for: Perfect word-level timing for immersive language learning",
+    "message": "లీనమయ్యే భాషా అభ్యాసం కోసం ఖచ్చితమైన పదం-స్థాయి సమయం"
+  },
+  "v2_69ee2bd3": {
+    "description": "Auto-generated translation for: Use Neural Subtitles",
+    "message": "న్యూరల్ ఉపశీర్షికలను ఉపయోగించండి"
+  },
+  "v2_04f3ee3b": {
+    "description": "Auto-generated translation for: Insufficient quota. Please upgrade your plan.",
+    "message": "తగినంత కోటా లేదు. దయచేసి మీ ప్లాన్‌ని అప్‌గ్రేడ్ చేయండి."
+  },
+  "v2_1143d851": {
+    "description": "Auto-generated translation for: Please select a language to continue",
+    "message": "కొనసాగించడానికి దయచేసి ఒక భాషను ఎంచుకోండి"
+  },
+  "v2_0442ce8f": {
+    "description": "Auto-generated translation for: Daily Quota",
+    "message": "రోజువారీ కోటా"
+  },
+  "v2_09e12465": {
+    "description": "Auto-generated translation for: Monthly Quota",
+    "message": "నెలవారీ కోటా"
+  },
+  "v2_1c043be4": {
+    "description": "Auto-generated translation for: Your video is",
+    "message": "మీ వీడియో"
+  },
+  "v2_2942d8c2": {
+    "description": "Auto-generated translation for: You used",
+    "message": "మీరు ఉపయోగించారు"
+  },
+  "v2_514ed700": {
+    "description": "Auto-generated translation for: You'll have",
+    "message": "మీరు పొందండి"
+  },
+  "v2_0032a007": {
+    "description": "Auto-generated translation for: left",
+    "message": "ఎడమ"
+  },
+  "v2_0fe0365f": {
+    "description": "Auto-generated translation for: Resets in",
+    "message": "వీటిలో రీసెట్ అవుతుంది"
+  },
+  "v2_4d1b86d1": {
+    "description": "Auto-generated translation for: Checking subscription status",
+    "message": "సబ్‌స్క్రిప్షన్ స్థితిని తనిఖీ చేస్తోంది"
+  },
+  "v2_2874ef0f": {
+    "description": "Auto-generated translation for: Checking onboarding status",
+    "message": "ఆన్‌బోర్డింగ్ స్థితిని తనిఖీ చేస్తోంది"
+  },
+  "v2_0aa2c1c3": {
+    "description": "Auto-generated translation for: Fetching text tracks",
+    "message": "టెక్స్ట్ ట్రాక్‌లను పొందుతోంది"
+  },
+  "v2_6531d18a": {
+    "description": "Auto-generated translation for: Initializing settings",
+    "message": "సెట్టింగ్‌లను ప్రారంభిస్తోంది"
+  },
+  "v2_1ebb520c": {
+    "description": "Auto-generated translation for: Applying video settings",
+    "message": "వీడియో సెట్టింగ్‌లను వర్తింపజేస్తోంది"
+  },
+  "v2_2473aba8": {
+    "description": "Auto-generated translation for: Try AI Subtitles",
+    "message": "AI ఉపశీర్షికలను ప్రయత్నించండి"
+  },
+  "v2_23ea242e": {
+    "description": "Auto-generated translation for: No subtitles found. Use AI to generate accurate subtitles from audio.",
+    "message": "సబ్‌టైటిల్స్ కనుగొనబడలేదు. ఆడియో నుండి ఖచ్చితమైన సబ్‌టైటిల్స్ రూపొందించడానికి AIని ఉపయోగించండి."
+  },
+  "v2_60edc1ee": {
+    "description": "Auto-generated translation for: Generate AI Subtitles",
+    "message": "AI ఉపశీర్షికలను రూపొందించండి"
+  },
+  "v2_243f0c42": {
+    "description": "Auto-generated translation for: Auto Resume",
+    "message": "ఆటో పునఃప్రారంభం"
+  },
+  "v2_1c3e3ef1": {
+    "description": "Auto-generated translation for: Automatically resume playback after a delay",
+    "message": "కొంత ఆలస్యం తర్వాత ప్లేబ్యాక్ ఆటోమాటిగ్గా తిరిగి ప్రారంభించు"
+  },
+  "v2_0423c240": {
+    "description": "Auto-generated translation for: Wait a little",
+    "message": "కొంచెం ఆగు"
+  },
+  "v2_67090514": {
+    "description": "Auto-generated translation for: Wait longer",
+    "message": "ఇంకా ఎక్కువసేపు వేచి ఉండండి"
+  },
+  "v2_0ab26f78": {
+    "description": "Auto-generated translation for: Playback Mode",
+    "message": "ప్లేబ్యాక్ మోడ్"
+  },
+  "v2_0011f408": {
+    "description": "Auto-generated translation for: Choose how subtitles affect playback",
+    "message": "సబ్‌టైటిల్స్ ప్లేబ్యాక్‌ను ఎలా ప్రభావితం చేస్తాయో ఎంచుకోండి"
+  },
+  "v2_51350959": {
+    "description": "Auto-generated translation for: Lingering subtitle",
+    "message": "మిగిలిపోయిన ఉపశీర్షిక"
+  },
+  "v2_0bd10da6": {
+    "description": "Auto-generated translation for: Keep the current subtitle visible, even after it has ended",
+    "message": "ప్రస్తుత ఉపశీర్షిక ముగిసిన తర్వాత కూడా కనిపించేలా ఉంచండి"
+  },
+  "v2_54604014": {
+    "description": "Auto-generated translation for: Text-to-Speech",
+    "message": "టెక్స్ట్-టు-స్పీచ్"
+  },
+  "v2_53ba623b": {
+    "description": "Auto-generated translation for: Scene Replay",
+    "message": "సీన్ రీప్లే"
+  },
+  "v2_40e44961": {
+    "description": "Auto-generated translation for: Repeat Type",
+    "message": "పునరావృత రకం"
+  },
+  "v2_14049c22": {
+    "description": "Auto-generated translation for: Choose how to repeat each subtitle",
+    "message": "ప్రతి ఉపశీర్షికను ఎలా పునరావృతం చేయాలనుకుంటున్నారో ఎంచుకోండి"
+  },
+  "v2_2367164a": {
+    "description": "Auto-generated translation for: Repeat Count",
+    "message": "పునరావృత కౌంట్"
+  },
+  "v2_147a23ac": {
+    "description": "Auto-generated translation for: Number of times to repeat",
+    "message": "ఎన్ని సార్లు పునరావృతం చేయాలి"
+  },
+  "v2_5fb9c84a": {
+    "description": "Auto-generated translation for: Copy Current Subtitle",
+    "message": "ప్రస్తుత ఉపశీర్షికను కాపీ చేయండి"
+  },
+  "v2_6eada463": {
+    "description": "Auto-generated translation for: Copy Subtitle",
+    "message": "ఉపశీర్షికను కాపీ చేయి"
+  },
+  "v2_612e7777": {
+    "description": "Auto-generated translation for: Sign in to access your learning history and continue your language journey.",
+    "message": "మీ అభ్యాస చరిత్రను యాక్సెస్ చేయడానికి మరియు మీ భాషా ప్రయాణాన్ని కొనసాగించడానికి సైన్ ఇన్ చేయండి."
+  },
+  "v2_3121b76a": {
+    "description": "Auto-generated translation for: New to FluentAI?",
+    "message": "FluentAIకి కొత్తవా?"
+  },
+  "v2_6bca16e7": {
+    "description": "Auto-generated translation for: Compare with:",
+    "message": "దీనితో సరిపోల్చండి:"
+  },
+  "v2_08539d25": {
+    "description": "Auto-generated translation for: Choose a platform",
+    "message": "ప్లాట్‌ఫారమ్‌ను ఎంచుకోండి"
+  },
+  "v2_0ac54765": {
+    "description": "Auto-generated translation for: Select Netflix, YouTube, Disney+, or Prime Video.",
+    "message": "నెట్‌ఫ్లిక్స్, యూట్యూబ్, డిస్నీ+, లేదా ప్రైమ్ వీడియోను ఎంచుకోండి."
+  },
+  "v2_6d55fa84": {
+    "description": "Auto-generated translation for: Pick any movie or show with subtitles.",
+    "message": "సబ్ టైటిల్స్ ఉన్న ఏదైనా సినిమా లేదా షోను ఎంచుకోండి."
+  },
+  "v2_755656fd": {
+    "description": "Auto-generated translation for: Click FluentAI icon",
+    "message": "FluentAI చిహ్నాన్ని క్లిక్ చేయండి"
+  },
+  "v2_6dab96df": {
+    "description": "Auto-generated translation for: Click the FluentAI button in the bottom bar.",
+    "message": "దిగువ బార్‌లోని FluentAI బటన్‌ను క్లిక్ చేయండి."
+  },
+  "v2_4f4cebf2": {
+    "description": "Auto-generated translation for: Click any word for translations. Use the power button to toggle on/off.",
+    "message": "అనువాదాల కోసం ఏదైనా పదాన్ని క్లిక్ చేయండి. ఆన్/ఆఫ్ చేయడానికి పవర్ బటన్‌ను ఉపయోగించండి."
+  },
+  "v2_340572b0": {
+    "description": "Auto-generated translation for: Back to all reviews",
+    "message": "అన్ని సమీక్షలకు తిరిగి"
+  },
+  "v2_1566328c": {
+    "description": "Auto-generated translation for: People Talk About Us",
+    "message": "జనం మన గురించి మాట్లాడుకుంటారు"
+  },
+  "v2_64fd368f": {
+    "description": "Auto-generated translation for: Published on",
+    "message": "ప్రచురించబడిన తేదీ"
+  },
+  "v2_46e5bc8c": {
+    "description": "Auto-generated translation for: View Original Post",
+    "message": "అసలు పోస్ట్‌ను వీక్షించండి"
+  },
+  "v2_28f29261": {
+    "description": "Auto-generated translation for: More Reviews & Discussions",
+    "message": "మరిన్ని సమీక్షలు & చర్చలు"
+  },
+  "v2_57c8afe5": {
+    "description": "Auto-generated translation for: Earn 20% commission on all referred subscriptions.",
+    "message": "మీరు సూచించిన అన్ని సబ్‌స్క్రిప్షన్‌లపై 20% కమీషన్ పొందండి."
+  },
+  "v2_280b4142": {
+    "description": "Auto-generated translation for:  Start today!",
+    "message": "ఈరోజే ప్రారంభించండి!"
+  },
+  "v2_03c8934e": {
+    "description": "Auto-generated translation for: Apply",
+    "message": "వర్తించు"
+  },
+  "v2_7962fcd7": {
+    "description": "Auto-generated translation for: Scroll right",
+    "message": "కుడివైపుకి స్క్రోల్ చేయండి"
+  },
+  "v2_078fb05b": {
+    "description": "Auto-generated translation for: Feedback",
+    "message": "అభిప్రాయం"
+  },
+  "v2_28932aa7": {
+    "description": "Auto-generated translation for: Dual subtitles for Netflix, YouTube, Amazon Prime, and Disney Plus.",
+    "message": "నెట్‌ఫ్లిక్స్, యూట్యూబ్, అమెజాన్ ప్రైమ్ మరియు డిస్నీ ప్లస్ కోసం డ్యూయల్ సబ్‌టైటిల్స్."
+  },
+  "v2_76068a05": {
+    "description": "Auto-generated translation for: Netflix & YouTube",
+    "message": "నెట్‌ఫ్లిక్స్ & యూట్యూబ్"
+  },
+  "v2_123785cf": {
+    "description": "Auto-generated translation for: Open on Desktop",
+    "message": "డెస్క్‌టాప్‌లో తెరవండి"
+  },
+  "v2_74f4651f": {
+    "description": "Auto-generated translation for: Send this link to yourself to open and download on desktop",
+    "message": "మీ డెస్క్‌టాప్‌లో తెరవడానికి మరియు డౌన్‌లోడ్ చేసుకోవడానికి ఈ లింక్‌ను మీకు మీరు పంపుకోండి."
+  },
+  "v2_05d7a524": {
+    "description": "Auto-generated translation for: Send via WhatsApp",
+    "message": "వాట్సాప్ ద్వారా పంపండి"
+  },
+  "v2_35bf526b": {
+    "description": "Auto-generated translation for: Send via Telegram",
+    "message": "టెలిగ్రామ్ ద్వారా పంపండి"
+  },
+  "v2_1d200049": {
+    "description": "Auto-generated translation for: Link Copied!",
+    "message": "లింక్ కాపీ చేయబడింది!"
+  },
+  "v2_32591a3b": {
+    "description": "Auto-generated translation for: Copy Link",
+    "message": "లింక్‌ను కాపీ చేయండి"
+  },
+  "v2_640403e3": {
+    "description": "Auto-generated translation for: Learn languages with smart subtitles while watching your favorite content on Netflix, YouTube, Prime Video, and Disney+.",
+    "message": "మీరు Netflix, YouTube, Prime Video, మరియు Disney+లో మీకు ఇష్టమైన కంటెంట్‌ను చూస్తున్నప్పుడు స్మార్ట్ సబ్‌టైటిల్‌లతో భాషలను నేర్చుకోండి."
+  },
+  "v2_6313ed38": {
+    "description": "Auto-generated translation for: With our smart subtitles and cool features, learn any language by watching your favorite content. Finally, fun and easy.",
+    "message": "మా స్మార్ట్ సబ్‌టైటిల్స్ ఇంకా అద్భుతమైన ఫీచర్లతో, మీకు ఇష్టమైన కంటెంట్‌ని చూస్తూ ఏదైనా భాష నేర్చుకోండి. మొత్తంగా, సరదా మరియు సులువుగా."
+  },
+  "v2_03044907": {
+    "description": "Auto-generated translation for: Learn languages with smart subtitles on YouTube, Netflix, Prime, and Disney.",
+    "message": "YouTube, Netflix, Prime, Disneyలలో స్మార్ట్ సబ్‌టైటిల్స్‌తో భాషలు నేర్చుకోండి."
+  },
+  "v2_672803b1": {
+    "description": "Auto-generated translation for: Best experienced on desktop.",
+    "message": "డెస్క్‌టాప్‌లో ఉత్తమంగా అనుభవించబడుతుంది."
+  },
+  "v2_3218409c": {
+    "description": "Auto-generated translation for: Mobile app coming soon!",
+    "message": "మొబైల్ యాప్ త్వరలో రాబోతోంది!"
+  },
+  "v2_56305e75": {
+    "description": "Auto-generated translation for: EPUB Reader",
+    "message": "EPUB రీడర్"
+  },
+  "v2_4dafb55f": {
+    "description": "Auto-generated translation for: Have a question or feedback? We'd love to hear from you.",
+    "message": "మీకు ఏమైనా ప్రశ్న లేదా అభిప్రాయం ఉందా? దయచేసి మాతో పంచుకోండి."
+  },
+  "v2_77dafdc8": {
+    "description": "Auto-generated translation for: Your name",
+    "message": "మీ పేరు"
+  },
+  "v2_76a09b5e": {
+    "description": "Auto-generated translation for: your.email@example.com",
+    "message": "మీ.email@example.com"
+  },
+  "v2_55dcbd93": {
+    "description": "Auto-generated translation for: Tell us what's on your mind...",
+    "message": "మీరు ఏమనుకుంటున్నారో మాకు చెప్పండి..."
+  },
+  "v2_79f215f0": {
+    "description": "Auto-generated translation for: Message Sent!",
+    "message": "సందేశం పంపబడింది!"
+  },
+  "v2_4899b091": {
+    "description": "Auto-generated translation for: Send Message",
+    "message": "సందేశం పంపు"
+  },
+  "v2_09e358ad": {
+    "description": "Auto-generated translation for: Thank you! We'll get back to you soon.",
+    "message": "ధన్యవాదాలు! మేము త్వరలో మీకు తిరిగి వస్తాము."
+  },
+  "v2_1c124c60": {
+    "description": "Auto-generated translation for: Message sent successfully! We'll get back to you soon.",
+    "message": "సందేశం విజయవంతంగా పంపబడింది! త్వరలో మేము మిమ్మల్ని సంప్రదిస్తాము."
+  },
+  "v2_5e42d59a": {
+    "description": "Auto-generated translation for: Failed to send message. Please try again.",
+    "message": "సందేశం పంపడం విఫలమైంది. దయచేసి మళ్లీ ప్రయత్నించండి."
+  },
+  "v2_6c2e4f8d": {
+    "description": "Auto-generated translation for: Please select a valid EPUB file",
+    "message": "దయచేసి చెల్లుబాటు అయ్యే EPUB ఫైల్‌ను ఎంచుకోండి"
+  },
+  "v2_60a948e9": {
+    "description": "Auto-generated translation for: Upload EPUB",
+    "message": "EPUBను అప్‌లోడ్ చేయి"
+  },
+  "v2_2feeabab": {
+    "description": "Auto-generated translation for: Drag and drop your EPUB file here, or click to browse",
+    "message": "మీ EPUB ఫైల్‌ను ఇక్కడకు లాగి వదలండి లేదా బ్రౌజ్ చేయడానికి క్లిక్ చేయండి"
+  },
+  "v2_35a26b53": {
+    "description": "Auto-generated translation for: Uploading...",
+    "message": "అప్‌లోడ్ అవుతోంది..."
+  },
+  "v2_01a5d0c2": {
+    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
+    "message": "చదవడం ప్రారంభించడానికి మీ లైబ్రరీ నుండి EPUBని ఎంచుకోండి"
+  },
+  "v2_6c4fc568": {
+    "description": "Auto-generated translation for: No pages found in this EPUB",
+    "message": "ఈ EPUBలో పేజీలు ఏవీ కనుగొనబడలేదు"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "మునుపటి"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "ఈ పేజీకి కంటెంట్ అందుబాటులో లేదు"
+  },
+  "v2_76053a41": {
+    "description": "Auto-generated translation for: EPUB uploaded successfully",
+    "message": "EPUB విజయవంతంగా అప్‌లోడ్ చేయబడింది"
+  },
+  "v2_7a198fa7": {
+    "description": "Auto-generated translation for: My EPUBs",
+    "message": "నా EPUBలు"
+  },
+  "v2_689705df": {
+    "description": "Auto-generated translation for: Upload",
+    "message": "అప్‌లోడ్ చేయండి"
+  },
+  "v2_7e3c46f3": {
+    "description": "Auto-generated translation for: No EPUBs in your library yet",
+    "message": "మీ లైబ్రరీలో ఇంకా ఎలాంటి EPUBలు లేవు"
+  },
+  "v2_5759320a": {
+    "description": "Auto-generated translation for: Upload your first EPUB",
+    "message": "మీ మొదటి EPUBను అప్‌లోడ్ చేయండి"
   }
 }
