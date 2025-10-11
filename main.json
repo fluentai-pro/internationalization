@@ -1,11 +1,7 @@
 {
-  "test_translation_values": {
-    "description": "Test key to show translation values in commit messages",
-    "message": "This shows the actual English text in commits"
-  },
-  "another_test_key": {
-    "description": "Another test key for commit message values",
-    "message": "Another example of English text"
+  "test_fixed_formatting": {
+    "description": "Test key to verify fixed commit message formatting",
+    "message": "This is a test with proper formatting"
   },
   "v2_08d278ae": {
     "description": "Auto-generated translation for: Toggle to add this meaning along with the word to the notebook",
