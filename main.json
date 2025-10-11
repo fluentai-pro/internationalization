@@ -1,11 +1,11 @@
 {
-  "test_detailed_commit_message_1": {
-    "description": "First test key for detailed commit messages",
-    "message": "This is the first test key"
+  "test_translation_values": {
+    "description": "Test key to show translation values in commit messages",
+    "message": "This shows the actual English text in commits"
   },
-  "test_detailed_commit_message_2": {
-    "description": "Second test key for detailed commit messages",
-    "message": "This is the second test key"
+  "another_test_key": {
+    "description": "Another test key for commit message values",
+    "message": "Another example of English text"
   },
   "v2_08d278ae": {
     "description": "Auto-generated translation for: Toggle to add this meaning along with the word to the notebook",
