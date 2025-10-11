@@ -1,7 +1,11 @@
 {
-  "test_automatic_commit_message": {
-    "description": "Test translation key to verify automatic commit message generation",
-    "message": "This is a test for automatic commit messages"
+  "test_detailed_commit_message_1": {
+    "description": "First test key for detailed commit messages",
+    "message": "This is the first test key"
+  },
+  "test_detailed_commit_message_2": {
+    "description": "Second test key for detailed commit messages",
+    "message": "This is the second test key"
   },
   "v2_08d278ae": {
     "description": "Auto-generated translation for: Toggle to add this meaning along with the word to the notebook",
