@@ -4005,10 +4005,6 @@
     "description": "Auto-generated translation for: Etymology",
     "message": "ব্যুৎপত্তি"
   },
-  "v2_204ff442": {
-    "description": "Auto-generated translation for: Sign up",
-    "message": "সাইন আপ করুন"
-  },
   "v2_282bf5a6": {
     "description": "Auto-generated translation for: Deleting...",
     "message": "মুছে ফেলা হচ্ছে..."
@@ -5441,10 +5437,6 @@
     "description": "Auto-generated translation for: My Lists",
     "message": "আমার তালিকা"
   },
-  "v2_142745c7": {
-    "description": "Auto-generated translation for: Practice Config",
-    "message": "অনুশীলন কনফিগার"
-  },
   "v2_1dc105e2": {
     "description": "Auto-generated translation for: Practice Sessions",
     "message": "অনুশীলন সেশন"
@@ -6828,10 +6820,6 @@
     "description": "Auto-generated translation for: Click the grammar button",
     "message": "ব্যাকরণ বোতামটি ক্লিক করুন"
   },
-  "v2_70d4273e": {
-    "description": "Auto-generated translation for: Or continue with email",
-    "message": "অথবা ইমেল দিয়ে চালিয়ে যান"
-  },
   "v2_4268f68d": {
     "description": "Auto-generated translation for: Language Settings Error",
     "message": "ভাষা সেটিংস ত্রুটি"
@@ -6992,10 +6980,6 @@
   "v2_53aa3213": {
     "description": "Auto-generated translation for: Bookmark sentence",
     "message": "বাক্য বুকমার্ক করুন"
-  },
-  "v2_6388b573": {
-    "description": "Auto-generated translation for: Contribute",
-    "message": "অবদান রাখুন"
   },
   "v2_36c2510a": {
     "description": "Auto-generated translation for: Join the mission to revolutionize language learning with exclusive perks.",
@@ -7237,14 +7221,6 @@
     "description": "Auto-generated translation for: Copy Subtitle",
     "message": "সাবটাইটেল কপি করুন"
   },
-  "v2_612e7777": {
-    "description": "Auto-generated translation for: Sign in to access your learning history and continue your language journey.",
-    "message": "আপনার শেখার ইতিহাস অ্যাক্সেস করতে এবং আপনার ভাষার যাত্রা চালিয়ে যেতে সাইন ইন করুন।"
-  },
-  "v2_3121b76a": {
-    "description": "Auto-generated translation for: New to FluentAI?",
-    "message": "FluentAI-তে নতুন?"
-  },
   "v2_6bca16e7": {
     "description": "Auto-generated translation for: Compare with:",
     "message": "এর সাথে তুলনা করুন:"
@@ -7365,10 +7341,6 @@
     "description": "Auto-generated translation for: Mobile app coming soon!",
     "message": "মোবাইল অ্যাপ শীঘ্রই আসছে!"
   },
-  "v2_56305e75": {
-    "description": "Auto-generated translation for: EPUB Reader",
-    "message": "ইপাব রিডার"
-  },
   "v2_4dafb55f": {
     "description": "Auto-generated translation for: Have a question or feedback? We'd love to hear from you.",
     "message": "কোনো প্রশ্ন বা মতামত আছে? আমরা আপনার কথা শুনতে চাই।"
@@ -7456,5 +7428,61 @@
   "v2_5759320a": {
     "description": "Auto-generated translation for: Upload your first EPUB",
     "message": "আপনার প্রথম EPUB আপলোড করুন"
+  },
+  "v2_11bd3020": {
+    "description": "Auto-generated translation for: Mini Popup Settings",
+    "message": "মিনি পপআপ সেটিংস"
+  },
+  "v2_4ad980f4": {
+    "description": "Auto-generated translation for: Number of Translations",
+    "message": "অনুবাদ সংখ্যা"
+  },
+  "v2_107db982": {
+    "description": "Auto-generated translation for: Chip Font Size",
+    "message": "চিপ ফন্টের আকার"
+  },
+  "v2_62e23b91": {
+    "description": "Auto-generated translation for: Contribute on Github",
+    "message": "গিটহাবে অবদান রাখুন"
+  },
+  "v2_7b00e3e7": {
+    "description": "Auto-generated translation for: Turn Every Movie Into a Language Lesson",
+    "message": "প্রতিটি সিনেমাকে ভাষার পাঠে পরিণত করুন"
+  },
+  "v2_5de1bdca": {
+    "description": "Auto-generated translation for: Enter your account details",
+    "message": "আপনার অ্যাকাউন্টের বিবরণ লিখুন"
+  },
+  "v2_442de4ab": {
+    "description": "Auto-generated translation for: Don't have an account yet?",
+    "message": "এখনও একটি অ্যাকাউন্ট নেই?"
+  },
+  "v2_16516c23": {
+    "description": "Auto-generated translation for: Sign up!",
+    "message": "সাইন আপ করুন!"
+  },
+  "v2_7733c850": {
+    "description": "Auto-generated translation for: Redirecting to login...",
+    "message": "লগইনে পুনঃনির্দেশ করা হচ্ছে..."
+  },
+  "v2_1c7a0835": {
+    "description": "Auto-generated translation for: Please wait",
+    "message": "অপেক্ষা করুন"
+  },
+  "v2_30ba6bc6": {
+    "description": "Auto-generated translation for: Feature Flags Management",
+    "message": "ফিচার ফ্ল্যাগ ব্যবস্থাপনা"
+  },
+  "v2_0f0cf9f5": {
+    "description": "Auto-generated translation for: Manage feature flags with hierarchical control over browsers, platforms, and user-specific overrides",
+    "message": "ব্রাউজার, প্ল্যাটফর্ম এবং ব্যবহারকারী-নির্দিষ্ট ওভাররাইডের উপর স্তরক্রমিক নিয়ন্ত্রণ সহ ফিচার ফ্ল্যাগগুলি পরিচালনা করুন"
+  },
+  "v2_04ba58d7": {
+    "description": "Auto-generated translation for: Rules",
+    "message": "নিয়মাবলী"
+  },
+  "v2_4e5a5812": {
+    "description": "Auto-generated translation for: User Overrides",
+    "message": "ব্যবহারকারীর ওভাররাইড"
   }
 }

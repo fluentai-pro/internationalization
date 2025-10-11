@@ -4005,10 +4005,6 @@
     "description": "Auto-generated translation for: Etymology",
     "message": "Ετυμολογία"
   },
-  "v2_204ff442": {
-    "description": "Auto-generated translation for: Sign up",
-    "message": "Εγγραφή"
-  },
   "v2_282bf5a6": {
     "description": "Auto-generated translation for: Deleting...",
     "message": "Διαγραφή..."
@@ -5293,10 +5289,6 @@
   "v2_7a880821": {
     "description": "Auto-generated translation for: My Lists",
     "message": "Οι λίστες μου"
-  },
-  "v2_142745c7": {
-    "description": "Auto-generated translation for: Practice Config",
-    "message": "Διαμόρφωση Εξάσκησης"
   },
   "v2_1dc105e2": {
     "description": "Auto-generated translation for: Practice Sessions",
@@ -6681,10 +6673,6 @@
     "description": "Auto-generated translation for: Click the grammar button",
     "message": "Κάντε κλικ στο κουμπί Γραμματικής"
   },
-  "v2_70d4273e": {
-    "description": "Auto-generated translation for: Or continue with email",
-    "message": "Ή συνεχίστε με email"
-  },
   "v2_4268f68d": {
     "description": "Auto-generated translation for: Language Settings Error",
     "message": "Σφάλμα Ρυθμίσεων Γλώσσας"
@@ -6845,10 +6833,6 @@
   "v2_53aa3213": {
     "description": "Auto-generated translation for: Bookmark sentence",
     "message": "Προσθήκη σε σελιδοδείκτη"
-  },
-  "v2_6388b573": {
-    "description": "Auto-generated translation for: Contribute",
-    "message": "Συνεισφέρετε"
   },
   "v2_36c2510a": {
     "description": "Auto-generated translation for: Join the mission to revolutionize language learning with exclusive perks.",
@@ -7090,14 +7074,6 @@
     "description": "Auto-generated translation for: Copy Subtitle",
     "message": "Αντιγραφή υποτίτλου"
   },
-  "v2_612e7777": {
-    "description": "Auto-generated translation for: Sign in to access your learning history and continue your language journey.",
-    "message": "Συνδεθείτε για να αποκτήσετε πρόσβαση στο ιστορικό εκμάθησής σας και να συνεχίσετε το γλωσσικό σας ταξίδι."
-  },
-  "v2_3121b76a": {
-    "description": "Auto-generated translation for: New to FluentAI?",
-    "message": "Είστε νέος χρήστης του FluentAI;"
-  },
   "v2_6bca16e7": {
     "description": "Auto-generated translation for: Compare with:",
     "message": "Σύγκριση με:"
@@ -7218,10 +7194,6 @@
     "description": "Auto-generated translation for: Mobile app coming soon!",
     "message": "Έρχεται σύντομα η εφαρμογή για κινητά!"
   },
-  "v2_56305e75": {
-    "description": "Auto-generated translation for: EPUB Reader",
-    "message": "Αναγνώστης EPUB"
-  },
   "v2_4dafb55f": {
     "description": "Auto-generated translation for: Have a question or feedback? We'd love to hear from you.",
     "message": "Έχετε κάποια ερώτηση ή σχόλιο; Θα χαρούμε να σας ακούσουμε."
@@ -7309,5 +7281,61 @@
   "v2_5759320a": {
     "description": "Auto-generated translation for: Upload your first EPUB",
     "message": "Ανεβάστε το πρώτο σας EPUB"
+  },
+  "v2_11bd3020": {
+    "description": "Auto-generated translation for: Mini Popup Settings",
+    "message": "Ρυθμίσεις Αναδυόμενου Παραθύρου"
+  },
+  "v2_4ad980f4": {
+    "description": "Auto-generated translation for: Number of Translations",
+    "message": "Αριθμός Μεταφράσεων"
+  },
+  "v2_107db982": {
+    "description": "Auto-generated translation for: Chip Font Size",
+    "message": "Μέγεθος γραμματοσειράς τσιπ"
+  },
+  "v2_62e23b91": {
+    "description": "Auto-generated translation for: Contribute on Github",
+    "message": "Συνεισφέρετε στο Github"
+  },
+  "v2_7b00e3e7": {
+    "description": "Auto-generated translation for: Turn Every Movie Into a Language Lesson",
+    "message": "Μετατρέψτε κάθε Ταινία σε ένα Μάθημα Γλώσσας"
+  },
+  "v2_5de1bdca": {
+    "description": "Auto-generated translation for: Enter your account details",
+    "message": "Εισαγάγετε τα στοιχεία του λογαριασμού σας"
+  },
+  "v2_442de4ab": {
+    "description": "Auto-generated translation for: Don't have an account yet?",
+    "message": "Δεν έχετε λογαριασμό ακόμη;"
+  },
+  "v2_16516c23": {
+    "description": "Auto-generated translation for: Sign up!",
+    "message": "Εγγραφή!"
+  },
+  "v2_7733c850": {
+    "description": "Auto-generated translation for: Redirecting to login...",
+    "message": "Ανακατεύθυνση στην είσοδο..."
+  },
+  "v2_1c7a0835": {
+    "description": "Auto-generated translation for: Please wait",
+    "message": "Παρακαλώ περιμένετε"
+  },
+  "v2_30ba6bc6": {
+    "description": "Auto-generated translation for: Feature Flags Management",
+    "message": "Διαχείριση Εναλλαγών Λειτουργιών"
+  },
+  "v2_0f0cf9f5": {
+    "description": "Auto-generated translation for: Manage feature flags with hierarchical control over browsers, platforms, and user-specific overrides",
+    "message": "Διαχειριστείτε σημαίες λειτουργιών με ιεραρχικό έλεγχο σε προγράμματα περιήγησης, πλατφόρμες και παρα overrides που αφορούν συγκεκριμένους χρήστες"
+  },
+  "v2_04ba58d7": {
+    "description": "Auto-generated translation for: Rules",
+    "message": "Κανόνες"
+  },
+  "v2_4e5a5812": {
+    "description": "Auto-generated translation for: User Overrides",
+    "message": "Παρακάμψεις Χρήστη"
   }
 }
