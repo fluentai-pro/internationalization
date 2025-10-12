@@ -1920,14 +1920,6 @@
     "description": "Auto-generated translation for: This will take a few seconds",
     "message": "এতে কয়েক সেকেন্ড লাগবে।"
   },
-  "v2_7810d301": {
-    "description": "Auto-generated translation for: Native subtitle color updated",
-    "message": "নিজস্ব সাবটাইটেলের রং আপডেট করা হয়েছে"
-  },
-  "v2_716be5e8": {
-    "description": "Auto-generated translation for: Learning subtitle color updated",
-    "message": "সাবটাইটেলের রং শেখা আপডেট করা হয়েছে"
-  },
   "v2_77a2cd88": {
     "description": "Auto-generated translation for: Subtitle Colors",
     "message": "সাবটাইটেলের রং"
@@ -5737,10 +5729,6 @@
     "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
     "message": "আপনার সমস্ত শব্দ, শব্দগুচ্ছ এবং বাক্য এখানে খুঁজুন।"
   },
-  "v2_7307d836": {
-    "description": "Auto-generated translation for: Join Discord",
-    "message": "ডিসকর্ড-এ যোগ দিন"
-  },
   "v2_1589890f": {
     "description": "Auto-generated translation for: Website Dashboard",
     "message": "ওয়েবসাইট ড্যাশবোর্ড"
@@ -7484,5 +7472,77 @@
   "v2_4e5a5812": {
     "description": "Auto-generated translation for: User Overrides",
     "message": "ব্যবহারকারীর ওভাররাইড"
+  },
+  "v2_557fd065": {
+    "description": "Auto-generated translation for: Neural transcription processing failed",
+    "message": "নিউরাল প্রতিলিপি প্রক্রিয়াকরণ ব্যর্থ হয়েছে"
+  },
+  "v2_2662de51": {
+    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated",
+    "message": "নিউরাল ট্রান্সক্রিপশন সম্পন্ন হয়েছে কিন্তু কোনো সাবটাইটেল তৈরি হয়নি"
+  },
+  "v2_7be6e727": {
+    "description": "Auto-generated translation for: No transcription ID returned",
+    "message": "কোনো ট্রান্সক্রিপশন আইডি ফেরত আসেনি"
+  },
+  "v2_3846b5ed": {
+    "description": "Auto-generated translation for: Failed to request neural transcription. Please try again.",
+    "message": "নিউরাল ট্রান্সক্রিপশনের অনুরোধ ব্যর্থ হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।"
+  },
+  "v2_6229de22": {
+    "description": "Auto-generated translation for: Rate Us",
+    "message": "আমাদের রেট দিন"
+  },
+  "v2_568faf56": {
+    "description": "Auto-generated translation for: Completed!",
+    "message": "সম্পন্ন!"
+  },
+  "v2_7004a3f5": {
+    "description": "Auto-generated translation for: minutes remaining",
+    "message": "মিনিট বাকি"
+  },
+  "v2_6d7c277a": {
+    "description": "Auto-generated translation for: Loading quota...",
+    "message": "কোটা লোড হচ্ছে..."
+  },
+  "v2_0696db44": {
+    "description": "Auto-generated translation for: total",
+    "message": "মোট"
+  },
+  "v2_00285fdd": {
+    "description": "Auto-generated translation for: Used",
+    "message": "ব্যবহৃত"
+  },
+  "v2_009e39c0": {
+    "description": "Auto-generated translation for: Platforms",
+    "message": "প্ল্যাটফর্ম"
+  },
+  "v2_66dcbc1c": {
+    "description": "Auto-generated translation for: Pro Lifetime",
+    "message": "প্রো লাইফটাইম"
+  },
+  "v2_7b1bc857": {
+    "description": "Auto-generated translation for: For serious learners who want Pro lifetime access.",
+    "message": "গুরুত্বপূর্ণ শিক্ষার্থীদের জন্য যারা প্রো লাইফটাইম অ্যাক্সেস চান।"
+  },
+  "v2_7de1b6ff": {
+    "description": "Auto-generated translation for: Everything in Pro",
+    "message": "প্রো-তে সবকিছু"
+  },
+  "v2_3bc8bb04": {
+    "description": "Auto-generated translation for: Pro Plan",
+    "message": "প্রো প্ল্যান"
+  },
+  "v2_4cbe39fb": {
+    "description": "Auto-generated translation for: Everything in Pro, Priority support, Early access",
+    "message": "প্রো-এর সবকিছু, অগ্রাধিকার সহায়তা, প্রথমিক প্রবেশাধিকার"
+  },
+  "v2_0a6576bc": {
+    "description": "Auto-generated translation for: Unpin language",
+    "message": "ভাষা আনপিন করুন"
+  },
+  "v2_66bff25d": {
+    "description": "Auto-generated translation for: Pin language",
+    "message": "ভাষা পিন করুন"
   }
 }

@@ -1920,14 +1920,6 @@
     "description": "Auto-generated translation for: This will take a few seconds",
     "message": "สิ่งนี้จะใช้เวลาสักครู่"
   },
-  "v2_7810d301": {
-    "description": "Auto-generated translation for: Native subtitle color updated",
-    "message": "อัปเดตสีของคำบรรยายดั้งเดิมแล้ว"
-  },
-  "v2_716be5e8": {
-    "description": "Auto-generated translation for: Learning subtitle color updated",
-    "message": "ปรับปรุงสีของตัวอักษร"
-  },
   "v2_77a2cd88": {
     "description": "Auto-generated translation for: Subtitle Colors",
     "message": "สีของคำบรรยาย"
@@ -5590,10 +5582,6 @@
     "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
     "message": "ค้นหาคำ วลี และประโยคทั้งหมดของคุณได้ที่นี่"
   },
-  "v2_7307d836": {
-    "description": "Auto-generated translation for: Join Discord",
-    "message": "เข้าร่วม Discord"
-  },
   "v2_1589890f": {
     "description": "Auto-generated translation for: Website Dashboard",
     "message": "แดชบอร์ดเว็บไซต์"
@@ -7337,5 +7325,77 @@
   "v2_4e5a5812": {
     "description": "Auto-generated translation for: User Overrides",
     "message": "ค่าที่ผู้ใช้กำหนดเอง"
+  },
+  "v2_557fd065": {
+    "description": "Auto-generated translation for: Neural transcription processing failed",
+    "message": "การประมวลผลข้อความถอดเสียงผิดพลาด"
+  },
+  "v2_2662de51": {
+    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated",
+    "message": "การถอดเสียงจากระบบประสาทเสร็จสมบูรณ์ แต่ไม่มีคำบรรยายถูกสร้างขึ้น"
+  },
+  "v2_7be6e727": {
+    "description": "Auto-generated translation for: No transcription ID returned",
+    "message": "ไม่มีการส่งคืนรหัสการถอดความ"
+  },
+  "v2_3846b5ed": {
+    "description": "Auto-generated translation for: Failed to request neural transcription. Please try again.",
+    "message": "ไม่สามารถขอการถอดความด้วยระบบประสาทได้ โปรดลองอีกครั้ง"
+  },
+  "v2_6229de22": {
+    "description": "Auto-generated translation for: Rate Us",
+    "message": "ให้คะแนนเรา"
+  },
+  "v2_568faf56": {
+    "description": "Auto-generated translation for: Completed!",
+    "message": "เสร็จสมบูรณ์!"
+  },
+  "v2_7004a3f5": {
+    "description": "Auto-generated translation for: minutes remaining",
+    "message": "นาทีที่เหลือ"
+  },
+  "v2_6d7c277a": {
+    "description": "Auto-generated translation for: Loading quota...",
+    "message": "กำลังโหลดโควตา..."
+  },
+  "v2_0696db44": {
+    "description": "Auto-generated translation for: total",
+    "message": "รวม"
+  },
+  "v2_00285fdd": {
+    "description": "Auto-generated translation for: Used",
+    "message": "ใช้แล้ว"
+  },
+  "v2_009e39c0": {
+    "description": "Auto-generated translation for: Platforms",
+    "message": "แพลตฟอร์ม"
+  },
+  "v2_66dcbc1c": {
+    "description": "Auto-generated translation for: Pro Lifetime",
+    "message": "โปร ตลอดชีพ"
+  },
+  "v2_7b1bc857": {
+    "description": "Auto-generated translation for: For serious learners who want Pro lifetime access.",
+    "message": "สำหรับผู้เรียนที่จริงจังที่ต้องการเข้าถึง Pro ตลอดชีพ"
+  },
+  "v2_7de1b6ff": {
+    "description": "Auto-generated translation for: Everything in Pro",
+    "message": "ทุกอย่างในเวอร์ชันโปร"
+  },
+  "v2_3bc8bb04": {
+    "description": "Auto-generated translation for: Pro Plan",
+    "message": "โปรแพลน"
+  },
+  "v2_4cbe39fb": {
+    "description": "Auto-generated translation for: Everything in Pro, Priority support, Early access",
+    "message": "ทุกอย่างในแพ็คเกจ Pro, การสนับสนุนแบบจัดลำดับความสำคัญ, สิทธิ์เข้าถึงก่อนใคร"
+  },
+  "v2_0a6576bc": {
+    "description": "Auto-generated translation for: Unpin language",
+    "message": "เลิกปักหมุดภาษา"
+  },
+  "v2_66bff25d": {
+    "description": "Auto-generated translation for: Pin language",
+    "message": "ปักหมุดภาษา"
   }
 }

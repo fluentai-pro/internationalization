@@ -1920,14 +1920,6 @@
     "description": "Auto-generated translation for: This will take a few seconds",
     "message": "Това ще отнеме няколко секунди"
   },
-  "v2_7810d301": {
-    "description": "Auto-generated translation for: Native subtitle color updated",
-    "message": "Цветът на вградените субтитри е обновен"
-  },
-  "v2_716be5e8": {
-    "description": "Auto-generated translation for: Learning subtitle color updated",
-    "message": "Научен цвят на субтитрите актуализиран"
-  },
   "v2_77a2cd88": {
     "description": "Auto-generated translation for: Subtitle Colors",
     "message": "Цветове на субтитрите"
@@ -5590,10 +5582,6 @@
     "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
     "message": "Намерете всички ваши думи, фрази и изречения тук."
   },
-  "v2_7307d836": {
-    "description": "Auto-generated translation for: Join Discord",
-    "message": "Присъедини се към Discord"
-  },
   "v2_1589890f": {
     "description": "Auto-generated translation for: Website Dashboard",
     "message": "Табло на уебсайта"
@@ -7337,5 +7325,73 @@
   "v2_4e5a5812": {
     "description": "Auto-generated translation for: User Overrides",
     "message": "Потребителски корекции"
+  },
+  "v2_557fd065": {
+    "description": "Auto-generated translation for: Neural transcription processing failed",
+    "message": "Обработката на невронна транскрипция не бе успешна"
+  },
+  "v2_2662de51": {
+    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated",
+    "message": "Невронното транскрибиране завърши, но не бяха генерирани субтитри"
+  },
+  "v2_7be6e727": {
+    "description": "Auto-generated translation for: No transcription ID returned",
+    "message": "Не е върнат идентификатор на транскрипция"
+  },
+  "v2_3846b5ed": {
+    "description": "Auto-generated translation for: Failed to request neural transcription. Please try again.",
+    "message": "Неуспешна заявка за невронна транскрипция. Моля, опитайте отново."
+  },
+  "v2_6229de22": {
+    "description": "Auto-generated translation for: Rate Us",
+    "message": "Оценете ни"
+  },
+  "v2_568faf56": {
+    "description": "Auto-generated translation for: Completed!",
+    "message": "Завършено!"
+  },
+  "v2_7004a3f5": {
+    "description": "Auto-generated translation for: minutes remaining",
+    "message": "оставащи минути"
+  },
+  "v2_6d7c277a": {
+    "description": "Auto-generated translation for: Loading quota...",
+    "message": "Зареждане на квота..."
+  },
+  "v2_0696db44": {
+    "description": "Auto-generated translation for: total",
+    "message": "общо"
+  },
+  "v2_00285fdd": {
+    "description": "Auto-generated translation for: Used",
+    "message": "Използвано"
+  },
+  "v2_009e39c0": {
+    "description": "Auto-generated translation for: Platforms",
+    "message": "Платформи"
+  },
+  "v2_66dcbc1c": {
+    "description": "Auto-generated translation for: Pro Lifetime",
+    "message": "Pro доживотен"
+  },
+  "v2_7b1bc857": {
+    "description": "Auto-generated translation for: For serious learners who want Pro lifetime access.",
+    "message": "За сериозни учащи, които искат доживотен Pro достъп."
+  },
+  "v2_7de1b6ff": {
+    "description": "Auto-generated translation for: Everything in Pro",
+    "message": "Всичко в Pro"
+  },
+  "v2_3bc8bb04": {
+    "description": "Auto-generated translation for: Pro Plan",
+    "message": "Про план"
+  },
+  "v2_4cbe39fb": {
+    "description": "Auto-generated translation for: Everything in Pro, Priority support, Early access",
+    "message": "Всичко в Pro, Приоритизирана поддръжка, Ранен достъп"
+  },
+  "v2_66bff25d": {
+    "description": "Auto-generated translation for: Pin language",
+    "message": "Език на пина"
   }
 }

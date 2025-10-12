@@ -1920,14 +1920,6 @@
     "description": "Auto-generated translation for: This will take a few seconds",
     "message": "இது சில நொடிகள் எடுக்கும்"
   },
-  "v2_7810d301": {
-    "description": "Auto-generated translation for: Native subtitle color updated",
-    "message": "உள்ளமை சப்டைட்டில் நிறம் புதுப்பிக்கப்பட்டது"
-  },
-  "v2_716be5e8": {
-    "description": "Auto-generated translation for: Learning subtitle color updated",
-    "message": "உரைவிளக்க வண்ணம் கற்றல் புதுப்பிக்கப்பட்டது"
-  },
   "v2_77a2cd88": {
     "description": "Auto-generated translation for: Subtitle Colors",
     "message": "\"உரை வண்ணங்கள்\""
@@ -5590,10 +5582,6 @@
     "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
     "message": "உங்கள் வார்த்தைகள், சொற்றொடர்கள் மற்றும் வாக்கியங்கள் அனைத்தையும் இங்கே கண்டறியவும்."
   },
-  "v2_7307d836": {
-    "description": "Auto-generated translation for: Join Discord",
-    "message": "டிஸ்கார்டில் இணைக"
-  },
   "v2_1589890f": {
     "description": "Auto-generated translation for: Website Dashboard",
     "message": "இணையதள டாஷ்போர்டு"
@@ -7337,5 +7325,77 @@
   "v2_4e5a5812": {
     "description": "Auto-generated translation for: User Overrides",
     "message": "பயனர் மேலெழுதுதல்கள்"
+  },
+  "v2_557fd065": {
+    "description": "Auto-generated translation for: Neural transcription processing failed",
+    "message": "நியூரல் டிரான்ஸ்கிரிப்ஷன் செயலாக்கம் தோல்வியடைந்தது"
+  },
+  "v2_2662de51": {
+    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated",
+    "message": "நியூரல் டிரான்ஸ்கிரிப்ஷன் முடிந்தது, ஆனால் வசன வரிகள் எதுவும் உருவாக்கப்படவில்லை"
+  },
+  "v2_7be6e727": {
+    "description": "Auto-generated translation for: No transcription ID returned",
+    "message": "படியெடுத்தல் ஐடி எதுவும் திரும்பவில்லை"
+  },
+  "v2_3846b5ed": {
+    "description": "Auto-generated translation for: Failed to request neural transcription. Please try again.",
+    "message": "நியூரல் டிரான்ஸ்கிரிப்ஷனை கோரத் தவறிவிட்டது. மீண்டும் முயற்சிக்கவும்."
+  },
+  "v2_6229de22": {
+    "description": "Auto-generated translation for: Rate Us",
+    "message": "எங்களை மதிப்பிடுங்கள்"
+  },
+  "v2_568faf56": {
+    "description": "Auto-generated translation for: Completed!",
+    "message": "முடிந்தது!"
+  },
+  "v2_7004a3f5": {
+    "description": "Auto-generated translation for: minutes remaining",
+    "message": "நிமிடங்கள் மீதமுள்ளன"
+  },
+  "v2_6d7c277a": {
+    "description": "Auto-generated translation for: Loading quota...",
+    "message": "நிலை ஒதுக்கப்பட்டுள்ளது..."
+  },
+  "v2_0696db44": {
+    "description": "Auto-generated translation for: total",
+    "message": "மொத்தம்"
+  },
+  "v2_00285fdd": {
+    "description": "Auto-generated translation for: Used",
+    "message": "பயன்படுத்தப்பட்டது"
+  },
+  "v2_009e39c0": {
+    "description": "Auto-generated translation for: Platforms",
+    "message": "தளங்கள்"
+  },
+  "v2_66dcbc1c": {
+    "description": "Auto-generated translation for: Pro Lifetime",
+    "message": "ப்ரோ வாழ்நாள்"
+  },
+  "v2_7b1bc857": {
+    "description": "Auto-generated translation for: For serious learners who want Pro lifetime access.",
+    "message": "புரோ வாழ்நாள் அணுகலை விரும்பும் தீவிர கற்கும் மாணவர்களுக்கு."
+  },
+  "v2_7de1b6ff": {
+    "description": "Auto-generated translation for: Everything in Pro",
+    "message": "சர்வமும் புரோவில்"
+  },
+  "v2_3bc8bb04": {
+    "description": "Auto-generated translation for: Pro Plan",
+    "message": "புரோ திட்டம்"
+  },
+  "v2_4cbe39fb": {
+    "description": "Auto-generated translation for: Everything in Pro, Priority support, Early access",
+    "message": "ப்ரோவில் அனைத்தும், முன்னுரிமை ஆதரவு, முன்கூட்டிய அணுகல்"
+  },
+  "v2_0a6576bc": {
+    "description": "Auto-generated translation for: Unpin language",
+    "message": "மொழியை அன்-பின் செய்"
+  },
+  "v2_66bff25d": {
+    "description": "Auto-generated translation for: Pin language",
+    "message": "பின் மொழி"
   }
 }

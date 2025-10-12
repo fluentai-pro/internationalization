@@ -1920,14 +1920,6 @@
     "description": "Auto-generated translation for: This will take a few seconds",
     "message": "Αυτό θα πάρει μερικά δευτερόλεπτα"
   },
-  "v2_7810d301": {
-    "description": "Auto-generated translation for: Native subtitle color updated",
-    "message": "Ενημερώθηκε το χρώμα των ενσωματωμένων υποτίτλων"
-  },
-  "v2_716be5e8": {
-    "description": "Auto-generated translation for: Learning subtitle color updated",
-    "message": "Ενημερώθηκε το χρώμα των μαθησιακών υποτίτλων"
-  },
   "v2_77a2cd88": {
     "description": "Auto-generated translation for: Subtitle Colors",
     "message": "Χρώματα Υποτίτλων"
@@ -5590,10 +5582,6 @@
     "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
     "message": "Βρείτε όλες τις λέξεις, φράσεις και προτάσεις σας εδώ."
   },
-  "v2_7307d836": {
-    "description": "Auto-generated translation for: Join Discord",
-    "message": "Εγγραφείτε στο Discord"
-  },
   "v2_1589890f": {
     "description": "Auto-generated translation for: Website Dashboard",
     "message": "Πίνακας ελέγχου ιστοτόπου"
@@ -7337,5 +7325,77 @@
   "v2_4e5a5812": {
     "description": "Auto-generated translation for: User Overrides",
     "message": "Παρακάμψεις Χρήστη"
+  },
+  "v2_557fd065": {
+    "description": "Auto-generated translation for: Neural transcription processing failed",
+    "message": "Η επεξεργασία νευρωνικής μεταγραφής απέτυχε"
+  },
+  "v2_2662de51": {
+    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated",
+    "message": "Ολοκληρώθηκε η νευρωνική μεταγραφή, αλλά δεν δημιουργήθηκαν υπότιτλοι"
+  },
+  "v2_7be6e727": {
+    "description": "Auto-generated translation for: No transcription ID returned",
+    "message": "Δεν επεστράφη αναγνωριστικό μεταγραφής"
+  },
+  "v2_3846b5ed": {
+    "description": "Auto-generated translation for: Failed to request neural transcription. Please try again.",
+    "message": "Αποτυχία αιτήματος νευρωνικής μεταγραφής. Παρακαλώ δοκιμάστε ξανά."
+  },
+  "v2_6229de22": {
+    "description": "Auto-generated translation for: Rate Us",
+    "message": "Αξιολογήστε μας"
+  },
+  "v2_568faf56": {
+    "description": "Auto-generated translation for: Completed!",
+    "message": "Ολοκληρώθηκε!"
+  },
+  "v2_7004a3f5": {
+    "description": "Auto-generated translation for: minutes remaining",
+    "message": "λεπτά που απομένουν"
+  },
+  "v2_6d7c277a": {
+    "description": "Auto-generated translation for: Loading quota...",
+    "message": "Φόρτωση ορίου..."
+  },
+  "v2_0696db44": {
+    "description": "Auto-generated translation for: total",
+    "message": "σύνολο"
+  },
+  "v2_00285fdd": {
+    "description": "Auto-generated translation for: Used",
+    "message": "Μεταχειρισμένο"
+  },
+  "v2_009e39c0": {
+    "description": "Auto-generated translation for: Platforms",
+    "message": "Πλατφόρμες"
+  },
+  "v2_66dcbc1c": {
+    "description": "Auto-generated translation for: Pro Lifetime",
+    "message": "Pro Διάρκειας Ζωής"
+  },
+  "v2_7b1bc857": {
+    "description": "Auto-generated translation for: For serious learners who want Pro lifetime access.",
+    "message": "Για σοβαρούς μαθητές που θέλουν ισόβια πρόσβαση Pro."
+  },
+  "v2_7de1b6ff": {
+    "description": "Auto-generated translation for: Everything in Pro",
+    "message": "Όλα στο Pro"
+  },
+  "v2_3bc8bb04": {
+    "description": "Auto-generated translation for: Pro Plan",
+    "message": "Pro Plan"
+  },
+  "v2_4cbe39fb": {
+    "description": "Auto-generated translation for: Everything in Pro, Priority support, Early access",
+    "message": "Όλα στην Pro έκδοση, Υποστήριξη προτεραιότητας, Πρόωρη πρόσβαση"
+  },
+  "v2_0a6576bc": {
+    "description": "Auto-generated translation for: Unpin language",
+    "message": "Ξεκαρφίτσωμα γλώσσας"
+  },
+  "v2_66bff25d": {
+    "description": "Auto-generated translation for: Pin language",
+    "message": "Προσαρμογή γλώσσας"
   }
 }
