@@ -207,10 +207,6 @@
     "description": "Auto-generated translation for: Type",
     "message": "ಪ್ರಕಾರ"
   },
-  "v2_04e9a151": {
-    "description": "Auto-generated translation for: Value",
-    "message": "ಮೂಲ್ಯ"
-  },
   "v2_6c9bdee4": {
     "description": "Auto-generated translation for: Select",
     "message": "ಆಯ್ಕೆಮಾಡಿ"
@@ -218,10 +214,6 @@
   "v2_1df8e0dd": {
     "description": "Auto-generated translation for: Actions",
     "message": "ಕ್ರಿಯೆಗಳು"
-  },
-  "v2_378b6b55": {
-    "description": "Auto-generated translation for: Created At",
-    "message": "ನಿರ್ಮಿಸಿದ ದಿನಾಂಕ"
   },
   "v2_04ed245b": {
     "description": "Auto-generated translation for: Video",
@@ -5391,10 +5383,6 @@
       }
     }
   },
-  "v2_5ee723a3": {
-    "description": "Auto-generated translation for: Add selected to list",
-    "message": "ಆಯ್ಕೆಮಾಡಿದವನ್ನು ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ"
-  },
   "v2_04607375": {
     "description": "Auto-generated translation for: Lists",
     "message": "ಪಟ್ಟಿಗಳು"
@@ -5577,14 +5565,6 @@
   "v2_6777abf6": {
     "description": "Auto-generated translation for: Preparing...",
     "message": "ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ..."
-  },
-  "v2_6c6444d3": {
-    "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
-    "message": "ನಿಮ್ಮೆಲ್ಲಾ ಪದಗಳು, ನುಡಿಗಟ್ಟುಗಳು ಮತ್ತು ವಾಕ್ಯಗಳನ್ನು ಇಲ್ಲಿ ಹುಡುಕಿ."
-  },
-  "v2_1589890f": {
-    "description": "Auto-generated translation for: Website Dashboard",
-    "message": "ವೆಬ್‌ಸೈಟ್ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್"
   },
   "v2_22949459": {
     "description": "Auto-generated translation for: Combine multiple words to understand phrases and expressions better.",
@@ -6280,10 +6260,6 @@
   "v2_487a3b00": {
     "description": "Auto-generated translation for: Video ID",
     "message": "ವೀಡಿಯೊ ಐಡಿ"
-  },
-  "v2_1406389d": {
-    "description": "Auto-generated translation for: Select all",
-    "message": "ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡಿ"
   },
   "v2_74479309": {
     "description": "Auto-generated translation for: Queued for processing",
@@ -7423,5 +7399,413 @@
   "v2_54b5322a": {
     "description": "Auto-generated translation for: Remaining",
     "message": "ಉಳಿದಿರುವ"
+  },
+  "v2_2f347555": {
+    "description": "Auto-generated translation for: Setting Updated",
+    "message": "ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗಿದೆ"
+  },
+  "v2_0024250c": {
+    "description": "Auto-generated translation for: Live",
+    "message": "ಲೈವ್"
+  },
+  "v2_77102c1a": {
+    "description": "Auto-generated translation for: Manual",
+    "message": "ಕೈಪಿಡಿ"
+  },
+  "v2_699cedf1": {
+    "description": "Auto-generated translation for: Select a store to inspect its data",
+    "message": "ಅದರ ಡೇಟಾವನ್ನು ಪರಿಶೀಲಿಸಲು ಅಂಗಡಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_21d27833": {
+    "description": "Auto-generated translation for: Collapse",
+    "message": "ಕುಸಿತ"
+  },
+  "v2_7c8dcaba": {
+    "description": "Auto-generated translation for: Expand",
+    "message": "ವಿಸ್ತರಿಸಿ"
+  },
+  "v2_6bc6f02e": {
+    "description": "Auto-generated translation for: Stores",
+    "message": "ಅಂಗಡಿಗಳು"
+  },
+  "v2_5c265f36": {
+    "description": "Auto-generated translation for: Components",
+    "message": "ಘಟಕಗಳು"
+  },
+  "v2_764fb87a": {
+    "description": "Auto-generated translation for: Modals",
+    "message": "ಮೋಡಲ್ಸ್"
+  },
+  "v2_77a8eb54": {
+    "description": "Auto-generated translation for: Saved At",
+    "message": "ಇಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ"
+  },
+  "v2_00218bca": {
+    "description": "Auto-generated translation for: From",
+    "message": "ಇಂದ"
+  },
+  "v2_04e18f3e": {
+    "description": "Auto-generated translation for: Until",
+    "message": "ವರೆಗೆ"
+  },
+  "v2_43155149": {
+    "description": "Auto-generated translation for: Open date range filter",
+    "message": "ದಿನಾಂಕ ಶ್ರೇಣಿಯ ಫಿಲ್ಟರ್ ತೆರೆಯಿರಿ"
+  },
+  "v2_78b39664": {
+    "description": "Auto-generated translation for: From Date",
+    "message": "ದಿನಾಂಕದಿಂದ"
+  },
+  "v2_1ad8b233": {
+    "description": "Auto-generated translation for: To Date",
+    "message": "ಇಲ್ಲಿಯವರೆಗೆ"
+  },
+  "v2_4d850910": {
+    "description": "Auto-generated translation for: Select from calendar",
+    "message": "ಕ್ಯಾಲೆಂಡರ್‌ನಿಂದ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_03e2c62d": {
+    "description": "Auto-generated translation for: Clear",
+    "message": "ತೆಗೆದುಹಾಕು"
+  },
+  "v2_75cbc37c": {
+    "description": "Auto-generated translation for: Learning Word/Phrase",
+    "message": "ಪದ/ವಾಕ್ಯ ಕಲಿಯಲಾಗುತ್ತಿದೆ"
+  },
+  "v2_7da9a4a4": {
+    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
+    "message": "{list_name} ನಿಂದ {count} ಪದಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_72e4746a": {
+    "description": "Auto-generated translation for: Removed from {list_name}",
+    "message": "{list_name} ನಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4f84faa1": {
+    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
+    "message": "{list_name} ನಿಂದ {count} ಆಯ್ದ ಪದಗಳನ್ನು ತೆಗೆದುಹಾಕಿ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1d032bb2": {
+    "description": "Auto-generated translation for: Remove from {list_name}",
+    "message": "{list_name} ನಿಂದ ತೆಗೆದುಹಾಕಿ",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2e9d3423": {
+    "description": "Auto-generated translation for: Add {count} selected words to list",
+    "message": "$count$ ಆಯ್ದ ಪದಗಳನ್ನು ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_26ab0d7c": {
+    "description": "Auto-generated translation for: Add to list",
+    "message": "ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ"
+  },
+  "v2_556a740a": {
+    "description": "Auto-generated translation for: Add {count} words to list",
+    "message": "ಪಟ್ಟಿಗೆ {count} ಪದಗಳನ್ನು ಸೇರಿಸಿ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2c9c6b81": {
+    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
+    "message": "{list_name}ನಿಂದ {count} ಪದಗಳನ್ನು ತೆಗೆದುಹಾಕುವುದೇ?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_4189672b": {
+    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
+    "message": "ಇದು ಈ ಪಟ್ಟಿಯಿಂದ ಆಯ್ದ ಪದಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ. ಅವು ನಿಮ್ಮ ನೋಟ್‌ಬುಕ್‌ನಲ್ಲಿ ಇನ್ನೂ ಇರುತ್ತವೆ."
+  },
+  "v2_598a626d": {
+    "description": "Auto-generated translation for: Removing...",
+    "message": "ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_28c8c2bf": {
+    "description": "Auto-generated translation for: Enable FluentAI",
+    "message": "ಫ್ಲೂಯೆಂಟ್AI ಸಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "v2_558e3bed": {
+    "description": "Auto-generated translation for: This video will use %s minutes",
+    "message": "ಈ ವೀಡಿಯೊ %s ನಿಮಿಷಗಳನ್ನು ಬಳಸುತ್ತದೆ"
+  },
+  "v2_5df79a31": {
+    "description": "Auto-generated translation for: Loading video duration...",
+    "message": "ವೀಡಿಯೊ ಅವಧಿಯನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_496c6513": {
+    "description": "Auto-generated translation for: Upgrade Plan",
+    "message": "ಯೋಜನೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+  },
+  "v2_64d14b6f": {
+    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
+    "message": "ಈ ವೀಡಿಯೊಗೆ %s ನಿಮಿಷಗಳು ಬೇಕಾಗುತ್ತವೆ, ಆದರೆ ನಿಮ್ಮಲ್ಲಿ ಕೇವಲ %s ನಿಮಿಷಗಳು ಮಾತ್ರ ಉಳಿದಿವೆ"
+  },
+  "v2_03482321": {
+    "description": "Auto-generated translation for: Enabled",
+    "message": "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "v2_14009e9c": {
+    "description": "Auto-generated translation for: Disabled",
+    "message": "ವಿಕಲಚೇತನ"
+  },
+  "v2_3ef27976": {
+    "description": "Auto-generated translation for: Characters",
+    "message": "ಪಾತ್ರಗಳು"
+  },
+  "v2_77578069": {
+    "description": "Auto-generated translation for: Examples",
+    "message": "ಉದಾಹರಣೆಗಳು"
+  },
+  "v2_33b68d5c": {
+    "description": "Auto-generated translation for: v2_yes",
+    "message": "v2_ಹೌದು"
+  },
+  "v2_06970264": {
+    "description": "Auto-generated translation for: v2_no",
+    "message": "v2_no"
+  },
+  "v2_03e43f43": {
+    "description": "Auto-generated translation for: Color",
+    "message": "ಬಣ್ಣ"
+  },
+  "v2_00275421": {
+    "description": "Auto-generated translation for: Size",
+    "message": "ಗಾತ್ರ"
+  },
+  "v2_35777caf": {
+    "description": "Auto-generated translation for: Configuration Updated",
+    "message": "ಸಂರಚನೆಯನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ"
+  },
+  "v2_6e4ee645": {
+    "description": "Auto-generated translation for: Repeat",
+    "message": "ಪುನರಾವೃತ್ತಿ"
+  },
+  "v2_4cf2edbc": {
+    "description": "Auto-generated translation for: Repeat Enabled",
+    "message": "ಪುನರಾವರ್ತನೆ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "v2_0050d89f": {
+    "description": "Auto-generated translation for: Repeat Disabled",
+    "message": "ಪುನರಾವೃತ್ತಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "v2_4be4859a": {
+    "description": "Auto-generated translation for: Playback Modes Updated",
+    "message": "ಪ್ಲೇಬ್ಯಾಕ್ ಮೋಡ್‌ಗಳನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ"
+  },
+  "v2_4c1b6eb8": {
+    "description": "Auto-generated translation for: Keybindings Updated",
+    "message": "ಕೀಬೈಂಡಿಂಗ್‌ಗಳು ಅಪ್‌ಡೇಟ್ ಆಗಿವೆ"
+  },
+  "v2_23fa7255": {
+    "description": "Auto-generated translation for: Platform Settings Updated",
+    "message": "ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಅಪ್‌ಡೇಟ್ ಆಗಿವೆ"
+  },
+  "v2_35bb7c77": {
+    "description": "Auto-generated translation for: Table Layout Updated",
+    "message": "ಕೋಷ್ಟಕ ವಿನ್ಯಾಸ ನವೀಕರಿಸಲಾಗಿದೆ"
+  },
+  "v2_06b472de": {
+    "description": "Auto-generated translation for: Video List Updated",
+    "message": "ವೀಡಿಯೊ ಪಟ್ಟಿ ನವೀಕರಿಸಲಾಗಿದೆ"
+  },
+  "v2_2dd9170c": {
+    "description": "Auto-generated translation for: Voice Settings Updated",
+    "message": "ಧ್ವನಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ"
+  },
+  "v2_1cf42327": {
+    "description": "Auto-generated translation for: Learning Subtitles",
+    "message": "ಕಲಿಯುವ ಉಪಶೀರ್ಷಿಕೆಗಳು"
+  },
+  "v2_55ec6ee5": {
+    "description": "Auto-generated translation for: Subtitle Character Length",
+    "message": "ಉಪಶೀರ್ಷಿಕೆ ಅಕ್ಷರ ಉದ್ದ"
+  },
+  "v2_788e051b": {
+    "description": "Auto-generated translation for: Text-to-Speech Speed",
+    "message": "ಪಠ್ಯದಿಂದ ಭಾಷಣದ ವೇಗ"
+  },
+  "v2_7b3a55db": {
+    "description": "Auto-generated translation for: Text-to-Speech Metadata",
+    "message": "ಪಠ್ಯದಿಂದ ಭಾಷಣ ಮೆಟಾಡೇಟಾ"
+  },
+  "v2_450ba908": {
+    "description": "Auto-generated translation for: Repeat Settings",
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಪುನರಾವರ್ತಿಸಿ"
+  },
+  "v2_2de46fc0": {
+    "description": "Auto-generated translation for: Auto Dubbing",
+    "message": "ಸ್ವಯಂ ಡಬ್ಬಿಂಗ್"
+  },
+  "v2_380dcdde": {
+    "description": "Auto-generated translation for: Phrase Freeze",
+    "message": "ಫ್ರೇಸ್ ಫ್ರೀಜ್"
+  },
+  "v2_61ba4188": {
+    "description": "Auto-generated translation for: Smart Restart",
+    "message": "ಸ್ಮಾರ್ಟ್ ಮರುಪ್ರಾರಂಭ"
+  },
+  "v2_030c1e45": {
+    "description": "Auto-generated translation for: Smart Restart Delay",
+    "message": "ಸ್ಮಾರ್ಟ್ ಮರುಪ್ರಾರಂಭ ವಿಳಂಬ"
+  },
+  "v2_49e7df34": {
+    "description": "Auto-generated translation for: Add Spaces",
+    "message": "ಜಾಗಗಳನ್ನು ಸೇರಿಸಿ"
+  },
+  "v2_4c5b99cd": {
+    "description": "Auto-generated translation for: Keybindings",
+    "message": "ಕೀಬೈಂಡಿಂಗ್‌ಗಳು"
+  },
+  "v2_01ce83f9": {
+    "description": "Auto-generated translation for: Bookmark Color",
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್ ಬಣ್ಣ"
+  },
+  "v2_623e6865": {
+    "description": "Auto-generated translation for: Bookmark Variant",
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್ ಆವೃತ್ತಿ"
+  },
+  "v2_146e65b1": {
+    "description": "Auto-generated translation for: Platform States",
+    "message": "ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಸ್ಟೇಟ್ಸ್"
+  },
+  "v2_37c9741f": {
+    "description": "Auto-generated translation for: Current Videos",
+    "message": "ಪ್ರಸ್ತುತ ವೀಡಿಯೊಗಳು"
+  },
+  "v2_608f925b": {
+    "description": "Auto-generated translation for: Number of Examples",
+    "message": "ಉದಾಹರಣೆಗಳ ಸಂಖ್ಯೆ"
+  },
+  "v2_50cf9726": {
+    "description": "Auto-generated translation for: Insight Visibility",
+    "message": "ಒಳನೋಟ ಗೋಚರತೆ"
+  },
+  "v2_3e3938a4": {
+    "description": "Auto-generated translation for: Meanings Visibility",
+    "message": "ಅರ್ಥಗಳ ಗೋಚರತೆ"
+  },
+  "v2_6aab5cdc": {
+    "description": "Auto-generated translation for: Dictionary Visibility",
+    "message": "ನಿಘಂಟಿನ ಗೋಚರತೆ"
+  },
+  "v2_5507a139": {
+    "description": "Auto-generated translation for: Transliteration Visibility",
+    "message": "ಲಿಪ್ಯಂತರ ಗೋಚರತೆ"
+  },
+  "v2_0e3f36a1": {
+    "description": "Auto-generated translation for: Transliteration Type",
+    "message": "ಲಿಪ್ಯಂತರಣ ಪ್ರಕಾರ"
+  },
+  "v2_4c4993e2": {
+    "description": "Auto-generated translation for: Sentence Transliteration Type",
+    "message": "ವಾಕ್ಯದ ಲಿಪ್ಯಂತರದ ಪ್ರಕಾರ"
+  },
+  "v2_5a4c3526": {
+    "description": "Auto-generated translation for: Notebook Table State",
+    "message": "ನೋಟ್‌ಬುಕ್ ಕೋಷ್ಟಕದ ಸ್ಥಿತಿ"
+  },
+  "v2_3053866c": {
+    "description": "Auto-generated translation for: Open Translation Popup on Hover",
+    "message": "ಹೋವರ್ ಮಾಡಿದಾಗ ಅನುವಾದ ಪಾಪ್-ಅಪ್ ತೆರೆಯಿರಿ"
+  },
+  "v2_2673a54c": {
+    "description": "Auto-generated translation for: Show Translation in Subtitles List",
+    "message": "ಉಪಶೀರ್ಷಿಕೆಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಅನುವಾದ ತೋರಿಸಿ"
+  },
+  "v2_650906f8": {
+    "description": "Auto-generated translation for: Bottom Area Gap",
+    "message": "ಕೆಳಭಾಗದ ಪ್ರದೇಶದ ಅಂತರ"
+  },
+  "v2_062e7752": {
+    "description": "Auto-generated translation for: Playback Controls Position",
+    "message": "ಪ್ಲೇಬ್ಯಾಕ್ ನಿಯಂತ್ರಣಗಳ ಸ್ಥಾನ"
+  },
+  "v2_53e3c73a": {
+    "description": "Auto-generated translation for: Highlight Words on Live Speaking",
+    "message": "ಲೈವ್ ಮಾತನಾಡುವಾಗ ಪದಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ"
+  },
+  "v2_4511a7e0": {
+    "description": "Auto-generated translation for: Word Merging Enabled",
+    "message": "ಪದ ವಿಲೀನಗೊಳಿಸುವಿಕೆ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "v2_0fea39ec": {
+    "description": "Auto-generated translation for: Show Language Mismatch Reminder Modal",
+    "message": "ಭಾಷಾ ಅಸಂಗತತೆಯ ಜ್ಞಾಪನೆ ಅಧಿಸೂಚನೆಯನ್ನು ತೋರಿಸಿ"
+  },
+  "v2_486aba86": {
+    "description": "Auto-generated translation for: Speak Word on Translation Popup Open",
+    "message": "ಭಾಷಾಂತರ ಪಾಪ್‌ಅಪ್ ತೆರೆದಾಗ ಪದವನ್ನು ಮಾತನಾಡಿ"
+  },
+  "v2_2260eb57": {
+    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
+    "message": "ಸ್ಥಳೀಯ ಮ್ಯಾಪಿಂಗ್‌ಗೆ ಕಲಿಕೆ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "v2_6fb985d3": {
+    "description": "Auto-generated translation for: Pinned Languages",
+    "message": "ಪಿನ್ ಮಾಡಿದ ಭಾಷೆಗಳು"
+  },
+  "v2_6377d045": {
+    "description": "Auto-generated translation for: Open filters",
+    "message": "ಫಿಲ್ಟರ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ"
+  },
+  "v2_636ee1eb": {
+    "description": "Auto-generated translation for: Search filters...",
+    "message": "ಹುಡುಕಾಟ ಫಿಲ್ಟರ್‌ಗಳು..."
+  },
+  "v2_77202330": {
+    "description": "Auto-generated translation for: No filters found.",
+    "message": "ಯಾವುದೇ ಫಿಲ್ಟರ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ."
+  },
+  "v2_6990bce1": {
+    "description": "Auto-generated translation for: Active Filters",
+    "message": "ಸಕ್ರಿಯ ಫಿಲ್ಟರ್‌ಗಳು"
+  },
+  "v2_5098ff48": {
+    "description": "Auto-generated translation for: No options available",
+    "message": "ಯಾವುದೇ ಆಯ್ಕೆಗಳು ಲಭ್ಯವಿಲ್ಲ"
+  },
+  "v2_4adf1f09": {
+    "description": "Auto-generated translation for: Clear all filters",
+    "message": "ಎಲ್ಲಾ ಫಿಲ್ಟರ್‌ಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ"
+  },
+  "v2_283255e8": {
+    "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
+    "message": "ನಿಮ್ಮ ಉಳಿಸಿದ ಎಲ್ಲಾ ಪದಗಳು, ನುಡಿಗಟ್ಟುಗಳು ಮತ್ತು ವಾಕ್ಯಗಳನ್ನು ಇಲ್ಲಿ ಹುಡುಕಿ. ನೀವು ಅದನ್ನು ಫಿಲ್ಟರ್‌ಗಳ ಮೂಲಕ ವಿಂಗಡಿಸಬಹುದು, ಪಟ್ಟಿಗಳನ್ನು ರಚಿಸಬಹುದು ಮತ್ತು ಅಂಕಿಗೆ ರಫ್ತು ಮಾಡಬಹುದು."
   }
 }

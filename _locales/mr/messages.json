@@ -207,10 +207,6 @@
     "description": "Auto-generated translation for: Type",
     "message": "प्रकार"
   },
-  "v2_04e9a151": {
-    "description": "Auto-generated translation for: Value",
-    "message": "मूल्य"
-  },
   "v2_6c9bdee4": {
     "description": "Auto-generated translation for: Select",
     "message": "निवडा"
@@ -218,10 +214,6 @@
   "v2_1df8e0dd": {
     "description": "Auto-generated translation for: Actions",
     "message": "क्रियाशीलता"
-  },
-  "v2_378b6b55": {
-    "description": "Auto-generated translation for: Created At",
-    "message": "निर्मित तारीख"
   },
   "v2_04ed245b": {
     "description": "Auto-generated translation for: Video",
@@ -5542,10 +5534,6 @@
     "description": "Auto-generated translation for: Mark as Learning",
     "message": "शिकत असल्याचे मार्क करा"
   },
-  "v2_5ee723a3": {
-    "description": "Auto-generated translation for: Add selected to list",
-    "message": "निवडलेले सूचीमध्ये जोडा"
-  },
   "v2_04607375": {
     "description": "Auto-generated translation for: Lists",
     "message": "याद्या"
@@ -5724,14 +5712,6 @@
   "v2_6777abf6": {
     "description": "Auto-generated translation for: Preparing...",
     "message": "तयारी करत आहे..."
-  },
-  "v2_6c6444d3": {
-    "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
-    "message": "तुमचे सर्व शब्द, वाक्ये आणि वाक्यरचना येथे शोधा."
-  },
-  "v2_1589890f": {
-    "description": "Auto-generated translation for: Website Dashboard",
-    "message": "वेबसाइट डॅशबोर्ड"
   },
   "v2_22949459": {
     "description": "Auto-generated translation for: Combine multiple words to understand phrases and expressions better.",
@@ -6435,10 +6415,6 @@
   "v2_487a3b00": {
     "description": "Auto-generated translation for: Video ID",
     "message": "व्हिडिओ आयडी"
-  },
-  "v2_1406389d": {
-    "description": "Auto-generated translation for: Select all",
-    "message": "सर्व निवडा"
   },
   "v2_102529d6": {
     "description": "Auto-generated translation for: Transcription failed!",
@@ -7570,5 +7546,413 @@
   "v2_54b5322a": {
     "description": "Auto-generated translation for: Remaining",
     "message": "बाकी"
+  },
+  "v2_2f347555": {
+    "description": "Auto-generated translation for: Setting Updated",
+    "message": "सेटिंग्ज अपडेट केली"
+  },
+  "v2_0024250c": {
+    "description": "Auto-generated translation for: Live",
+    "message": "थेट"
+  },
+  "v2_77102c1a": {
+    "description": "Auto-generated translation for: Manual",
+    "message": "मॅन्युअल"
+  },
+  "v2_699cedf1": {
+    "description": "Auto-generated translation for: Select a store to inspect its data",
+    "message": "डेटा तपासण्यासाठी स्टोअर निवडा"
+  },
+  "v2_21d27833": {
+    "description": "Auto-generated translation for: Collapse",
+    "message": "कोसळणे"
+  },
+  "v2_7c8dcaba": {
+    "description": "Auto-generated translation for: Expand",
+    "message": "विस्तार करा"
+  },
+  "v2_6bc6f02e": {
+    "description": "Auto-generated translation for: Stores",
+    "message": "दुकाने"
+  },
+  "v2_5c265f36": {
+    "description": "Auto-generated translation for: Components",
+    "message": "घटक"
+  },
+  "v2_764fb87a": {
+    "description": "Auto-generated translation for: Modals",
+    "message": "मोडल्स"
+  },
+  "v2_77a8eb54": {
+    "description": "Auto-generated translation for: Saved At",
+    "message": "यावेळी संग्रहित"
+  },
+  "v2_00218bca": {
+    "description": "Auto-generated translation for: From",
+    "message": "पासून"
+  },
+  "v2_04e18f3e": {
+    "description": "Auto-generated translation for: Until",
+    "message": "पर्यंत"
+  },
+  "v2_43155149": {
+    "description": "Auto-generated translation for: Open date range filter",
+    "message": "तारीख श्रेणी फिल्टर उघडा"
+  },
+  "v2_78b39664": {
+    "description": "Auto-generated translation for: From Date",
+    "message": "या तारखेपासून"
+  },
+  "v2_1ad8b233": {
+    "description": "Auto-generated translation for: To Date",
+    "message": "आजपर्यंत"
+  },
+  "v2_4d850910": {
+    "description": "Auto-generated translation for: Select from calendar",
+    "message": "कॅलेंडरमधून निवडा"
+  },
+  "v2_03e2c62d": {
+    "description": "Auto-generated translation for: Clear",
+    "message": "स्पष्ट"
+  },
+  "v2_75cbc37c": {
+    "description": "Auto-generated translation for: Learning Word/Phrase",
+    "message": "शब्द/वाक्प्रचार शिकणे"
+  },
+  "v2_7da9a4a4": {
+    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
+    "message": "{list_name} मधून {count} शब्द काढले",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_72e4746a": {
+    "description": "Auto-generated translation for: Removed from {list_name}",
+    "message": "{list_name} मधून काढले",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4f84faa1": {
+    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
+    "message": "{list_name} मधून {count} निवडलेले शब्द काढून टाका",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1d032bb2": {
+    "description": "Auto-generated translation for: Remove from {list_name}",
+    "message": "{list_name} मधून काढा",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2e9d3423": {
+    "description": "Auto-generated translation for: Add {count} selected words to list",
+    "message": "निवडलेले {count} शब्द सूचीमध्ये जोडा",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_26ab0d7c": {
+    "description": "Auto-generated translation for: Add to list",
+    "message": "यादीत जोडा"
+  },
+  "v2_556a740a": {
+    "description": "Auto-generated translation for: Add {count} words to list",
+    "message": "यादीत {count} शब्द जोडा",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2c9c6b81": {
+    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
+    "message": "{list_name} मधून {count} शब्द काढायचे?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_4189672b": {
+    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
+    "message": "यामुळे निवडक शब्द सूचीमधून काढून टाकले जातील. ते तुमच्या नोटबुकमध्ये अजूनही असतील."
+  },
+  "v2_598a626d": {
+    "description": "Auto-generated translation for: Removing...",
+    "message": "काढत आहे..."
+  },
+  "v2_28c8c2bf": {
+    "description": "Auto-generated translation for: Enable FluentAI",
+    "message": "फ्लुएंटएआय सक्षम करा"
+  },
+  "v2_558e3bed": {
+    "description": "Auto-generated translation for: This video will use %s minutes",
+    "message": "हा व्हिडिओ %s मिनिटांचा असेल."
+  },
+  "v2_5df79a31": {
+    "description": "Auto-generated translation for: Loading video duration...",
+    "message": "व्हिडिओची वेळ लोड करत आहे..."
+  },
+  "v2_496c6513": {
+    "description": "Auto-generated translation for: Upgrade Plan",
+    "message": "योजना अपग्रेड करा"
+  },
+  "v2_64d14b6f": {
+    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
+    "message": "या व्हिडिओसाठी %s मिनिटे लागतील, पण तुमच्याकडे फक्त %s मिनिटे शिल्लक आहेत."
+  },
+  "v2_03482321": {
+    "description": "Auto-generated translation for: Enabled",
+    "message": "सक्षम केले"
+  },
+  "v2_14009e9c": {
+    "description": "Auto-generated translation for: Disabled",
+    "message": "अक्षम"
+  },
+  "v2_3ef27976": {
+    "description": "Auto-generated translation for: Characters",
+    "message": "वर्ण"
+  },
+  "v2_77578069": {
+    "description": "Auto-generated translation for: Examples",
+    "message": "उदाहरणे"
+  },
+  "v2_33b68d5c": {
+    "description": "Auto-generated translation for: v2_yes",
+    "message": "v2_होय"
+  },
+  "v2_06970264": {
+    "description": "Auto-generated translation for: v2_no",
+    "message": "v2_नाही"
+  },
+  "v2_03e43f43": {
+    "description": "Auto-generated translation for: Color",
+    "message": "रंग"
+  },
+  "v2_00275421": {
+    "description": "Auto-generated translation for: Size",
+    "message": "आकार"
+  },
+  "v2_35777caf": {
+    "description": "Auto-generated translation for: Configuration Updated",
+    "message": "कॉन्फिगरेशन अद्ययावत केले"
+  },
+  "v2_6e4ee645": {
+    "description": "Auto-generated translation for: Repeat",
+    "message": "पुनरावृत्ती करा"
+  },
+  "v2_4cf2edbc": {
+    "description": "Auto-generated translation for: Repeat Enabled",
+    "message": "पुन्हा करा सक्षम"
+  },
+  "v2_0050d89f": {
+    "description": "Auto-generated translation for: Repeat Disabled",
+    "message": "पुनरावृत्ती अक्षम केली"
+  },
+  "v2_4be4859a": {
+    "description": "Auto-generated translation for: Playback Modes Updated",
+    "message": "प्लेबॅक मोड अद्यतनित केले"
+  },
+  "v2_4c1b6eb8": {
+    "description": "Auto-generated translation for: Keybindings Updated",
+    "message": "कीबाइंडिंग्ज अद्ययावित केली"
+  },
+  "v2_23fa7255": {
+    "description": "Auto-generated translation for: Platform Settings Updated",
+    "message": "प्लॅटफॉर्म सेटिंग्ज अपडेट केली"
+  },
+  "v2_35bb7c77": {
+    "description": "Auto-generated translation for: Table Layout Updated",
+    "message": "टेबल मांडणी अद्ययावत केली"
+  },
+  "v2_06b472de": {
+    "description": "Auto-generated translation for: Video List Updated",
+    "message": "व्हिडिओ सूची अपडेट केली"
+  },
+  "v2_2dd9170c": {
+    "description": "Auto-generated translation for: Voice Settings Updated",
+    "message": "आवाजाच्या सेटिंग्ज अद्ययावित केल्या"
+  },
+  "v2_1cf42327": {
+    "description": "Auto-generated translation for: Learning Subtitles",
+    "message": "उपशीर्षके शिकणे"
+  },
+  "v2_55ec6ee5": {
+    "description": "Auto-generated translation for: Subtitle Character Length",
+    "message": "उपशीर्षक वर्ण लांबी"
+  },
+  "v2_788e051b": {
+    "description": "Auto-generated translation for: Text-to-Speech Speed",
+    "message": "टेक्स्ट-टू-स्पीच वेग"
+  },
+  "v2_7b3a55db": {
+    "description": "Auto-generated translation for: Text-to-Speech Metadata",
+    "message": "मजकूर-ते-उच्चार मेटाडेटा"
+  },
+  "v2_450ba908": {
+    "description": "Auto-generated translation for: Repeat Settings",
+    "message": "पुन्हा करा सेटिंग्ज"
+  },
+  "v2_2de46fc0": {
+    "description": "Auto-generated translation for: Auto Dubbing",
+    "message": "ऑटो डबिंग"
+  },
+  "v2_380dcdde": {
+    "description": "Auto-generated translation for: Phrase Freeze",
+    "message": "फ्रेझ फ्रीझ"
+  },
+  "v2_61ba4188": {
+    "description": "Auto-generated translation for: Smart Restart",
+    "message": "स्मार्ट रीस्टार्ट"
+  },
+  "v2_030c1e45": {
+    "description": "Auto-generated translation for: Smart Restart Delay",
+    "message": "स्मार्ट रीस्टार्ट विलंब"
+  },
+  "v2_49e7df34": {
+    "description": "Auto-generated translation for: Add Spaces",
+    "message": "मोकळ्या जागा जोडा"
+  },
+  "v2_4c5b99cd": {
+    "description": "Auto-generated translation for: Keybindings",
+    "message": "कीबाइंडिंग्ज"
+  },
+  "v2_01ce83f9": {
+    "description": "Auto-generated translation for: Bookmark Color",
+    "message": "बुकमार्क रंग"
+  },
+  "v2_623e6865": {
+    "description": "Auto-generated translation for: Bookmark Variant",
+    "message": "बुकमार्क व्हेरिएंट"
+  },
+  "v2_146e65b1": {
+    "description": "Auto-generated translation for: Platform States",
+    "message": "प्लॅटफॉर्मची स्थिती"
+  },
+  "v2_37c9741f": {
+    "description": "Auto-generated translation for: Current Videos",
+    "message": "सध्याचे व्हिडिओ"
+  },
+  "v2_608f925b": {
+    "description": "Auto-generated translation for: Number of Examples",
+    "message": "उदाहरणांची संख्या"
+  },
+  "v2_50cf9726": {
+    "description": "Auto-generated translation for: Insight Visibility",
+    "message": "अंतर्दृष्टी दृश्यमानता"
+  },
+  "v2_3e3938a4": {
+    "description": "Auto-generated translation for: Meanings Visibility",
+    "message": "अर्थांची दृश्यमानता"
+  },
+  "v2_6aab5cdc": {
+    "description": "Auto-generated translation for: Dictionary Visibility",
+    "message": "शब्दकोशाची दृश्यातता"
+  },
+  "v2_5507a139": {
+    "description": "Auto-generated translation for: Transliteration Visibility",
+    "message": "लिप्यांतर दृश्यमानता"
+  },
+  "v2_0e3f36a1": {
+    "description": "Auto-generated translation for: Transliteration Type",
+    "message": "लिप्यांतरण प्रकार"
+  },
+  "v2_4c4993e2": {
+    "description": "Auto-generated translation for: Sentence Transliteration Type",
+    "message": "वाक्य लिप्यंतरण प्रकार"
+  },
+  "v2_5a4c3526": {
+    "description": "Auto-generated translation for: Notebook Table State",
+    "message": "नोटबुक टेबल स्थिती"
+  },
+  "v2_3053866c": {
+    "description": "Auto-generated translation for: Open Translation Popup on Hover",
+    "message": "होव्हर केल्यावर ट्रान्सलेशन पॉपअप उघडा"
+  },
+  "v2_2673a54c": {
+    "description": "Auto-generated translation for: Show Translation in Subtitles List",
+    "message": "उपशीर्षक सूचीमध्ये भाषांतर दाखवा"
+  },
+  "v2_650906f8": {
+    "description": "Auto-generated translation for: Bottom Area Gap",
+    "message": "तळभागातील अंतर"
+  },
+  "v2_062e7752": {
+    "description": "Auto-generated translation for: Playback Controls Position",
+    "message": "प्लेबॅक नियंत्रणे स्थिती"
+  },
+  "v2_53e3c73a": {
+    "description": "Auto-generated translation for: Highlight Words on Live Speaking",
+    "message": "थेट बोलण्यावर शब्द हायलाइट करा"
+  },
+  "v2_4511a7e0": {
+    "description": "Auto-generated translation for: Word Merging Enabled",
+    "message": "शब्द विलीनीकरण सक्षम केले"
+  },
+  "v2_0fea39ec": {
+    "description": "Auto-generated translation for: Show Language Mismatch Reminder Modal",
+    "message": "भाषा विसंगती स्मरणपत्र मोडल दाखवा"
+  },
+  "v2_486aba86": {
+    "description": "Auto-generated translation for: Speak Word on Translation Popup Open",
+    "message": "अनुवाद पॉपअप उघडल्यावर शब्द बोला"
+  },
+  "v2_2260eb57": {
+    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
+    "message": "मूळ मॅपिंग शिकण्यास सक्षम केले"
+  },
+  "v2_6fb985d3": {
+    "description": "Auto-generated translation for: Pinned Languages",
+    "message": "पिन केलेल्या भाषा"
+  },
+  "v2_6377d045": {
+    "description": "Auto-generated translation for: Open filters",
+    "message": "फिल्टर उघडा"
+  },
+  "v2_636ee1eb": {
+    "description": "Auto-generated translation for: Search filters...",
+    "message": "फिल्टर शोधा..."
+  },
+  "v2_77202330": {
+    "description": "Auto-generated translation for: No filters found.",
+    "message": "कोणतेही फिल्टर सापडले नाही."
+  },
+  "v2_6990bce1": {
+    "description": "Auto-generated translation for: Active Filters",
+    "message": "सक्रिय फिल्टर"
+  },
+  "v2_5098ff48": {
+    "description": "Auto-generated translation for: No options available",
+    "message": "कोणतेही पर्याय उपलब्ध नाहीत"
+  },
+  "v2_4adf1f09": {
+    "description": "Auto-generated translation for: Clear all filters",
+    "message": "सर्व फिल्टर काढा"
+  },
+  "v2_283255e8": {
+    "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
+    "message": "तुमचे सेव्ह केलेले शब्द, वाक्ये आणि वाक्यांश येथे शोधा. तुम्ही ते फिल्टर्सनुसार सॉर्ट करू शकता, याद्या तयार करू शकता आणि Anki मध्ये एक्सपोर्ट करू शकता."
   }
 }

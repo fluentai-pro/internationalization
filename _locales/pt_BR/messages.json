@@ -1155,14 +1155,6 @@
       }
     }
   },
-  "v2_5ee723a3": {
-    "description": "Auto-generated translation for: Add selected to list",
-    "message": "Adicionar selecionado à lista"
-  },
-  "v2_1406389d": {
-    "description": "Auto-generated translation for: Select all",
-    "message": "Selecionar tudo"
-  },
   "v2_257513f6": {
     "description": "Auto-generated translation for: Unselect all",
     "message": "Desmarcar todos"
@@ -1175,10 +1167,6 @@
     "description": "Auto-generated translation for: ID",
     "message": "ID"
   },
-  "v2_04e9a151": {
-    "description": "Auto-generated translation for: Value",
-    "message": "Valor"
-  },
   "v2_6c9bdee4": {
     "description": "Auto-generated translation for: Select",
     "message": "Selecionar"
@@ -1186,10 +1174,6 @@
   "v2_1df8e0dd": {
     "description": "Auto-generated translation for: Actions",
     "message": "Ações"
-  },
-  "v2_378b6b55": {
-    "description": "Auto-generated translation for: Created At",
-    "message": "Criado em"
   },
   "v2_68708e8b": {
     "description": "Auto-generated translation for: No meanings",
@@ -3371,10 +3355,6 @@
     "description": "Auto-generated translation for: Disable FluentAI",
     "message": "Desabilitar FluentAI"
   },
-  "v2_1589890f": {
-    "description": "Auto-generated translation for: Website Dashboard",
-    "message": "Painel do Website"
-  },
   "v2_705dfa57": {
     "description": "Auto-generated translation for: Request Assistance",
     "message": "Solicitar Assistência"
@@ -5115,10 +5095,6 @@
   "v2_78b5ecb8": {
     "description": "Auto-generated translation for: Effortless language learning tools.",
     "message": "Ferramentas de aprendizado de idiomas sem esforço."
-  },
-  "v2_6c6444d3": {
-    "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
-    "message": "Encontre todas as suas palavras, frases e sentenças aqui."
   },
   "v2_50c72189": {
     "description": "Auto-generated translation for: Profile",
@@ -7267,5 +7243,417 @@
   "v2_0fe0365f": {
     "description": "Auto-generated translation for: Resets in",
     "message": "Redefine em"
+  },
+  "v2_2f347555": {
+    "description": "Auto-generated translation for: Setting Updated",
+    "message": "Configuração atualizada"
+  },
+  "v2_0024250c": {
+    "description": "Auto-generated translation for: Live",
+    "message": "Ao vivo"
+  },
+  "v2_77102c1a": {
+    "description": "Auto-generated translation for: Manual",
+    "message": "Manual"
+  },
+  "v2_699cedf1": {
+    "description": "Auto-generated translation for: Select a store to inspect its data",
+    "message": "Selecione uma loja para inspecionar seus dados"
+  },
+  "v2_21d27833": {
+    "description": "Auto-generated translation for: Collapse",
+    "message": "Recolher"
+  },
+  "v2_7c8dcaba": {
+    "description": "Auto-generated translation for: Expand",
+    "message": "Expandir"
+  },
+  "v2_6bc6f02e": {
+    "description": "Auto-generated translation for: Stores",
+    "message": "Lojas"
+  },
+  "v2_5c265f36": {
+    "description": "Auto-generated translation for: Components",
+    "message": "Componentes"
+  },
+  "v2_764fb87a": {
+    "description": "Auto-generated translation for: Modals",
+    "message": "Modais"
+  },
+  "v2_48c57a33": {
+    "description": "Auto-generated translation for: Video Title",
+    "message": "Título do Vídeo"
+  },
+  "v2_77a8eb54": {
+    "description": "Auto-generated translation for: Saved At",
+    "message": "Salvo em"
+  },
+  "v2_00218bca": {
+    "description": "Auto-generated translation for: From",
+    "message": "De"
+  },
+  "v2_04e18f3e": {
+    "description": "Auto-generated translation for: Until",
+    "message": "Até"
+  },
+  "v2_43155149": {
+    "description": "Auto-generated translation for: Open date range filter",
+    "message": "Abrir filtro de período"
+  },
+  "v2_78b39664": {
+    "description": "Auto-generated translation for: From Date",
+    "message": "A Partir de"
+  },
+  "v2_1ad8b233": {
+    "description": "Auto-generated translation for: To Date",
+    "message": "Até a data"
+  },
+  "v2_4d850910": {
+    "description": "Auto-generated translation for: Select from calendar",
+    "message": "Selecionar do calendário"
+  },
+  "v2_03e2c62d": {
+    "description": "Auto-generated translation for: Clear",
+    "message": "Limpar"
+  },
+  "v2_75cbc37c": {
+    "description": "Auto-generated translation for: Learning Word/Phrase",
+    "message": "Aprender Palavra/Frase"
+  },
+  "v2_7da9a4a4": {
+    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
+    "message": "Foram removidas {count} palavras da lista {list_name}",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_72e4746a": {
+    "description": "Auto-generated translation for: Removed from {list_name}",
+    "message": "Removido de {list_name}",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4f84faa1": {
+    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
+    "message": "Remover {count} palavras selecionadas de {list_name}",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1d032bb2": {
+    "description": "Auto-generated translation for: Remove from {list_name}",
+    "message": "Remover de {list_name}",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2e9d3423": {
+    "description": "Auto-generated translation for: Add {count} selected words to list",
+    "message": "Adicionar {count} palavras selecionadas à lista",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_26ab0d7c": {
+    "description": "Auto-generated translation for: Add to list",
+    "message": "Adicionar à lista"
+  },
+  "v2_556a740a": {
+    "description": "Auto-generated translation for: Add {count} words to list",
+    "message": "Adicionar {count} palavras à lista",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2c9c6b81": {
+    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
+    "message": "Remover {count} palavras de {list_name}?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_4189672b": {
+    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
+    "message": "Isso removerá as palavras selecionadas desta lista. Elas ainda estarão no seu caderno."
+  },
+  "v2_598a626d": {
+    "description": "Auto-generated translation for: Removing...",
+    "message": "Removendo..."
+  },
+  "v2_28c8c2bf": {
+    "description": "Auto-generated translation for: Enable FluentAI",
+    "message": "Habilitar FluentAI"
+  },
+  "v2_558e3bed": {
+    "description": "Auto-generated translation for: This video will use %s minutes",
+    "message": "Este vídeo terá duração de %s minutos"
+  },
+  "v2_5df79a31": {
+    "description": "Auto-generated translation for: Loading video duration...",
+    "message": "Carregando duração do vídeo..."
+  },
+  "v2_496c6513": {
+    "description": "Auto-generated translation for: Upgrade Plan",
+    "message": "Atualizar Plano"
+  },
+  "v2_64d14b6f": {
+    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
+    "message": "Este vídeo requer %s minutos, mas você só tem %s minutos restantes"
+  },
+  "v2_03482321": {
+    "description": "Auto-generated translation for: Enabled",
+    "message": "Ativado"
+  },
+  "v2_14009e9c": {
+    "description": "Auto-generated translation for: Disabled",
+    "message": "Desativado"
+  },
+  "v2_3ef27976": {
+    "description": "Auto-generated translation for: Characters",
+    "message": "Personagens"
+  },
+  "v2_77578069": {
+    "description": "Auto-generated translation for: Examples",
+    "message": "Exemplos"
+  },
+  "v2_33b68d5c": {
+    "description": "Auto-generated translation for: v2_yes",
+    "message": "v2_sim"
+  },
+  "v2_06970264": {
+    "description": "Auto-generated translation for: v2_no",
+    "message": "v2_não"
+  },
+  "v2_03e43f43": {
+    "description": "Auto-generated translation for: Color",
+    "message": "Cor"
+  },
+  "v2_00275421": {
+    "description": "Auto-generated translation for: Size",
+    "message": "Tamanho"
+  },
+  "v2_35777caf": {
+    "description": "Auto-generated translation for: Configuration Updated",
+    "message": "Configuração Atualizada"
+  },
+  "v2_6e4ee645": {
+    "description": "Auto-generated translation for: Repeat",
+    "message": "Repetir"
+  },
+  "v2_4cf2edbc": {
+    "description": "Auto-generated translation for: Repeat Enabled",
+    "message": "Repetir ativado"
+  },
+  "v2_0050d89f": {
+    "description": "Auto-generated translation for: Repeat Disabled",
+    "message": "Repetir desativado"
+  },
+  "v2_4be4859a": {
+    "description": "Auto-generated translation for: Playback Modes Updated",
+    "message": "Modos de Reprodução Atualizados"
+  },
+  "v2_4c1b6eb8": {
+    "description": "Auto-generated translation for: Keybindings Updated",
+    "message": "Atalhos atualizados"
+  },
+  "v2_23fa7255": {
+    "description": "Auto-generated translation for: Platform Settings Updated",
+    "message": "Configurações da Plataforma Atualizadas"
+  },
+  "v2_35bb7c77": {
+    "description": "Auto-generated translation for: Table Layout Updated",
+    "message": "Layout da Tabela Atualizado"
+  },
+  "v2_06b472de": {
+    "description": "Auto-generated translation for: Video List Updated",
+    "message": "Lista de vídeos atualizada"
+  },
+  "v2_2dd9170c": {
+    "description": "Auto-generated translation for: Voice Settings Updated",
+    "message": "Configurações de Voz Atualizadas"
+  },
+  "v2_1cf42327": {
+    "description": "Auto-generated translation for: Learning Subtitles",
+    "message": "Aprendendo legendas"
+  },
+  "v2_55ec6ee5": {
+    "description": "Auto-generated translation for: Subtitle Character Length",
+    "message": "Comprimento do Caractere da Legenda"
+  },
+  "v2_788e051b": {
+    "description": "Auto-generated translation for: Text-to-Speech Speed",
+    "message": "Velocidade de Leitura"
+  },
+  "v2_7b3a55db": {
+    "description": "Auto-generated translation for: Text-to-Speech Metadata",
+    "message": "Metadados de Texto para Fala"
+  },
+  "v2_450ba908": {
+    "description": "Auto-generated translation for: Repeat Settings",
+    "message": "Repetir Configurações"
+  },
+  "v2_2de46fc0": {
+    "description": "Auto-generated translation for: Auto Dubbing",
+    "message": "Dublagem Automática"
+  },
+  "v2_380dcdde": {
+    "description": "Auto-generated translation for: Phrase Freeze",
+    "message": "Congelar frase"
+  },
+  "v2_61ba4188": {
+    "description": "Auto-generated translation for: Smart Restart",
+    "message": "Reinício Inteligente"
+  },
+  "v2_030c1e45": {
+    "description": "Auto-generated translation for: Smart Restart Delay",
+    "message": "Atraso de Reinício Inteligente"
+  },
+  "v2_49e7df34": {
+    "description": "Auto-generated translation for: Add Spaces",
+    "message": "Adicionar Espaços"
+  },
+  "v2_4c5b99cd": {
+    "description": "Auto-generated translation for: Keybindings",
+    "message": "Atalhos de teclado"
+  },
+  "v2_01ce83f9": {
+    "description": "Auto-generated translation for: Bookmark Color",
+    "message": "Cor do Marcador"
+  },
+  "v2_623e6865": {
+    "description": "Auto-generated translation for: Bookmark Variant",
+    "message": "Variante de Marcador"
+  },
+  "v2_146e65b1": {
+    "description": "Auto-generated translation for: Platform States",
+    "message": "Status da Plataforma"
+  },
+  "v2_37c9741f": {
+    "description": "Auto-generated translation for: Current Videos",
+    "message": "Vídeos Atuais"
+  },
+  "v2_608f925b": {
+    "description": "Auto-generated translation for: Number of Examples",
+    "message": "Número de Exemplos"
+  },
+  "v2_50cf9726": {
+    "description": "Auto-generated translation for: Insight Visibility",
+    "message": "Visibilidade de Insights"
+  },
+  "v2_3e3938a4": {
+    "description": "Auto-generated translation for: Meanings Visibility",
+    "message": "Visibilidade de Significados"
+  },
+  "v2_6aab5cdc": {
+    "description": "Auto-generated translation for: Dictionary Visibility",
+    "message": "Visibilidade do Dicionário"
+  },
+  "v2_5507a139": {
+    "description": "Auto-generated translation for: Transliteration Visibility",
+    "message": "Visibilidade da Transliteração"
+  },
+  "v2_0e3f36a1": {
+    "description": "Auto-generated translation for: Transliteration Type",
+    "message": "Tipo de Transliteração"
+  },
+  "v2_4c4993e2": {
+    "description": "Auto-generated translation for: Sentence Transliteration Type",
+    "message": "Tipo de Transliteração de Frase"
+  },
+  "v2_5a4c3526": {
+    "description": "Auto-generated translation for: Notebook Table State",
+    "message": "Estado da Tabela do Notebook"
+  },
+  "v2_3053866c": {
+    "description": "Auto-generated translation for: Open Translation Popup on Hover",
+    "message": "Abrir Pop-up de Tradução ao Passar o Mouse"
+  },
+  "v2_2673a54c": {
+    "description": "Auto-generated translation for: Show Translation in Subtitles List",
+    "message": "Mostrar tradução na lista de legendas"
+  },
+  "v2_650906f8": {
+    "description": "Auto-generated translation for: Bottom Area Gap",
+    "message": "Espaçamento da Área Inferior"
+  },
+  "v2_062e7752": {
+    "description": "Auto-generated translation for: Playback Controls Position",
+    "message": "Posição dos Controles de Reprodução"
+  },
+  "v2_53e3c73a": {
+    "description": "Auto-generated translation for: Highlight Words on Live Speaking",
+    "message": "Destacar Palavras na Fala ao Vivo"
+  },
+  "v2_4511a7e0": {
+    "description": "Auto-generated translation for: Word Merging Enabled",
+    "message": "Mesclagem de Palavras Ativada"
+  },
+  "v2_0fea39ec": {
+    "description": "Auto-generated translation for: Show Language Mismatch Reminder Modal",
+    "message": "Mostrar Modal de Lembrete de Incompatibilidade de Idioma"
+  },
+  "v2_486aba86": {
+    "description": "Auto-generated translation for: Speak Word on Translation Popup Open",
+    "message": "Falar palavra ao abrir o pop-up de tradução"
+  },
+  "v2_2260eb57": {
+    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
+    "message": "Mapeamento Nativo de Aprendizagem Ativado"
+  },
+  "v2_6fb985d3": {
+    "description": "Auto-generated translation for: Pinned Languages",
+    "message": "Idiomas Fixados"
+  },
+  "v2_6377d045": {
+    "description": "Auto-generated translation for: Open filters",
+    "message": "Abrir filtros"
+  },
+  "v2_636ee1eb": {
+    "description": "Auto-generated translation for: Search filters...",
+    "message": "Filtros de busca..."
+  },
+  "v2_77202330": {
+    "description": "Auto-generated translation for: No filters found.",
+    "message": "Nenhum filtro encontrado."
+  },
+  "v2_6990bce1": {
+    "description": "Auto-generated translation for: Active Filters",
+    "message": "Filtros Ativos"
+  },
+  "v2_5098ff48": {
+    "description": "Auto-generated translation for: No options available",
+    "message": "Nenhuma opção disponível"
+  },
+  "v2_4adf1f09": {
+    "description": "Auto-generated translation for: Clear all filters",
+    "message": "Limpar todos os filtros"
+  },
+  "v2_283255e8": {
+    "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
+    "message": "Encontre todas as suas palavras, frases e sentenças salvas aqui. Você pode classificá-las por filtros, criar listas e exportar para o Anki."
   }
 }

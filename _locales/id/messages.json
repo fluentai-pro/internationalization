@@ -207,10 +207,6 @@
     "description": "Auto-generated translation for: Type",
     "message": "Ketik"
   },
-  "v2_04e9a151": {
-    "description": "Auto-generated translation for: Value",
-    "message": "Nilai"
-  },
   "v2_6c9bdee4": {
     "description": "Auto-generated translation for: Select",
     "message": "Pilih"
@@ -218,10 +214,6 @@
   "v2_1df8e0dd": {
     "description": "Auto-generated translation for: Actions",
     "message": "Tindakan"
-  },
-  "v2_378b6b55": {
-    "description": "Auto-generated translation for: Created At",
-    "message": "Dibuat Pada"
   },
   "v2_04ed245b": {
     "description": "Auto-generated translation for: Video",
@@ -5395,10 +5387,6 @@
     "description": "Auto-generated translation for: Mark as Learning",
     "message": "Tandai sebagai Sedang Dipelajari"
   },
-  "v2_5ee723a3": {
-    "description": "Auto-generated translation for: Add selected to list",
-    "message": "Tambahkan yang dipilih ke daftar"
-  },
   "v2_04607375": {
     "description": "Auto-generated translation for: Lists",
     "message": "Daftar"
@@ -5577,14 +5565,6 @@
   "v2_6777abf6": {
     "description": "Auto-generated translation for: Preparing...",
     "message": "Mempersiapkan..."
-  },
-  "v2_6c6444d3": {
-    "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
-    "message": "Temukan semua kata, frasa, dan kalimat Anda di sini."
-  },
-  "v2_1589890f": {
-    "description": "Auto-generated translation for: Website Dashboard",
-    "message": "Dasbor Situs Web"
   },
   "v2_22949459": {
     "description": "Auto-generated translation for: Combine multiple words to understand phrases and expressions better.",
@@ -6288,10 +6268,6 @@
   "v2_487a3b00": {
     "description": "Auto-generated translation for: Video ID",
     "message": "ID Video"
-  },
-  "v2_1406389d": {
-    "description": "Auto-generated translation for: Select all",
-    "message": "Pilih semua"
   },
   "v2_102529d6": {
     "description": "Auto-generated translation for: Transcription failed!",
@@ -7423,5 +7399,413 @@
   "v2_54b5322a": {
     "description": "Auto-generated translation for: Remaining",
     "message": "Sisa"
+  },
+  "v2_2f347555": {
+    "description": "Auto-generated translation for: Setting Updated",
+    "message": "Pengaturan Diperbarui"
+  },
+  "v2_0024250c": {
+    "description": "Auto-generated translation for: Live",
+    "message": "Langsung"
+  },
+  "v2_77102c1a": {
+    "description": "Auto-generated translation for: Manual",
+    "message": "Manual"
+  },
+  "v2_699cedf1": {
+    "description": "Auto-generated translation for: Select a store to inspect its data",
+    "message": "Pilih toko untuk memeriksa datanya"
+  },
+  "v2_21d27833": {
+    "description": "Auto-generated translation for: Collapse",
+    "message": "Runtuh"
+  },
+  "v2_7c8dcaba": {
+    "description": "Auto-generated translation for: Expand",
+    "message": "Perluas"
+  },
+  "v2_6bc6f02e": {
+    "description": "Auto-generated translation for: Stores",
+    "message": "Toko"
+  },
+  "v2_5c265f36": {
+    "description": "Auto-generated translation for: Components",
+    "message": "Komponen"
+  },
+  "v2_764fb87a": {
+    "description": "Auto-generated translation for: Modals",
+    "message": "Modal"
+  },
+  "v2_77a8eb54": {
+    "description": "Auto-generated translation for: Saved At",
+    "message": "Disimpan Pada"
+  },
+  "v2_00218bca": {
+    "description": "Auto-generated translation for: From",
+    "message": "Dari"
+  },
+  "v2_04e18f3e": {
+    "description": "Auto-generated translation for: Until",
+    "message": "Hingga"
+  },
+  "v2_43155149": {
+    "description": "Auto-generated translation for: Open date range filter",
+    "message": "Buka filter rentang tanggal"
+  },
+  "v2_78b39664": {
+    "description": "Auto-generated translation for: From Date",
+    "message": "Dari Tanggal"
+  },
+  "v2_1ad8b233": {
+    "description": "Auto-generated translation for: To Date",
+    "message": "Hingga Saat Ini"
+  },
+  "v2_4d850910": {
+    "description": "Auto-generated translation for: Select from calendar",
+    "message": "Pilih dari kalender"
+  },
+  "v2_03e2c62d": {
+    "description": "Auto-generated translation for: Clear",
+    "message": "Jelas"
+  },
+  "v2_75cbc37c": {
+    "description": "Auto-generated translation for: Learning Word/Phrase",
+    "message": "Mempelajari Kata/Frasa"
+  },
+  "v2_7da9a4a4": {
+    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
+    "message": "Menghapus {count} kata dari {list_name}",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_72e4746a": {
+    "description": "Auto-generated translation for: Removed from {list_name}",
+    "message": "Dihapus dari {list_name}",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4f84faa1": {
+    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
+    "message": "Hapus {count} kata terpilih dari {list_name}",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1d032bb2": {
+    "description": "Auto-generated translation for: Remove from {list_name}",
+    "message": "Hapus dari {list_name}",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2e9d3423": {
+    "description": "Auto-generated translation for: Add {count} selected words to list",
+    "message": "Tambahkan {count} kata terpilih ke daftar",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_26ab0d7c": {
+    "description": "Auto-generated translation for: Add to list",
+    "message": "Tambah ke daftar"
+  },
+  "v2_556a740a": {
+    "description": "Auto-generated translation for: Add {count} words to list",
+    "message": "Tambahkan {count} kata ke daftar",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2c9c6b81": {
+    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
+    "message": "Hapus {count} kata dari {list_name}?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_4189672b": {
+    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
+    "message": "Ini akan menghapus kata-kata yang dipilih dari daftar ini. Kata-kata tersebut akan tetap ada di buku catatan Anda."
+  },
+  "v2_598a626d": {
+    "description": "Auto-generated translation for: Removing...",
+    "message": "Menghapus..."
+  },
+  "v2_28c8c2bf": {
+    "description": "Auto-generated translation for: Enable FluentAI",
+    "message": "Aktifkan FluentAI"
+  },
+  "v2_558e3bed": {
+    "description": "Auto-generated translation for: This video will use %s minutes",
+    "message": "Video ini akan menggunakan waktu %s menit"
+  },
+  "v2_5df79a31": {
+    "description": "Auto-generated translation for: Loading video duration...",
+    "message": "Memuat durasi video..."
+  },
+  "v2_496c6513": {
+    "description": "Auto-generated translation for: Upgrade Plan",
+    "message": "Upgrade Paket"
+  },
+  "v2_64d14b6f": {
+    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
+    "message": "Video ini membutuhkan waktu %s menit, tetapi Anda hanya memiliki sisa %s menit"
+  },
+  "v2_03482321": {
+    "description": "Auto-generated translation for: Enabled",
+    "message": "Diaktifkan"
+  },
+  "v2_14009e9c": {
+    "description": "Auto-generated translation for: Disabled",
+    "message": "Dinonaktifkan"
+  },
+  "v2_3ef27976": {
+    "description": "Auto-generated translation for: Characters",
+    "message": "Karakter"
+  },
+  "v2_77578069": {
+    "description": "Auto-generated translation for: Examples",
+    "message": "Contoh"
+  },
+  "v2_33b68d5c": {
+    "description": "Auto-generated translation for: v2_yes",
+    "message": "v2_ya"
+  },
+  "v2_06970264": {
+    "description": "Auto-generated translation for: v2_no",
+    "message": "v2_tidak"
+  },
+  "v2_03e43f43": {
+    "description": "Auto-generated translation for: Color",
+    "message": "Warna"
+  },
+  "v2_00275421": {
+    "description": "Auto-generated translation for: Size",
+    "message": "Ukuran"
+  },
+  "v2_35777caf": {
+    "description": "Auto-generated translation for: Configuration Updated",
+    "message": "Konfigurasi Diperbarui"
+  },
+  "v2_6e4ee645": {
+    "description": "Auto-generated translation for: Repeat",
+    "message": "Ulangi"
+  },
+  "v2_4cf2edbc": {
+    "description": "Auto-generated translation for: Repeat Enabled",
+    "message": "Ulangi Diaktifkan"
+  },
+  "v2_0050d89f": {
+    "description": "Auto-generated translation for: Repeat Disabled",
+    "message": "Ulangi Dinonaktifkan"
+  },
+  "v2_4be4859a": {
+    "description": "Auto-generated translation for: Playback Modes Updated",
+    "message": "Mode Pemutaran Diperbarui"
+  },
+  "v2_4c1b6eb8": {
+    "description": "Auto-generated translation for: Keybindings Updated",
+    "message": "Ikatan Tombol Diperbarui"
+  },
+  "v2_23fa7255": {
+    "description": "Auto-generated translation for: Platform Settings Updated",
+    "message": "Pengaturan Platform Diperbarui"
+  },
+  "v2_35bb7c77": {
+    "description": "Auto-generated translation for: Table Layout Updated",
+    "message": "Tata Letak Meja Diperbarui"
+  },
+  "v2_06b472de": {
+    "description": "Auto-generated translation for: Video List Updated",
+    "message": "Daftar Video Diperbarui"
+  },
+  "v2_2dd9170c": {
+    "description": "Auto-generated translation for: Voice Settings Updated",
+    "message": "Pengaturan Suara Diperbarui"
+  },
+  "v2_1cf42327": {
+    "description": "Auto-generated translation for: Learning Subtitles",
+    "message": "Belajar Subtitle"
+  },
+  "v2_55ec6ee5": {
+    "description": "Auto-generated translation for: Subtitle Character Length",
+    "message": "Panjang Karakter Subtitle"
+  },
+  "v2_788e051b": {
+    "description": "Auto-generated translation for: Text-to-Speech Speed",
+    "message": "Kecepatan teks ke suara"
+  },
+  "v2_7b3a55db": {
+    "description": "Auto-generated translation for: Text-to-Speech Metadata",
+    "message": "Metada Teks ke Suara"
+  },
+  "v2_450ba908": {
+    "description": "Auto-generated translation for: Repeat Settings",
+    "message": "Ulangi Pengaturan"
+  },
+  "v2_2de46fc0": {
+    "description": "Auto-generated translation for: Auto Dubbing",
+    "message": "Pengisian Suara Otomatis"
+  },
+  "v2_380dcdde": {
+    "description": "Auto-generated translation for: Phrase Freeze",
+    "message": "Beku Frasa"
+  },
+  "v2_61ba4188": {
+    "description": "Auto-generated translation for: Smart Restart",
+    "message": "Mulai Ulang Cerdas"
+  },
+  "v2_030c1e45": {
+    "description": "Auto-generated translation for: Smart Restart Delay",
+    "message": "Penundaan Mulai Ulang Cerdas"
+  },
+  "v2_49e7df34": {
+    "description": "Auto-generated translation for: Add Spaces",
+    "message": "Tambahkan Spasi"
+  },
+  "v2_4c5b99cd": {
+    "description": "Auto-generated translation for: Keybindings",
+    "message": "Ikatan Kunci"
+  },
+  "v2_01ce83f9": {
+    "description": "Auto-generated translation for: Bookmark Color",
+    "message": "Warna Penanda Buku"
+  },
+  "v2_623e6865": {
+    "description": "Auto-generated translation for: Bookmark Variant",
+    "message": "Varian Bookmark"
+  },
+  "v2_146e65b1": {
+    "description": "Auto-generated translation for: Platform States",
+    "message": "Status Platform"
+  },
+  "v2_37c9741f": {
+    "description": "Auto-generated translation for: Current Videos",
+    "message": "Video Saat Ini"
+  },
+  "v2_608f925b": {
+    "description": "Auto-generated translation for: Number of Examples",
+    "message": "Jumlah Contoh"
+  },
+  "v2_50cf9726": {
+    "description": "Auto-generated translation for: Insight Visibility",
+    "message": "Visibilitas Wawasan"
+  },
+  "v2_3e3938a4": {
+    "description": "Auto-generated translation for: Meanings Visibility",
+    "message": "Visibilitas Makna"
+  },
+  "v2_6aab5cdc": {
+    "description": "Auto-generated translation for: Dictionary Visibility",
+    "message": "Visibilitas Kamus"
+  },
+  "v2_5507a139": {
+    "description": "Auto-generated translation for: Transliteration Visibility",
+    "message": "Visibilitas Transliterasi"
+  },
+  "v2_0e3f36a1": {
+    "description": "Auto-generated translation for: Transliteration Type",
+    "message": "Jenis Transliterasi"
+  },
+  "v2_4c4993e2": {
+    "description": "Auto-generated translation for: Sentence Transliteration Type",
+    "message": "Jenis Transliterasi Kalimat"
+  },
+  "v2_5a4c3526": {
+    "description": "Auto-generated translation for: Notebook Table State",
+    "message": "Status Tabel Notebook"
+  },
+  "v2_3053866c": {
+    "description": "Auto-generated translation for: Open Translation Popup on Hover",
+    "message": "Buka Popup Terjemahan saat Mengarahkan Kursor"
+  },
+  "v2_2673a54c": {
+    "description": "Auto-generated translation for: Show Translation in Subtitles List",
+    "message": "Tampilkan Terjemahan dalam Daftar Subtitel"
+  },
+  "v2_650906f8": {
+    "description": "Auto-generated translation for: Bottom Area Gap",
+    "message": "Celah Area Bawah"
+  },
+  "v2_062e7752": {
+    "description": "Auto-generated translation for: Playback Controls Position",
+    "message": "Posisi Kontrol Pemutaran"
+  },
+  "v2_53e3c73a": {
+    "description": "Auto-generated translation for: Highlight Words on Live Speaking",
+    "message": "Sorot Kata di Bicara Langsung"
+  },
+  "v2_4511a7e0": {
+    "description": "Auto-generated translation for: Word Merging Enabled",
+    "message": "Penggabungan Kata Diaktifkan"
+  },
+  "v2_0fea39ec": {
+    "description": "Auto-generated translation for: Show Language Mismatch Reminder Modal",
+    "message": "Tampilkan Modal Pengingat Ketidaksesuaian Bahasa"
+  },
+  "v2_486aba86": {
+    "description": "Auto-generated translation for: Speak Word on Translation Popup Open",
+    "message": "Ucapkan Kata saat Jendela Pop-up Terjemahan Terbuka"
+  },
+  "v2_2260eb57": {
+    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
+    "message": "Pemetaan Pembelajaran ke Native Diaktifkan"
+  },
+  "v2_6fb985d3": {
+    "description": "Auto-generated translation for: Pinned Languages",
+    "message": "Bahasa Tersemat"
+  },
+  "v2_6377d045": {
+    "description": "Auto-generated translation for: Open filters",
+    "message": "Buka filter"
+  },
+  "v2_636ee1eb": {
+    "description": "Auto-generated translation for: Search filters...",
+    "message": "Filter pencarian..."
+  },
+  "v2_77202330": {
+    "description": "Auto-generated translation for: No filters found.",
+    "message": "Tidak ada filter yang ditemukan."
+  },
+  "v2_6990bce1": {
+    "description": "Auto-generated translation for: Active Filters",
+    "message": "Filter Aktif"
+  },
+  "v2_5098ff48": {
+    "description": "Auto-generated translation for: No options available",
+    "message": "Tidak ada opsi yang tersedia"
+  },
+  "v2_4adf1f09": {
+    "description": "Auto-generated translation for: Clear all filters",
+    "message": "Hapus semua filter"
+  },
+  "v2_283255e8": {
+    "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
+    "message": "Temukan semua kata, frasa, dan kalimat tersimpan Anda di sini. Anda dapat mengurutkannya berdasarkan filter, membuat daftar, dan mengekspor ke Anki."
   }
 }

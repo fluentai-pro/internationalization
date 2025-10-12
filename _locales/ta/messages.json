@@ -207,10 +207,6 @@
     "description": "Auto-generated translation for: Type",
     "message": "வகை"
   },
-  "v2_04e9a151": {
-    "description": "Auto-generated translation for: Value",
-    "message": "மதிப்பு"
-  },
   "v2_6c9bdee4": {
     "description": "Auto-generated translation for: Select",
     "message": "தேர்வுசெய்க"
@@ -218,10 +214,6 @@
   "v2_1df8e0dd": {
     "description": "Auto-generated translation for: Actions",
     "message": "செயற்பாடுகள்"
-  },
-  "v2_378b6b55": {
-    "description": "Auto-generated translation for: Created At",
-    "message": "உருவாக்கப்பட்ட தேதி"
   },
   "v2_04ed245b": {
     "description": "Auto-generated translation for: Video",
@@ -5395,10 +5387,6 @@
     "description": "Auto-generated translation for: Mark as Learning",
     "message": "கற்றுக்கொண்டதாகக் குறிக்கவும்"
   },
-  "v2_5ee723a3": {
-    "description": "Auto-generated translation for: Add selected to list",
-    "message": "தேர்ந்தெடுத்ததை பட்டியலில் சேர்க்க"
-  },
   "v2_04607375": {
     "description": "Auto-generated translation for: Lists",
     "message": "பட்டியல்கள்"
@@ -5577,14 +5565,6 @@
   "v2_6777abf6": {
     "description": "Auto-generated translation for: Preparing...",
     "message": "தயாராகிறது..."
-  },
-  "v2_6c6444d3": {
-    "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
-    "message": "உங்கள் வார்த்தைகள், சொற்றொடர்கள் மற்றும் வாக்கியங்கள் அனைத்தையும் இங்கே கண்டறியவும்."
-  },
-  "v2_1589890f": {
-    "description": "Auto-generated translation for: Website Dashboard",
-    "message": "இணையதள டாஷ்போர்டு"
   },
   "v2_22949459": {
     "description": "Auto-generated translation for: Combine multiple words to understand phrases and expressions better.",
@@ -6288,10 +6268,6 @@
   "v2_487a3b00": {
     "description": "Auto-generated translation for: Video ID",
     "message": "வீடியோ ID"
-  },
-  "v2_1406389d": {
-    "description": "Auto-generated translation for: Select all",
-    "message": "எல்லாவற்றையும் தேர்ந்தெடுக்கவும்"
   },
   "v2_102529d6": {
     "description": "Auto-generated translation for: Transcription failed!",
@@ -7423,5 +7399,409 @@
   "v2_54b5322a": {
     "description": "Auto-generated translation for: Remaining",
     "message": "மீதமுள்ள"
+  },
+  "v2_2f347555": {
+    "description": "Auto-generated translation for: Setting Updated",
+    "message": "அமைப்பு புதுப்பிக்கப்பட்டது"
+  },
+  "v2_0024250c": {
+    "description": "Auto-generated translation for: Live",
+    "message": "நேரலை"
+  },
+  "v2_77102c1a": {
+    "description": "Auto-generated translation for: Manual",
+    "message": "கையேடு"
+  },
+  "v2_699cedf1": {
+    "description": "Auto-generated translation for: Select a store to inspect its data",
+    "message": "அதன் தரவை ஆய்வு செய்ய ஒரு கடையைத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_21d27833": {
+    "description": "Auto-generated translation for: Collapse",
+    "message": "சரிவு"
+  },
+  "v2_7c8dcaba": {
+    "description": "Auto-generated translation for: Expand",
+    "message": "விரிவாக்கு"
+  },
+  "v2_6bc6f02e": {
+    "description": "Auto-generated translation for: Stores",
+    "message": "கடைகள்"
+  },
+  "v2_5c265f36": {
+    "description": "Auto-generated translation for: Components",
+    "message": "கூறுகள்"
+  },
+  "v2_764fb87a": {
+    "description": "Auto-generated translation for: Modals",
+    "message": "வினையுரிச்சொற்கள்"
+  },
+  "v2_77a8eb54": {
+    "description": "Auto-generated translation for: Saved At",
+    "message": "சேமிக்கப்பட்டது"
+  },
+  "v2_00218bca": {
+    "description": "Auto-generated translation for: From",
+    "message": "இருந்து"
+  },
+  "v2_04e18f3e": {
+    "description": "Auto-generated translation for: Until",
+    "message": "வரை"
+  },
+  "v2_43155149": {
+    "description": "Auto-generated translation for: Open date range filter",
+    "message": "தேதி வரம்பு வடிப்பானைத் திறக்கவும்"
+  },
+  "v2_78b39664": {
+    "description": "Auto-generated translation for: From Date",
+    "message": "தேதியிலிருந்து"
+  },
+  "v2_1ad8b233": {
+    "description": "Auto-generated translation for: To Date",
+    "message": "இன்று வரை"
+  },
+  "v2_4d850910": {
+    "description": "Auto-generated translation for: Select from calendar",
+    "message": "நாட்காட்டியில் இருந்து தேர்ந்தெடுக்கவும்"
+  },
+  "v2_03e2c62d": {
+    "description": "Auto-generated translation for: Clear",
+    "message": "தெளிவுபடுத்து"
+  },
+  "v2_75cbc37c": {
+    "description": "Auto-generated translation for: Learning Word/Phrase",
+    "message": "சொல்/சொற்றொடர் கற்றல்"
+  },
+  "v2_7da9a4a4": {
+    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
+    "message": "{list_name} இலிருந்து {count} வார்த்தைகள் நீக்கப்பட்டன",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_72e4746a": {
+    "description": "Auto-generated translation for: Removed from {list_name}",
+    "message": "{list_name} இலிருந்து அகற்றப்பட்டது",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4f84faa1": {
+    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
+    "message": "{list_name} இலிருந்து தேர்ந்தெடுக்கப்பட்ட {count} வார்த்தைகளை அகற்று",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1d032bb2": {
+    "description": "Auto-generated translation for: Remove from {list_name}",
+    "message": "{list_name} இலிருந்து அகற்று",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2e9d3423": {
+    "description": "Auto-generated translation for: Add {count} selected words to list",
+    "message": "$count$ தேர்ந்தெடுக்கப்பட்ட வார்த்தைகளை பட்டியலில் சேர்க்கவும்",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_26ab0d7c": {
+    "description": "Auto-generated translation for: Add to list",
+    "message": "பட்டியலில் சேர்க்கவும்"
+  },
+  "v2_556a740a": {
+    "description": "Auto-generated translation for: Add {count} words to list",
+    "message": "பட்டியலில் {count} வார்த்தைகளைச் சேர்",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2c9c6b81": {
+    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
+    "message": "{list_name} இருந்து {count} சொற்களை அகற்றவா?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_4189672b": {
+    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
+    "message": "இது தேர்ந்தெடுக்கப்பட்ட வார்த்தைகளை இந்தப் பட்டியலிலிருந்து நீக்கும். அவை உங்கள் நோட்புக்கில் இருக்கும்."
+  },
+  "v2_598a626d": {
+    "description": "Auto-generated translation for: Removing...",
+    "message": "நீக்குகிறது..."
+  },
+  "v2_28c8c2bf": {
+    "description": "Auto-generated translation for: Enable FluentAI",
+    "message": "FluentAI இயக்கு"
+  },
+  "v2_558e3bed": {
+    "description": "Auto-generated translation for: This video will use %s minutes",
+    "message": "இந்த வீடியோ %s நிமிடங்கள் இயங்கும்"
+  },
+  "v2_5df79a31": {
+    "description": "Auto-generated translation for: Loading video duration...",
+    "message": "வீடியோ நீளம் ஏற்றப்படுகிறது..."
+  },
+  "v2_496c6513": {
+    "description": "Auto-generated translation for: Upgrade Plan",
+    "message": "மேம்படுத்தப்பட்ட திட்டம்"
+  },
+  "v2_64d14b6f": {
+    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
+    "message": "இந்த வீடியோவுக்கு %s நிமிடங்கள் தேவை, ஆனால் உங்களிடம் %s நிமிடங்கள் மட்டுமே உள்ளன."
+  },
+  "v2_03482321": {
+    "description": "Auto-generated translation for: Enabled",
+    "message": "செயல்படுத்தப்பட்டது"
+  },
+  "v2_14009e9c": {
+    "description": "Auto-generated translation for: Disabled",
+    "message": "மாற்றுத்திறனாளி"
+  },
+  "v2_3ef27976": {
+    "description": "Auto-generated translation for: Characters",
+    "message": "எழுத்துகள்"
+  },
+  "v2_77578069": {
+    "description": "Auto-generated translation for: Examples",
+    "message": "எடுத்துக்காட்டுகள்"
+  },
+  "v2_33b68d5c": {
+    "description": "Auto-generated translation for: v2_yes",
+    "message": "v2_ஆம்"
+  },
+  "v2_06970264": {
+    "description": "Auto-generated translation for: v2_no",
+    "message": "v2_no"
+  },
+  "v2_03e43f43": {
+    "description": "Auto-generated translation for: Color",
+    "message": "நிறம்"
+  },
+  "v2_00275421": {
+    "description": "Auto-generated translation for: Size",
+    "message": "அளவு"
+  },
+  "v2_35777caf": {
+    "description": "Auto-generated translation for: Configuration Updated",
+    "message": "கட்டமைப்பு புதுப்பிக்கப்பட்டது"
+  },
+  "v2_6e4ee645": {
+    "description": "Auto-generated translation for: Repeat",
+    "message": "மீண்டும் செய்"
+  },
+  "v2_4cf2edbc": {
+    "description": "Auto-generated translation for: Repeat Enabled",
+    "message": "மீண்டும் இயக்குதல் இயக்கப்பட்டது"
+  },
+  "v2_0050d89f": {
+    "description": "Auto-generated translation for: Repeat Disabled",
+    "message": "மீண்டும் செய்தல் முடக்கப்பட்டது"
+  },
+  "v2_4be4859a": {
+    "description": "Auto-generated translation for: Playback Modes Updated",
+    "message": "பின்னணி இயக்க முறைகள் புதுப்பிக்கப்பட்டன"
+  },
+  "v2_4c1b6eb8": {
+    "description": "Auto-generated translation for: Keybindings Updated",
+    "message": "விசை பிணைப்புகள் புதுப்பிக்கப்பட்டன"
+  },
+  "v2_23fa7255": {
+    "description": "Auto-generated translation for: Platform Settings Updated",
+    "message": "தள அமைப்புகள் புதுப்பிக்கப்பட்டன"
+  },
+  "v2_35bb7c77": {
+    "description": "Auto-generated translation for: Table Layout Updated",
+    "message": "அட்டவணை வடிவமைப்பு புதுப்பிக்கப்பட்டது"
+  },
+  "v2_06b472de": {
+    "description": "Auto-generated translation for: Video List Updated",
+    "message": "வீடியோ பட்டியல் புதுப்பிக்கப்பட்டது"
+  },
+  "v2_2dd9170c": {
+    "description": "Auto-generated translation for: Voice Settings Updated",
+    "message": "குரல் அமைப்புகள் புதுப்பிக்கப்பட்டன"
+  },
+  "v2_55ec6ee5": {
+    "description": "Auto-generated translation for: Subtitle Character Length",
+    "message": "வசனத்தின் எழுத்து நீளம்"
+  },
+  "v2_788e051b": {
+    "description": "Auto-generated translation for: Text-to-Speech Speed",
+    "message": "உரையிலிருந்து பேச்சுக்கான வேகம்"
+  },
+  "v2_7b3a55db": {
+    "description": "Auto-generated translation for: Text-to-Speech Metadata",
+    "message": "உரையிலிருந்து பேச்சுக்கான மெட்டாடேட்டா"
+  },
+  "v2_450ba908": {
+    "description": "Auto-generated translation for: Repeat Settings",
+    "message": "மீண்டும் செய் அமைப்புகள்"
+  },
+  "v2_2de46fc0": {
+    "description": "Auto-generated translation for: Auto Dubbing",
+    "message": "தானியங்கு ஒலிசேர்ப்பு"
+  },
+  "v2_380dcdde": {
+    "description": "Auto-generated translation for: Phrase Freeze",
+    "message": "சொற்றொடர் முடக்கம்"
+  },
+  "v2_61ba4188": {
+    "description": "Auto-generated translation for: Smart Restart",
+    "message": "ஸ்மார்ட் மறுதொடக்கம்"
+  },
+  "v2_030c1e45": {
+    "description": "Auto-generated translation for: Smart Restart Delay",
+    "message": "ஸ்மார்ட் மறுதொடக்கம் தாமதம்"
+  },
+  "v2_49e7df34": {
+    "description": "Auto-generated translation for: Add Spaces",
+    "message": "இடைவெளிகளைச் சேர்"
+  },
+  "v2_4c5b99cd": {
+    "description": "Auto-generated translation for: Keybindings",
+    "message": "விசை பிணைப்புகள்"
+  },
+  "v2_01ce83f9": {
+    "description": "Auto-generated translation for: Bookmark Color",
+    "message": "புக்மார்க் நிறம்"
+  },
+  "v2_623e6865": {
+    "description": "Auto-generated translation for: Bookmark Variant",
+    "message": "புக்மார்க் மாறுபாடு"
+  },
+  "v2_146e65b1": {
+    "description": "Auto-generated translation for: Platform States",
+    "message": "தளம் நிலைகள்"
+  },
+  "v2_37c9741f": {
+    "description": "Auto-generated translation for: Current Videos",
+    "message": "தற்போதைய வீடியோக்கள்"
+  },
+  "v2_608f925b": {
+    "description": "Auto-generated translation for: Number of Examples",
+    "message": "எடுத்துக்காட்டுகளின் எண்ணிக்கை"
+  },
+  "v2_50cf9726": {
+    "description": "Auto-generated translation for: Insight Visibility",
+    "message": "அகப்பார்வை புலப்படுதல்"
+  },
+  "v2_3e3938a4": {
+    "description": "Auto-generated translation for: Meanings Visibility",
+    "message": "பொருட்களின் தெளிவுத்தன்மை"
+  },
+  "v2_6aab5cdc": {
+    "description": "Auto-generated translation for: Dictionary Visibility",
+    "message": "அகராதித் தெரிவுநிலை"
+  },
+  "v2_5507a139": {
+    "description": "Auto-generated translation for: Transliteration Visibility",
+    "message": "ஒலிபெயர்ப்புத் தெரிவுநிலை"
+  },
+  "v2_0e3f36a1": {
+    "description": "Auto-generated translation for: Transliteration Type",
+    "message": "ஒலிபெயர்ப்பு வகை"
+  },
+  "v2_4c4993e2": {
+    "description": "Auto-generated translation for: Sentence Transliteration Type",
+    "message": "வாக்கிய ஒலிபெயர்ப்பு வகை"
+  },
+  "v2_5a4c3526": {
+    "description": "Auto-generated translation for: Notebook Table State",
+    "message": "நோட்புக் அட்டவணை நிலை"
+  },
+  "v2_3053866c": {
+    "description": "Auto-generated translation for: Open Translation Popup on Hover",
+    "message": "ஹோவர் செய்யும்போது மொழிபெயர்ப்பு பாப்-அப்பைத் திறக்கவும்"
+  },
+  "v2_2673a54c": {
+    "description": "Auto-generated translation for: Show Translation in Subtitles List",
+    "message": "வசனங்களின் பட்டியலில் மொழிபெயர்ப்பைக் காட்டு"
+  },
+  "v2_650906f8": {
+    "description": "Auto-generated translation for: Bottom Area Gap",
+    "message": "கீழ் பகுதி இடைவெளி"
+  },
+  "v2_062e7752": {
+    "description": "Auto-generated translation for: Playback Controls Position",
+    "message": "பின்னணி இயக்கக் கட்டுப்பாடுகளின் நிலை"
+  },
+  "v2_53e3c73a": {
+    "description": "Auto-generated translation for: Highlight Words on Live Speaking",
+    "message": "நேரடிச் பேச்சில் வார்த்தைகளை ஹைலைட் செய்"
+  },
+  "v2_4511a7e0": {
+    "description": "Auto-generated translation for: Word Merging Enabled",
+    "message": "சொல் ஒன்றிணைப்பு இயக்கப்பட்டது"
+  },
+  "v2_0fea39ec": {
+    "description": "Auto-generated translation for: Show Language Mismatch Reminder Modal",
+    "message": "மொழி பொருந்தாத நினைவூட்டல் மாதிரி சாளரத்தைக் காட்டு"
+  },
+  "v2_486aba86": {
+    "description": "Auto-generated translation for: Speak Word on Translation Popup Open",
+    "message": "மொழிபெயர்ப்பு பாப்அப் திறப்பதில் வார்த்தையை பேசு"
+  },
+  "v2_2260eb57": {
+    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
+    "message": "நேட்டிவ் மேப்பிங்கிற்குக் கற்றல் இயக்கப்பட்டது"
+  },
+  "v2_6fb985d3": {
+    "description": "Auto-generated translation for: Pinned Languages",
+    "message": "பின்தேக்கப்பட்ட மொழிகள்"
+  },
+  "v2_6377d045": {
+    "description": "Auto-generated translation for: Open filters",
+    "message": "வடிப்பான்களைத் திற"
+  },
+  "v2_636ee1eb": {
+    "description": "Auto-generated translation for: Search filters...",
+    "message": "தேடல் வடிப்பான்கள்..."
+  },
+  "v2_77202330": {
+    "description": "Auto-generated translation for: No filters found.",
+    "message": "வடிப்பான்கள் எதுவும் கண்டறியப்படவில்லை."
+  },
+  "v2_6990bce1": {
+    "description": "Auto-generated translation for: Active Filters",
+    "message": "செயலில் உள்ள வடிப்பான்கள்"
+  },
+  "v2_5098ff48": {
+    "description": "Auto-generated translation for: No options available",
+    "message": "விருப்பங்கள் எதுவும் இல்லை"
+  },
+  "v2_4adf1f09": {
+    "description": "Auto-generated translation for: Clear all filters",
+    "message": "அனைத்து வடிப்பான்களையும் அழி"
+  },
+  "v2_283255e8": {
+    "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
+    "message": "நீங்கள் சேமித்த அனைத்து வார்த்தைகள், சொற்றொடர்கள் மற்றும் வாக்கியங்களை இங்கே கண்டறியவும். நீங்கள் அவற்றை வடிகட்டிகள் மூலம் வரிசைப்படுத்தலாம், பட்டியல்களை உருவாக்கலாம் மற்றும் Anki-க்கு ஏற்றுமதி செய்யலாம்."
   }
 }

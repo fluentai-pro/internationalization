@@ -207,10 +207,6 @@
     "description": "Auto-generated translation for: Type",
     "message": "టైప్"
   },
-  "v2_04e9a151": {
-    "description": "Auto-generated translation for: Value",
-    "message": "విలువ"
-  },
   "v2_6c9bdee4": {
     "description": "Auto-generated translation for: Select",
     "message": "ఎంచుకోండి"
@@ -218,10 +214,6 @@
   "v2_1df8e0dd": {
     "description": "Auto-generated translation for: Actions",
     "message": "చర్యలు"
-  },
-  "v2_378b6b55": {
-    "description": "Auto-generated translation for: Created At",
-    "message": "సృష్టించబడిన తేదీ"
   },
   "v2_04ed245b": {
     "description": "Auto-generated translation for: Video",
@@ -5542,10 +5534,6 @@
     "description": "Auto-generated translation for: Mark as Learning",
     "message": "లర్నింగ్‌గా గుర్తించు"
   },
-  "v2_5ee723a3": {
-    "description": "Auto-generated translation for: Add selected to list",
-    "message": "ఎంచుకున్నదాన్ని జాబితాకు చేర్చు"
-  },
   "v2_04607375": {
     "description": "Auto-generated translation for: Lists",
     "message": "జాబితాలు"
@@ -5724,14 +5712,6 @@
   "v2_6777abf6": {
     "description": "Auto-generated translation for: Preparing...",
     "message": "సిద్ధమవుతోంది..."
-  },
-  "v2_6c6444d3": {
-    "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
-    "message": "మీ పదాలు, పదబంధాలు మరియు వాక్యాలన్నింటినీ ఇక్కడ కనుగొనండి."
-  },
-  "v2_1589890f": {
-    "description": "Auto-generated translation for: Website Dashboard",
-    "message": "వెబ్‌సైట్ డాష్‌బోర్డ్"
   },
   "v2_22949459": {
     "description": "Auto-generated translation for: Combine multiple words to understand phrases and expressions better.",
@@ -6435,10 +6415,6 @@
   "v2_487a3b00": {
     "description": "Auto-generated translation for: Video ID",
     "message": "వీడియో ID"
-  },
-  "v2_1406389d": {
-    "description": "Auto-generated translation for: Select all",
-    "message": "అన్నీ ఎంచుకోండి"
   },
   "v2_102529d6": {
     "description": "Auto-generated translation for: Transcription failed!",
@@ -7570,5 +7546,413 @@
   "v2_54b5322a": {
     "description": "Auto-generated translation for: Remaining",
     "message": "మిగిలిన"
+  },
+  "v2_2f347555": {
+    "description": "Auto-generated translation for: Setting Updated",
+    "message": "సెట్టింగ్ అప్‌డేట్ చేయబడింది"
+  },
+  "v2_0024250c": {
+    "description": "Auto-generated translation for: Live",
+    "message": "ప్రత్యక్షంగా"
+  },
+  "v2_77102c1a": {
+    "description": "Auto-generated translation for: Manual",
+    "message": "మాన్యువల్"
+  },
+  "v2_699cedf1": {
+    "description": "Auto-generated translation for: Select a store to inspect its data",
+    "message": "దాని డేటాను తనిఖీ చేయడానికి ఒక స్టోర్‌ను ఎంచుకోండి"
+  },
+  "v2_21d27833": {
+    "description": "Auto-generated translation for: Collapse",
+    "message": "కుప్పకూలిపోవడం"
+  },
+  "v2_7c8dcaba": {
+    "description": "Auto-generated translation for: Expand",
+    "message": "విస్తరించు"
+  },
+  "v2_6bc6f02e": {
+    "description": "Auto-generated translation for: Stores",
+    "message": "స్టోర్‌లు"
+  },
+  "v2_5c265f36": {
+    "description": "Auto-generated translation for: Components",
+    "message": "భాగములు"
+  },
+  "v2_764fb87a": {
+    "description": "Auto-generated translation for: Modals",
+    "message": "మోడల్స్"
+  },
+  "v2_77a8eb54": {
+    "description": "Auto-generated translation for: Saved At",
+    "message": "సేవ్ చేయబడింది"
+  },
+  "v2_00218bca": {
+    "description": "Auto-generated translation for: From",
+    "message": "నుండి"
+  },
+  "v2_04e18f3e": {
+    "description": "Auto-generated translation for: Until",
+    "message": "వరకు"
+  },
+  "v2_43155149": {
+    "description": "Auto-generated translation for: Open date range filter",
+    "message": "తేదీ పరిధి ఫిల్టర్‌ను తెరవండి"
+  },
+  "v2_78b39664": {
+    "description": "Auto-generated translation for: From Date",
+    "message": "తేదీ నుండి"
+  },
+  "v2_1ad8b233": {
+    "description": "Auto-generated translation for: To Date",
+    "message": "తేదీ నుండి"
+  },
+  "v2_4d850910": {
+    "description": "Auto-generated translation for: Select from calendar",
+    "message": "క్యాలెండర్ నుండి ఎంచుకోండి"
+  },
+  "v2_03e2c62d": {
+    "description": "Auto-generated translation for: Clear",
+    "message": "స్పష్టంగా"
+  },
+  "v2_75cbc37c": {
+    "description": "Auto-generated translation for: Learning Word/Phrase",
+    "message": "పదం/పదబంధం నేర్చుకోవడం"
+  },
+  "v2_7da9a4a4": {
+    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
+    "message": "{list_name} నుండి {count} పదాలు తీసివేయబడ్డాయి",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_72e4746a": {
+    "description": "Auto-generated translation for: Removed from {list_name}",
+    "message": "{list_name} నుండి తీసివేయబడింది",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4f84faa1": {
+    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
+    "message": "$list_name$ నుండి ఎంచుకున్న $count$ పదాలను తీసివేయండి",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1d032bb2": {
+    "description": "Auto-generated translation for: Remove from {list_name}",
+    "message": "{list_name} నుండి తీసివేయి",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2e9d3423": {
+    "description": "Auto-generated translation for: Add {count} selected words to list",
+    "message": "$count$ ఎంచుకున్న పదాలను జాబితాకు జోడించండి",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_26ab0d7c": {
+    "description": "Auto-generated translation for: Add to list",
+    "message": "జాబితాకు జోడించు"
+  },
+  "v2_556a740a": {
+    "description": "Auto-generated translation for: Add {count} words to list",
+    "message": "జాబితాకు {count} పదాలను జోడించండి",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2c9c6b81": {
+    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
+    "message": "{list_name} నుండి $count$ పదాలను తీసివేయాలా?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_4189672b": {
+    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
+    "message": "ఇది జాబితా నుండి ఎంచుకున్న పదాలను తీసివేస్తుంది. అవి ఇంకా మీ నోట్‌బుక్‌లో ఉంటాయి."
+  },
+  "v2_598a626d": {
+    "description": "Auto-generated translation for: Removing...",
+    "message": "తొలగిస్తోంది..."
+  },
+  "v2_28c8c2bf": {
+    "description": "Auto-generated translation for: Enable FluentAI",
+    "message": "ఫ్లూయెంట్ఏఐని ఎనేబుల్ చేయండి"
+  },
+  "v2_558e3bed": {
+    "description": "Auto-generated translation for: This video will use %s minutes",
+    "message": "ఈ వీడియో %s నిమిషాలు ఉంటుంది"
+  },
+  "v2_5df79a31": {
+    "description": "Auto-generated translation for: Loading video duration...",
+    "message": "వీడియో నిడివి లోడ్ అవుతోంది..."
+  },
+  "v2_496c6513": {
+    "description": "Auto-generated translation for: Upgrade Plan",
+    "message": "ప్లాన్‌ను అప్‌గ్రేడ్ చేయండి"
+  },
+  "v2_64d14b6f": {
+    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
+    "message": "ఈ వీడియోకు %s నిమిషాలు అవసరం, కానీ మీకు %s నిమిషాలు మాత్రమే మిగిలి ఉన్నాయి"
+  },
+  "v2_03482321": {
+    "description": "Auto-generated translation for: Enabled",
+    "message": "ఎనేబుల్ చేయబడింది"
+  },
+  "v2_14009e9c": {
+    "description": "Auto-generated translation for: Disabled",
+    "message": "డిజేబుల్డ్ (వికలాంగ)"
+  },
+  "v2_3ef27976": {
+    "description": "Auto-generated translation for: Characters",
+    "message": "పాత్రలు"
+  },
+  "v2_77578069": {
+    "description": "Auto-generated translation for: Examples",
+    "message": "ఉదాహరణలు"
+  },
+  "v2_33b68d5c": {
+    "description": "Auto-generated translation for: v2_yes",
+    "message": "v2_అవును"
+  },
+  "v2_06970264": {
+    "description": "Auto-generated translation for: v2_no",
+    "message": "v2_లేదు"
+  },
+  "v2_03e43f43": {
+    "description": "Auto-generated translation for: Color",
+    "message": "రంగు"
+  },
+  "v2_00275421": {
+    "description": "Auto-generated translation for: Size",
+    "message": "పరిమాణం"
+  },
+  "v2_35777caf": {
+    "description": "Auto-generated translation for: Configuration Updated",
+    "message": "కాన్ఫిగరేషన్ అప్‌డేట్ చేయబడింది"
+  },
+  "v2_6e4ee645": {
+    "description": "Auto-generated translation for: Repeat",
+    "message": "పునరావృతం చేయి"
+  },
+  "v2_4cf2edbc": {
+    "description": "Auto-generated translation for: Repeat Enabled",
+    "message": "పునరావృతం ప్రారంభించబడింది"
+  },
+  "v2_0050d89f": {
+    "description": "Auto-generated translation for: Repeat Disabled",
+    "message": "పునరావృతం నిలిపివేయబడింది"
+  },
+  "v2_4be4859a": {
+    "description": "Auto-generated translation for: Playback Modes Updated",
+    "message": "ప్లేబ్యాక్ మోడ్‌లు అప్‌డేట్ చేయబడ్డాయి"
+  },
+  "v2_4c1b6eb8": {
+    "description": "Auto-generated translation for: Keybindings Updated",
+    "message": "కీబైండింగ్‌లు అప్‌డేట్ చేయబడ్డాయి"
+  },
+  "v2_23fa7255": {
+    "description": "Auto-generated translation for: Platform Settings Updated",
+    "message": "ప్లాట్‌ఫారమ్ సెట్టింగ్‌లు నవీకరించబడ్డాయి"
+  },
+  "v2_35bb7c77": {
+    "description": "Auto-generated translation for: Table Layout Updated",
+    "message": "టేబుల్ లేఅవుట్ అప్‌డేట్ చేయబడింది"
+  },
+  "v2_06b472de": {
+    "description": "Auto-generated translation for: Video List Updated",
+    "message": "వీడియో జాబితా నవీకరించబడింది"
+  },
+  "v2_2dd9170c": {
+    "description": "Auto-generated translation for: Voice Settings Updated",
+    "message": "వాయిస్ సెట్టింగ్‌లు నవీకరించబడ్డాయి"
+  },
+  "v2_1cf42327": {
+    "description": "Auto-generated translation for: Learning Subtitles",
+    "message": "సబ్‌టైటిల్‌లను నేర్చుకోవడం"
+  },
+  "v2_55ec6ee5": {
+    "description": "Auto-generated translation for: Subtitle Character Length",
+    "message": "ఉపశీర్షిక అక్షర నిడివి"
+  },
+  "v2_788e051b": {
+    "description": "Auto-generated translation for: Text-to-Speech Speed",
+    "message": "టెక్స్ట్-టు-స్పీచ్ వేగం"
+  },
+  "v2_7b3a55db": {
+    "description": "Auto-generated translation for: Text-to-Speech Metadata",
+    "message": "టెక్స్ట్-టు-స్పీచ్ మెటాడేటా"
+  },
+  "v2_450ba908": {
+    "description": "Auto-generated translation for: Repeat Settings",
+    "message": "సెట్టింగ్‌లను పునరావృతం చేయి"
+  },
+  "v2_2de46fc0": {
+    "description": "Auto-generated translation for: Auto Dubbing",
+    "message": "ఆటో డబ్బింగ్"
+  },
+  "v2_380dcdde": {
+    "description": "Auto-generated translation for: Phrase Freeze",
+    "message": "ఫ్రేజ్ ఫ్రీజ్"
+  },
+  "v2_61ba4188": {
+    "description": "Auto-generated translation for: Smart Restart",
+    "message": "స్మార్ట్ రీస్టార్ట్"
+  },
+  "v2_030c1e45": {
+    "description": "Auto-generated translation for: Smart Restart Delay",
+    "message": "స్మార్ట్ రీస్టార్ట్ జాప్యం"
+  },
+  "v2_49e7df34": {
+    "description": "Auto-generated translation for: Add Spaces",
+    "message": "ఖాళీలను జోడించండి"
+  },
+  "v2_4c5b99cd": {
+    "description": "Auto-generated translation for: Keybindings",
+    "message": "కీబైండింగ్‌లు"
+  },
+  "v2_01ce83f9": {
+    "description": "Auto-generated translation for: Bookmark Color",
+    "message": "బుక్‌మార్క్ రంగు"
+  },
+  "v2_623e6865": {
+    "description": "Auto-generated translation for: Bookmark Variant",
+    "message": "బుక్‌మార్క్ వేరియంట్"
+  },
+  "v2_146e65b1": {
+    "description": "Auto-generated translation for: Platform States",
+    "message": "ప్లాట్‌ఫారమ్ స్థితులు"
+  },
+  "v2_37c9741f": {
+    "description": "Auto-generated translation for: Current Videos",
+    "message": "ప్రస్తుత వీడియోలు"
+  },
+  "v2_608f925b": {
+    "description": "Auto-generated translation for: Number of Examples",
+    "message": "ఉదాహరణల సంఖ్య"
+  },
+  "v2_50cf9726": {
+    "description": "Auto-generated translation for: Insight Visibility",
+    "message": "అంతర్దృష్టి దృశ్యమానత"
+  },
+  "v2_3e3938a4": {
+    "description": "Auto-generated translation for: Meanings Visibility",
+    "message": "అర్థాల గోచరత"
+  },
+  "v2_6aab5cdc": {
+    "description": "Auto-generated translation for: Dictionary Visibility",
+    "message": "డిక్షనరీ విజిబిలిటీ"
+  },
+  "v2_5507a139": {
+    "description": "Auto-generated translation for: Transliteration Visibility",
+    "message": "లిప్యంతరీకరణ వీక్షణ"
+  },
+  "v2_0e3f36a1": {
+    "description": "Auto-generated translation for: Transliteration Type",
+    "message": "లిప్యంతరీకరణ రకం"
+  },
+  "v2_4c4993e2": {
+    "description": "Auto-generated translation for: Sentence Transliteration Type",
+    "message": "వాక్యం లిప్యంతరీకరణ రకం"
+  },
+  "v2_5a4c3526": {
+    "description": "Auto-generated translation for: Notebook Table State",
+    "message": "నోట్‌బుక్ టేబుల్ స్థితి"
+  },
+  "v2_3053866c": {
+    "description": "Auto-generated translation for: Open Translation Popup on Hover",
+    "message": "హోవర్‌పై అనువాద పాప్‌అప్‌ను తెరవండి"
+  },
+  "v2_2673a54c": {
+    "description": "Auto-generated translation for: Show Translation in Subtitles List",
+    "message": "సబ్‌టైటిల్స్ జాబితాలో అనువాదాన్ని చూపించు"
+  },
+  "v2_650906f8": {
+    "description": "Auto-generated translation for: Bottom Area Gap",
+    "message": "దిగువ ప్రాంత అంతరం"
+  },
+  "v2_062e7752": {
+    "description": "Auto-generated translation for: Playback Controls Position",
+    "message": "ప్లేబ్యాక్ నియంత్రణల స్థానం"
+  },
+  "v2_53e3c73a": {
+    "description": "Auto-generated translation for: Highlight Words on Live Speaking",
+    "message": "ప్రత్యక్ష ప్రసంగంలో పదాలను హైలైట్ చేయండి"
+  },
+  "v2_4511a7e0": {
+    "description": "Auto-generated translation for: Word Merging Enabled",
+    "message": "పద విలీనం ప్రారంభించబడింది"
+  },
+  "v2_0fea39ec": {
+    "description": "Auto-generated translation for: Show Language Mismatch Reminder Modal",
+    "message": "భాషా సరిపోలని రిమైండర్ మోడల్‌ను చూపించు"
+  },
+  "v2_486aba86": {
+    "description": "Auto-generated translation for: Speak Word on Translation Popup Open",
+    "message": "అనువాద పాపప్ తెరిచినప్పుడు పదం పలకండి"
+  },
+  "v2_2260eb57": {
+    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
+    "message": "లర్నింగ్ టు నేటివ్ మ్యాపింగ్ ఎనేబుల్డ్"
+  },
+  "v2_6fb985d3": {
+    "description": "Auto-generated translation for: Pinned Languages",
+    "message": "పిన్ చేయబడిన భాషలు"
+  },
+  "v2_6377d045": {
+    "description": "Auto-generated translation for: Open filters",
+    "message": "ఫిల్టర్‌లను తెరవండి"
+  },
+  "v2_636ee1eb": {
+    "description": "Auto-generated translation for: Search filters...",
+    "message": "శోధన ఫిల్టర్లు..."
+  },
+  "v2_77202330": {
+    "description": "Auto-generated translation for: No filters found.",
+    "message": "ఎటువంటి ఫిల్టర్‌లు కనుగొనబడలేదు."
+  },
+  "v2_6990bce1": {
+    "description": "Auto-generated translation for: Active Filters",
+    "message": "యాక్టివ్ ఫిల్టర్‌లు"
+  },
+  "v2_5098ff48": {
+    "description": "Auto-generated translation for: No options available",
+    "message": "ఎంపికలు అందుబాటులో లేవు"
+  },
+  "v2_4adf1f09": {
+    "description": "Auto-generated translation for: Clear all filters",
+    "message": "అన్ని ఫిల్టర్‌లను తొలగించు"
+  },
+  "v2_283255e8": {
+    "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
+    "message": "మీరు సేవ్ చేసిన అన్ని పదాలు, పదబంధాలు మరియు వాక్యాలను ఇక్కడ కనుగొనండి. మీరు దీన్ని ఫిల్టర్‌ల ద్వారా క్రమబద్ధీకరించవచ్చు, జాబితాలను సృష్టించవచ్చు మరియు అంకికి ఎగుమతి చేయవచ్చు."
   }
 }

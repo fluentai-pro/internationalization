@@ -207,10 +207,6 @@
     "description": "Auto-generated translation for: Type",
     "message": "ടൈപ്പ് ചെയ്യുക"
   },
-  "v2_04e9a151": {
-    "description": "Auto-generated translation for: Value",
-    "message": "മൂല്യം"
-  },
   "v2_6c9bdee4": {
     "description": "Auto-generated translation for: Select",
     "message": "തിരഞ്ഞെടുക്കുക"
@@ -218,10 +214,6 @@
   "v2_1df8e0dd": {
     "description": "Auto-generated translation for: Actions",
     "message": "നടപടികൾ"
-  },
-  "v2_378b6b55": {
-    "description": "Auto-generated translation for: Created At",
-    "message": "സൃഷ്ടിച്ച തീയതി"
   },
   "v2_04ed245b": {
     "description": "Auto-generated translation for: Video",
@@ -5395,10 +5387,6 @@
     "description": "Auto-generated translation for: Mark as Learning",
     "message": "പഠിക്കുന്നതായി അടയാളപ്പെടുത്തുക"
   },
-  "v2_5ee723a3": {
-    "description": "Auto-generated translation for: Add selected to list",
-    "message": "തിരഞ്ഞെടുത്തവ ലിസ്റ്റിലേക്ക് ചേർക്കുക"
-  },
   "v2_04607375": {
     "description": "Auto-generated translation for: Lists",
     "message": "ലിസ്റ്റുകൾ"
@@ -5577,14 +5565,6 @@
   "v2_6777abf6": {
     "description": "Auto-generated translation for: Preparing...",
     "message": "തയ്യാറാക്കുന്നു..."
-  },
-  "v2_6c6444d3": {
-    "description": "Auto-generated translation for: Find all your words, phrases, and sentences here.",
-    "message": "നിങ്ങളുടെ എല്ലാ വാക്കുകളും, ശൈലികളും, വാക്യങ്ങളും ഇവിടെ കാണുക."
-  },
-  "v2_1589890f": {
-    "description": "Auto-generated translation for: Website Dashboard",
-    "message": "വെബ്സൈറ്റ് ഡാഷ്ബോർഡ്"
   },
   "v2_22949459": {
     "description": "Auto-generated translation for: Combine multiple words to understand phrases and expressions better.",
@@ -6288,10 +6268,6 @@
   "v2_487a3b00": {
     "description": "Auto-generated translation for: Video ID",
     "message": "വീഡിയോ ഐഡി"
-  },
-  "v2_1406389d": {
-    "description": "Auto-generated translation for: Select all",
-    "message": "എല്ലാം തിരഞ്ഞെടുക്കുക"
   },
   "v2_102529d6": {
     "description": "Auto-generated translation for: Transcription failed!",
@@ -7423,5 +7399,413 @@
   "v2_54b5322a": {
     "description": "Auto-generated translation for: Remaining",
     "message": "ശേഷിക്കുന്നത്"
+  },
+  "v2_2f347555": {
+    "description": "Auto-generated translation for: Setting Updated",
+    "message": "ക്രമീകരണം അപ്‌ഡേറ്റ് ചെയ്തു"
+  },
+  "v2_0024250c": {
+    "description": "Auto-generated translation for: Live",
+    "message": "തത്സമയം"
+  },
+  "v2_77102c1a": {
+    "description": "Auto-generated translation for: Manual",
+    "message": "മാന്വൽ"
+  },
+  "v2_699cedf1": {
+    "description": "Auto-generated translation for: Select a store to inspect its data",
+    "message": "ഡാറ്റ പരിശോധിക്കാൻ ഒരു സ്റ്റോർ തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_21d27833": {
+    "description": "Auto-generated translation for: Collapse",
+    "message": "തകരുക"
+  },
+  "v2_7c8dcaba": {
+    "description": "Auto-generated translation for: Expand",
+    "message": "വികസിപ്പിക്കുക"
+  },
+  "v2_6bc6f02e": {
+    "description": "Auto-generated translation for: Stores",
+    "message": "കടകൾ"
+  },
+  "v2_5c265f36": {
+    "description": "Auto-generated translation for: Components",
+    "message": "ഘടകങ്ങൾ"
+  },
+  "v2_764fb87a": {
+    "description": "Auto-generated translation for: Modals",
+    "message": "മോഡലുകൾ"
+  },
+  "v2_77a8eb54": {
+    "description": "Auto-generated translation for: Saved At",
+    "message": "സംരക്ഷിച്ചത്"
+  },
+  "v2_00218bca": {
+    "description": "Auto-generated translation for: From",
+    "message": "മുതൽ"
+  },
+  "v2_04e18f3e": {
+    "description": "Auto-generated translation for: Until",
+    "message": "വരെ"
+  },
+  "v2_43155149": {
+    "description": "Auto-generated translation for: Open date range filter",
+    "message": "തീയതി ശ്രേണി ഫിൽട്ടർ തുറക്കുക"
+  },
+  "v2_78b39664": {
+    "description": "Auto-generated translation for: From Date",
+    "message": "തീയതി മുതൽ"
+  },
+  "v2_1ad8b233": {
+    "description": "Auto-generated translation for: To Date",
+    "message": "ഇതുവരെ"
+  },
+  "v2_4d850910": {
+    "description": "Auto-generated translation for: Select from calendar",
+    "message": "കലണ്ടറിൽ നിന്ന് തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_03e2c62d": {
+    "description": "Auto-generated translation for: Clear",
+    "message": "വ്യക്തം"
+  },
+  "v2_75cbc37c": {
+    "description": "Auto-generated translation for: Learning Word/Phrase",
+    "message": "വാക്ക്/ശൈലി പഠിക്കുന്നു"
+  },
+  "v2_7da9a4a4": {
+    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
+    "message": "{list_name} എന്ന ലിസ്റ്റിൽ നിന്ന് {count} വാക്കുകൾ നീക്കം ചെയ്തു",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_72e4746a": {
+    "description": "Auto-generated translation for: Removed from {list_name}",
+    "message": "{list_name} എന്നിവയിൽ നിന്ന് നീക്കംചെയ്തു",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4f84faa1": {
+    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
+    "message": "{list_name} എന്നതിൽ നിന്ന് തിരഞ്ഞെടുത്ത {count} വാക്കുകൾ നീക്കം ചെയ്യുക",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1d032bb2": {
+    "description": "Auto-generated translation for: Remove from {list_name}",
+    "message": "{list_name} -ൽ നിന്ന് നീക്കം ചെയ്യുക",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2e9d3423": {
+    "description": "Auto-generated translation for: Add {count} selected words to list",
+    "message": "$count$ തിരഞ്ഞെടുത്ത വാക്കുകൾ ലിസ്റ്റിലേക്ക് ചേർക്കുക",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_26ab0d7c": {
+    "description": "Auto-generated translation for: Add to list",
+    "message": "ലിസ്റ്റിലേക്ക് ചേർക്കുക"
+  },
+  "v2_556a740a": {
+    "description": "Auto-generated translation for: Add {count} words to list",
+    "message": "ലിസ്റ്റിലേക്ക് {count} വാക്കുകൾ ചേർക്കുക",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2c9c6b81": {
+    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
+    "message": "{list_name} എന്നതിൽ നിന്ന് $count$ വാക്കുകൾ നീക്കം ചെയ്യണോ?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "list_name": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_4189672b": {
+    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
+    "message": "ഇത് ഈ പട്ടികയിൽ നിന്ന് തിരഞ്ഞെടുത്ത വാക്കുകൾ നീക്കം ചെയ്യും. അവ നിങ്ങളുടെ നോട്ട്ബുക്കിൽ ഇപ്പോഴും ഉണ്ടായിരിക്കും."
+  },
+  "v2_598a626d": {
+    "description": "Auto-generated translation for: Removing...",
+    "message": "നീക്കംചെയ്യുന്നു..."
+  },
+  "v2_28c8c2bf": {
+    "description": "Auto-generated translation for: Enable FluentAI",
+    "message": "ഫ്ലുവന്റ്എഐ ഓണാക്കുക"
+  },
+  "v2_558e3bed": {
+    "description": "Auto-generated translation for: This video will use %s minutes",
+    "message": "ഈ വീഡിയോ %s മിനിറ്റ് ദൈർഘ്യം ഉള്ളതാണ്"
+  },
+  "v2_5df79a31": {
+    "description": "Auto-generated translation for: Loading video duration...",
+    "message": "വീഡിയോ ദൈർഘ്യം ലോഡ് ചെയ്യുന്നു..."
+  },
+  "v2_496c6513": {
+    "description": "Auto-generated translation for: Upgrade Plan",
+    "message": "പ്ലാൻ നവീകരിക്കുക"
+  },
+  "v2_64d14b6f": {
+    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
+    "message": "ഈ വീഡിയോയ്ക്ക് %s മിനിറ്റ് ആവശ്യമാണ്, എന്നാൽ നിങ്ങൾക്ക് %s മിനിറ്റ് മാത്രമേ ശേഷിക്കുന്നുള്ളൂ"
+  },
+  "v2_03482321": {
+    "description": "Auto-generated translation for: Enabled",
+    "message": "പ്രവർത്തനക്ഷമമാക്കി"
+  },
+  "v2_14009e9c": {
+    "description": "Auto-generated translation for: Disabled",
+    "message": "വികലാംഗർ"
+  },
+  "v2_3ef27976": {
+    "description": "Auto-generated translation for: Characters",
+    "message": "കഥാപാത്രങ്ങൾ"
+  },
+  "v2_77578069": {
+    "description": "Auto-generated translation for: Examples",
+    "message": "ഉദാഹരണങ്ങൾ"
+  },
+  "v2_33b68d5c": {
+    "description": "Auto-generated translation for: v2_yes",
+    "message": "v2_അതെ"
+  },
+  "v2_06970264": {
+    "description": "Auto-generated translation for: v2_no",
+    "message": "v2_നോ"
+  },
+  "v2_03e43f43": {
+    "description": "Auto-generated translation for: Color",
+    "message": "നിറം"
+  },
+  "v2_00275421": {
+    "description": "Auto-generated translation for: Size",
+    "message": "വലുപ്പം"
+  },
+  "v2_35777caf": {
+    "description": "Auto-generated translation for: Configuration Updated",
+    "message": "കോൺഫിഗറേഷൻ അപ്ഡേറ്റ് ചെയ്തു"
+  },
+  "v2_6e4ee645": {
+    "description": "Auto-generated translation for: Repeat",
+    "message": "ആവർത്തിക്കുക"
+  },
+  "v2_4cf2edbc": {
+    "description": "Auto-generated translation for: Repeat Enabled",
+    "message": "ആവർത്തനം പ്രവർത്തനക്ഷമമാക്കി"
+  },
+  "v2_0050d89f": {
+    "description": "Auto-generated translation for: Repeat Disabled",
+    "message": "ആവർത്തനം പ്രവർത്തനരഹിതമാക്കി"
+  },
+  "v2_4be4859a": {
+    "description": "Auto-generated translation for: Playback Modes Updated",
+    "message": "പ്ലേബാക്ക് മോഡുകൾ അപ്ഡേറ്റ് ചെയ്തു"
+  },
+  "v2_4c1b6eb8": {
+    "description": "Auto-generated translation for: Keybindings Updated",
+    "message": "കീബൈൻഡിംഗുകൾ അപ്ഡേറ്റ് ചെയ്തു"
+  },
+  "v2_23fa7255": {
+    "description": "Auto-generated translation for: Platform Settings Updated",
+    "message": "പ്ലാറ്റ്ഫോം ക്രമീകരണങ്ങൾ അപ്ഡേറ്റ് ചെയ്തു"
+  },
+  "v2_35bb7c77": {
+    "description": "Auto-generated translation for: Table Layout Updated",
+    "message": "പട്ടിക ലേഔട്ട് അപ്‌ഡേറ്റ് ചെയ്‌തു"
+  },
+  "v2_06b472de": {
+    "description": "Auto-generated translation for: Video List Updated",
+    "message": "വീഡിയോ ലിസ്റ്റ് അപ്ഡേറ്റ് ചെയ്‌തു"
+  },
+  "v2_2dd9170c": {
+    "description": "Auto-generated translation for: Voice Settings Updated",
+    "message": "വോയിസ് ക്രമീകരണങ്ങൾ അപ്ഡേറ്റ് ചെയ്തു"
+  },
+  "v2_1cf42327": {
+    "description": "Auto-generated translation for: Learning Subtitles",
+    "message": "സബ്ടൈറ്റിലുകൾ പഠിക്കുന്നു"
+  },
+  "v2_55ec6ee5": {
+    "description": "Auto-generated translation for: Subtitle Character Length",
+    "message": "സബ്‌ടൈറ്റിൽ പ്രതീക ദൈർഘ്യം"
+  },
+  "v2_788e051b": {
+    "description": "Auto-generated translation for: Text-to-Speech Speed",
+    "message": "ടെക്സ്റ്റ്-ടു-സ്പീച്ച് വേഗത"
+  },
+  "v2_7b3a55db": {
+    "description": "Auto-generated translation for: Text-to-Speech Metadata",
+    "message": "ടെക്സ്റ്റ്-ടു-സ്പീച്ച് മെറ്റാഡാറ്റ"
+  },
+  "v2_450ba908": {
+    "description": "Auto-generated translation for: Repeat Settings",
+    "message": "ആവർത്തന ക്രമീകരണങ്ങൾ"
+  },
+  "v2_2de46fc0": {
+    "description": "Auto-generated translation for: Auto Dubbing",
+    "message": "ഓട്ടോ ഡബ്ബിംഗ്"
+  },
+  "v2_380dcdde": {
+    "description": "Auto-generated translation for: Phrase Freeze",
+    "message": "ഫ്രേസ് ഫ്രീസ്"
+  },
+  "v2_61ba4188": {
+    "description": "Auto-generated translation for: Smart Restart",
+    "message": "സ്മാർട്ട് റീസ്റ്റാർട്ട്"
+  },
+  "v2_030c1e45": {
+    "description": "Auto-generated translation for: Smart Restart Delay",
+    "message": "സ്മാർട്ട് റീസ്റ്റാർട്ട് കാലതാമസം"
+  },
+  "v2_49e7df34": {
+    "description": "Auto-generated translation for: Add Spaces",
+    "message": "ഇടവിട്ട് ചേർക്കുക"
+  },
+  "v2_4c5b99cd": {
+    "description": "Auto-generated translation for: Keybindings",
+    "message": "കീബൈൻഡിംഗുകൾ"
+  },
+  "v2_01ce83f9": {
+    "description": "Auto-generated translation for: Bookmark Color",
+    "message": "ബുക്ക്‌മാർക്ക് നിറം"
+  },
+  "v2_623e6865": {
+    "description": "Auto-generated translation for: Bookmark Variant",
+    "message": "ബുക്ക്മാർക്ക് വേരിയന്റ്"
+  },
+  "v2_146e65b1": {
+    "description": "Auto-generated translation for: Platform States",
+    "message": "പ്ലാറ്റ്ഫോം നിലകൾ"
+  },
+  "v2_37c9741f": {
+    "description": "Auto-generated translation for: Current Videos",
+    "message": "നിലവിലെ വീഡിയോകൾ"
+  },
+  "v2_608f925b": {
+    "description": "Auto-generated translation for: Number of Examples",
+    "message": "ഉദാഹരണങ്ങളുടെ എണ്ണം"
+  },
+  "v2_50cf9726": {
+    "description": "Auto-generated translation for: Insight Visibility",
+    "message": "ഉൾക്കാഴ്ചയുടെ ദൃശ്യപരത"
+  },
+  "v2_3e3938a4": {
+    "description": "Auto-generated translation for: Meanings Visibility",
+    "message": "അർത്ഥങ്ങളുടെ ദൃശ്യപരത"
+  },
+  "v2_6aab5cdc": {
+    "description": "Auto-generated translation for: Dictionary Visibility",
+    "message": "നിഘണ്ടു ദൃശ്യപരത"
+  },
+  "v2_5507a139": {
+    "description": "Auto-generated translation for: Transliteration Visibility",
+    "message": "ലിപ്യന്തരണ ദൃശ്യപരത"
+  },
+  "v2_0e3f36a1": {
+    "description": "Auto-generated translation for: Transliteration Type",
+    "message": "ലിപ്യന്തരണ തരം"
+  },
+  "v2_4c4993e2": {
+    "description": "Auto-generated translation for: Sentence Transliteration Type",
+    "message": "വാക്യം ലിപ്യന്തരണ തരം"
+  },
+  "v2_5a4c3526": {
+    "description": "Auto-generated translation for: Notebook Table State",
+    "message": "നോട്ട്ബുക്ക് ടേബിൾ അവസ്ഥ"
+  },
+  "v2_3053866c": {
+    "description": "Auto-generated translation for: Open Translation Popup on Hover",
+    "message": "ഹോവർ ചെയ്യുമ്പോൾ ട്രാൻസ്‍ലേഷൻ പോപ്പപ്പ് തുറക്കുക"
+  },
+  "v2_2673a54c": {
+    "description": "Auto-generated translation for: Show Translation in Subtitles List",
+    "message": "സബ്‌ടൈറ്റിൽ ലിസ്റ്റിൽ വിവർത്തനം കാണിക്കുക"
+  },
+  "v2_650906f8": {
+    "description": "Auto-generated translation for: Bottom Area Gap",
+    "message": "ചുവടെയുള്ള ഭാഗത്തെ വിടവ്"
+  },
+  "v2_062e7752": {
+    "description": "Auto-generated translation for: Playback Controls Position",
+    "message": "പ്ലേബാക്ക് കൺട്രോൾസ് പൊസിഷൻ"
+  },
+  "v2_53e3c73a": {
+    "description": "Auto-generated translation for: Highlight Words on Live Speaking",
+    "message": "തത്സമയ സംഭാഷണത്തിൽ വാക്കുകൾ ഹൈലൈറ്റ് ചെയ്യുക"
+  },
+  "v2_4511a7e0": {
+    "description": "Auto-generated translation for: Word Merging Enabled",
+    "message": "വാക്കുകൾ ലയിപ്പിക്കുന്നത് പ്രവർത്തനക്ഷമമാക്കി"
+  },
+  "v2_0fea39ec": {
+    "description": "Auto-generated translation for: Show Language Mismatch Reminder Modal",
+    "message": "ഭാഷാ പൊരുത്തക്കേട് ഓർമ്മപ്പെടുത്തൽ മോഡൽ കാണിക്കുക"
+  },
+  "v2_486aba86": {
+    "description": "Auto-generated translation for: Speak Word on Translation Popup Open",
+    "message": "വിവർത്തന പോപ്പ്അപ്പ് തുറക്കുമ്പോൾ സംസാരിക്കുക"
+  },
+  "v2_2260eb57": {
+    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
+    "message": "നേറ്റീവ് മാപ്പിംഗ് പഠിക്കുന്നത് പ്രവർത്തനക്ഷമമാക്കി"
+  },
+  "v2_6fb985d3": {
+    "description": "Auto-generated translation for: Pinned Languages",
+    "message": "പിൻ ചെയ്ത ഭാഷകൾ"
+  },
+  "v2_6377d045": {
+    "description": "Auto-generated translation for: Open filters",
+    "message": "ഫിൽട്ടറുകൾ തുറക്കുക"
+  },
+  "v2_636ee1eb": {
+    "description": "Auto-generated translation for: Search filters...",
+    "message": "തിരയൽ ഫിൽട്ടറുകൾ..."
+  },
+  "v2_77202330": {
+    "description": "Auto-generated translation for: No filters found.",
+    "message": "ഫിൽട്ടറുകളൊന്നും കണ്ടെത്തിയില്ല."
+  },
+  "v2_6990bce1": {
+    "description": "Auto-generated translation for: Active Filters",
+    "message": "സജീവ ഫിൽട്ടറുകൾ"
+  },
+  "v2_5098ff48": {
+    "description": "Auto-generated translation for: No options available",
+    "message": "ഓപ്ഷനുകളൊന്നും ലഭ്യമല്ല"
+  },
+  "v2_4adf1f09": {
+    "description": "Auto-generated translation for: Clear all filters",
+    "message": "എല്ലാ ഫിൽട്ടറുകളും മായ്ക്കുക"
+  },
+  "v2_283255e8": {
+    "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
+    "message": "നിങ്ങളുടെ സംരക്ഷിച്ച വാക്കുകൾ, ശൈലികൾ, വാക്യങ്ങൾ എന്നിവയെല്ലാം ഇവിടെ കണ്ടെത്തുക. നിങ്ങൾക്ക് ഫിൽട്ടറുകൾ ഉപയോഗിച്ച് അടുക്കാനും പട്ടികകൾ ഉണ്ടാക്കാനും അങ്കിയിലേക്ക് കയറ്റുമതി ചെയ്യാനും കഴിയും."
   }
 }
