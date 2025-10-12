@@ -7358,14 +7358,6 @@
     "description": "Auto-generated translation for: Loading quota...",
     "message": "ಕೋ quota ಲೋಡ್ ಆಗುತ್ತಿದೆ..."
   },
-  "v2_0696db44": {
-    "description": "Auto-generated translation for: total",
-    "message": "ಒಟ್ಟು"
-  },
-  "v2_00285fdd": {
-    "description": "Auto-generated translation for: Used",
-    "message": "ಬಳಸಿದ"
-  },
   "v2_009e39c0": {
     "description": "Auto-generated translation for: Platforms",
     "message": "ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಳು"
@@ -7397,5 +7389,39 @@
   "v2_66bff25d": {
     "description": "Auto-generated translation for: Pin language",
     "message": "ಪಿನ್ ಭಾಷೆ"
+  },
+  "v2_4974dd81": {
+    "description": "Auto-generated translation for: Unpinned $lang$",
+    "message": "ಪಿನ್ ಮಾಡಲಾಗಿಲ್ಲ $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6a12dc86": {
+    "description": "Auto-generated translation for: Pinned $lang$",
+    "message": "ಪಿನ್ ಮಾಡಿದ $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_64a92c51": {
+    "description": "Auto-generated translation for: Invert Languages",
+    "message": "ಭಾಷೆಗಳನ್ನು ತಿರುಗಿಸಿ"
+  },
+  "v2_3bf01417": {
+    "description": "Auto-generated translation for: out of",
+    "message": "ಹೊರಗೆ"
+  },
+  "v2_35a50da2": {
+    "description": "Auto-generated translation for: minutes used",
+    "message": "ಬಳಸಿದ ನಿಮಿಷಗಳು"
+  },
+  "v2_54b5322a": {
+    "description": "Auto-generated translation for: Remaining",
+    "message": "ಉಳಿದಿರುವ"
   }
 }

@@ -7358,14 +7358,6 @@
     "description": "Auto-generated translation for: Loading quota...",
     "message": "Завантаження квоти..."
   },
-  "v2_0696db44": {
-    "description": "Auto-generated translation for: total",
-    "message": "загальний"
-  },
-  "v2_00285fdd": {
-    "description": "Auto-generated translation for: Used",
-    "message": "Використано"
-  },
   "v2_009e39c0": {
     "description": "Auto-generated translation for: Platforms",
     "message": "Платформи"
@@ -7397,5 +7389,39 @@
   "v2_7b1bc857": {
     "description": "Auto-generated translation for: For serious learners who want Pro lifetime access.",
     "message": "Для серйозних учнів, які бажають отримати довічний доступ до Pro плану."
+  },
+  "v2_4974dd81": {
+    "description": "Auto-generated translation for: Unpinned $lang$",
+    "message": "Відкріплено $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6a12dc86": {
+    "description": "Auto-generated translation for: Pinned $lang$",
+    "message": "Закріплено $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_64a92c51": {
+    "description": "Auto-generated translation for: Invert Languages",
+    "message": "Інвертувати мови"
+  },
+  "v2_3bf01417": {
+    "description": "Auto-generated translation for: out of",
+    "message": "з"
+  },
+  "v2_35a50da2": {
+    "description": "Auto-generated translation for: minutes used",
+    "message": "використаних хвилин"
+  },
+  "v2_54b5322a": {
+    "description": "Auto-generated translation for: Remaining",
+    "message": "Залишок"
   }
 }

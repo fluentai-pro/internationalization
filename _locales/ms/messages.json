@@ -7501,14 +7501,6 @@
     "description": "Auto-generated translation for: Loading quota...",
     "message": "Memuatkan kuota..."
   },
-  "v2_0696db44": {
-    "description": "Auto-generated translation for: total",
-    "message": "jumlah"
-  },
-  "v2_00285fdd": {
-    "description": "Auto-generated translation for: Used",
-    "message": "Terpakai"
-  },
   "v2_009e39c0": {
     "description": "Auto-generated translation for: Platforms",
     "message": "Platform"
@@ -7544,5 +7536,39 @@
   "v2_568faf56": {
     "description": "Auto-generated translation for: Completed!",
     "message": "Selesai!"
+  },
+  "v2_4974dd81": {
+    "description": "Auto-generated translation for: Unpinned $lang$",
+    "message": "Tidak disematkan $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6a12dc86": {
+    "description": "Auto-generated translation for: Pinned $lang$",
+    "message": "Di semat $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_64a92c51": {
+    "description": "Auto-generated translation for: Invert Languages",
+    "message": "Songsang Bahasa"
+  },
+  "v2_3bf01417": {
+    "description": "Auto-generated translation for: out of",
+    "message": "daripada"
+  },
+  "v2_35a50da2": {
+    "description": "Auto-generated translation for: minutes used",
+    "message": "minit digunakan"
+  },
+  "v2_54b5322a": {
+    "description": "Auto-generated translation for: Remaining",
+    "message": "Baki"
   }
 }

@@ -7358,14 +7358,6 @@
     "description": "Auto-generated translation for: Loading quota...",
     "message": "할당량을 로드 중..."
   },
-  "v2_0696db44": {
-    "description": "Auto-generated translation for: total",
-    "message": "총계"
-  },
-  "v2_00285fdd": {
-    "description": "Auto-generated translation for: Used",
-    "message": "사용됨"
-  },
   "v2_009e39c0": {
     "description": "Auto-generated translation for: Platforms",
     "message": "플랫폼"
@@ -7397,5 +7389,39 @@
   "v2_66bff25d": {
     "description": "Auto-generated translation for: Pin language",
     "message": "핀 언어"
+  },
+  "v2_4974dd81": {
+    "description": "Auto-generated translation for: Unpinned $lang$",
+    "message": "고정 해제됨 $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6a12dc86": {
+    "description": "Auto-generated translation for: Pinned $lang$",
+    "message": "고정됨 $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_64a92c51": {
+    "description": "Auto-generated translation for: Invert Languages",
+    "message": "언어 반전"
+  },
+  "v2_3bf01417": {
+    "description": "Auto-generated translation for: out of",
+    "message": "~에서 벗어나"
+  },
+  "v2_35a50da2": {
+    "description": "Auto-generated translation for: minutes used",
+    "message": "사용 시간"
+  },
+  "v2_54b5322a": {
+    "description": "Auto-generated translation for: Remaining",
+    "message": "남은"
   }
 }

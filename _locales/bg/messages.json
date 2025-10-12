@@ -7358,14 +7358,6 @@
     "description": "Auto-generated translation for: Loading quota...",
     "message": "Зареждане на квота..."
   },
-  "v2_0696db44": {
-    "description": "Auto-generated translation for: total",
-    "message": "общо"
-  },
-  "v2_00285fdd": {
-    "description": "Auto-generated translation for: Used",
-    "message": "Използвано"
-  },
   "v2_009e39c0": {
     "description": "Auto-generated translation for: Platforms",
     "message": "Платформи"
@@ -7393,5 +7385,43 @@
   "v2_66bff25d": {
     "description": "Auto-generated translation for: Pin language",
     "message": "Език на пина"
+  },
+  "v2_4974dd81": {
+    "description": "Auto-generated translation for: Unpinned $lang$",
+    "message": "Отзакачен $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6a12dc86": {
+    "description": "Auto-generated translation for: Pinned $lang$",
+    "message": "Закачено $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_0a6576bc": {
+    "description": "Auto-generated translation for: Unpin language",
+    "message": "Отмяна на закрепването на езика"
+  },
+  "v2_64a92c51": {
+    "description": "Auto-generated translation for: Invert Languages",
+    "message": "Размяна на езици"
+  },
+  "v2_3bf01417": {
+    "description": "Auto-generated translation for: out of",
+    "message": "извън"
+  },
+  "v2_35a50da2": {
+    "description": "Auto-generated translation for: minutes used",
+    "message": "използвани минути"
+  },
+  "v2_54b5322a": {
+    "description": "Auto-generated translation for: Remaining",
+    "message": "Оставащ"
   }
 }

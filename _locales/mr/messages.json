@@ -7513,14 +7513,6 @@
     "description": "Auto-generated translation for: Loading quota...",
     "message": "कोटा लोड करत आहे..."
   },
-  "v2_0696db44": {
-    "description": "Auto-generated translation for: total",
-    "message": "एकूण"
-  },
-  "v2_00285fdd": {
-    "description": "Auto-generated translation for: Used",
-    "message": "वापरले"
-  },
   "v2_009e39c0": {
     "description": "Auto-generated translation for: Platforms",
     "message": "प्लॅटफॉर्म"
@@ -7544,5 +7536,39 @@
   "v2_4cbe39fb": {
     "description": "Auto-generated translation for: Everything in Pro, Priority support, Early access",
     "message": "प्रोसर्व्हिसेसमधील सर्वकाही, प्राधान्य समर्थन, लवकर प्रवेश"
+  },
+  "v2_4974dd81": {
+    "description": "Auto-generated translation for: Unpinned $lang$",
+    "message": "$lang$ अनपिन केले",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6a12dc86": {
+    "description": "Auto-generated translation for: Pinned $lang$",
+    "message": "पिन केले $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_64a92c51": {
+    "description": "Auto-generated translation for: Invert Languages",
+    "message": "भाषा उलटा"
+  },
+  "v2_3bf01417": {
+    "description": "Auto-generated translation for: out of",
+    "message": "बाहेर"
+  },
+  "v2_35a50da2": {
+    "description": "Auto-generated translation for: minutes used",
+    "message": "वापरलेली मिनिटे"
+  },
+  "v2_54b5322a": {
+    "description": "Auto-generated translation for: Remaining",
+    "message": "बाकी"
   }
 }

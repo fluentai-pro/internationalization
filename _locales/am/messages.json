@@ -7358,14 +7358,6 @@
     "description": "Auto-generated translation for: Loading quota...",
     "message": "የተፈቀደውን የዳታ መጠን በመጫን ላይ..."
   },
-  "v2_0696db44": {
-    "description": "Auto-generated translation for: total",
-    "message": "ጠቅላላ"
-  },
-  "v2_00285fdd": {
-    "description": "Auto-generated translation for: Used",
-    "message": "ጥቅም ላይ የዋለ"
-  },
   "v2_009e39c0": {
     "description": "Auto-generated translation for: Platforms",
     "message": "መድረኮች"
@@ -7397,5 +7389,39 @@
   "v2_66bff25d": {
     "description": "Auto-generated translation for: Pin language",
     "message": "ቋንቋን መሰካት"
+  },
+  "v2_4974dd81": {
+    "description": "Auto-generated translation for: Unpinned $lang$",
+    "message": "ፒን የተነሳው $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6a12dc86": {
+    "description": "Auto-generated translation for: Pinned $lang$",
+    "message": "ተሰክቷል $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_64a92c51": {
+    "description": "Auto-generated translation for: Invert Languages",
+    "message": "ቋንቋዎችን ገልብጥ"
+  },
+  "v2_3bf01417": {
+    "description": "Auto-generated translation for: out of",
+    "message": "ከ"
+  },
+  "v2_35a50da2": {
+    "description": "Auto-generated translation for: minutes used",
+    "message": "ጥቅም ላይ የዋሉ ደቂቃዎች"
+  },
+  "v2_54b5322a": {
+    "description": "Auto-generated translation for: Remaining",
+    "message": "የቀረው"
   }
 }

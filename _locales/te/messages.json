@@ -7505,14 +7505,6 @@
     "description": "Auto-generated translation for: Loading quota...",
     "message": "కోటా లోడ్ అవుతోంది..."
   },
-  "v2_0696db44": {
-    "description": "Auto-generated translation for: total",
-    "message": "మొత్తం"
-  },
-  "v2_00285fdd": {
-    "description": "Auto-generated translation for: Used",
-    "message": "ఉపయోగించబడింది"
-  },
   "v2_009e39c0": {
     "description": "Auto-generated translation for: Platforms",
     "message": "ప్లాట్‌ఫారమ్‌లు"
@@ -7544,5 +7536,39 @@
   "v2_66bff25d": {
     "description": "Auto-generated translation for: Pin language",
     "message": "భాషను పిన్ చేయండి"
+  },
+  "v2_4974dd81": {
+    "description": "Auto-generated translation for: Unpinned $lang$",
+    "message": "$lang$ అన్‌పిన్ చేయబడింది",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6a12dc86": {
+    "description": "Auto-generated translation for: Pinned $lang$",
+    "message": "పిన్ చేయబడింది $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_64a92c51": {
+    "description": "Auto-generated translation for: Invert Languages",
+    "message": "భాషలను తారుమారు చేయి"
+  },
+  "v2_3bf01417": {
+    "description": "Auto-generated translation for: out of",
+    "message": "నుండి"
+  },
+  "v2_35a50da2": {
+    "description": "Auto-generated translation for: minutes used",
+    "message": "ఉపయోగించిన నిమిషాలు"
+  },
+  "v2_54b5322a": {
+    "description": "Auto-generated translation for: Remaining",
+    "message": "మిగిలిన"
   }
 }
