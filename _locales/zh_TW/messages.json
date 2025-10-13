@@ -63,10 +63,6 @@
     "description": "Auto-generated translation for: General",
     "message": "一般"
   },
-  "v2_67d3a8c5": {
-    "description": "Auto-generated translation for: Subtitles",
-    "message": "字幕"
-  },
   "v2_71d561ee": {
     "description": "Auto-generated translation for: Feature Requests",
     "message": "功能請求"
@@ -1948,30 +1944,6 @@
     "description": "Auto-generated translation for: Neural Transcriptions",
     "message": "神經網路轉錄"
   },
-  "v2_43f821d7": {
-    "description": "Auto-generated translation for: SVG Showcase",
-    "message": "SVG 展示"
-  },
-  "v2_3bf74be4": {
-    "description": "Auto-generated translation for: Collection of SVG icons used throughout the application",
-    "message": "應用程式中使用的 SVG 圖示集合"
-  },
-  "v2_5ec59307": {
-    "description": "Auto-generated translation for: General SVGs",
-    "message": "通用 SVG"
-  },
-  "v2_5e9c687a": {
-    "description": "Auto-generated translation for: Icons used for various UI elements",
-    "message": "用於各種UI元素的圖示"
-  },
-  "v2_3d060eb3": {
-    "description": "Auto-generated translation for: Usage Type Icons",
-    "message": "使用類型圖示"
-  },
-  "v2_66f3f6d3": {
-    "description": "Auto-generated translation for: Icons representing different usage types",
-    "message": "代表不同使用類型的圖示"
-  },
   "v2_7d39a03b": {
     "description": "Auto-generated translation for: Import",
     "message": "匯入"
@@ -2048,14 +2020,6 @@
     "description": "Auto-generated translation for: Select Target Language",
     "message": "選擇目標語言"
   },
-  "v2_6fb3abed": {
-    "description": "Auto-generated translation for: Chrome Store Tile",
-    "message": "Chrome 商店圖標"
-  },
-  "v2_73473b9a": {
-    "description": "Auto-generated translation for: Visual representation of the Chrome Web Store tile",
-    "message": "Chrome Web Store 磚塊的視覺呈現"
-  },
   "v2_557131fc": {
     "description": "Auto-generated translation for: Upgrade",
     "message": "升級"
@@ -2131,14 +2095,6 @@
     "description": "Auto-generated translation for: The most stylish extension I've ever had. Extremely useful, works great.",
     "message": "我用過最時尚的擴充功能。非常實用，效能良好。"
   },
-  "v2_1c0f43dd": {
-    "description": "Auto-generated translation for: Learning Subtitles Panel",
-    "message": "學習字幕面板"
-  },
-  "v2_1eb6bbc2": {
-    "description": "Auto-generated translation for: Displays learning subtitles with optional native translation and interaction buttons.",
-    "message": "顯示學習字幕，並提供選擇性母語翻譯及互動按鈕"
-  },
   "v2_07a124b3": {
     "description": "Auto-generated translation for: Base Form",
     "message": "基本形式"
@@ -2199,149 +2155,9 @@
     "description": "Auto-generated translation for: Translate Selected Text (In Websites)",
     "message": "翻譯選定文字 (在網站中)"
   },
-  "v2_49fbd8d1": {
-    "description": "Auto-generated translation for: Solar Icons (Bold Duotone)",
-    "message": "太陽圖標 (粗雙色調)"
-  },
-  "v2_1d29c607": {
-    "description": "Auto-generated translation for: Display all icons from solar-icon-react/bd",
-    "message": "顯示 solar-icon-react/bd 中的所有圖標"
-  },
-  "v2_7a1ceb4d": {
-    "description": "Auto-generated translation for: This is a simple hover popup",
-    "message": "這是一個簡單的懸浮快顯"
-  },
-  "v2_20b8d6cb": {
-    "description": "Auto-generated translation for: This is level 2 (deepest level)",
-    "message": "這是第 2 層 (最深層)"
-  },
-  "v2_0f9a3fbf": {
-    "description": "Auto-generated translation for: This is level 1",
-    "message": "這是第一樓"
-  },
-  "v2_3f14af52": {
-    "description": "Auto-generated translation for: Hover for next level",
-    "message": "將滑鼠懸停以進入下一等級"
-  },
-  "v2_269e3a96": {
-    "description": "Auto-generated translation for: Level 3 (deepest level)",
-    "message": "第三層 (最深層)"
-  },
-  "v2_67616676": {
-    "description": "Auto-generated translation for: Level 2",
-    "message": "等級 2"
-  },
-  "v2_77f5d93c": {
-    "description": "Auto-generated translation for: Hover for level 3",
-    "message": "懸停可查看等級 3"
-  },
-  "v2_67616675": {
-    "description": "Auto-generated translation for: Level 1",
-    "message": "第 1 級"
-  },
-  "v2_77f5d93b": {
-    "description": "Auto-generated translation for: Hover for level 2",
-    "message": "懸停以顯示等級 2"
-  },
-  "v2_684fa954": {
-    "description": "Auto-generated translation for: Nested Hover Popups",
-    "message": "巢狀懸停彈出視窗"
-  },
-  "v2_264c2841": {
-    "description": "Auto-generated translation for: Demonstrates different levels of popup nesting to test hover behavior",
-    "message": "展示不同程度的彈出視窗巢狀以測試懸停行為"
-  },
-  "v2_5ea68cbe": {
-    "description": "Auto-generated translation for: Simple Popup",
-    "message": "簡單彈出視窗"
-  },
-  "v2_09b83cc4": {
-    "description": "Auto-generated translation for: Hover Me",
-    "message": "懸浮"
-  },
-  "v2_13ab1361": {
-    "description": "Auto-generated translation for: Nested Popup (2 Levels)",
-    "message": "巢狀快顯 (2 層)"
-  },
-  "v2_5c700e92": {
-    "description": "Auto-generated translation for: Debug Instructions",
-    "message": "偵錯指示"
-  },
-  "v2_3c5f623c": {
-    "description": "Auto-generated translation for: Open your browser console to see logged events as you interact with the popups.",
-    "message": "開啟瀏覽器主控台來查看您與彈出視窗互動時記錄的事件。"
-  },
-  "v2_4857801c": {
-    "description": "Auto-generated translation for: Events are logged for component mounting/unmounting and popup open/close actions.",
-    "message": "記錄元件掛載/卸載及彈出視窗開啟/關閉動作的事件。"
-  },
-  "v2_74628711": {
-    "description": "Auto-generated translation for: Test and debug nested hover popup behavior",
-    "message": "測試並偵錯巢狀懸浮彈出視窗行為"
-  },
-  "v2_5a97cf39": {
-    "description": "Auto-generated translation for: Close All",
-    "message": "關閉所有"
-  },
-  "v2_6679c388": {
-    "description": "Auto-generated translation for: Click for level 3",
-    "message": "按一下以進入等級 3"
-  },
-  "v2_6679c387": {
-    "description": "Auto-generated translation for: Click for level 2",
-    "message": "點擊以遊玩第二關"
-  },
-  "v2_1abb60a6": {
-    "description": "Auto-generated translation for: Nested CLICK Popup (3 Levels)",
-    "message": "巢狀點擊彈出視窗 (3 層)"
-  },
-  "v2_45a21aa0": {
-    "description": "Auto-generated translation for: More stable click-based navigation",
-    "message": "更穩定的點擊式導航"
-  },
-  "v2_39e0d370": {
-    "description": "Auto-generated translation for: Click Me",
-    "message": "點擊我"
-  },
-  "v2_6a35fa26": {
-    "description": "Auto-generated translation for: Nested HOVER Popup (3 Levels)",
-    "message": "巢狀滑鼠停留彈出視窗 (3 層)"
-  },
-  "v2_4aa72ef3": {
-    "description": "Auto-generated translation for: Improved hover version with larger hit areas and increased delays",
-    "message": "改良版懸停，具有較大的點擊區域和增加的延遲"
-  },
-  "v2_2b64e732": {
-    "description": "Auto-generated translation for: The 3-level popup example now has both CLICK and HOVER versions for comparison.",
-    "message": "這個 3 層彈出視窗範例現在提供「點擊」和「懸停」版本供比較。"
-  },
-  "v2_10848c1a": {
-    "description": "Auto-generated translation for: The CLICK version is more reliable for nested navigation.",
-    "message": "「CLICK」版本對於巢狀導覽更為可靠。"
-  },
-  "v2_5334158b": {
-    "description": "Auto-generated translation for: The improved HOVER version has larger target areas and 400ms delay times.",
-    "message": "改良版 HOVER 具有更大的目標區域和 400 毫秒的延遲時間。"
-  },
-  "v2_05c95424": {
-    "description": "Auto-generated translation for: Feature Button",
-    "message": "功能按鈕"
-  },
-  "v2_6d18d99c": {
-    "description": "Auto-generated translation for: Demonstrates the feature button with quota display and upgrade modal",
-    "message": "展示配額顯示功能按鈕和升級模態視圖"
-  },
   "v2_6f220a3d": {
     "description": "Auto-generated translation for: Download Subtitles",
     "message": "下載字幕"
-  },
-  "v2_5f8b3cdf": {
-    "description": "Auto-generated translation for: Custom Multi-Direction Tooltip",
-    "message": "自訂多方向工具提示"
-  },
-  "v2_0e38fde6": {
-    "description": "Auto-generated translation for: This section demonstrates the custom multi-direction tooltip component with various configurations, including nesting.",
-    "message": "此區段展示具備各項設定 (包含巢狀結構) 的自訂多方向工具提示元件。"
   },
   "v2_4b9b7f15": {
     "description": "Auto-generated translation for: Playback Modes",
@@ -2448,14 +2264,6 @@
     "description": "Auto-generated translation for: Interactive Subtitle",
     "message": "互動式字幕"
   },
-  "v2_74fc4661": {
-    "description": "Auto-generated translation for: Audio Widget Showcase",
-    "message": "音訊小工具展示"
-  },
-  "v2_75390277": {
-    "description": "Auto-generated translation for: This section demonstrates the AudioWidget component with a sample audio file.",
-    "message": "本節展示帶有樣本音訊檔案的音訊小工具組件。"
-  },
   "v2_7ba37a71": {
     "description": "Auto-generated translation for: Affiliate Program",
     "message": "聯盟計畫"
@@ -2463,10 +2271,6 @@
   "v2_61b9833a": {
     "description": "Auto-generated translation for: Text-to-Speech Volume",
     "message": "文字轉語音音量"
-  },
-  "v2_130ec0b5": {
-    "description": "Auto-generated translation for: AI Subs",
-    "message": "AI 字幕"
   },
   "v2_41fd330d": {
     "description": "Auto-generated translation for: Set Audio Language to $language$",
@@ -2476,70 +2280,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_7f70b9b1": {
-    "description": "Auto-generated translation for: Button Variants Showcase",
-    "message": "按鈕變體展示"
-  },
-  "v2_428c8b55": {
-    "description": "Auto-generated translation for: Showcase of different Button variants using various icons and styles.",
-    "message": "使用不同圖示和樣式展示各種按鈕變化。"
-  },
-  "v2_2c9893e5": {
-    "description": "Auto-generated translation for: Default Style with Icon",
-    "message": "包含圖示的預設風格"
-  },
-  "v2_4029d9c9": {
-    "description": "Auto-generated translation for: Variant: Destructive",
-    "message": "變體：災難性"
-  },
-  "v2_798fa489": {
-    "description": "Auto-generated translation for: Variant: Outline",
-    "message": "變體：外框"
-  },
-  "v2_00dccb69": {
-    "description": "Auto-generated translation for: Variant: Secondary",
-    "message": "變體：輔助"
-  },
-  "v2_4d320704": {
-    "description": "Auto-generated translation for: Variant: Ghost",
-    "message": "變體：幽靈"
-  },
-  "v2_47d2cf1b": {
-    "description": "Auto-generated translation for: Variant: Link",
-    "message": "變體：連結"
-  },
-  "v2_49020a9b": {
-    "description": "Auto-generated translation for: Variant: Gradient",
-    "message": "變體：漸層"
-  },
-  "v2_50ea6657": {
-    "description": "Auto-generated translation for: Variant: Border",
-    "message": "變體：邊框"
-  },
-  "v2_35989bd6": {
-    "description": "Auto-generated translation for: Custom Class (Border Gradient)",
-    "message": "自訂類別 (邊框漸變)"
-  },
-  "v2_371b53e0": {
-    "description": "Auto-generated translation for: Size: Icon",
-    "message": "大小：圖示"
-  },
-  "v2_54421a40": {
-    "description": "Auto-generated translation for: Size: Small",
-    "message": "尺寸：小號"
-  },
-  "v2_18472b55": {
-    "description": "Auto-generated translation for: Small Button",
-    "message": "小按鈕"
-  },
-  "v2_53da4074": {
-    "description": "Auto-generated translation for: Size: Large",
-    "message": "尺寸：大"
-  },
-  "v2_33870bf7": {
-    "description": "Auto-generated translation for: Large Button",
-    "message": "大按鈕"
   },
   "v2_4f0165df": {
     "description": "Auto-generated translation for: Click to copy this text to your clipboard",
@@ -2897,14 +2637,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "影片速度"
-  },
-  "v2_6ab787aa": {
-    "description": "Auto-generated translation for: Learning Subtitles Settings",
-    "message": "學習字幕設定"
-  },
-  "v2_72e62611": {
-    "description": "Auto-generated translation for: Native Subtitles Settings",
-    "message": "原生字幕設定"
   },
   "v2_0fa166e0": {
     "description": "Auto-generated translation for: Influencer Campaigns",
@@ -3589,50 +3321,6 @@
     "description": "Auto-generated translation for: Resume on Word Leave",
     "message": "恢復在 Word 假"
   },
-  "v2_18323d68": {
-    "description": "Auto-generated translation for: Multi-Step Onboarding Modal",
-    "message": "多步驟新手引導彈出視窗"
-  },
-  "v2_2345cff7": {
-    "description": "Auto-generated translation for: Complete onboarding flow with all steps in a single modal with smooth transitions.",
-    "message": "在單一彈出視窗中完成所有步驟的入門流程，並帶有流暢的轉場效果。"
-  },
-  "v2_001a1392": {
-    "description": "Auto-generated translation for: Start Full Onboarding",
-    "message": "開始完整引導"
-  },
-  "v2_3e46a2e4": {
-    "description": "Auto-generated translation for: Start from Language Selection",
-    "message": "從語言選擇開始"
-  },
-  "v2_29c6dda7": {
-    "description": "Auto-generated translation for: Start from Mode Selection",
-    "message": "從模式選擇開始"
-  },
-  "v2_0ac58232": {
-    "description": "Auto-generated translation for: Start from Final Step",
-    "message": "從最後一步開始"
-  },
-  "v2_75483b60": {
-    "description": "Auto-generated translation for: Unified modal with step progression",
-    "message": "統一的視窗模型，具有步驟進度"
-  },
-  "v2_466845a5": {
-    "description": "Auto-generated translation for: Smooth transitions between steps",
-    "message": "步驟間過渡流暢的轉變"
-  },
-  "v2_23125444": {
-    "description": "Auto-generated translation for: Consistent UI/UX throughout the flow",
-    "message": "整個流程中一致的使用者介面/使用者體驗"
-  },
-  "v2_678ffa21": {
-    "description": "Auto-generated translation for: Can start from any step for testing",
-    "message": "測試可以從任何步驟開始"
-  },
-  "v2_56cab48d": {
-    "description": "Auto-generated translation for: Integrated with settings service for persistence",
-    "message": "與設定服務整合以便持久化"
-  },
   "v2_451e2b9d": {
     "description": "Auto-generated translation for: Let's get started!",
     "message": "我們開始吧！"
@@ -3644,10 +3332,6 @@
   "v2_01f95b31": {
     "description": "Auto-generated translation for: Resumes playback when you move your cursor away from a word.",
     "message": "當您將游標移開文字時，恢復播放。"
-  },
-  "v2_32ff0dca": {
-    "description": "Auto-generated translation for: Onboarding Flow Features",
-    "message": "新進員工引導流程功能"
   },
   "v2_1b2feb34": {
     "description": "Auto-generated translation for: Limited daily usage",
@@ -5041,10 +4725,6 @@
   "v2_54ecac08": {
     "description": "Auto-generated translation for: Manage Subscription",
     "message": "管理訂閱"
-  },
-  "v2_2d97a959": {
-    "description": "Auto-generated translation for: Sandbox",
-    "message": "沙盒"
   },
   "v2_3d9fd727": {
     "description": "Auto-generated translation for: Something went wrong",
@@ -6637,10 +6317,6 @@
     "description": "Auto-generated translation for: Click the grammar button",
     "message": "點擊語法按鈕"
   },
-  "v2_4268f68d": {
-    "description": "Auto-generated translation for: Language Settings Error",
-    "message": "語言設定錯誤"
-  },
   "v2_67b9c7b8": {
     "description": "Auto-generated translation for: Highlight Words During Live Speaking",
     "message": "在即時說話時突顯單字"
@@ -7807,5 +7483,53 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "您可以在這裡找到所有已儲存的單字、詞組和句子。您可以透過篩選器進行排序、建立清單並匯出至 Anki。"
+  },
+  "v2_718eecbf": {
+    "description": "Auto-generated translation for: Subtitles Panel",
+    "message": "字幕面板"
+  },
+  "v2_02626478": {
+    "description": "Auto-generated translation for: Subtitles Settings",
+    "message": "字幕設定"
+  },
+  "v2_77454a7b": {
+    "description": "Auto-generated translation for: Choose the language you are learning",
+    "message": "選擇您正在學習的語言"
+  },
+  "v2_400584df": {
+    "description": "Auto-generated translation for: Choose the color for learning subtitle text",
+    "message": "選擇學習字幕文字的顏色"
+  },
+  "v2_39ecc2fa": {
+    "description": "Auto-generated translation for: Length (chars)",
+    "message": "長度（字元）"
+  },
+  "v2_7b7a6663": {
+    "description": "Auto-generated translation for: Choose your native language",
+    "message": "請選擇您的母語"
+  },
+  "v2_35e4aae8": {
+    "description": "Auto-generated translation for: Choose the color for native subtitle text",
+    "message": "選擇原生字幕文字的顏色"
+  },
+  "v2_03b1e76f": {
+    "description": "Auto-generated translation for: Enable Native Subtitles",
+    "message": "啟用原生字幕"
+  },
+  "v2_0694d44f": {
+    "description": "Auto-generated translation for: Choose the audio language for the video",
+    "message": "選擇影片的音訊語言"
+  },
+  "v2_7b29e03a": {
+    "description": "Auto-generated translation for: Choose color",
+    "message": "選擇顏色"
+  },
+  "v2_74a1febf": {
+    "description": "Auto-generated translation for: Choose your color",
+    "message": "選擇您的顏色"
+  },
+  "v2_6c15e43b": {
+    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
+    "message": "字幕列表面板文字大小"
   }
 }

@@ -2929,10 +2929,6 @@
     "description": "Auto-generated translation for: Click to copy this text to your clipboard",
     "message": "Clique para copiar este texto para a sua área de transferência"
   },
-  "v2_67d3a8c5": {
-    "description": "Auto-generated translation for: Subtitles",
-    "message": "Legendas"
-  },
   "v2_404e8925": {
     "description": "Auto-generated translation for: No video available",
     "message": "Nenhum vídeo disponível"
@@ -3166,10 +3162,6 @@
     "description": "Auto-generated translation for: Original Language Unavailable",
     "message": "Idioma Original Indisponível"
   },
-  "v2_4268f68d": {
-    "description": "Auto-generated translation for: Language Settings Error",
-    "message": "Erro nas Configurações de Idioma"
-  },
   "v2_67b9c7b8": {
     "description": "Auto-generated translation for: Highlight Words During Live Speaking",
     "message": "Destacar Palavras ao Falar ao Vivo"
@@ -3269,14 +3261,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "Velocidade do Vídeo"
-  },
-  "v2_6ab787aa": {
-    "description": "Auto-generated translation for: Learning Subtitles Settings",
-    "message": "Configurações de Legendas de Aprendizado"
-  },
-  "v2_72e62611": {
-    "description": "Auto-generated translation for: Native Subtitles Settings",
-    "message": "Configurações de Legendas Nativas"
   },
   "v2_41fd330d": {
     "description": "Auto-generated translation for: Set Audio Language to $language$",
@@ -5604,310 +5588,6 @@
     "description": "Auto-generated translation for: Tell us your issue - we can fix it and make the app perfect for you!",
     "message": "Conte-nos seu problema - podemos resolvê-lo e deixar o aplicativo perfeito para você!"
   },
-  "v2_7a1ceb4d": {
-    "description": "Auto-generated translation for: This is a simple hover popup",
-    "message": "Este é um popup simples ao passar o mouse"
-  },
-  "v2_20b8d6cb": {
-    "description": "Auto-generated translation for: This is level 2 (deepest level)",
-    "message": "Este é o nível 2 (nível mais profundo)"
-  },
-  "v2_0f9a3fbf": {
-    "description": "Auto-generated translation for: This is level 1",
-    "message": "Este é o nível 1"
-  },
-  "v2_3f14af52": {
-    "description": "Auto-generated translation for: Hover for next level",
-    "message": "Passe o mouse para o próximo nível"
-  },
-  "v2_269e3a96": {
-    "description": "Auto-generated translation for: Level 3 (deepest level)",
-    "message": "Nível 3 (o mais profundo)"
-  },
-  "v2_5a97cf39": {
-    "description": "Auto-generated translation for: Close All",
-    "message": "Fechar Tudo"
-  },
-  "v2_67616676": {
-    "description": "Auto-generated translation for: Level 2",
-    "message": "Nível 2"
-  },
-  "v2_6679c388": {
-    "description": "Auto-generated translation for: Click for level 3",
-    "message": "Clique para o nível 3"
-  },
-  "v2_67616675": {
-    "description": "Auto-generated translation for: Level 1",
-    "message": "Nível 1"
-  },
-  "v2_6679c387": {
-    "description": "Auto-generated translation for: Click for level 2",
-    "message": "Clique para o nível 2"
-  },
-  "v2_77f5d93c": {
-    "description": "Auto-generated translation for: Hover for level 3",
-    "message": "Passe o mouse para o nível 3"
-  },
-  "v2_77f5d93b": {
-    "description": "Auto-generated translation for: Hover for level 2",
-    "message": "Passe o mouse para o nível 2"
-  },
-  "v2_684fa954": {
-    "description": "Auto-generated translation for: Nested Hover Popups",
-    "message": "Pop-ups Aninhados ao Passar o Mouse"
-  },
-  "v2_264c2841": {
-    "description": "Auto-generated translation for: Demonstrates different levels of popup nesting to test hover behavior",
-    "message": "Demonstra diferentes níveis de aninhamento de pop-ups para testar o comportamento de foco ao passar o mouse"
-  },
-  "v2_5ea68cbe": {
-    "description": "Auto-generated translation for: Simple Popup",
-    "message": "Popup Simples"
-  },
-  "v2_09b83cc4": {
-    "description": "Auto-generated translation for: Hover Me",
-    "message": "Passe o mouse aqui"
-  },
-  "v2_13ab1361": {
-    "description": "Auto-generated translation for: Nested Popup (2 Levels)",
-    "message": "Popup Aninhado (2 Níveis)"
-  },
-  "v2_1abb60a6": {
-    "description": "Auto-generated translation for: Nested CLICK Popup (3 Levels)",
-    "message": "Popup de CLIQUE Aninhado (3 Níveis)"
-  },
-  "v2_45a21aa0": {
-    "description": "Auto-generated translation for: More stable click-based navigation",
-    "message": "Navegação mais estável baseada em cliques"
-  },
-  "v2_39e0d370": {
-    "description": "Auto-generated translation for: Click Me",
-    "message": "Clque aqui"
-  },
-  "v2_6a35fa26": {
-    "description": "Auto-generated translation for: Nested HOVER Popup (3 Levels)",
-    "message": "Popup Aninhado ao Passar o Mouse (3 Níveis)"
-  },
-  "v2_4aa72ef3": {
-    "description": "Auto-generated translation for: Improved hover version with larger hit areas and increased delays",
-    "message": "Versão hover aprimorada com áreas de clique maiores e atrasos aumentados"
-  },
-  "v2_5c700e92": {
-    "description": "Auto-generated translation for: Debug Instructions",
-    "message": "Instruções de Depuração"
-  },
-  "v2_3c5f623c": {
-    "description": "Auto-generated translation for: Open your browser console to see logged events as you interact with the popups.",
-    "message": "Abra o console do seu navegador para ver os eventos registrados ao interagir com os pop-ups."
-  },
-  "v2_4857801c": {
-    "description": "Auto-generated translation for: Events are logged for component mounting/unmounting and popup open/close actions.",
-    "message": "Eventos são registrados para montagem/desmontagem de componentes e ações de abertura/fechamento de pop-ups."
-  },
-  "v2_2b64e732": {
-    "description": "Auto-generated translation for: The 3-level popup example now has both CLICK and HOVER versions for comparison.",
-    "message": "O exemplo de popup de 3 níveis agora tem versões para comparação tanto para CLIQUE quanto para HOVER."
-  },
-  "v2_10848c1a": {
-    "description": "Auto-generated translation for: The CLICK version is more reliable for nested navigation.",
-    "message": "A versão CLICK é mais confiável para navegação aninhada."
-  },
-  "v2_5334158b": {
-    "description": "Auto-generated translation for: The improved HOVER version has larger target areas and 400ms delay times.",
-    "message": "A versão aprimorada do HOVER possui áreas-alvo maiores e tempos de atraso de 400ms."
-  },
-  "v2_5ec59307": {
-    "description": "Auto-generated translation for: General SVGs",
-    "message": "SVGs Gerais"
-  },
-  "v2_5e9c687a": {
-    "description": "Auto-generated translation for: Icons used for various UI elements",
-    "message": "Ícones usados para diversos elementos de interface"
-  },
-  "v2_3d060eb3": {
-    "description": "Auto-generated translation for: Usage Type Icons",
-    "message": "Ícones de Tipo de Uso"
-  },
-  "v2_66f3f6d3": {
-    "description": "Auto-generated translation for: Icons representing different usage types",
-    "message": "Ícones representando diferentes tipos de uso"
-  },
-  "v2_74628711": {
-    "description": "Auto-generated translation for: Test and debug nested hover popup behavior",
-    "message": "Testar e depurar o comportamento de pop-ups de foco aninhados"
-  },
-  "v2_1c0f43dd": {
-    "description": "Auto-generated translation for: Learning Subtitles Panel",
-    "message": "Painel de Legendas de Aprendizagem"
-  },
-  "v2_1eb6bbc2": {
-    "description": "Auto-generated translation for: Displays learning subtitles with optional native translation and interaction buttons.",
-    "message": "Exibe legendas de aprendizado com tradução nativa opcional e botões de interação."
-  },
-  "v2_5f8b3cdf": {
-    "description": "Auto-generated translation for: Custom Multi-Direction Tooltip",
-    "message": "Tooltip Multidirecional Personalizado"
-  },
-  "v2_0e38fde6": {
-    "description": "Auto-generated translation for: This section demonstrates the custom multi-direction tooltip component with various configurations, including nesting.",
-    "message": "Esta seção demonstra o componente de dica de ferramenta personalizada multidirecional com várias configurações, incluindo aninhamento."
-  },
-  "v2_43f821d7": {
-    "description": "Auto-generated translation for: SVG Showcase",
-    "message": "Vitrine SVG"
-  },
-  "v2_3bf74be4": {
-    "description": "Auto-generated translation for: Collection of SVG icons used throughout the application",
-    "message": "Coleção de ícones SVG usados em toda a aplicação"
-  },
-  "v2_74fc4661": {
-    "description": "Auto-generated translation for: Audio Widget Showcase",
-    "message": "Vitrine de Widget de Áudio"
-  },
-  "v2_75390277": {
-    "description": "Auto-generated translation for: This section demonstrates the AudioWidget component with a sample audio file.",
-    "message": "Esta seção demonstra o componente AudioWidget com um arquivo de áudio de amostra."
-  },
-  "v2_6fb3abed": {
-    "description": "Auto-generated translation for: Chrome Store Tile",
-    "message": "Blocos da Chrome Web Store"
-  },
-  "v2_73473b9a": {
-    "description": "Auto-generated translation for: Visual representation of the Chrome Web Store tile",
-    "message": "Representação visual do bloco da Chrome Web Store"
-  },
-  "v2_05c95424": {
-    "description": "Auto-generated translation for: Feature Button",
-    "message": "Botão de Recurso"
-  },
-  "v2_6d18d99c": {
-    "description": "Auto-generated translation for: Demonstrates the feature button with quota display and upgrade modal",
-    "message": "Demonstra o botão de recurso com exibição de cota e modal de upgrade"
-  },
-  "v2_49fbd8d1": {
-    "description": "Auto-generated translation for: Solar Icons (Bold Duotone)",
-    "message": "Ícones Solares (Duotônico Negrito)"
-  },
-  "v2_1d29c607": {
-    "description": "Auto-generated translation for: Display all icons from solar-icon-react/bd",
-    "message": "Exibir todos os ícones de solar-icon-react/bd"
-  },
-  "v2_18323d68": {
-    "description": "Auto-generated translation for: Multi-Step Onboarding Modal",
-    "message": "Modal de Onboarding em Múltiplas Etapas"
-  },
-  "v2_2345cff7": {
-    "description": "Auto-generated translation for: Complete onboarding flow with all steps in a single modal with smooth transitions.",
-    "message": "Fluxo completo de onboarding com todas as etapas em um único modal com transições suaves."
-  },
-  "v2_001a1392": {
-    "description": "Auto-generated translation for: Start Full Onboarding",
-    "message": "Iniciar Onboarding Completo"
-  },
-  "v2_3e46a2e4": {
-    "description": "Auto-generated translation for: Start from Language Selection",
-    "message": "Comece pela seleção de idioma"
-  },
-  "v2_29c6dda7": {
-    "description": "Auto-generated translation for: Start from Mode Selection",
-    "message": "Começar da Seleção de Modo"
-  },
-  "v2_0ac58232": {
-    "description": "Auto-generated translation for: Start from Final Step",
-    "message": "Iniciar a partir da Etapa Final"
-  },
-  "v2_32ff0dca": {
-    "description": "Auto-generated translation for: Onboarding Flow Features",
-    "message": "Funcionalidades do Fluxo de Boas-Vindas"
-  },
-  "v2_75483b60": {
-    "description": "Auto-generated translation for: Unified modal with step progression",
-    "message": "Modal unificado com progressão de etapas"
-  },
-  "v2_466845a5": {
-    "description": "Auto-generated translation for: Smooth transitions between steps",
-    "message": "Transições suaves entre as etapas"
-  },
-  "v2_23125444": {
-    "description": "Auto-generated translation for: Consistent UI/UX throughout the flow",
-    "message": "UI/UX consistente em todo o fluxo"
-  },
-  "v2_678ffa21": {
-    "description": "Auto-generated translation for: Can start from any step for testing",
-    "message": "Pode começar de qualquer etapa para testes"
-  },
-  "v2_56cab48d": {
-    "description": "Auto-generated translation for: Integrated with settings service for persistence",
-    "message": "Integrado ao serviço de configurações para persistência"
-  },
-  "v2_130ec0b5": {
-    "description": "Auto-generated translation for: AI Subs",
-    "message": "Legendas de IA"
-  },
-  "v2_7f70b9b1": {
-    "description": "Auto-generated translation for: Button Variants Showcase",
-    "message": "Demonstração de Variantes de Botão"
-  },
-  "v2_428c8b55": {
-    "description": "Auto-generated translation for: Showcase of different Button variants using various icons and styles.",
-    "message": "Vitrine de diferentes variantes de Botão usando vários ícones e estilos."
-  },
-  "v2_2c9893e5": {
-    "description": "Auto-generated translation for: Default Style with Icon",
-    "message": "Estilo Padrão com Ícone"
-  },
-  "v2_4029d9c9": {
-    "description": "Auto-generated translation for: Variant: Destructive",
-    "message": "Variante: Destrutiva"
-  },
-  "v2_798fa489": {
-    "description": "Auto-generated translation for: Variant: Outline",
-    "message": "Variante: Contorno"
-  },
-  "v2_00dccb69": {
-    "description": "Auto-generated translation for: Variant: Secondary",
-    "message": "Variante: Secundária"
-  },
-  "v2_4d320704": {
-    "description": "Auto-generated translation for: Variant: Ghost",
-    "message": "Variante: Fantasma"
-  },
-  "v2_47d2cf1b": {
-    "description": "Auto-generated translation for: Variant: Link",
-    "message": "Variante: Link"
-  },
-  "v2_49020a9b": {
-    "description": "Auto-generated translation for: Variant: Gradient",
-    "message": "Variante: Gradiente"
-  },
-  "v2_50ea6657": {
-    "description": "Auto-generated translation for: Variant: Border",
-    "message": "Variante: Borda"
-  },
-  "v2_35989bd6": {
-    "description": "Auto-generated translation for: Custom Class (Border Gradient)",
-    "message": "Classe Personalizada (Gradiente de Borda)"
-  },
-  "v2_371b53e0": {
-    "description": "Auto-generated translation for: Size: Icon",
-    "message": "Tamanho: Ícone"
-  },
-  "v2_54421a40": {
-    "description": "Auto-generated translation for: Size: Small",
-    "message": "Tamanho: Pequeno"
-  },
-  "v2_18472b55": {
-    "description": "Auto-generated translation for: Small Button",
-    "message": "Botão Pequeno"
-  },
-  "v2_53da4074": {
-    "description": "Auto-generated translation for: Size: Large",
-    "message": "Tamanho: Grande"
-  },
-  "v2_33870bf7": {
-    "description": "Auto-generated translation for: Large Button",
-    "message": "Botão Grande"
-  },
   "v2_67a61fa6": {
     "description": "Auto-generated translation for: Learn any language while watching",
     "message": "Aprenda qualquer idioma enquanto assiste"
@@ -7058,10 +6738,6 @@
     "description": "Auto-generated translation for: Influencer Campaigns",
     "message": "Campanhas com Influenciadores"
   },
-  "v2_2d97a959": {
-    "description": "Auto-generated translation for: Sandbox",
-    "message": "Caixa de areia"
-  },
   "v2_090660f3": {
     "description": "Auto-generated translation for: Anki Export Jobs",
     "message": "Tarefas de Exportação do Anki"
@@ -7655,5 +7331,53 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "Encontre todas as suas palavras, frases e sentenças salvas aqui. Você pode classificá-las por filtros, criar listas e exportar para o Anki."
+  },
+  "v2_718eecbf": {
+    "description": "Auto-generated translation for: Subtitles Panel",
+    "message": "Painel de Legendas"
+  },
+  "v2_02626478": {
+    "description": "Auto-generated translation for: Subtitles Settings",
+    "message": "Configurações de Legendas"
+  },
+  "v2_77454a7b": {
+    "description": "Auto-generated translation for: Choose the language you are learning",
+    "message": "Escolha o idioma que você está aprendendo"
+  },
+  "v2_400584df": {
+    "description": "Auto-generated translation for: Choose the color for learning subtitle text",
+    "message": "Escolha a cor para aprender o texto da legenda"
+  },
+  "v2_39ecc2fa": {
+    "description": "Auto-generated translation for: Length (chars)",
+    "message": "Comprimento (caracteres)"
+  },
+  "v2_7b7a6663": {
+    "description": "Auto-generated translation for: Choose your native language",
+    "message": "Escolha seu idioma nativo"
+  },
+  "v2_35e4aae8": {
+    "description": "Auto-generated translation for: Choose the color for native subtitle text",
+    "message": "Escolha a cor para o texto da legenda nativa"
+  },
+  "v2_03b1e76f": {
+    "description": "Auto-generated translation for: Enable Native Subtitles",
+    "message": "Habilitar legendas nativas"
+  },
+  "v2_0694d44f": {
+    "description": "Auto-generated translation for: Choose the audio language for the video",
+    "message": "Escolha o idioma do áudio para o vídeo"
+  },
+  "v2_7b29e03a": {
+    "description": "Auto-generated translation for: Choose color",
+    "message": "Escolha a cor"
+  },
+  "v2_74a1febf": {
+    "description": "Auto-generated translation for: Choose your color",
+    "message": "Escolha sua cor"
+  },
+  "v2_6c15e43b": {
+    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
+    "message": "Tamanho do Texto na Lista de Legendas"
   }
 }

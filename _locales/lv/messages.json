@@ -63,10 +63,6 @@
     "description": "Auto-generated translation for: General",
     "message": "Vispārīgs"
   },
-  "v2_67d3a8c5": {
-    "description": "Auto-generated translation for: Subtitles",
-    "message": "Subtitri"
-  },
   "v2_71d561ee": {
     "description": "Auto-generated translation for: Feature Requests",
     "message": "Funkciju pieprasījumi"
@@ -1948,30 +1944,6 @@
     "description": "Auto-generated translation for: Neural Transcriptions",
     "message": "Neironu Transkripcijas"
   },
-  "v2_43f821d7": {
-    "description": "Auto-generated translation for: SVG Showcase",
-    "message": "SVG demonstrācija"
-  },
-  "v2_3bf74be4": {
-    "description": "Auto-generated translation for: Collection of SVG icons used throughout the application",
-    "message": "SVG ikonu kolekcija, kas tiek izmantota visā lietojumprogrammā"
-  },
-  "v2_5ec59307": {
-    "description": "Auto-generated translation for: General SVGs",
-    "message": "Vispārīgi SVG"
-  },
-  "v2_5e9c687a": {
-    "description": "Auto-generated translation for: Icons used for various UI elements",
-    "message": "Ikonas, kas tiek izmantotas dažādiem lietotāja interfeisa elementiem"
-  },
-  "v2_3d060eb3": {
-    "description": "Auto-generated translation for: Usage Type Icons",
-    "message": "Lietojuma veida ikonas"
-  },
-  "v2_66f3f6d3": {
-    "description": "Auto-generated translation for: Icons representing different usage types",
-    "message": "Ikonas, kas attēlo dažādus lietojuma veidus"
-  },
   "v2_7d39a03b": {
     "description": "Auto-generated translation for: Import",
     "message": "Imports"
@@ -2048,14 +2020,6 @@
     "description": "Auto-generated translation for: Select Target Language",
     "message": "Izvēlieties mērķa valodu"
   },
-  "v2_6fb3abed": {
-    "description": "Auto-generated translation for: Chrome Store Tile",
-    "message": "Chrome veikala elements"
-  },
-  "v2_73473b9a": {
-    "description": "Auto-generated translation for: Visual representation of the Chrome Web Store tile",
-    "message": "Chrome interneta veikala elementa vizuāls attēlojums"
-  },
   "v2_557131fc": {
     "description": "Auto-generated translation for: Upgrade",
     "message": "Atjaunināt"
@@ -2131,14 +2095,6 @@
     "description": "Auto-generated translation for: The most stylish extension I've ever had. Extremely useful, works great.",
     "message": "Visstilīgākais paplašinājums, kāds man jebkad bijis. Ļoti noderīgs, darboojas izcili."
   },
-  "v2_1c0f43dd": {
-    "description": "Auto-generated translation for: Learning Subtitles Panel",
-    "message": "Mācīšanās subtitru panelis"
-  },
-  "v2_1eb6bbc2": {
-    "description": "Auto-generated translation for: Displays learning subtitles with optional native translation and interaction buttons.",
-    "message": "Rāda mācību subtitrus ar izvēles tulkojumu dzimtajā valodā un mijiedarbības pogām."
-  },
   "v2_07a124b3": {
     "description": "Auto-generated translation for: Base Form",
     "message": "Pamatforma"
@@ -2199,149 +2155,9 @@
     "description": "Auto-generated translation for: Translate Selected Text (In Websites)",
     "message": "Tulkot atlasīto tekstu (tīmekļa vietnēs)"
   },
-  "v2_49fbd8d1": {
-    "description": "Auto-generated translation for: Solar Icons (Bold Duotone)",
-    "message": "Saules ikonas (treknas, duotons)"
-  },
-  "v2_1d29c607": {
-    "description": "Auto-generated translation for: Display all icons from solar-icon-react/bd",
-    "message": "Rādīt visas ikonas no solar-icon-react/bd"
-  },
-  "v2_7a1ceb4d": {
-    "description": "Auto-generated translation for: This is a simple hover popup",
-    "message": "Šis ir vienkāršs uznirstošais logs peles novietošanas brīdī"
-  },
-  "v2_20b8d6cb": {
-    "description": "Auto-generated translation for: This is level 2 (deepest level)",
-    "message": "Šis ir 2. līmenis (dziļākais līmenis)"
-  },
-  "v2_0f9a3fbf": {
-    "description": "Auto-generated translation for: This is level 1",
-    "message": "Šis ir 1. līmenis"
-  },
-  "v2_3f14af52": {
-    "description": "Auto-generated translation for: Hover for next level",
-    "message": "Lai pārietu uz nākamo līmeni, turi peles rādītāju virs peles rādītāja virsmas"
-  },
-  "v2_269e3a96": {
-    "description": "Auto-generated translation for: Level 3 (deepest level)",
-    "message": "3. līmenis (dziļākais līmenis)"
-  },
-  "v2_67616676": {
-    "description": "Auto-generated translation for: Level 2",
-    "message": "2. līmenis"
-  },
-  "v2_77f5d93c": {
-    "description": "Auto-generated translation for: Hover for level 3",
-    "message": "Virziet virsū, lai sasniegtu 3. līmeni"
-  },
-  "v2_67616675": {
-    "description": "Auto-generated translation for: Level 1",
-    "message": "1. līmenis"
-  },
-  "v2_77f5d93b": {
-    "description": "Auto-generated translation for: Hover for level 2",
-    "message": "Novietojiet kursoru, lai redzētu 2. līmeni"
-  },
-  "v2_684fa954": {
-    "description": "Auto-generated translation for: Nested Hover Popups",
-    "message": "Ligzdoti peles virzības uznirstošie logi"
-  },
-  "v2_264c2841": {
-    "description": "Auto-generated translation for: Demonstrates different levels of popup nesting to test hover behavior",
-    "message": "Demonstrē dažādus uznirstošo logu ligzdošanas līmeņus, lai pārbaudītu virzīšanas rīcību"
-  },
-  "v2_5ea68cbe": {
-    "description": "Auto-generated translation for: Simple Popup",
-    "message": "Vienkāršs uznirstošais logs"
-  },
-  "v2_09b83cc4": {
-    "description": "Auto-generated translation for: Hover Me",
-    "message": "Virsū"
-  },
-  "v2_13ab1361": {
-    "description": "Auto-generated translation for: Nested Popup (2 Levels)",
-    "message": "Ligzdrēts uznirstošais logs (2 līmeņi)"
-  },
-  "v2_5c700e92": {
-    "description": "Auto-generated translation for: Debug Instructions",
-    "message": "Atkļūdošanas instrukcijas"
-  },
-  "v2_3c5f623c": {
-    "description": "Auto-generated translation for: Open your browser console to see logged events as you interact with the popups.",
-    "message": "Atveriet pārlūkprogrammas konsoli, lai redzētu pieteiktos notikumus, mijiedarbojoties ar uznirstošajiem logiem."
-  },
-  "v2_4857801c": {
-    "description": "Auto-generated translation for: Events are logged for component mounting/unmounting and popup open/close actions.",
-    "message": "Notikumi tiek reģistrēti komponentu montēšanas/demontēšanas un uznirstošā loga atvēršanas/aizvēršanas darbībām."
-  },
-  "v2_74628711": {
-    "description": "Auto-generated translation for: Test and debug nested hover popup behavior",
-    "message": "Testēt un atkļūdot ligzdotas peles norādes uznirstošā loga uzvedību"
-  },
-  "v2_5a97cf39": {
-    "description": "Auto-generated translation for: Close All",
-    "message": "Aizvērt visu"
-  },
-  "v2_6679c388": {
-    "description": "Auto-generated translation for: Click for level 3",
-    "message": "Noklikšķiniet, lai sasniegtu 3. līmeni"
-  },
-  "v2_6679c387": {
-    "description": "Auto-generated translation for: Click for level 2",
-    "message": "Noklikšķini, lai sasniegtu 2. līmeni"
-  },
-  "v2_1abb60a6": {
-    "description": "Auto-generated translation for: Nested CLICK Popup (3 Levels)",
-    "message": "Ligzdots CLICK uznirstošais logs (3 līmeņi)"
-  },
-  "v2_45a21aa0": {
-    "description": "Auto-generated translation for: More stable click-based navigation",
-    "message": "Stabilāka navigācija, kuras pamatā ir klikšķi"
-  },
-  "v2_39e0d370": {
-    "description": "Auto-generated translation for: Click Me",
-    "message": "Klikšķiniet šeit"
-  },
-  "v2_6a35fa26": {
-    "description": "Auto-generated translation for: Nested HOVER Popup (3 Levels)",
-    "message": "Ligzdota HOVER izlecošā (3 Līmeņi)"
-  },
-  "v2_4aa72ef3": {
-    "description": "Auto-generated translation for: Improved hover version with larger hit areas and increased delays",
-    "message": "Uzlabota planēšanas versija ar lielākiem trāpījuma laukumiem un palielinātu aizkavi"
-  },
-  "v2_2b64e732": {
-    "description": "Auto-generated translation for: The 3-level popup example now has both CLICK and HOVER versions for comparison.",
-    "message": "3 līmeņu uznirstošā loga piemēram tagad ir gan KLIKŠĶA, gan HOVER (uzkavēšanās) versijas salīdzināšanai."
-  },
-  "v2_10848c1a": {
-    "description": "Auto-generated translation for: The CLICK version is more reliable for nested navigation.",
-    "message": "CLICK versija ir drošāka sarežģītai navigācijai."
-  },
-  "v2_5334158b": {
-    "description": "Auto-generated translation for: The improved HOVER version has larger target areas and 400ms delay times.",
-    "message": "Uzlabotajai HOVER versijai ir lielāki mērķtiecības apgabali un 400ms kavēšanās laiku garums."
-  },
-  "v2_05c95424": {
-    "description": "Auto-generated translation for: Feature Button",
-    "message": "Funkciju poga"
-  },
-  "v2_6d18d99c": {
-    "description": "Auto-generated translation for: Demonstrates the feature button with quota display and upgrade modal",
-    "message": "Parāda funkciju pogu ar kvotas attēlojumu un jaunināšanas modālo logu"
-  },
   "v2_6f220a3d": {
     "description": "Auto-generated translation for: Download Subtitles",
     "message": "Lejupielādēt subtitrus"
-  },
-  "v2_5f8b3cdf": {
-    "description": "Auto-generated translation for: Custom Multi-Direction Tooltip",
-    "message": "Pielāgots daudzvirzienu rīka padoms"
-  },
-  "v2_0e38fde6": {
-    "description": "Auto-generated translation for: This section demonstrates the custom multi-direction tooltip component with various configurations, including nesting.",
-    "message": "Šī sadaļa demonstrē pielāgotu vairākvirzienu rīka padoma komponentu ar dažādām konfigurācijām, tostarp ligzdošanu."
   },
   "v2_4b9b7f15": {
     "description": "Auto-generated translation for: Playback Modes",
@@ -2448,14 +2264,6 @@
     "description": "Auto-generated translation for: Interactive Subtitle",
     "message": "Interaktīvie subtitri"
   },
-  "v2_74fc4661": {
-    "description": "Auto-generated translation for: Audio Widget Showcase",
-    "message": "Audio logrīku izstāde"
-  },
-  "v2_75390277": {
-    "description": "Auto-generated translation for: This section demonstrates the AudioWidget component with a sample audio file.",
-    "message": "Šī sadaļa demonstrē AudioLogrīka komponenti ar demonstrācijas audio failu."
-  },
   "v2_7ba37a71": {
     "description": "Auto-generated translation for: Affiliate Program",
     "message": "Partneru programma"
@@ -2463,10 +2271,6 @@
   "v2_61b9833a": {
     "description": "Auto-generated translation for: Text-to-Speech Volume",
     "message": "Teksta-uz-runu skaļums"
-  },
-  "v2_130ec0b5": {
-    "description": "Auto-generated translation for: AI Subs",
-    "message": "MI tulkojumi"
   },
   "v2_41fd330d": {
     "description": "Auto-generated translation for: Set Audio Language to $language$",
@@ -2476,70 +2280,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_7f70b9b1": {
-    "description": "Auto-generated translation for: Button Variants Showcase",
-    "message": "Pogu variantu demonstrācija"
-  },
-  "v2_428c8b55": {
-    "description": "Auto-generated translation for: Showcase of different Button variants using various icons and styles.",
-    "message": "Dažādu pogu variantu demonstrācija ar dažādām ikonām un stiliem."
-  },
-  "v2_2c9893e5": {
-    "description": "Auto-generated translation for: Default Style with Icon",
-    "message": "Noklusējuma stils ar ikonu"
-  },
-  "v2_4029d9c9": {
-    "description": "Auto-generated translation for: Variant: Destructive",
-    "message": "Variants: Destruktīvs"
-  },
-  "v2_798fa489": {
-    "description": "Auto-generated translation for: Variant: Outline",
-    "message": "Variants: kontūra"
-  },
-  "v2_00dccb69": {
-    "description": "Auto-generated translation for: Variant: Secondary",
-    "message": "Variants: Sekundārais"
-  },
-  "v2_4d320704": {
-    "description": "Auto-generated translation for: Variant: Ghost",
-    "message": "Variants: Spoks"
-  },
-  "v2_47d2cf1b": {
-    "description": "Auto-generated translation for: Variant: Link",
-    "message": "Variants: Saite"
-  },
-  "v2_49020a9b": {
-    "description": "Auto-generated translation for: Variant: Gradient",
-    "message": "Variants: gradient"
-  },
-  "v2_50ea6657": {
-    "description": "Auto-generated translation for: Variant: Border",
-    "message": "Variants: Apmale"
-  },
-  "v2_35989bd6": {
-    "description": "Auto-generated translation for: Custom Class (Border Gradient)",
-    "message": "Pielāgota klase (apmales gradients)"
-  },
-  "v2_371b53e0": {
-    "description": "Auto-generated translation for: Size: Icon",
-    "message": "Izmērs: Ikona"
-  },
-  "v2_54421a40": {
-    "description": "Auto-generated translation for: Size: Small",
-    "message": "Izmērs: Maz"
-  },
-  "v2_18472b55": {
-    "description": "Auto-generated translation for: Small Button",
-    "message": "Maza poga"
-  },
-  "v2_53da4074": {
-    "description": "Auto-generated translation for: Size: Large",
-    "message": "Izmērs: Liels"
-  },
-  "v2_33870bf7": {
-    "description": "Auto-generated translation for: Large Button",
-    "message": "Liela poga"
   },
   "v2_4f0165df": {
     "description": "Auto-generated translation for: Click to copy this text to your clipboard",
@@ -2897,14 +2637,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "Video ātrums"
-  },
-  "v2_6ab787aa": {
-    "description": "Auto-generated translation for: Learning Subtitles Settings",
-    "message": "Mācīšanās subtitru iestatījumi"
-  },
-  "v2_72e62611": {
-    "description": "Auto-generated translation for: Native Subtitles Settings",
-    "message": "Ierakstīto subtitru iestatījumi"
   },
   "v2_0fa166e0": {
     "description": "Auto-generated translation for: Influencer Campaigns",
@@ -3589,50 +3321,6 @@
     "description": "Auto-generated translation for: Adjust the size of the learning subtitles.",
     "message": "Pielāgojiet mācību subtitru izmēru."
   },
-  "v2_18323d68": {
-    "description": "Auto-generated translation for: Multi-Step Onboarding Modal",
-    "message": "Daudzpakāpju reģistrācijas uznirstošais logs"
-  },
-  "v2_001a1392": {
-    "description": "Auto-generated translation for: Start Full Onboarding",
-    "message": "Sākt pilnu ievadu"
-  },
-  "v2_3e46a2e4": {
-    "description": "Auto-generated translation for: Start from Language Selection",
-    "message": "Sākt no valodas izvēles"
-  },
-  "v2_29c6dda7": {
-    "description": "Auto-generated translation for: Start from Mode Selection",
-    "message": "Sākt no režīma izvēles"
-  },
-  "v2_0ac58232": {
-    "description": "Auto-generated translation for: Start from Final Step",
-    "message": "Sākt no pēdējā soļa"
-  },
-  "v2_32ff0dca": {
-    "description": "Auto-generated translation for: Onboarding Flow Features",
-    "message": "Iepazīšanās plūsmas funkcijas"
-  },
-  "v2_75483b60": {
-    "description": "Auto-generated translation for: Unified modal with step progression",
-    "message": "Vienots modāls ar soļu secību"
-  },
-  "v2_466845a5": {
-    "description": "Auto-generated translation for: Smooth transitions between steps",
-    "message": "Vienmērīgas pārejas starp soļiem"
-  },
-  "v2_23125444": {
-    "description": "Auto-generated translation for: Consistent UI/UX throughout the flow",
-    "message": "Konsekvents UI/UX visā procesā"
-  },
-  "v2_678ffa21": {
-    "description": "Auto-generated translation for: Can start from any step for testing",
-    "message": "Var sākt no jebkura soļa testēšanai"
-  },
-  "v2_56cab48d": {
-    "description": "Auto-generated translation for: Integrated with settings service for persistence",
-    "message": "Integrēts ar iestatījumu pakalpojumu datu saglabāšanai"
-  },
   "v2_2299c1b0": {
     "description": "Auto-generated translation for: Pauses playback when you hover over a word for detailed exploration.",
     "message": "Pārtrauc atskaņošanu, novietojot kursoru virs vārda detalizētai izpētei."
@@ -3644,10 +3332,6 @@
   "v2_2a38c003": {
     "description": "Auto-generated translation for: Adjust the size of the native subtitles.",
     "message": "Pielāgojiet vietējo subtitru izmēru."
-  },
-  "v2_2345cff7": {
-    "description": "Auto-generated translation for: Complete onboarding flow with all steps in a single modal with smooth transitions.",
-    "message": "Pabeidziet reģistrēšanās procesu ar visiem soļiem vienā uznirstošajā logā ar vienmērīgām pārejām."
   },
   "v2_1b2feb34": {
     "description": "Auto-generated translation for: Limited daily usage",
@@ -5041,10 +4725,6 @@
   "v2_54ecac08": {
     "description": "Auto-generated translation for: Manage Subscription",
     "message": "Pārvaldīt abonementu"
-  },
-  "v2_2d97a959": {
-    "description": "Auto-generated translation for: Sandbox",
-    "message": "Smilškaste"
   },
   "v2_3d9fd727": {
     "description": "Auto-generated translation for: Something went wrong",
@@ -6637,10 +6317,6 @@
     "description": "Auto-generated translation for: Click the grammar button",
     "message": "Noklikšķiniet uz gramatikas pogas"
   },
-  "v2_4268f68d": {
-    "description": "Auto-generated translation for: Language Settings Error",
-    "message": "Kļūda valodas iestatījumos"
-  },
   "v2_67b9c7b8": {
     "description": "Auto-generated translation for: Highlight Words During Live Speaking",
     "message": "Izcelt Vārdus Tiešraides Runas Laikā"
@@ -7807,5 +7483,53 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "Šeit varat atrast visus saglabātos vārdus, frāzes un teikumus. Varat to kārtot pēc filtriem, veidot sarakstus un eksportēt uz Anki."
+  },
+  "v2_718eecbf": {
+    "description": "Auto-generated translation for: Subtitles Panel",
+    "message": "Subtitru panelis"
+  },
+  "v2_02626478": {
+    "description": "Auto-generated translation for: Subtitles Settings",
+    "message": "Subtitru iestatījumi"
+  },
+  "v2_77454a7b": {
+    "description": "Auto-generated translation for: Choose the language you are learning",
+    "message": "Izvēlieties valodu, kuru apgūstat"
+  },
+  "v2_400584df": {
+    "description": "Auto-generated translation for: Choose the color for learning subtitle text",
+    "message": "Izvēlieties krāsu mācību subtitru tekstam"
+  },
+  "v2_39ecc2fa": {
+    "description": "Auto-generated translation for: Length (chars)",
+    "message": "Garums (rakstzīmes)"
+  },
+  "v2_7b7a6663": {
+    "description": "Auto-generated translation for: Choose your native language",
+    "message": "Izvēlieties savu dzimto valodu"
+  },
+  "v2_35e4aae8": {
+    "description": "Auto-generated translation for: Choose the color for native subtitle text",
+    "message": "Izvēlieties valodu subtitru teksta krāsu"
+  },
+  "v2_03b1e76f": {
+    "description": "Auto-generated translation for: Enable Native Subtitles",
+    "message": "Iespējot vietējos subtitrus"
+  },
+  "v2_0694d44f": {
+    "description": "Auto-generated translation for: Choose the audio language for the video",
+    "message": "Izvēlieties videoklipa audio valodu"
+  },
+  "v2_7b29e03a": {
+    "description": "Auto-generated translation for: Choose color",
+    "message": "Izvēlēties krāsu"
+  },
+  "v2_74a1febf": {
+    "description": "Auto-generated translation for: Choose your color",
+    "message": "Izvēlieties krāsu"
+  },
+  "v2_6c15e43b": {
+    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
+    "message": "Subtitru saraksta paneļa teksta izmērs"
   }
 }

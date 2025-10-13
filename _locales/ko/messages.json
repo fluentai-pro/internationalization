@@ -63,10 +63,6 @@
     "description": "Auto-generated translation for: General",
     "message": "일반"
   },
-  "v2_67d3a8c5": {
-    "description": "Auto-generated translation for: Subtitles",
-    "message": "자막"
-  },
   "v2_71d561ee": {
     "description": "Auto-generated translation for: Feature Requests",
     "message": "기능 요청"
@@ -1948,30 +1944,6 @@
     "description": "Auto-generated translation for: Neural Transcriptions",
     "message": "신경망 전사"
   },
-  "v2_43f821d7": {
-    "description": "Auto-generated translation for: SVG Showcase",
-    "message": "SVG 쇼케이스"
-  },
-  "v2_3bf74be4": {
-    "description": "Auto-generated translation for: Collection of SVG icons used throughout the application",
-    "message": "애플리케이션 전체에서 사용되는 SVG 아이콘 모음"
-  },
-  "v2_5ec59307": {
-    "description": "Auto-generated translation for: General SVGs",
-    "message": "일반 SVG"
-  },
-  "v2_5e9c687a": {
-    "description": "Auto-generated translation for: Icons used for various UI elements",
-    "message": "다양한 UI 요소에 사용되는 아이콘"
-  },
-  "v2_3d060eb3": {
-    "description": "Auto-generated translation for: Usage Type Icons",
-    "message": "사용 유형 아이콘"
-  },
-  "v2_66f3f6d3": {
-    "description": "Auto-generated translation for: Icons representing different usage types",
-    "message": "다양한 사용 유형을 나타내는 아이콘"
-  },
   "v2_7d39a03b": {
     "description": "Auto-generated translation for: Import",
     "message": "가져오기"
@@ -2048,14 +2020,6 @@
     "description": "Auto-generated translation for: Select Target Language",
     "message": "대상 언어 선택"
   },
-  "v2_6fb3abed": {
-    "description": "Auto-generated translation for: Chrome Store Tile",
-    "message": "Chrome 스토어 타일"
-  },
-  "v2_73473b9a": {
-    "description": "Auto-generated translation for: Visual representation of the Chrome Web Store tile",
-    "message": "Chrome 웹 스토어 타일의 시각적 표현"
-  },
   "v2_557131fc": {
     "description": "Auto-generated translation for: Upgrade",
     "message": "업그레이드"
@@ -2131,14 +2095,6 @@
     "description": "Auto-generated translation for: The most stylish extension I've ever had. Extremely useful, works great.",
     "message": "제가 경험한 확장 프로그램 중 가장 스타일리시합니다. 매우 유용하고, 잘 작동합니다."
   },
-  "v2_1c0f43dd": {
-    "description": "Auto-generated translation for: Learning Subtitles Panel",
-    "message": "자막 학습 패널"
-  },
-  "v2_1eb6bbc2": {
-    "description": "Auto-generated translation for: Displays learning subtitles with optional native translation and interaction buttons.",
-    "message": "기본 번역 및 상호 작용 버튼과 함께 학습 자막을 표시합니다."
-  },
   "v2_07a124b3": {
     "description": "Auto-generated translation for: Base Form",
     "message": "기본형"
@@ -2199,149 +2155,9 @@
     "description": "Auto-generated translation for: Translate Selected Text (In Websites)",
     "message": "선택 텍스트 번역(웹사이트)"
   },
-  "v2_49fbd8d1": {
-    "description": "Auto-generated translation for: Solar Icons (Bold Duotone)",
-    "message": "태양 아이콘 (볼드 듀오톤)"
-  },
-  "v2_1d29c607": {
-    "description": "Auto-generated translation for: Display all icons from solar-icon-react/bd",
-    "message": "solar-icon-react/bd의 모든 아이콘 표시"
-  },
-  "v2_7a1ceb4d": {
-    "description": "Auto-generated translation for: This is a simple hover popup",
-    "message": "간단한 마우스 오버 팝업입니다"
-  },
-  "v2_20b8d6cb": {
-    "description": "Auto-generated translation for: This is level 2 (deepest level)",
-    "message": "이것은 레벨 2입니다 (가장 깊은 레벨)"
-  },
-  "v2_0f9a3fbf": {
-    "description": "Auto-generated translation for: This is level 1",
-    "message": "이것은 레벨 1입니다"
-  },
-  "v2_3f14af52": {
-    "description": "Auto-generated translation for: Hover for next level",
-    "message": "다음 레벨로 이동"
-  },
-  "v2_269e3a96": {
-    "description": "Auto-generated translation for: Level 3 (deepest level)",
-    "message": "레벨 3 (가장 깊은 레벨)"
-  },
-  "v2_67616676": {
-    "description": "Auto-generated translation for: Level 2",
-    "message": "레벨 2"
-  },
-  "v2_77f5d93c": {
-    "description": "Auto-generated translation for: Hover for level 3",
-    "message": "레벨 3 보려면 마우스 올리기"
-  },
-  "v2_67616675": {
-    "description": "Auto-generated translation for: Level 1",
-    "message": "레벨 1"
-  },
-  "v2_77f5d93b": {
-    "description": "Auto-generated translation for: Hover for level 2",
-    "message": "레벨 2는 마우스 오버"
-  },
-  "v2_684fa954": {
-    "description": "Auto-generated translation for: Nested Hover Popups",
-    "message": "중첩 호버 팝업"
-  },
-  "v2_264c2841": {
-    "description": "Auto-generated translation for: Demonstrates different levels of popup nesting to test hover behavior",
-    "message": "호버 동작을 테스트하기 위한 다양한 수준의 팝업 중첩을 시연합니다"
-  },
-  "v2_5ea68cbe": {
-    "description": "Auto-generated translation for: Simple Popup",
-    "message": "간단 팝업"
-  },
-  "v2_09b83cc4": {
-    "description": "Auto-generated translation for: Hover Me",
-    "message": "마우스를 올려보세요"
-  },
-  "v2_13ab1361": {
-    "description": "Auto-generated translation for: Nested Popup (2 Levels)",
-    "message": "중첩 팝업 (2단계)"
-  },
-  "v2_5c700e92": {
-    "description": "Auto-generated translation for: Debug Instructions",
-    "message": "디버그 지침"
-  },
-  "v2_3c5f623c": {
-    "description": "Auto-generated translation for: Open your browser console to see logged events as you interact with the popups.",
-    "message": "팝업과 상호작용하면서 기록된 이벤트를 보려면 브라우저 콘솔을 여세요."
-  },
-  "v2_4857801c": {
-    "description": "Auto-generated translation for: Events are logged for component mounting/unmounting and popup open/close actions.",
-    "message": "컴포넌트 마운팅/언마운팅 및 팝업 열림/닫힘 액션에 대한 이벤트가 로깅됩니다."
-  },
-  "v2_74628711": {
-    "description": "Auto-generated translation for: Test and debug nested hover popup behavior",
-    "message": "중첩된 호버 팝업 동작 테스트 및 디버깅"
-  },
-  "v2_5a97cf39": {
-    "description": "Auto-generated translation for: Close All",
-    "message": "모두 닫기"
-  },
-  "v2_6679c388": {
-    "description": "Auto-generated translation for: Click for level 3",
-    "message": "레벨 3을 보려면 클릭"
-  },
-  "v2_6679c387": {
-    "description": "Auto-generated translation for: Click for level 2",
-    "message": "레벨 2로 클릭"
-  },
-  "v2_1abb60a6": {
-    "description": "Auto-generated translation for: Nested CLICK Popup (3 Levels)",
-    "message": "중첩된 클릭 팝업 (3단계)"
-  },
-  "v2_45a21aa0": {
-    "description": "Auto-generated translation for: More stable click-based navigation",
-    "message": "더 안정적인 클릭 기반 탐색"
-  },
-  "v2_39e0d370": {
-    "description": "Auto-generated translation for: Click Me",
-    "message": "클릭하세요"
-  },
-  "v2_6a35fa26": {
-    "description": "Auto-generated translation for: Nested HOVER Popup (3 Levels)",
-    "message": "중첩된 마우스오버 팝업 (3단계)"
-  },
-  "v2_4aa72ef3": {
-    "description": "Auto-generated translation for: Improved hover version with larger hit areas and increased delays",
-    "message": "더 큰 반응 영역과 증가된 지연을 가진 개선된 마우스 오버 버전"
-  },
-  "v2_2b64e732": {
-    "description": "Auto-generated translation for: The 3-level popup example now has both CLICK and HOVER versions for comparison.",
-    "message": "3단계 팝업 예시에 비교를 위한 클릭 및 호버 버전이 모두 포함되었습니다."
-  },
-  "v2_10848c1a": {
-    "description": "Auto-generated translation for: The CLICK version is more reliable for nested navigation.",
-    "message": "CLICK 버전은 중첩된 탐색에 더 안정적입니다."
-  },
-  "v2_5334158b": {
-    "description": "Auto-generated translation for: The improved HOVER version has larger target areas and 400ms delay times.",
-    "message": "개선된 HOVER 버전은 타겟 영역이 더 넓고 400ms의 지연 시간이 있습니다."
-  },
-  "v2_05c95424": {
-    "description": "Auto-generated translation for: Feature Button",
-    "message": "기능 버튼"
-  },
-  "v2_6d18d99c": {
-    "description": "Auto-generated translation for: Demonstrates the feature button with quota display and upgrade modal",
-    "message": "할당량을 표시하고 업그레이드 모달이 있는 기능 버튼을 보여줍니다."
-  },
   "v2_6f220a3d": {
     "description": "Auto-generated translation for: Download Subtitles",
     "message": "자막 다운로드"
-  },
-  "v2_5f8b3cdf": {
-    "description": "Auto-generated translation for: Custom Multi-Direction Tooltip",
-    "message": "사용자 정의 다방향 툴팁"
-  },
-  "v2_0e38fde6": {
-    "description": "Auto-generated translation for: This section demonstrates the custom multi-direction tooltip component with various configurations, including nesting.",
-    "message": "이 섹션은 중첩을 포함한 다양한 설정으로 사용자 정의 다방향 툴팁 구성 요소를 보여줍니다."
   },
   "v2_4b9b7f15": {
     "description": "Auto-generated translation for: Playback Modes",
@@ -2448,14 +2264,6 @@
     "description": "Auto-generated translation for: Interactive Subtitle",
     "message": "인터랙티브 자막"
   },
-  "v2_74fc4661": {
-    "description": "Auto-generated translation for: Audio Widget Showcase",
-    "message": "오디오 위젯 쇼케이스"
-  },
-  "v2_75390277": {
-    "description": "Auto-generated translation for: This section demonstrates the AudioWidget component with a sample audio file.",
-    "message": "이 섹션에서는 샘플 오디오 파일로 AudioWidget 구성 요소를 보여 줍니다."
-  },
   "v2_7ba37a71": {
     "description": "Auto-generated translation for: Affiliate Program",
     "message": "제휴 프로그램"
@@ -2463,10 +2271,6 @@
   "v2_61b9833a": {
     "description": "Auto-generated translation for: Text-to-Speech Volume",
     "message": "텍스트 음성 변환 볼륨"
-  },
-  "v2_130ec0b5": {
-    "description": "Auto-generated translation for: AI Subs",
-    "message": "AI 자막"
   },
   "v2_41fd330d": {
     "description": "Auto-generated translation for: Set Audio Language to $language$",
@@ -2476,70 +2280,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_7f70b9b1": {
-    "description": "Auto-generated translation for: Button Variants Showcase",
-    "message": "버튼 변형 쇼케이스"
-  },
-  "v2_428c8b55": {
-    "description": "Auto-generated translation for: Showcase of different Button variants using various icons and styles.",
-    "message": "다양한 아이콘과 스타일을 사용한 여러 버튼 변형 쇼케이스입니다."
-  },
-  "v2_2c9893e5": {
-    "description": "Auto-generated translation for: Default Style with Icon",
-    "message": "아이콘 포함 기본 스타일"
-  },
-  "v2_4029d9c9": {
-    "description": "Auto-generated translation for: Variant: Destructive",
-    "message": "종류: 파괴적"
-  },
-  "v2_798fa489": {
-    "description": "Auto-generated translation for: Variant: Outline",
-    "message": "변형: 외곽선"
-  },
-  "v2_00dccb69": {
-    "description": "Auto-generated translation for: Variant: Secondary",
-    "message": "변형: 보조"
-  },
-  "v2_4d320704": {
-    "description": "Auto-generated translation for: Variant: Ghost",
-    "message": "변형: 유령"
-  },
-  "v2_47d2cf1b": {
-    "description": "Auto-generated translation for: Variant: Link",
-    "message": "변형: 링크"
-  },
-  "v2_49020a9b": {
-    "description": "Auto-generated translation for: Variant: Gradient",
-    "message": "변형: 그라데이션"
-  },
-  "v2_50ea6657": {
-    "description": "Auto-generated translation for: Variant: Border",
-    "message": "변형: 테두리"
-  },
-  "v2_35989bd6": {
-    "description": "Auto-generated translation for: Custom Class (Border Gradient)",
-    "message": "사용자 정의 클래스 (테두리 그라데이션)"
-  },
-  "v2_371b53e0": {
-    "description": "Auto-generated translation for: Size: Icon",
-    "message": "크기: 아이콘"
-  },
-  "v2_54421a40": {
-    "description": "Auto-generated translation for: Size: Small",
-    "message": "사이즈: 소"
-  },
-  "v2_18472b55": {
-    "description": "Auto-generated translation for: Small Button",
-    "message": "작은 버튼"
-  },
-  "v2_53da4074": {
-    "description": "Auto-generated translation for: Size: Large",
-    "message": "사이즈: 대형"
-  },
-  "v2_33870bf7": {
-    "description": "Auto-generated translation for: Large Button",
-    "message": "큼직한 버튼"
   },
   "v2_4f0165df": {
     "description": "Auto-generated translation for: Click to copy this text to your clipboard",
@@ -2897,14 +2637,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "영상 속도"
-  },
-  "v2_6ab787aa": {
-    "description": "Auto-generated translation for: Learning Subtitles Settings",
-    "message": "학습 자막 설정"
-  },
-  "v2_72e62611": {
-    "description": "Auto-generated translation for: Native Subtitles Settings",
-    "message": "네이티브 자막설정"
   },
   "v2_0fa166e0": {
     "description": "Auto-generated translation for: Influencer Campaigns",
@@ -3585,50 +3317,6 @@
     "description": "Auto-generated translation for: Resumes playback when you move your cursor away from a word.",
     "message": "단어에서 마우스 커서를 떼면 재생을 재개합니다."
   },
-  "v2_18323d68": {
-    "description": "Auto-generated translation for: Multi-Step Onboarding Modal",
-    "message": "다단계 온보딩 모달"
-  },
-  "v2_2345cff7": {
-    "description": "Auto-generated translation for: Complete onboarding flow with all steps in a single modal with smooth transitions.",
-    "message": "모든 단계를 부드러운 전환 효과와 함께 하나의 모달에서 온보딩 플로우 완료"
-  },
-  "v2_001a1392": {
-    "description": "Auto-generated translation for: Start Full Onboarding",
-    "message": "전체 온보딩 시작"
-  },
-  "v2_3e46a2e4": {
-    "description": "Auto-generated translation for: Start from Language Selection",
-    "message": "언어 선택부터 시작"
-  },
-  "v2_0ac58232": {
-    "description": "Auto-generated translation for: Start from Final Step",
-    "message": "마지막 단계부터 시작"
-  },
-  "v2_32ff0dca": {
-    "description": "Auto-generated translation for: Onboarding Flow Features",
-    "message": "온보딩 흐름 기능"
-  },
-  "v2_75483b60": {
-    "description": "Auto-generated translation for: Unified modal with step progression",
-    "message": "단계별 진행을 갖춘 통합 모달"
-  },
-  "v2_466845a5": {
-    "description": "Auto-generated translation for: Smooth transitions between steps",
-    "message": "단계 간 부드러운 전환"
-  },
-  "v2_23125444": {
-    "description": "Auto-generated translation for: Consistent UI/UX throughout the flow",
-    "message": "흐름 전반에 걸쳐 일관된 UI/UX"
-  },
-  "v2_678ffa21": {
-    "description": "Auto-generated translation for: Can start from any step for testing",
-    "message": "테스트를 위해 어떤 단계에서든 시작할 수 있습니다"
-  },
-  "v2_56cab48d": {
-    "description": "Auto-generated translation for: Integrated with settings service for persistence",
-    "message": "설정 서비스와 통합되어 지속성을 유지합니다"
-  },
   "v2_5f61ac21": {
     "description": "Auto-generated translation for: Choose your learning and native languages to personalize your experience.",
     "message": "학습 언어와 모국어를 선택하여 경험을 맞춤 설정하세요."
@@ -3640,10 +3328,6 @@
   "v2_406dd7bc": {
     "description": "Auto-generated translation for: Something went wrong. Please try again later.",
     "message": "문제가 발생했습니다. 나중에 다시 시도해 주세요."
-  },
-  "v2_29c6dda7": {
-    "description": "Auto-generated translation for: Start from Mode Selection",
-    "message": "모드 선택부터 시작"
   },
   "v2_3a685547": {
     "description": "Auto-generated translation for: Tailor your learning environment with extensive customization options.",
@@ -5041,10 +4725,6 @@
   "v2_54ecac08": {
     "description": "Auto-generated translation for: Manage Subscription",
     "message": "구독 관리"
-  },
-  "v2_2d97a959": {
-    "description": "Auto-generated translation for: Sandbox",
-    "message": "샌드박스"
   },
   "v2_3d9fd727": {
     "description": "Auto-generated translation for: Something went wrong",
@@ -6637,10 +6317,6 @@
     "description": "Auto-generated translation for: Click the grammar button",
     "message": "문법 버튼을 클릭하세요"
   },
-  "v2_4268f68d": {
-    "description": "Auto-generated translation for: Language Settings Error",
-    "message": "언어 설정 오류"
-  },
   "v2_67b9c7b8": {
     "description": "Auto-generated translation for: Highlight Words During Live Speaking",
     "message": "실시간 말하기 중 단어 강조"
@@ -7807,5 +7483,53 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "저장된 모든 단어, 구문, 문장을 여기서 찾을 수 있습니다. 필터로 정렬하고, 목록을 생성하고, Anki로 내보낼 수 있습니다."
+  },
+  "v2_718eecbf": {
+    "description": "Auto-generated translation for: Subtitles Panel",
+    "message": "자막 패널"
+  },
+  "v2_02626478": {
+    "description": "Auto-generated translation for: Subtitles Settings",
+    "message": "자막 설정"
+  },
+  "v2_77454a7b": {
+    "description": "Auto-generated translation for: Choose the language you are learning",
+    "message": "학습할 언어를 선택하세요"
+  },
+  "v2_400584df": {
+    "description": "Auto-generated translation for: Choose the color for learning subtitle text",
+    "message": "학습 자막 텍스트의 색상을 선택하세요"
+  },
+  "v2_39ecc2fa": {
+    "description": "Auto-generated translation for: Length (chars)",
+    "message": "길이(문자)"
+  },
+  "v2_7b7a6663": {
+    "description": "Auto-generated translation for: Choose your native language",
+    "message": "모국어를 선택하세요"
+  },
+  "v2_35e4aae8": {
+    "description": "Auto-generated translation for: Choose the color for native subtitle text",
+    "message": "원어 자막 텍스트의 색상을 선택하세요"
+  },
+  "v2_03b1e76f": {
+    "description": "Auto-generated translation for: Enable Native Subtitles",
+    "message": "기본 자막 활성화"
+  },
+  "v2_0694d44f": {
+    "description": "Auto-generated translation for: Choose the audio language for the video",
+    "message": "동영상의 오디오 언어를 선택하세요"
+  },
+  "v2_7b29e03a": {
+    "description": "Auto-generated translation for: Choose color",
+    "message": "색상 선택"
+  },
+  "v2_74a1febf": {
+    "description": "Auto-generated translation for: Choose your color",
+    "message": "색상을 선택하세요"
+  },
+  "v2_6c15e43b": {
+    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
+    "message": "자막 목록 패널 텍스트 크기"
   }
 }

@@ -63,10 +63,6 @@
     "description": "Auto-generated translation for: General",
     "message": "ജനറൽ"
   },
-  "v2_67d3a8c5": {
-    "description": "Auto-generated translation for: Subtitles",
-    "message": "സബ്‌ടൈറ്റിലുകൾ"
-  },
   "v2_71d561ee": {
     "description": "Auto-generated translation for: Feature Requests",
     "message": "വിശേഷത അഭ്യർത്ഥനകൾ"
@@ -1948,30 +1944,6 @@
     "description": "Auto-generated translation for: Neural Transcriptions",
     "message": "ന്യൂറൽ ട്രാൻസ്ക്രിപ്ഷനുകൾ"
   },
-  "v2_43f821d7": {
-    "description": "Auto-generated translation for: SVG Showcase",
-    "message": "SVG പ്രദര്‍ശനം"
-  },
-  "v2_3bf74be4": {
-    "description": "Auto-generated translation for: Collection of SVG icons used throughout the application",
-    "message": "ആപ്ലിക്കേഷനിലുടനീളം ഉപയോഗിക്കുന്ന SVG ഐക്കണുകളുടെ ശേഖരം"
-  },
-  "v2_5ec59307": {
-    "description": "Auto-generated translation for: General SVGs",
-    "message": "പൊതുവായ SVG-കൾ"
-  },
-  "v2_5e9c687a": {
-    "description": "Auto-generated translation for: Icons used for various UI elements",
-    "message": "വിവിധ യുഐ ഘടകങ്ങൾക്കായി ഉപയോഗിക്കുന്ന ഐക്കണുകൾ"
-  },
-  "v2_3d060eb3": {
-    "description": "Auto-generated translation for: Usage Type Icons",
-    "message": "\"ഉപയോഗ രീതിയിലുള്ള ഐക്കണുകൾ\""
-  },
-  "v2_66f3f6d3": {
-    "description": "Auto-generated translation for: Icons representing different usage types",
-    "message": "വ്യത്യസ്ത ഉപയോഗ തരങ്ങളെ പ്രതിനിധീകരിക്കുന്ന ഐക്കണുകൾ"
-  },
   "v2_7d39a03b": {
     "description": "Auto-generated translation for: Import",
     "message": "ഇറക്കുമതി"
@@ -2048,14 +2020,6 @@
     "description": "Auto-generated translation for: Select Target Language",
     "message": "ലക്ഷ്യ ഭാഷ തിരഞ്ഞെടുക്കുക"
   },
-  "v2_6fb3abed": {
-    "description": "Auto-generated translation for: Chrome Store Tile",
-    "message": "Chrome Store ടൈൽ"
-  },
-  "v2_73473b9a": {
-    "description": "Auto-generated translation for: Visual representation of the Chrome Web Store tile",
-    "message": "Chrome വെബ് സ്റ്റോര്‍ ടൈലിന്‍റെ ദൃശ്യാവിഷ്കാരം"
-  },
   "v2_557131fc": {
     "description": "Auto-generated translation for: Upgrade",
     "message": "നവീകരിക്കുക"
@@ -2131,14 +2095,6 @@
     "description": "Auto-generated translation for: The most stylish extension I've ever had. Extremely useful, works great.",
     "message": "എനിക്കിതുവരെ കിട്ടിയതിൽ വെച്ചേറ്റവും മനോഹരമായ എക്സ്റ്റൻഷൻ. വളരെയധികം ഉപകാരപ്രദം, മികച്ച രീതിയിൽ പ്രവർത്തിക്കുന്നു."
   },
-  "v2_1c0f43dd": {
-    "description": "Auto-generated translation for: Learning Subtitles Panel",
-    "message": "പഠനത്തിനുള്ള സബ്‌ടൈറ്റിൽ പാനൽ"
-  },
-  "v2_1eb6bbc2": {
-    "description": "Auto-generated translation for: Displays learning subtitles with optional native translation and interaction buttons.",
-    "message": "ഓപ്ഷണലായി മാതൃഭാഷയിലുള്ള വിവർത്തനവും ഇന്ററാക്ഷൻ ബട്ടണുകളും സഹിതം പഠന സബ് ടൈറ്റിലുകൾ പ്രദർശിപ്പിക്കുന്നു."
-  },
   "v2_07a124b3": {
     "description": "Auto-generated translation for: Base Form",
     "message": "അടിസ്ഥാന രൂപം"
@@ -2199,149 +2155,9 @@
     "description": "Auto-generated translation for: Translate Selected Text (In Websites)",
     "message": "തിരഞ്ഞെടുത്ത ടെക്സ്റ്റ് വിവർത്തനം ചെയ്യുക (വെബ്സൈറ്റുകളിൽ)"
   },
-  "v2_49fbd8d1": {
-    "description": "Auto-generated translation for: Solar Icons (Bold Duotone)",
-    "message": "സോളാർ ഐക്കണുകൾ (ബോൾഡ് ഡ്യൂറ്റോൺ)"
-  },
-  "v2_1d29c607": {
-    "description": "Auto-generated translation for: Display all icons from solar-icon-react/bd",
-    "message": "solar-icon-react/bd-ൽ നിന്നുള്ള എല്ലാ ഐക്കൺs പ്രദർശിപ്പിക്കുക"
-  },
-  "v2_7a1ceb4d": {
-    "description": "Auto-generated translation for: This is a simple hover popup",
-    "message": "ഇത് ലളിതമായ ഹോവർ പോപ്പ്അപ്പ് ആണ്"
-  },
-  "v2_20b8d6cb": {
-    "description": "Auto-generated translation for: This is level 2 (deepest level)",
-    "message": "ഇത് ലെവൽ 2 ആണ് (ഏറ്റവും ആഴത്തിലുള്ള ലെവൽ)"
-  },
-  "v2_0f9a3fbf": {
-    "description": "Auto-generated translation for: This is level 1",
-    "message": "ഇത് ലെവൽ 1 ആണ്"
-  },
-  "v2_3f14af52": {
-    "description": "Auto-generated translation for: Hover for next level",
-    "message": "അടുത്ത ലെവലിനായി ഹോവർ ചെയ്യുക"
-  },
-  "v2_269e3a96": {
-    "description": "Auto-generated translation for: Level 3 (deepest level)",
-    "message": "ലെവൽ 3 (ഏറ്റവും ആഴത്തിലുള്ള ലെവൽ)"
-  },
-  "v2_67616676": {
-    "description": "Auto-generated translation for: Level 2",
-    "message": "ലെവൽ 2"
-  },
-  "v2_77f5d93c": {
-    "description": "Auto-generated translation for: Hover for level 3",
-    "message": "ലെവൽ 3 നായി ഹോവർ ചെയ്യുക"
-  },
-  "v2_67616675": {
-    "description": "Auto-generated translation for: Level 1",
-    "message": "ലെവൽ 1"
-  },
-  "v2_77f5d93b": {
-    "description": "Auto-generated translation for: Hover for level 2",
-    "message": "ലെവൽ 2-ന് മൗസ് ഹോവർ ചെയ്യുക"
-  },
-  "v2_684fa954": {
-    "description": "Auto-generated translation for: Nested Hover Popups",
-    "message": "നെസ്റ്റഡ് ഹോവർ പോപ്പ്അപ്പുകൾ"
-  },
-  "v2_264c2841": {
-    "description": "Auto-generated translation for: Demonstrates different levels of popup nesting to test hover behavior",
-    "message": "ഹോവർ സ്വഭാവം പരിശോധിക്കുന്നതിനായി പോപ്പ്അപ്പ് കൂടിക്കലർന്നതിൻ്റെ വ്യത്യസ്ത തലങ്ങൾ പ്രദർശിപ്പിക്കുന്നു"
-  },
-  "v2_5ea68cbe": {
-    "description": "Auto-generated translation for: Simple Popup",
-    "message": "ലളിതമായ പോപ്പ്അപ്പ്"
-  },
-  "v2_09b83cc4": {
-    "description": "Auto-generated translation for: Hover Me",
-    "message": "എന്നെ ഹോവർ ചെയ്യുക"
-  },
-  "v2_13ab1361": {
-    "description": "Auto-generated translation for: Nested Popup (2 Levels)",
-    "message": "നെസ്റ്റഡ് പോപ്പ്അപ്പ് (2 ലെവലുകൾ)"
-  },
-  "v2_5c700e92": {
-    "description": "Auto-generated translation for: Debug Instructions",
-    "message": "ഡീബഗ് നിർദ്ദേശങ്ങൾ"
-  },
-  "v2_3c5f623c": {
-    "description": "Auto-generated translation for: Open your browser console to see logged events as you interact with the popups.",
-    "message": "പോപ്പ്അപ്പുകളുമായി സംവദിക്കുമ്പോൾ സംഭവിക്കുന്ന ഇവന്റുകൾ കാണാൻ നിങ്ങളുടെ ബ്രൗസർ കൺസോൾ തുറക്കുക."
-  },
-  "v2_4857801c": {
-    "description": "Auto-generated translation for: Events are logged for component mounting/unmounting and popup open/close actions.",
-    "message": "ഘടകം ഘടിപ്പിക്കുന്നതിനും വേർപെടുത്തുന്നതിനും പോപ്പ്അപ്പ് തുറക്കുന്നതിനും അടക്കുന്നതിനുമുള്ള പ്രവർത്തനങ്ങൾ രേഖപ്പെടുത്തപ്പെടുന്നു."
-  },
-  "v2_74628711": {
-    "description": "Auto-generated translation for: Test and debug nested hover popup behavior",
-    "message": "നെസ്റ്റഡ് ഹോവർ പോപ്പ്അപ്പ് സ്വഭാവം പരിശോധിക്കുകയും ഡീബഗ് ചെയ്യുകയും ചെയ്യുക"
-  },
-  "v2_5a97cf39": {
-    "description": "Auto-generated translation for: Close All",
-    "message": "എല്ലാം അടയ്ക്കുക"
-  },
-  "v2_6679c388": {
-    "description": "Auto-generated translation for: Click for level 3",
-    "message": "ലെവൽ 3-നായി ക്ലിക്ക് ചെയ്യുക"
-  },
-  "v2_6679c387": {
-    "description": "Auto-generated translation for: Click for level 2",
-    "message": "ലെവൽ 2-ന് ക്ലിക്ക് ചെയ്യുക"
-  },
-  "v2_1abb60a6": {
-    "description": "Auto-generated translation for: Nested CLICK Popup (3 Levels)",
-    "message": "നെസ്റ്റഡ് ക്ലിക്ക് പോപ്പ്അപ്പ് (3 ലെവലുകൾ)"
-  },
-  "v2_45a21aa0": {
-    "description": "Auto-generated translation for: More stable click-based navigation",
-    "message": "കൂടുതൽ സ്ഥിരതയുള്ള ക്ലിക്ക് അടിസ്ഥാനമാക്കിയുള്ള നാവിഗേഷൻ"
-  },
-  "v2_39e0d370": {
-    "description": "Auto-generated translation for: Click Me",
-    "message": "എന്നെ ക്ലിക്ക് ചെയ്യുക"
-  },
-  "v2_6a35fa26": {
-    "description": "Auto-generated translation for: Nested HOVER Popup (3 Levels)",
-    "message": "നെസ്റ്റഡ് ഹോവർ പോപ്പ്അപ്പ് (3 ലെവലുകൾ)"
-  },
-  "v2_4aa72ef3": {
-    "description": "Auto-generated translation for: Improved hover version with larger hit areas and increased delays",
-    "message": "കൂടിയ ഹിറ്റ് ഏരിയകളും വർദ്ധിപ്പിച്ച കാലതാമസവുമുള്ള മെച്ചപ്പെടുത്തിയ ഹോവർ പതിപ്പ്"
-  },
-  "v2_2b64e732": {
-    "description": "Auto-generated translation for: The 3-level popup example now has both CLICK and HOVER versions for comparison.",
-    "message": "3-തല പോപ്പ്അപ്പ് ഉദാഹരണത്തിൽ താരതമ്യത്തിനായി ഇപ്പോൾ ക്ലിക്ക്, ഹോവർ പതിപ്പുകൾ ഉണ്ട്."
-  },
-  "v2_10848c1a": {
-    "description": "Auto-generated translation for: The CLICK version is more reliable for nested navigation.",
-    "message": "നെസ്റ്റഡ് നാവിഗേഷന് വേണ്ടി CLICK പതിപ്പ് കൂടുതൽ വിശ്വസനീയമാണ്."
-  },
-  "v2_5334158b": {
-    "description": "Auto-generated translation for: The improved HOVER version has larger target areas and 400ms delay times.",
-    "message": "മെച്ചപ്പെടുത്തിയ പുതിയ ഹോവർ പതിപ്പിന് വലിയ ലക്ഷ്യ സ്ഥാനങ്ങളും 400ms தாமதവുമുണ്ട്."
-  },
-  "v2_05c95424": {
-    "description": "Auto-generated translation for: Feature Button",
-    "message": "ഫീച്ചർ ബട്ടൺ"
-  },
-  "v2_6d18d99c": {
-    "description": "Auto-generated translation for: Demonstrates the feature button with quota display and upgrade modal",
-    "message": "ക്വാട്ട പ്രദർശനവും അപ്‌ഗ്രേഡ് മോഡലും സഹിതമുള്ള ഫീച്ചർ ബട്ടൺ കാണിക്കുന്നു"
-  },
   "v2_6f220a3d": {
     "description": "Auto-generated translation for: Download Subtitles",
     "message": "സബ്‌ടൈറ്റിലുകൾ ഡൗൺലോഡ് ചെയ്യുക"
-  },
-  "v2_5f8b3cdf": {
-    "description": "Auto-generated translation for: Custom Multi-Direction Tooltip",
-    "message": "ഇഷ്ടാനുസൃത മൾട്ടി-ഡയറക്ഷൻ ടൂൾറ്റിപ്പ്"
-  },
-  "v2_0e38fde6": {
-    "description": "Auto-generated translation for: This section demonstrates the custom multi-direction tooltip component with various configurations, including nesting.",
-    "message": "നെസ്റ്റിംഗ് ഉൾപ്പെടെ വിവിധ കോൺഫിഗറേഷനുകളുള്ള കസ്റ്റം മൾട്ടി-ഡയറക്ഷൻ ടൂൾടിപ്പ് ഘടകമാണ് ഈ വിഭാഗം വ്യക്തമാക്കുന്നത്."
   },
   "v2_4b9b7f15": {
     "description": "Auto-generated translation for: Playback Modes",
@@ -2448,14 +2264,6 @@
     "description": "Auto-generated translation for: Interactive Subtitle",
     "message": "ഇന്ററാക്ടീവ് സബ്ടൈറ്റിൽ"
   },
-  "v2_74fc4661": {
-    "description": "Auto-generated translation for: Audio Widget Showcase",
-    "message": "ഓഡിയോ വിജറ്റ് പ്രദർശനം"
-  },
-  "v2_75390277": {
-    "description": "Auto-generated translation for: This section demonstrates the AudioWidget component with a sample audio file.",
-    "message": "ഈ വിഭാഗം ഓഡിയോ വിഡ്ജറ്റ് ഘടകം ഒരു സാമ്പിൾ ഓഡിയോ ഫയൽ ഉപയോഗിച്ച് കാണിക്കുന്നു."
-  },
   "v2_7ba37a71": {
     "description": "Auto-generated translation for: Affiliate Program",
     "message": "അഫിലിയേറ്റ് പ്രോഗ്രാം"
@@ -2463,10 +2271,6 @@
   "v2_61b9833a": {
     "description": "Auto-generated translation for: Text-to-Speech Volume",
     "message": "ടെക്സ്റ്റ്-ടു-സ്പീച്ച് വോളിയം"
-  },
-  "v2_130ec0b5": {
-    "description": "Auto-generated translation for: AI Subs",
-    "message": "എഐ സബ്സ്"
   },
   "v2_41fd330d": {
     "description": "Auto-generated translation for: Set Audio Language to $language$",
@@ -2476,70 +2280,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_7f70b9b1": {
-    "description": "Auto-generated translation for: Button Variants Showcase",
-    "message": "ബട്ടൺ വേരിയന്റുകൾ പ്രദർശനം"
-  },
-  "v2_428c8b55": {
-    "description": "Auto-generated translation for: Showcase of different Button variants using various icons and styles.",
-    "message": "വിവിധ ഐക്കണുകളും ശൈലികളും ഉപയോഗിച്ചുള്ള വിവിധ ബട്ടൺ വകഭേദങ്ങളുടെ പ്രദർശനം."
-  },
-  "v2_2c9893e5": {
-    "description": "Auto-generated translation for: Default Style with Icon",
-    "message": "ഐക്കണോടുകൂടിയ സ്ഥിരസ്ഥിതി സ്റ്റൈൽ"
-  },
-  "v2_4029d9c9": {
-    "description": "Auto-generated translation for: Variant: Destructive",
-    "message": "വ്യതിയാനം: വിനാശകമായ"
-  },
-  "v2_798fa489": {
-    "description": "Auto-generated translation for: Variant: Outline",
-    "message": "വേരിയൻ്റ്: ഔട്ട്‌ലൈൻ"
-  },
-  "v2_00dccb69": {
-    "description": "Auto-generated translation for: Variant: Secondary",
-    "message": "വകഭേദം: സെക്കൻഡറി"
-  },
-  "v2_4d320704": {
-    "description": "Auto-generated translation for: Variant: Ghost",
-    "message": "വകഭേദം: ഗോസ്റ്റ്"
-  },
-  "v2_47d2cf1b": {
-    "description": "Auto-generated translation for: Variant: Link",
-    "message": "വേരിയന്‍റ്: ലിങ്ക്"
-  },
-  "v2_49020a9b": {
-    "description": "Auto-generated translation for: Variant: Gradient",
-    "message": "വകഭേദം: ഗ്രേഡിയന്റ്"
-  },
-  "v2_50ea6657": {
-    "description": "Auto-generated translation for: Variant: Border",
-    "message": "വകഭേദം: ബോർഡർ"
-  },
-  "v2_35989bd6": {
-    "description": "Auto-generated translation for: Custom Class (Border Gradient)",
-    "message": "ഇഷ്‌ട ക്ലാസ്‌ (ബോർഡർ ഗ്രേഡിയന്റ്)"
-  },
-  "v2_371b53e0": {
-    "description": "Auto-generated translation for: Size: Icon",
-    "message": "വലുപ്പം: ഐക്കൺ"
-  },
-  "v2_54421a40": {
-    "description": "Auto-generated translation for: Size: Small",
-    "message": "വലിപ്പം: ചെറുത്"
-  },
-  "v2_18472b55": {
-    "description": "Auto-generated translation for: Small Button",
-    "message": "ചെറിയ ബട്ടൺ"
-  },
-  "v2_53da4074": {
-    "description": "Auto-generated translation for: Size: Large",
-    "message": "വലിപ്പം: വലുത്"
-  },
-  "v2_33870bf7": {
-    "description": "Auto-generated translation for: Large Button",
-    "message": "വലിയ ബട്ടൺ"
   },
   "v2_4f0165df": {
     "description": "Auto-generated translation for: Click to copy this text to your clipboard",
@@ -2897,14 +2637,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "വീഡിയോ വേഗത"
-  },
-  "v2_6ab787aa": {
-    "description": "Auto-generated translation for: Learning Subtitles Settings",
-    "message": "ഉപശീർഷക ക്രമീകരണങ്ങൾ പഠിക്കുക"
-  },
-  "v2_72e62611": {
-    "description": "Auto-generated translation for: Native Subtitles Settings",
-    "message": "പ്രാദേശിക ഉപശീർഷക ക്രമീകരണങ്ങൾ"
   },
   "v2_0fa166e0": {
     "description": "Auto-generated translation for: Influencer Campaigns",
@@ -3585,50 +3317,6 @@
     "description": "Auto-generated translation for: Resumes playback when you move your cursor away from a word.",
     "message": "ഒരു വാക്കിൽ നിന്ന് നിങ്ങളുടെ കഴ്സർ മാറ്റുമ്പോൾ പ്ലേബാക്ക് പുനരാരംഭിക്കുന്നു."
   },
-  "v2_18323d68": {
-    "description": "Auto-generated translation for: Multi-Step Onboarding Modal",
-    "message": "ഘട്ടം ഘട്ടമായുള്ള ഓൺബോർഡിംഗ് മോഡൽ"
-  },
-  "v2_001a1392": {
-    "description": "Auto-generated translation for: Start Full Onboarding",
-    "message": "പൂർണ്ണമായ ഓൺ‌ബോർഡിംഗ് ആരംഭിക്കുക"
-  },
-  "v2_3e46a2e4": {
-    "description": "Auto-generated translation for: Start from Language Selection",
-    "message": "ഭാഷാ തിരഞ്ഞെടുപ്പിൽ നിന്ന് ആരംഭിക്കുക"
-  },
-  "v2_29c6dda7": {
-    "description": "Auto-generated translation for: Start from Mode Selection",
-    "message": "Mode Selection'ൽ നിന്ന് ആരംഭിക്കുക"
-  },
-  "v2_0ac58232": {
-    "description": "Auto-generated translation for: Start from Final Step",
-    "message": "അവസാന ഘട്ടത്തിൽ നിന്ന് ആരംഭിക്കുക"
-  },
-  "v2_32ff0dca": {
-    "description": "Auto-generated translation for: Onboarding Flow Features",
-    "message": "ഓൺബോർഡിംഗ് ഫ്ലോ ഫീച്ചറുകൾ"
-  },
-  "v2_75483b60": {
-    "description": "Auto-generated translation for: Unified modal with step progression",
-    "message": "ഘട്ടങ്ങളായുള്ള ഏകീകൃത മോഡൽ"
-  },
-  "v2_466845a5": {
-    "description": "Auto-generated translation for: Smooth transitions between steps",
-    "message": "ഘട്ടങ്ങൾക്കിടയിൽ സുഗമമായ പരിവർത്തനങ്ങൾ"
-  },
-  "v2_23125444": {
-    "description": "Auto-generated translation for: Consistent UI/UX throughout the flow",
-    "message": "പ്രവാഹത്തിലുടനീളം സ്ഥിരമായ UI/UX"
-  },
-  "v2_678ffa21": {
-    "description": "Auto-generated translation for: Can start from any step for testing",
-    "message": "പരിശോധനയ്ക്കായി ഏത് ഘട്ടത്തിൽ നിന്നും തുടങ്ങാം"
-  },
-  "v2_56cab48d": {
-    "description": "Auto-generated translation for: Integrated with settings service for persistence",
-    "message": "സെറ്റിംഗ്സ് സർവീസുമായി സംയോജിപ്പിച്ച് സ്ഥിരത ഉറപ്പാക്കുന്നു"
-  },
   "v2_451e2b9d": {
     "description": "Auto-generated translation for: Let's get started!",
     "message": "നമുക്ക് തുടങ്ങാം!"
@@ -3636,10 +3324,6 @@
   "v2_2299c1b0": {
     "description": "Auto-generated translation for: Pauses playback when you hover over a word for detailed exploration.",
     "message": "വിശദമായ പഠനത്തിനായി ഒരു വാക്കിൽ മൗസ് കൊണ്ടുപോകുമ്പോൾ പ്ലേബാക്ക് നിർത്തുന്നു."
-  },
-  "v2_2345cff7": {
-    "description": "Auto-generated translation for: Complete onboarding flow with all steps in a single modal with smooth transitions.",
-    "message": "എല്ലാ ഘട്ടങ്ങളും സുഗമമായ സംക്രമണത്തോടെ ഒരൊറ്റ മോഡലിൽ പൂർത്തിയാക്കുക."
   },
   "v2_3a685547": {
     "description": "Auto-generated translation for: Tailor your learning environment with extensive customization options.",
@@ -5041,10 +4725,6 @@
   "v2_54ecac08": {
     "description": "Auto-generated translation for: Manage Subscription",
     "message": "സബ്സ്ക്രിപ്ഷൻ കൈകാര്യം ചെയ്യുക"
-  },
-  "v2_2d97a959": {
-    "description": "Auto-generated translation for: Sandbox",
-    "message": "സാൻഡ്‌ബോക്സ്"
   },
   "v2_3d9fd727": {
     "description": "Auto-generated translation for: Something went wrong",
@@ -6637,10 +6317,6 @@
     "description": "Auto-generated translation for: Click the grammar button",
     "message": "വ്യാകരണ ബട്ടൺ ക്ലിക്ക് ചെയ്യുക"
   },
-  "v2_4268f68d": {
-    "description": "Auto-generated translation for: Language Settings Error",
-    "message": "ഭാഷാ ക്രമീകരണ പിശക്"
-  },
   "v2_67b9c7b8": {
     "description": "Auto-generated translation for: Highlight Words During Live Speaking",
     "message": "ലൈവ് സംസാരത്തിനിടെ വാക്കുകൾ ഹൈലൈറ്റ് ചെയ്യുക"
@@ -7807,5 +7483,53 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "നിങ്ങളുടെ സംരക്ഷിച്ച വാക്കുകൾ, ശൈലികൾ, വാക്യങ്ങൾ എന്നിവയെല്ലാം ഇവിടെ കണ്ടെത്തുക. നിങ്ങൾക്ക് ഫിൽട്ടറുകൾ ഉപയോഗിച്ച് അടുക്കാനും പട്ടികകൾ ഉണ്ടാക്കാനും അങ്കിയിലേക്ക് കയറ്റുമതി ചെയ്യാനും കഴിയും."
+  },
+  "v2_718eecbf": {
+    "description": "Auto-generated translation for: Subtitles Panel",
+    "message": "സബ്‌ടൈറ്റിൽസ് പാനൽ"
+  },
+  "v2_02626478": {
+    "description": "Auto-generated translation for: Subtitles Settings",
+    "message": "സബ്‌ടൈറ്റിൽ ക്രമീകരണങ്ങൾ"
+  },
+  "v2_77454a7b": {
+    "description": "Auto-generated translation for: Choose the language you are learning",
+    "message": "നിങ്ങൾ പഠിക്കുന്ന ഭാഷ തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_400584df": {
+    "description": "Auto-generated translation for: Choose the color for learning subtitle text",
+    "message": "പഠന സബ്‌ടൈറ്റിൽ ടെക്‌സ്റ്റിനുള്ള നിറം തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_39ecc2fa": {
+    "description": "Auto-generated translation for: Length (chars)",
+    "message": "നീളം (അക്ഷരങ്ങൾ)"
+  },
+  "v2_7b7a6663": {
+    "description": "Auto-generated translation for: Choose your native language",
+    "message": "നിങ്ങളുടെ മാതൃഭാഷ തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_35e4aae8": {
+    "description": "Auto-generated translation for: Choose the color for native subtitle text",
+    "message": "നേറ്റീവ് സബ്‌ടൈറ്റിൽ ടെക്‌സ്റ്റിനായുള്ള നിറം തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_03b1e76f": {
+    "description": "Auto-generated translation for: Enable Native Subtitles",
+    "message": "നേറ്റീവ് സബ്‌ടൈറ്റിലുകൾ പ്രവർത്തനക്ഷമമാക്കുക"
+  },
+  "v2_0694d44f": {
+    "description": "Auto-generated translation for: Choose the audio language for the video",
+    "message": "വീഡിയോയുടെ ഓഡിയോ ഭാഷ തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_7b29e03a": {
+    "description": "Auto-generated translation for: Choose color",
+    "message": "നിറം തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_74a1febf": {
+    "description": "Auto-generated translation for: Choose your color",
+    "message": "നിങ്ങളുടെ നിറം തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_6c15e43b": {
+    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
+    "message": "സബ്ടൈറ്റിലുകൾ പട്ടിക പാനൽ ടെക്സ്റ്റ് വലുപ്പം"
   }
 }

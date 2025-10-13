@@ -63,10 +63,6 @@
     "description": "Auto-generated translation for: General",
     "message": "ทั่วไป"
   },
-  "v2_67d3a8c5": {
-    "description": "Auto-generated translation for: Subtitles",
-    "message": "คำบรรยาย"
-  },
   "v2_71d561ee": {
     "description": "Auto-generated translation for: Feature Requests",
     "message": "คำขอฟีเจอร์"
@@ -1948,30 +1944,6 @@
     "description": "Auto-generated translation for: Neural Transcriptions",
     "message": "การถอดเสียงด้วยระบบประสาท"
   },
-  "v2_43f821d7": {
-    "description": "Auto-generated translation for: SVG Showcase",
-    "message": "การแสดงผล SVG"
-  },
-  "v2_3bf74be4": {
-    "description": "Auto-generated translation for: Collection of SVG icons used throughout the application",
-    "message": "ชุดไอคอน SVG ที่ใช้ทั่วทั้งแอปพลิเคชัน"
-  },
-  "v2_5ec59307": {
-    "description": "Auto-generated translation for: General SVGs",
-    "message": "SVGs ทั่วไป"
-  },
-  "v2_5e9c687a": {
-    "description": "Auto-generated translation for: Icons used for various UI elements",
-    "message": "ไอคอนที่ใช้สำหรับองค์ประกอบ UI ต่างๆ"
-  },
-  "v2_3d060eb3": {
-    "description": "Auto-generated translation for: Usage Type Icons",
-    "message": "ไอคอนประเภทการใช้งาน"
-  },
-  "v2_66f3f6d3": {
-    "description": "Auto-generated translation for: Icons representing different usage types",
-    "message": "ไอคอนที่แสดงถึงประเภทการใช้งานต่างๆ"
-  },
   "v2_7d39a03b": {
     "description": "Auto-generated translation for: Import",
     "message": "นำเข้า"
@@ -2048,14 +2020,6 @@
     "description": "Auto-generated translation for: Select Target Language",
     "message": "เลือกภาษาเป้าหมาย"
   },
-  "v2_6fb3abed": {
-    "description": "Auto-generated translation for: Chrome Store Tile",
-    "message": "ไทล์ Chrome Store"
-  },
-  "v2_73473b9a": {
-    "description": "Auto-generated translation for: Visual representation of the Chrome Web Store tile",
-    "message": "ภาพแสดงลักษณะของไทล์ Chrome Web Store"
-  },
   "v2_557131fc": {
     "description": "Auto-generated translation for: Upgrade",
     "message": "อัปเกรด"
@@ -2131,14 +2095,6 @@
     "description": "Auto-generated translation for: The most stylish extension I've ever had. Extremely useful, works great.",
     "message": "ส่วนขยายที่มีสไตล์ที่สุดเท่าที่เคยใช้มา มีประโยชน์อย่างยิ่ง ใช้งานได้ดีมาก"
   },
-  "v2_1c0f43dd": {
-    "description": "Auto-generated translation for: Learning Subtitles Panel",
-    "message": "แผงคำบรรยายสำหรับเรียนรู้"
-  },
-  "v2_1eb6bbc2": {
-    "description": "Auto-generated translation for: Displays learning subtitles with optional native translation and interaction buttons.",
-    "message": "แสดงคำบรรยายเพื่อการเรียนรู้ พร้อมตัวเลือกคำแปลภาษาแม่และปุ่มโต้ตอบ"
-  },
   "v2_07a124b3": {
     "description": "Auto-generated translation for: Base Form",
     "message": "รูปแบบพื้นฐาน"
@@ -2199,149 +2155,9 @@
     "description": "Auto-generated translation for: Translate Selected Text (In Websites)",
     "message": "แปลข้อความที่เลือก (ในเว็บไซต์)"
   },
-  "v2_49fbd8d1": {
-    "description": "Auto-generated translation for: Solar Icons (Bold Duotone)",
-    "message": "ไอคอน Solar (ทูโทนแบบหนา)"
-  },
-  "v2_1d29c607": {
-    "description": "Auto-generated translation for: Display all icons from solar-icon-react/bd",
-    "message": "แสดงไอคอนทั้งหมดจาก solar-icon-react/bd"
-  },
-  "v2_7a1ceb4d": {
-    "description": "Auto-generated translation for: This is a simple hover popup",
-    "message": "นี่คือป๊อปอัปเมื่อวางเมาส์แบบง่าย"
-  },
-  "v2_20b8d6cb": {
-    "description": "Auto-generated translation for: This is level 2 (deepest level)",
-    "message": "นี่คือระดับที่ 2 (ระดับที่ลึกที่สุด)"
-  },
-  "v2_0f9a3fbf": {
-    "description": "Auto-generated translation for: This is level 1",
-    "message": "นี่คือระดับ 1"
-  },
-  "v2_3f14af52": {
-    "description": "Auto-generated translation for: Hover for next level",
-    "message": "วางเมาส์เพื่อไปเลเวลถัดไป"
-  },
-  "v2_269e3a96": {
-    "description": "Auto-generated translation for: Level 3 (deepest level)",
-    "message": "ระดับ 3 (ระดับที่ลึกที่สุด)"
-  },
-  "v2_67616676": {
-    "description": "Auto-generated translation for: Level 2",
-    "message": "ระดับ 2"
-  },
-  "v2_77f5d93c": {
-    "description": "Auto-generated translation for: Hover for level 3",
-    "message": "เลื่อนเมาส์เพื่อดูระดับ 3"
-  },
-  "v2_67616675": {
-    "description": "Auto-generated translation for: Level 1",
-    "message": "ระดับ 1"
-  },
-  "v2_77f5d93b": {
-    "description": "Auto-generated translation for: Hover for level 2",
-    "message": "ชี้เพื่อดูระดับ 2"
-  },
-  "v2_684fa954": {
-    "description": "Auto-generated translation for: Nested Hover Popups",
-    "message": "การโผล่ขึ้นเมื่อวางเมาส์แบบซ้อนกัน"
-  },
-  "v2_264c2841": {
-    "description": "Auto-generated translation for: Demonstrates different levels of popup nesting to test hover behavior",
-    "message": "สาธิตระดับการซ้อนของป๊อปอัปที่แตกต่างกันเพื่อทดสอบพฤติกรรมการวางเมาส์เหนือ"
-  },
-  "v2_5ea68cbe": {
-    "description": "Auto-generated translation for: Simple Popup",
-    "message": "ป๊อปอัปอย่างง่าย"
-  },
-  "v2_09b83cc4": {
-    "description": "Auto-generated translation for: Hover Me",
-    "message": "วางเมาส์เหนือ"
-  },
-  "v2_13ab1361": {
-    "description": "Auto-generated translation for: Nested Popup (2 Levels)",
-    "message": "ป๊อปอัปซ้อนกัน (2 ระดับ)"
-  },
-  "v2_5c700e92": {
-    "description": "Auto-generated translation for: Debug Instructions",
-    "message": "คำแนะนำการดีบั๊ก"
-  },
-  "v2_3c5f623c": {
-    "description": "Auto-generated translation for: Open your browser console to see logged events as you interact with the popups.",
-    "message": "เปิดคอนโซลเบราว์เซอร์ของคุณเพื่อดูเหตุการณ์ที่บันทึกไว้เมื่อคุณโต้ตอบกับป็อปอัป"
-  },
-  "v2_4857801c": {
-    "description": "Auto-generated translation for: Events are logged for component mounting/unmounting and popup open/close actions.",
-    "message": "มีการบันทึกเหตุการณ์สำหรับการเมาท์/อันเมาท์ส่วนประกอบ และการเปิด/ปิดป๊อปอัป"
-  },
-  "v2_74628711": {
-    "description": "Auto-generated translation for: Test and debug nested hover popup behavior",
-    "message": "ทดสอบและแก้ไขการทำงานของป๊อปอัปที่ซ้อนกัน"
-  },
-  "v2_5a97cf39": {
-    "description": "Auto-generated translation for: Close All",
-    "message": "ปิดทั้งหมด"
-  },
-  "v2_6679c388": {
-    "description": "Auto-generated translation for: Click for level 3",
-    "message": "คลิกเพื่อไปยังระดับ 3"
-  },
-  "v2_6679c387": {
-    "description": "Auto-generated translation for: Click for level 2",
-    "message": "คลิกเพื่อไปยังระดับ 2"
-  },
-  "v2_1abb60a6": {
-    "description": "Auto-generated translation for: Nested CLICK Popup (3 Levels)",
-    "message": "ป๊อปอัปคลิกซ้อน (3 ระดับ)"
-  },
-  "v2_45a21aa0": {
-    "description": "Auto-generated translation for: More stable click-based navigation",
-    "message": "การนำทางแบบคลิกที่เสถียรยิ่งขึ้น"
-  },
-  "v2_39e0d370": {
-    "description": "Auto-generated translation for: Click Me",
-    "message": "คลิกที่นี่"
-  },
-  "v2_6a35fa26": {
-    "description": "Auto-generated translation for: Nested HOVER Popup (3 Levels)",
-    "message": "ป็อปอัปแบบ HOVER ซ้อน (3 ระดับ)"
-  },
-  "v2_4aa72ef3": {
-    "description": "Auto-generated translation for: Improved hover version with larger hit areas and increased delays",
-    "message": "เวอร์ชันโฮเวอร์ที่ปรับปรุงใหม่ ด้วยพื้นที่กดที่ใหญ่ขึ้นและการหน่วงเวลาที่เพิ่มขึ้น"
-  },
-  "v2_2b64e732": {
-    "description": "Auto-generated translation for: The 3-level popup example now has both CLICK and HOVER versions for comparison.",
-    "message": "ตัวอย่างป๊อปอัป 3 ระดับตอนนี้มีทั้งเวอร์ชันคลิก (CLICK) และแบบวางเมาส์ (HOVER) สำหรับเปรียบเทียบ"
-  },
-  "v2_10848c1a": {
-    "description": "Auto-generated translation for: The CLICK version is more reliable for nested navigation.",
-    "message": "เวอร์ชัน CLICK น่าเชื่อถือกว่าสำหรับการนำทางที่ซ้อนกัน"
-  },
-  "v2_5334158b": {
-    "description": "Auto-generated translation for: The improved HOVER version has larger target areas and 400ms delay times.",
-    "message": "HOVER เวอร์ชันที่ได้รับการปรับปรุงมีพื้นที่เป้าหมายที่ใหญ่ขึ้นและเวลาดีเลย์ 400ms"
-  },
-  "v2_05c95424": {
-    "description": "Auto-generated translation for: Feature Button",
-    "message": "ปุ่มคุณสมบัติ"
-  },
-  "v2_6d18d99c": {
-    "description": "Auto-generated translation for: Demonstrates the feature button with quota display and upgrade modal",
-    "message": "สาธิตปุ่มคุณสมบัติที่มีการแสดงโควตาและโมดัลการอัปเกรด"
-  },
   "v2_6f220a3d": {
     "description": "Auto-generated translation for: Download Subtitles",
     "message": "ดาวน์โหลดซับไตเติล"
-  },
-  "v2_5f8b3cdf": {
-    "description": "Auto-generated translation for: Custom Multi-Direction Tooltip",
-    "message": "ทูลทิปแบบหลายทิศทางที่ปรับแต่งเอง"
-  },
-  "v2_0e38fde6": {
-    "description": "Auto-generated translation for: This section demonstrates the custom multi-direction tooltip component with various configurations, including nesting.",
-    "message": "ส่วนนี้แสดงคอมโพเนนต์ทูลทิปแบบหลายทิศทางที่กำหนดเอง พร้อมการกำหนดค่าต่างๆ รวมถึงการซ้อน"
   },
   "v2_4b9b7f15": {
     "description": "Auto-generated translation for: Playback Modes",
@@ -2448,14 +2264,6 @@
     "description": "Auto-generated translation for: Interactive Subtitle",
     "message": "คำบรรยายแบบโต้ตอบ"
   },
-  "v2_74fc4661": {
-    "description": "Auto-generated translation for: Audio Widget Showcase",
-    "message": "ตัวอย่างวิดเจ็ตเสียง"
-  },
-  "v2_75390277": {
-    "description": "Auto-generated translation for: This section demonstrates the AudioWidget component with a sample audio file.",
-    "message": "ส่วนนี้แสดงส่วนประกอบ AudioWidget ด้วยไฟล์เสียงตัวอย่าง"
-  },
   "v2_7ba37a71": {
     "description": "Auto-generated translation for: Affiliate Program",
     "message": "โปรแกรมพันธมิตร"
@@ -2463,10 +2271,6 @@
   "v2_61b9833a": {
     "description": "Auto-generated translation for: Text-to-Speech Volume",
     "message": "ระดับเสียงข้อความเป็นคำพูด"
-  },
-  "v2_130ec0b5": {
-    "description": "Auto-generated translation for: AI Subs",
-    "message": "คำบรรยาย AI"
   },
   "v2_41fd330d": {
     "description": "Auto-generated translation for: Set Audio Language to $language$",
@@ -2476,70 +2280,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_7f70b9b1": {
-    "description": "Auto-generated translation for: Button Variants Showcase",
-    "message": "ตัวอย่างรูปแบบปุ่ม"
-  },
-  "v2_428c8b55": {
-    "description": "Auto-generated translation for: Showcase of different Button variants using various icons and styles.",
-    "message": "ตัวอย่างรูปแบบของปุ่มที่แตกต่างกัน พร้อมไอคอนและสไตล์ต่างๆ"
-  },
-  "v2_2c9893e5": {
-    "description": "Auto-generated translation for: Default Style with Icon",
-    "message": "สไตล์เริ่มต้นพร้อมไอคอน"
-  },
-  "v2_4029d9c9": {
-    "description": "Auto-generated translation for: Variant: Destructive",
-    "message": "รูปแบบ: ทำลายล้าง"
-  },
-  "v2_798fa489": {
-    "description": "Auto-generated translation for: Variant: Outline",
-    "message": "แบบ: เส้นขอบ"
-  },
-  "v2_00dccb69": {
-    "description": "Auto-generated translation for: Variant: Secondary",
-    "message": "แบบเลือก: รอง"
-  },
-  "v2_4d320704": {
-    "description": "Auto-generated translation for: Variant: Ghost",
-    "message": "รูปแบบ: ผี"
-  },
-  "v2_47d2cf1b": {
-    "description": "Auto-generated translation for: Variant: Link",
-    "message": "รูปแบบ: ลิงก์"
-  },
-  "v2_49020a9b": {
-    "description": "Auto-generated translation for: Variant: Gradient",
-    "message": "รูปแบบ: การไล่ระดับสี"
-  },
-  "v2_50ea6657": {
-    "description": "Auto-generated translation for: Variant: Border",
-    "message": "รูปแบบ: ขอบ"
-  },
-  "v2_35989bd6": {
-    "description": "Auto-generated translation for: Custom Class (Border Gradient)",
-    "message": "คลาสกำหนดเอง (ขอบไล่ระดับสี)"
-  },
-  "v2_371b53e0": {
-    "description": "Auto-generated translation for: Size: Icon",
-    "message": "ขนาด: ไอคอน"
-  },
-  "v2_54421a40": {
-    "description": "Auto-generated translation for: Size: Small",
-    "message": "ขนาด: เล็ก"
-  },
-  "v2_18472b55": {
-    "description": "Auto-generated translation for: Small Button",
-    "message": "ปุ่มเล็ก"
-  },
-  "v2_53da4074": {
-    "description": "Auto-generated translation for: Size: Large",
-    "message": "ขนาด: ใหญ่"
-  },
-  "v2_33870bf7": {
-    "description": "Auto-generated translation for: Large Button",
-    "message": "ปุ่มขนาดใหญ่"
   },
   "v2_4f0165df": {
     "description": "Auto-generated translation for: Click to copy this text to your clipboard",
@@ -2897,14 +2637,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "ความเร็ววิดีโอ"
-  },
-  "v2_6ab787aa": {
-    "description": "Auto-generated translation for: Learning Subtitles Settings",
-    "message": "การตั้งค่าคำบรรยายสำหรับเรียนรู้"
-  },
-  "v2_72e62611": {
-    "description": "Auto-generated translation for: Native Subtitles Settings",
-    "message": "การตั้งค่าคำบรรยายภาษาแม่"
   },
   "v2_0fa166e0": {
     "description": "Auto-generated translation for: Influencer Campaigns",
@@ -3600,54 +3332,6 @@
   "v2_01f95b31": {
     "description": "Auto-generated translation for: Resumes playback when you move your cursor away from a word.",
     "message": "เล่นต่อเมื่อคุณเลื่อนเคอร์เซอร์ออกจากคำ"
-  },
-  "v2_18323d68": {
-    "description": "Auto-generated translation for: Multi-Step Onboarding Modal",
-    "message": "หน้าต่างแนะนำการใช้งานแบบหลายขั้นตอน"
-  },
-  "v2_2345cff7": {
-    "description": "Auto-generated translation for: Complete onboarding flow with all steps in a single modal with smooth transitions.",
-    "message": "ทำให้ขั้นตอนการเริ่มต้นใช้งานทั้งหมดเสร็จสมบูรณ์ในหน้าต่าง modal เดียวกับการเปลี่ยนผ่านที่ราบรื่น"
-  },
-  "v2_001a1392": {
-    "description": "Auto-generated translation for: Start Full Onboarding",
-    "message": "เริ่มการเตรียมความพร้อมเต็มรูปแบบ"
-  },
-  "v2_3e46a2e4": {
-    "description": "Auto-generated translation for: Start from Language Selection",
-    "message": "เริ่มต้นจากเลือกภาษา"
-  },
-  "v2_29c6dda7": {
-    "description": "Auto-generated translation for: Start from Mode Selection",
-    "message": "เริ่มจาก การเลือกโหมด"
-  },
-  "v2_0ac58232": {
-    "description": "Auto-generated translation for: Start from Final Step",
-    "message": "เริ่มต้นจากขั้นตอนสุดท้าย"
-  },
-  "v2_32ff0dca": {
-    "description": "Auto-generated translation for: Onboarding Flow Features",
-    "message": "คุณสมบัติของกระบวนการเริ่มต้น"
-  },
-  "v2_75483b60": {
-    "description": "Auto-generated translation for: Unified modal with step progression",
-    "message": "โหมดแบบรวมที่มีการไล่ระดับขั้นตอน"
-  },
-  "v2_466845a5": {
-    "description": "Auto-generated translation for: Smooth transitions between steps",
-    "message": "การเปลี่ยนผ่านระหว่างขั้นตอนที่ราบรื่น"
-  },
-  "v2_23125444": {
-    "description": "Auto-generated translation for: Consistent UI/UX throughout the flow",
-    "message": "UI/UX ที่สอดคล้องกันตลอดทั้งกระบวนการ"
-  },
-  "v2_678ffa21": {
-    "description": "Auto-generated translation for: Can start from any step for testing",
-    "message": "สามารถเริ่มต้นได้จากขั้นตอนใดก็ได้สำหรับการทดสอบ"
-  },
-  "v2_56cab48d": {
-    "description": "Auto-generated translation for: Integrated with settings service for persistence",
-    "message": "ผสานรวมกับบริการตั้งค่าเพื่อการคงอยู่"
   },
   "v2_1b2feb34": {
     "description": "Auto-generated translation for: Limited daily usage",
@@ -5041,10 +4725,6 @@
   "v2_54ecac08": {
     "description": "Auto-generated translation for: Manage Subscription",
     "message": "จัดการการสมัครสมาชิก"
-  },
-  "v2_2d97a959": {
-    "description": "Auto-generated translation for: Sandbox",
-    "message": "แซนด์บ็อกซ์"
   },
   "v2_3d9fd727": {
     "description": "Auto-generated translation for: Something went wrong",
@@ -6637,10 +6317,6 @@
     "description": "Auto-generated translation for: Click the grammar button",
     "message": "คลิกปุ่มไวยากรณ์"
   },
-  "v2_4268f68d": {
-    "description": "Auto-generated translation for: Language Settings Error",
-    "message": "ข้อผิดพลาดในการตั้งค่าภาษา"
-  },
   "v2_67b9c7b8": {
     "description": "Auto-generated translation for: Highlight Words During Live Speaking",
     "message": "เน้นคำระหว่างการพูดสด"
@@ -7807,5 +7483,53 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "ค้นหาคำ วลี และประโยคที่คุณบันทึกไว้ทั้งหมดได้ที่นี่ คุณสามารถจัดเรียงด้วยตัวกรอง สร้างรายการ และส่งออกไปยัง Anki ได้"
+  },
+  "v2_718eecbf": {
+    "description": "Auto-generated translation for: Subtitles Panel",
+    "message": "แผงคำบรรยาย"
+  },
+  "v2_02626478": {
+    "description": "Auto-generated translation for: Subtitles Settings",
+    "message": "การตั้งค่าคำบรรยาย"
+  },
+  "v2_77454a7b": {
+    "description": "Auto-generated translation for: Choose the language you are learning",
+    "message": "เลือกภาษาที่คุณกำลังเรียนรู้"
+  },
+  "v2_400584df": {
+    "description": "Auto-generated translation for: Choose the color for learning subtitle text",
+    "message": "เลือกสีสำหรับข้อความซับไตเติลการเรียนรู้"
+  },
+  "v2_39ecc2fa": {
+    "description": "Auto-generated translation for: Length (chars)",
+    "message": "ความยาว (ตัวอักษร)"
+  },
+  "v2_7b7a6663": {
+    "description": "Auto-generated translation for: Choose your native language",
+    "message": "เลือกภาษาแม่ของคุณ"
+  },
+  "v2_35e4aae8": {
+    "description": "Auto-generated translation for: Choose the color for native subtitle text",
+    "message": "เลือกสีสำหรับคำบรรยายภาษาไทย"
+  },
+  "v2_03b1e76f": {
+    "description": "Auto-generated translation for: Enable Native Subtitles",
+    "message": "เปิดใช้งานคำบรรยายดั้งเดิม"
+  },
+  "v2_0694d44f": {
+    "description": "Auto-generated translation for: Choose the audio language for the video",
+    "message": "เลือกภาษาของเสียงสำหรับวิดีโอ"
+  },
+  "v2_7b29e03a": {
+    "description": "Auto-generated translation for: Choose color",
+    "message": "เลือกสี"
+  },
+  "v2_74a1febf": {
+    "description": "Auto-generated translation for: Choose your color",
+    "message": "เลือกสีของคุณ"
+  },
+  "v2_6c15e43b": {
+    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
+    "message": "ขนาดข้อความของแผงรายการคำบรรยาย"
   }
 }

@@ -68,10 +68,6 @@
     "description": "Auto-generated translation for: General",
     "message": "सामान्य"
   },
-  "v2_67d3a8c5": {
-    "description": "Auto-generated translation for: Subtitles",
-    "message": "उपशीर्षक"
-  },
   "v2_71d561ee": {
     "description": "Auto-generated translation for: Feature Requests",
     "message": "फ़ीचर अनुरोध"
@@ -1953,30 +1949,6 @@
     "description": "Auto-generated translation for: Neural Transcriptions",
     "message": "न्यूरल ट्रांसक्रिप्शन"
   },
-  "v2_43f821d7": {
-    "description": "Auto-generated translation for: SVG Showcase",
-    "message": "\"एसवीजी शोकेस\""
-  },
-  "v2_3bf74be4": {
-    "description": "Auto-generated translation for: Collection of SVG icons used throughout the application",
-    "message": "यह एप्लिकेशन में उपयोग किए गए SVG आइकन का संग्रह है"
-  },
-  "v2_5ec59307": {
-    "description": "Auto-generated translation for: General SVGs",
-    "message": "सामान्य एसवीजी"
-  },
-  "v2_5e9c687a": {
-    "description": "Auto-generated translation for: Icons used for various UI elements",
-    "message": "विभिन्न यूआई तत्वों के लिए उपयोग किए जाने वाले आइकन"
-  },
-  "v2_3d060eb3": {
-    "description": "Auto-generated translation for: Usage Type Icons",
-    "message": "उपयोग प्रकार आइकन"
-  },
-  "v2_66f3f6d3": {
-    "description": "Auto-generated translation for: Icons representing different usage types",
-    "message": "विभिन्न उपयोग प्रकारों का प्रतिनिधित्व करने वाले आइकन"
-  },
   "v2_7d39a03b": {
     "description": "Auto-generated translation for: Import",
     "message": "इम्पोर्ट"
@@ -2053,14 +2025,6 @@
     "description": "Auto-generated translation for: Select Target Language",
     "message": "लक्ष्य भाषा का चयन करें"
   },
-  "v2_6fb3abed": {
-    "description": "Auto-generated translation for: Chrome Store Tile",
-    "message": "क्रोम स्टोर टाइल"
-  },
-  "v2_73473b9a": {
-    "description": "Auto-generated translation for: Visual representation of the Chrome Web Store tile",
-    "message": "क्रोम वेब स्टोर टाइल का दृश्य निरूपण"
-  },
   "v2_557131fc": {
     "description": "Auto-generated translation for: Upgrade",
     "message": "उन्नयन"
@@ -2136,14 +2100,6 @@
     "description": "Auto-generated translation for: The most stylish extension I've ever had. Extremely useful, works great.",
     "message": "मेरे पास यह अब तक का सबसे स्टाइलिश एक्सटेंशन है। बेहद उपयोगी, बहुत बढ़िया काम करता है।"
   },
-  "v2_1c0f43dd": {
-    "description": "Auto-generated translation for: Learning Subtitles Panel",
-    "message": "सबटाइटल सीखने वाला पैनल"
-  },
-  "v2_1eb6bbc2": {
-    "description": "Auto-generated translation for: Displays learning subtitles with optional native translation and interaction buttons.",
-    "message": "वैकल्पिक मूल अनुवाद और इंटरैक्शन बटन के साथ शिक्षण उपशीर्षक प्रदर्शित करता है।"
-  },
   "v2_07a124b3": {
     "description": "Auto-generated translation for: Base Form",
     "message": "मुख्य रूप"
@@ -2204,149 +2160,9 @@
     "description": "Auto-generated translation for: Translate Selected Text (In Websites)",
     "message": "चयनित टेक्स्ट का अनुवाद करें (वेबसाइटों में)"
   },
-  "v2_49fbd8d1": {
-    "description": "Auto-generated translation for: Solar Icons (Bold Duotone)",
-    "message": "सौर चिह्न (बोल्ड ड्यूटोन)"
-  },
-  "v2_1d29c607": {
-    "description": "Auto-generated translation for: Display all icons from solar-icon-react/bd",
-    "message": "सौर-आइकन-रिएक्ट/बीडी से सभी आइकन प्रदर्शित करें"
-  },
-  "v2_7a1ceb4d": {
-    "description": "Auto-generated translation for: This is a simple hover popup",
-    "message": "यह केवल सामान्य होवर करने पर दिखने वाला पॉपअप है।"
-  },
-  "v2_20b8d6cb": {
-    "description": "Auto-generated translation for: This is level 2 (deepest level)",
-    "message": "यह स्तर 2 है (सबसे गहरा स्तर)"
-  },
-  "v2_0f9a3fbf": {
-    "description": "Auto-generated translation for: This is level 1",
-    "message": "यह स्तर 1 है"
-  },
-  "v2_3f14af52": {
-    "description": "Auto-generated translation for: Hover for next level",
-    "message": "अगले स्तर के लिए होवर करें"
-  },
-  "v2_269e3a96": {
-    "description": "Auto-generated translation for: Level 3 (deepest level)",
-    "message": "स्तर 3 (सबसे गहरा स्तर)"
-  },
-  "v2_67616676": {
-    "description": "Auto-generated translation for: Level 2",
-    "message": "लेवल 2"
-  },
-  "v2_77f5d93c": {
-    "description": "Auto-generated translation for: Hover for level 3",
-    "message": "स्तर 3 के लिए होवर करें"
-  },
-  "v2_67616675": {
-    "description": "Auto-generated translation for: Level 1",
-    "message": "स्तर 1"
-  },
-  "v2_77f5d93b": {
-    "description": "Auto-generated translation for: Hover for level 2",
-    "message": "स्तर 2 के लिए होवर करें"
-  },
-  "v2_684fa954": {
-    "description": "Auto-generated translation for: Nested Hover Popups",
-    "message": "नेस्टेड होवर पॉपअप"
-  },
-  "v2_264c2841": {
-    "description": "Auto-generated translation for: Demonstrates different levels of popup nesting to test hover behavior",
-    "message": "हॉवर व्यवहार के परीक्षण के लिए पॉपअप नेस्टिंग के विभिन्न स्तरों को दर्शाता है"
-  },
-  "v2_5ea68cbe": {
-    "description": "Auto-generated translation for: Simple Popup",
-    "message": "सरल पॉपअप"
-  },
-  "v2_09b83cc4": {
-    "description": "Auto-generated translation for: Hover Me",
-    "message": "मुझ पर होवर करें"
-  },
-  "v2_13ab1361": {
-    "description": "Auto-generated translation for: Nested Popup (2 Levels)",
-    "message": "नेस्टेड पॉपअप (2 स्तर)"
-  },
-  "v2_5c700e92": {
-    "description": "Auto-generated translation for: Debug Instructions",
-    "message": "डीबग निर्देश"
-  },
-  "v2_3c5f623c": {
-    "description": "Auto-generated translation for: Open your browser console to see logged events as you interact with the popups.",
-    "message": "पॉपअप के साथ इंटरैक्ट करते समय लॉग्ड इवेंट देखने के लिए अपना ब्राउज़र कंसोल खोलें।"
-  },
-  "v2_4857801c": {
-    "description": "Auto-generated translation for: Events are logged for component mounting/unmounting and popup open/close actions.",
-    "message": "Component माउंटिंग/अनमाउंटिंग और पॉपअप खोलने/बंद करने की क्रियाओं के लिए इवेंट लॉग किए जाते हैं।"
-  },
-  "v2_74628711": {
-    "description": "Auto-generated translation for: Test and debug nested hover popup behavior",
-    "message": "नेस्टेड हॉवर पॉप-अप व्यवहार का टेस्ट और डिबग करें"
-  },
-  "v2_5a97cf39": {
-    "description": "Auto-generated translation for: Close All",
-    "message": "सभी बंद करें"
-  },
-  "v2_6679c388": {
-    "description": "Auto-generated translation for: Click for level 3",
-    "message": "लेवल 3 के लिए क्लिक करें"
-  },
-  "v2_6679c387": {
-    "description": "Auto-generated translation for: Click for level 2",
-    "message": "लेवल 2 के लिए क्लिक करें"
-  },
-  "v2_1abb60a6": {
-    "description": "Auto-generated translation for: Nested CLICK Popup (3 Levels)",
-    "message": "नेस्टेड क्लिक पॉपअप (3 स्तर)"
-  },
-  "v2_45a21aa0": {
-    "description": "Auto-generated translation for: More stable click-based navigation",
-    "message": "अधिक स्थिर क्लिक-आधारित नेविगेशन"
-  },
-  "v2_39e0d370": {
-    "description": "Auto-generated translation for: Click Me",
-    "message": "मुझे क्लिक करें"
-  },
-  "v2_6a35fa26": {
-    "description": "Auto-generated translation for: Nested HOVER Popup (3 Levels)",
-    "message": "नेस्टेड होवर पॉपअप (3 लेवल)"
-  },
-  "v2_4aa72ef3": {
-    "description": "Auto-generated translation for: Improved hover version with larger hit areas and increased delays",
-    "message": "बड़ा हिट क्षेत्र और बढ़ाए गए विलंब के साथ बेहतर होवर संस्करण"
-  },
-  "v2_2b64e732": {
-    "description": "Auto-generated translation for: The 3-level popup example now has both CLICK and HOVER versions for comparison.",
-    "message": "3-लेवल पॉपअप उदाहरण तुलना के लिए अब दोनों CLICK और HOVER संस्करणों में उपलब्ध है।"
-  },
-  "v2_10848c1a": {
-    "description": "Auto-generated translation for: The CLICK version is more reliable for nested navigation.",
-    "message": "नेस्टेड नेविगेशन के लिए क्लिक वाला वर्जन ज़्यादा भरोसेमंद है।"
-  },
-  "v2_5334158b": {
-    "description": "Auto-generated translation for: The improved HOVER version has larger target areas and 400ms delay times.",
-    "message": "HOVER के बेहतर संस्करण में बड़े लक्ष्य क्षेत्र और 400 मि.से. विलंब अवधि हैं।"
-  },
-  "v2_05c95424": {
-    "description": "Auto-generated translation for: Feature Button",
-    "message": "सुविधा बटन"
-  },
-  "v2_6d18d99c": {
-    "description": "Auto-generated translation for: Demonstrates the feature button with quota display and upgrade modal",
-    "message": "कोटा डिस्प्ले और अपग्रेड मॉडल के साथ सुविधा बटन दिखाता है"
-  },
   "v2_6f220a3d": {
     "description": "Auto-generated translation for: Download Subtitles",
     "message": "सबटाइटल डाउनलोड करें"
-  },
-  "v2_5f8b3cdf": {
-    "description": "Auto-generated translation for: Custom Multi-Direction Tooltip",
-    "message": "कस्टम मल्टी-दिशा टूलटिप"
-  },
-  "v2_0e38fde6": {
-    "description": "Auto-generated translation for: This section demonstrates the custom multi-direction tooltip component with various configurations, including nesting.",
-    "message": "यह अनुभाग विभिन्न कॉन्फ़िगरेशन के साथ कस्टम मल्टी-डायरेक्शन टूलटिप घटक का प्रदर्शन करता है, जिसमें नेस्टिंग शामिल है।"
   },
   "v2_4b9b7f15": {
     "description": "Auto-generated translation for: Playback Modes",
@@ -2453,14 +2269,6 @@
     "description": "Auto-generated translation for: Interactive Subtitle",
     "message": "इंटरैक्टिव सबटाइटल"
   },
-  "v2_74fc4661": {
-    "description": "Auto-generated translation for: Audio Widget Showcase",
-    "message": "ऑडियो विजेट प्रदर्शन"
-  },
-  "v2_75390277": {
-    "description": "Auto-generated translation for: This section demonstrates the AudioWidget component with a sample audio file.",
-    "message": "यह अनुभाग एक नमूना ऑडियो फ़ाइल के साथ ऑडियोविजेट घटक को प्रदर्शित करता है।"
-  },
   "v2_7ba37a71": {
     "description": "Auto-generated translation for: Affiliate Program",
     "message": "एफ़िलिएट प्रोग्राम"
@@ -2468,10 +2276,6 @@
   "v2_61b9833a": {
     "description": "Auto-generated translation for: Text-to-Speech Volume",
     "message": "टेक्स्ट-टू-स्पीच वॉल्यूम"
-  },
-  "v2_130ec0b5": {
-    "description": "Auto-generated translation for: AI Subs",
-    "message": "एआई सबटाइटल्स"
   },
   "v2_41fd330d": {
     "description": "Auto-generated translation for: Set Audio Language to $language$",
@@ -2481,70 +2285,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_7f70b9b1": {
-    "description": "Auto-generated translation for: Button Variants Showcase",
-    "message": "बटन वेरिएंट शोकेस"
-  },
-  "v2_428c8b55": {
-    "description": "Auto-generated translation for: Showcase of different Button variants using various icons and styles.",
-    "message": "विभिन्न चिह्नों और शैलियों का उपयोग करके विभिन्न बटन वेरिएंट का प्रदर्शन।"
-  },
-  "v2_2c9893e5": {
-    "description": "Auto-generated translation for: Default Style with Icon",
-    "message": "आइकन के साथ डिफ़ॉल्ट स्टाइल"
-  },
-  "v2_4029d9c9": {
-    "description": "Auto-generated translation for: Variant: Destructive",
-    "message": "वेरियंट: विनाशकारी"
-  },
-  "v2_798fa489": {
-    "description": "Auto-generated translation for: Variant: Outline",
-    "message": "प्रकार: आउटलाइन"
-  },
-  "v2_00dccb69": {
-    "description": "Auto-generated translation for: Variant: Secondary",
-    "message": "प्रकार: द्वितीयक"
-  },
-  "v2_4d320704": {
-    "description": "Auto-generated translation for: Variant: Ghost",
-    "message": "वेरिएंट: भूत"
-  },
-  "v2_47d2cf1b": {
-    "description": "Auto-generated translation for: Variant: Link",
-    "message": "प्रकार: लिंक"
-  },
-  "v2_49020a9b": {
-    "description": "Auto-generated translation for: Variant: Gradient",
-    "message": "वेरिएंट: ग्रेडिएंट"
-  },
-  "v2_50ea6657": {
-    "description": "Auto-generated translation for: Variant: Border",
-    "message": "वेरिएंट: बॉर्डर"
-  },
-  "v2_35989bd6": {
-    "description": "Auto-generated translation for: Custom Class (Border Gradient)",
-    "message": "कस्टम क्लास (बॉर्डर ग्रेडिएंट)"
-  },
-  "v2_371b53e0": {
-    "description": "Auto-generated translation for: Size: Icon",
-    "message": "आकार: आइकन"
-  },
-  "v2_54421a40": {
-    "description": "Auto-generated translation for: Size: Small",
-    "message": "साइज़: छोटा"
-  },
-  "v2_18472b55": {
-    "description": "Auto-generated translation for: Small Button",
-    "message": "छोटा बटन"
-  },
-  "v2_53da4074": {
-    "description": "Auto-generated translation for: Size: Large",
-    "message": "आकार: बड़ा"
-  },
-  "v2_33870bf7": {
-    "description": "Auto-generated translation for: Large Button",
-    "message": "बड़ा बटन"
   },
   "v2_4f0165df": {
     "description": "Auto-generated translation for: Click to copy this text to your clipboard",
@@ -2902,14 +2642,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "वीडियो गति"
-  },
-  "v2_6ab787aa": {
-    "description": "Auto-generated translation for: Learning Subtitles Settings",
-    "message": "अनुवादों के सबटाइटल की सेटिंग"
-  },
-  "v2_72e62611": {
-    "description": "Auto-generated translation for: Native Subtitles Settings",
-    "message": "स्थानीय उपशीर्षक सेटिंग्ज़"
   },
   "v2_0fa166e0": {
     "description": "Auto-generated translation for: Influencer Campaigns",
@@ -3601,54 +3333,6 @@
   "v2_01f95b31": {
     "description": "Auto-generated translation for: Resumes playback when you move your cursor away from a word.",
     "message": "जब आप किसी शब्द से अपना कर्सर हटाते हैं तो प्लेबैक फिर से शुरू हो जाता है।"
-  },
-  "v2_18323d68": {
-    "description": "Auto-generated translation for: Multi-Step Onboarding Modal",
-    "message": "मल्टी-स्टेप ऑनबोर्डिंग मोडल"
-  },
-  "v2_2345cff7": {
-    "description": "Auto-generated translation for: Complete onboarding flow with all steps in a single modal with smooth transitions.",
-    "message": "सभी चरणों के साथ ऑनबोर्डिंग फ्लो को एक ही मोडल में स्मूथ ट्रांज़िशन के साथ पूरा करें।"
-  },
-  "v2_001a1392": {
-    "description": "Auto-generated translation for: Start Full Onboarding",
-    "message": "पूर्ण ऑनबोर्डिंग प्रारंभ करें"
-  },
-  "v2_3e46a2e4": {
-    "description": "Auto-generated translation for: Start from Language Selection",
-    "message": "भाषा चयन से शुरू करें"
-  },
-  "v2_29c6dda7": {
-    "description": "Auto-generated translation for: Start from Mode Selection",
-    "message": "मोड चयन से शुरू करें"
-  },
-  "v2_0ac58232": {
-    "description": "Auto-generated translation for: Start from Final Step",
-    "message": "अंतिम चरण से शुरू करें"
-  },
-  "v2_32ff0dca": {
-    "description": "Auto-generated translation for: Onboarding Flow Features",
-    "message": "ऑनबोर्डिंग प्रवाह विशेषताएँ"
-  },
-  "v2_75483b60": {
-    "description": "Auto-generated translation for: Unified modal with step progression",
-    "message": "चरण प्रगति के साथ एकीकृत मोडल"
-  },
-  "v2_466845a5": {
-    "description": "Auto-generated translation for: Smooth transitions between steps",
-    "message": "चरणों के बीच सहज बदलाव"
-  },
-  "v2_23125444": {
-    "description": "Auto-generated translation for: Consistent UI/UX throughout the flow",
-    "message": "प्रवाह के दौरान सुसंगत यूआई/यूएक्स"
-  },
-  "v2_678ffa21": {
-    "description": "Auto-generated translation for: Can start from any step for testing",
-    "message": "परीक्षण के लिए किसी भी चरण से शुरू कर सकते हैं"
-  },
-  "v2_56cab48d": {
-    "description": "Auto-generated translation for: Integrated with settings service for persistence",
-    "message": "सेटिंग्स सेवा के साथ एकीकृत, स्थायित्व के लिए"
   },
   "v2_451e2b9d": {
     "description": "Auto-generated translation for: Let's get started!",
@@ -5193,10 +4877,6 @@
   "v2_54ecac08": {
     "description": "Auto-generated translation for: Manage Subscription",
     "message": "सदस्यता प्रबंधित करें"
-  },
-  "v2_2d97a959": {
-    "description": "Auto-generated translation for: Sandbox",
-    "message": "सैंडबॉक्स"
   },
   "v2_3d9fd727": {
     "description": "Auto-generated translation for: Something went wrong",
@@ -6789,10 +6469,6 @@
     "description": "Auto-generated translation for: Click the grammar button",
     "message": "व्याकरण बटन पर क्लिक करें"
   },
-  "v2_4268f68d": {
-    "description": "Auto-generated translation for: Language Settings Error",
-    "message": "भाषा सेटिंग्स त्रुटि"
-  },
   "v2_67b9c7b8": {
     "description": "Auto-generated translation for: Highlight Words During Live Speaking",
     "message": "लाइव बोलते समय शब्दों को हाइलाइट करें"
@@ -7959,5 +7635,53 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "अपने सभी सहेजे गए शब्द, वाक्यांश और वाक्य यहाँ ढूँढें। आप इसे फ़िल्टर द्वारा सॉर्ट कर सकते हैं, सूचियाँ बना सकते हैं और अंकी में निर्यात कर सकते हैं।"
+  },
+  "v2_718eecbf": {
+    "description": "Auto-generated translation for: Subtitles Panel",
+    "message": "उपशीर्षक पैनल"
+  },
+  "v2_02626478": {
+    "description": "Auto-generated translation for: Subtitles Settings",
+    "message": "सबटाइटल सेटिंग"
+  },
+  "v2_77454a7b": {
+    "description": "Auto-generated translation for: Choose the language you are learning",
+    "message": "वह भाषा चुनें जिसे आप सीख रहे हैं"
+  },
+  "v2_400584df": {
+    "description": "Auto-generated translation for: Choose the color for learning subtitle text",
+    "message": "लर्निंग सबटाइटल टेक्स्ट के लिए रंग चुनें"
+  },
+  "v2_39ecc2fa": {
+    "description": "Auto-generated translation for: Length (chars)",
+    "message": "लंबाई (अक्षर)"
+  },
+  "v2_7b7a6663": {
+    "description": "Auto-generated translation for: Choose your native language",
+    "message": "अपनी मूल भाषा चुनें"
+  },
+  "v2_35e4aae8": {
+    "description": "Auto-generated translation for: Choose the color for native subtitle text",
+    "message": "नेटिव उपशीर्षक टेक्स्ट के लिए रंग चुनें"
+  },
+  "v2_03b1e76f": {
+    "description": "Auto-generated translation for: Enable Native Subtitles",
+    "message": "नेटिव सबटाइटल सक्षम करें"
+  },
+  "v2_0694d44f": {
+    "description": "Auto-generated translation for: Choose the audio language for the video",
+    "message": "वीडियो के लिए ऑडियो भाषा चुनें"
+  },
+  "v2_7b29e03a": {
+    "description": "Auto-generated translation for: Choose color",
+    "message": "रंग चुनें"
+  },
+  "v2_74a1febf": {
+    "description": "Auto-generated translation for: Choose your color",
+    "message": "अपना रंग चुनें"
+  },
+  "v2_6c15e43b": {
+    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
+    "message": "उपशीर्षक सूची पैनल पाठ का आकार"
   }
 }

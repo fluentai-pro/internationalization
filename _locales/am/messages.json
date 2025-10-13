@@ -63,10 +63,6 @@
     "description": "Auto-generated translation for: General",
     "message": "የተራ መልእክት"
   },
-  "v2_67d3a8c5": {
-    "description": "Auto-generated translation for: Subtitles",
-    "message": "ንዑስ ጽሑፎች"
-  },
   "v2_71d561ee": {
     "description": "Auto-generated translation for: Feature Requests",
     "message": "የስፍራ ጥያቄዎች"
@@ -1948,30 +1944,6 @@
     "description": "Auto-generated translation for: Neural Transcriptions",
     "message": "የነርቭ ቅጂዎች"
   },
-  "v2_43f821d7": {
-    "description": "Auto-generated translation for: SVG Showcase",
-    "message": "SVG ማሳያ"
-  },
-  "v2_3bf74be4": {
-    "description": "Auto-generated translation for: Collection of SVG icons used throughout the application",
-    "message": "በመላው መተግበሪያው ውስጥ ጥቅም ላይ የዋሉ የSVG አዶዎች ስብስብ"
-  },
-  "v2_5ec59307": {
-    "description": "Auto-generated translation for: General SVGs",
-    "message": "አጠቃላይ SVGs"
-  },
-  "v2_5e9c687a": {
-    "description": "Auto-generated translation for: Icons used for various UI elements",
-    "message": "ለተለያዩ የተጠቃሚዎች ገጽታዎች የሚያገለግሉ አዶዎች"
-  },
-  "v2_3d060eb3": {
-    "description": "Auto-generated translation for: Usage Type Icons",
-    "message": "\"የአጠቃቀም አይነት አዶዎች\""
-  },
-  "v2_66f3f6d3": {
-    "description": "Auto-generated translation for: Icons representing different usage types",
-    "message": "የተለያዩ የአጠቃቀም አይነቶችን የሚወክሉ አዶዎች"
-  },
   "v2_7d39a03b": {
     "description": "Auto-generated translation for: Import",
     "message": "አስገባ"
@@ -2048,14 +2020,6 @@
     "description": "Auto-generated translation for: Select Target Language",
     "message": "የሚፈለገውን ቋንቋ ይምረጡ"
   },
-  "v2_6fb3abed": {
-    "description": "Auto-generated translation for: Chrome Store Tile",
-    "message": "\"Chrome Store Tile\""
-  },
-  "v2_73473b9a": {
-    "description": "Auto-generated translation for: Visual representation of the Chrome Web Store tile",
-    "message": "የChrome ድር መደብር ንጣፍ ምስላዊ ውክልና"
-  },
   "v2_557131fc": {
     "description": "Auto-generated translation for: Upgrade",
     "message": "ማሻሻያ"
@@ -2131,14 +2095,6 @@
     "description": "Auto-generated translation for: The most stylish extension I've ever had. Extremely useful, works great.",
     "message": "ካደረግኳቸው ቅጥያዎች ሁሉ የላቀ ነው። በጣም ጠቃሚ እና ድንቅ ስራ ይሰራል።"
   },
-  "v2_1c0f43dd": {
-    "description": "Auto-generated translation for: Learning Subtitles Panel",
-    "message": "የትምህርት ንኡስ ርዕሶች ፓነል"
-  },
-  "v2_1eb6bbc2": {
-    "description": "Auto-generated translation for: Displays learning subtitles with optional native translation and interaction buttons.",
-    "message": "የትምህርት ንዑስ ጽሑፎችን ከአማራጭ የአፍ መፍቻ ትርጉም እና የመስተጋብር ቁልፎች ጋር ያሳያል"
-  },
   "v2_07a124b3": {
     "description": "Auto-generated translation for: Base Form",
     "message": "መሠረታዊ ቅርፅ"
@@ -2199,149 +2155,9 @@
     "description": "Auto-generated translation for: Translate Selected Text (In Websites)",
     "message": "የተመረጠ ጽሑፍ መተርጎም (በድረ-ገፆች)"
   },
-  "v2_49fbd8d1": {
-    "description": "Auto-generated translation for: Solar Icons (Bold Duotone)",
-    "message": "የፀሐይ አዶዎች (ደማቅ ባለ ሁለት ቀለም)"
-  },
-  "v2_1d29c607": {
-    "description": "Auto-generated translation for: Display all icons from solar-icon-react/bd",
-    "message": "ሁሉንም የፀሐይ-አዶ-react/bd አዶዎችን አሳይ"
-  },
-  "v2_7a1ceb4d": {
-    "description": "Auto-generated translation for: This is a simple hover popup",
-    "message": "ይህ ቀላል የመዳፊት ማሳረፊያ ብቅ-ባይ ነው።"
-  },
-  "v2_20b8d6cb": {
-    "description": "Auto-generated translation for: This is level 2 (deepest level)",
-    "message": "ይህ ደረጃ 2 ነው (ጥልቁ ደረጃ)"
-  },
-  "v2_0f9a3fbf": {
-    "description": "Auto-generated translation for: This is level 1",
-    "message": "ይህ ደረጃ 1 ነው"
-  },
-  "v2_3f14af52": {
-    "description": "Auto-generated translation for: Hover for next level",
-    "message": "ለቀጣዩ ደረጃ ለማየት እዚህ ጋር ያንዣብቡ"
-  },
-  "v2_269e3a96": {
-    "description": "Auto-generated translation for: Level 3 (deepest level)",
-    "message": "ደረጃ 3 (ጥልቅ ደረጃ)"
-  },
-  "v2_67616676": {
-    "description": "Auto-generated translation for: Level 2",
-    "message": "ደረጃ 2"
-  },
-  "v2_77f5d93c": {
-    "description": "Auto-generated translation for: Hover for level 3",
-    "message": "ለ3ኛ ደረጃ ለማየት ያንዣብቡ"
-  },
-  "v2_67616675": {
-    "description": "Auto-generated translation for: Level 1",
-    "message": "ደረጃ 1"
-  },
-  "v2_77f5d93b": {
-    "description": "Auto-generated translation for: Hover for level 2",
-    "message": "ለደረጃ 2 ለማየት እዚህ ያንዣብቡ"
-  },
-  "v2_684fa954": {
-    "description": "Auto-generated translation for: Nested Hover Popups",
-    "message": "ድርብርብ ሆቨር ብቅ ባይ መስኮቶች"
-  },
-  "v2_264c2841": {
-    "description": "Auto-generated translation for: Demonstrates different levels of popup nesting to test hover behavior",
-    "message": "የሆቨር ባህሪን ለመፈተሽ የተለያየ ደረጃ ያላቸው ተነቁኝዎች መደራረብን ያሳያል።"
-  },
-  "v2_5ea68cbe": {
-    "description": "Auto-generated translation for: Simple Popup",
-    "message": "ቀላል ብቅ-ባይ"
-  },
-  "v2_09b83cc4": {
-    "description": "Auto-generated translation for: Hover Me",
-    "message": "በኔ ላይ ያንዣብቡ"
-  },
-  "v2_13ab1361": {
-    "description": "Auto-generated translation for: Nested Popup (2 Levels)",
-    "message": "የተጠላለፈ ብቅ-ባይ (2 ደረጃዎች)"
-  },
-  "v2_5c700e92": {
-    "description": "Auto-generated translation for: Debug Instructions",
-    "message": "የማረም መመሪያዎች"
-  },
-  "v2_3c5f623c": {
-    "description": "Auto-generated translation for: Open your browser console to see logged events as you interact with the popups.",
-    "message": "በብቅ-ባዮች አማካኝነት ከሚያደርጉት መስተጋብር የተነሳ የተቀዳዱ ክስተቶችን ለማየት አሳሽ ኮንሶልዎን ይክፈቱ።"
-  },
-  "v2_4857801c": {
-    "description": "Auto-generated translation for: Events are logged for component mounting/unmounting and popup open/close actions.",
-    "message": "ክስተቶች የሚመዘገቡት ለክፍል መጫኛ/መውጫ እና ለፖፕአፕ መክፈቻ/መዝጊያ ተግባራት ነው።"
-  },
-  "v2_74628711": {
-    "description": "Auto-generated translation for: Test and debug nested hover popup behavior",
-    "message": "የተካተተ ተንሳፋፊ ብቅ-ባይ ባህሪን ይሞክሩ እና ስህተቶችን ያስተካክሉ"
-  },
-  "v2_5a97cf39": {
-    "description": "Auto-generated translation for: Close All",
-    "message": "ሁሉንም ዝጋ"
-  },
-  "v2_6679c388": {
-    "description": "Auto-generated translation for: Click for level 3",
-    "message": "ለደረጃ 3 ይጫኑ"
-  },
-  "v2_6679c387": {
-    "description": "Auto-generated translation for: Click for level 2",
-    "message": "ለደረጃ 2 ይጫኑ"
-  },
-  "v2_1abb60a6": {
-    "description": "Auto-generated translation for: Nested CLICK Popup (3 Levels)",
-    "message": "የተደረደረ CLICK ፖፕአፕ (3 ደረጃ)"
-  },
-  "v2_45a21aa0": {
-    "description": "Auto-generated translation for: More stable click-based navigation",
-    "message": "የበለጠ የተረጋጋ የክሊክ ማሰስ"
-  },
-  "v2_39e0d370": {
-    "description": "Auto-generated translation for: Click Me",
-    "message": "እኔን ይጫኑ"
-  },
-  "v2_6a35fa26": {
-    "description": "Auto-generated translation for: Nested HOVER Popup (3 Levels)",
-    "message": "ተደራራቢ ሆቨር ብቅ ባይ (3 ደረጃዎች)"
-  },
-  "v2_4aa72ef3": {
-    "description": "Auto-generated translation for: Improved hover version with larger hit areas and increased delays",
-    "message": "የተሻሻለ እያንዣበበ የሚሰራ ከትልቅ መጫኛ ቦታዎች እና የጨመሩ መጓተቶች ጋር"
-  },
-  "v2_2b64e732": {
-    "description": "Auto-generated translation for: The 3-level popup example now has both CLICK and HOVER versions for comparison.",
-    "message": "ባለ3 ደረጃ ብቅ-ለ-ሚታየው ምሳሌ አሁን ለንፅፅር CLICK እና HOVER ስሪቶች አሉት።"
-  },
-  "v2_10848c1a": {
-    "description": "Auto-generated translation for: The CLICK version is more reliable for nested navigation.",
-    "message": "ለተንሸራታች ዳሰሳ የCLICK ስሪት ይበልጥ አስተማማኝ ነው።"
-  },
-  "v2_5334158b": {
-    "description": "Auto-generated translation for: The improved HOVER version has larger target areas and 400ms delay times.",
-    "message": "የተሻሻለው HOVER ስሪት ትልልቅ የግብ ቦታዎች እና የ400 ሚሴ መዘግየት ጊዜዎች አሉት።"
-  },
-  "v2_05c95424": {
-    "description": "Auto-generated translation for: Feature Button",
-    "message": "የባህሪይ አዝራር"
-  },
-  "v2_6d18d99c": {
-    "description": "Auto-generated translation for: Demonstrates the feature button with quota display and upgrade modal",
-    "message": "ኮታ ማሳያ እና ማሻሻያ ሞዳል ያለው ባህሪ አዝራር ያሳያል"
-  },
   "v2_6f220a3d": {
     "description": "Auto-generated translation for: Download Subtitles",
     "message": "ማይር ስብትተያናዳ"
-  },
-  "v2_5f8b3cdf": {
-    "description": "Auto-generated translation for: Custom Multi-Direction Tooltip",
-    "message": "ብጁ ባለብዙ አቅጣጫ የጽሑፍ ገጽ"
-  },
-  "v2_0e38fde6": {
-    "description": "Auto-generated translation for: This section demonstrates the custom multi-direction tooltip component with various configurations, including nesting.",
-    "message": "ይህ ክፍል የተለያዩ ውቅሮች ያሉት ብጁ ባለብዙ አቅጣጫዊ የመሳሪያ ምክር ክፍሉን ያሳያል፣ ይህም መደራረብን ጨምሮ።"
   },
   "v2_4b9b7f15": {
     "description": "Auto-generated translation for: Playback Modes",
@@ -2448,14 +2264,6 @@
     "description": "Auto-generated translation for: Interactive Subtitle",
     "message": "በይነተገናኝ ንዑስ ርዕስ"
   },
-  "v2_74fc4661": {
-    "description": "Auto-generated translation for: Audio Widget Showcase",
-    "message": "የድምፅ መግብር ማሳያ"
-  },
-  "v2_75390277": {
-    "description": "Auto-generated translation for: This section demonstrates the AudioWidget component with a sample audio file.",
-    "message": "ይህ ክፍል የድምጽ መገልገያ አካልን (AudioWidget component) በሚያሳይ ናሙና የድምጽ ፋይል ያሳያል።"
-  },
   "v2_7ba37a71": {
     "description": "Auto-generated translation for: Affiliate Program",
     "message": "የተባባሪ ፕሮግራም"
@@ -2463,10 +2271,6 @@
   "v2_61b9833a": {
     "description": "Auto-generated translation for: Text-to-Speech Volume",
     "message": "ጽሁፍ-ወደ-ድምጽ ድምጽ መጠን"
-  },
-  "v2_130ec0b5": {
-    "description": "Auto-generated translation for: AI Subs",
-    "message": "AI ንዑስ"
   },
   "v2_41fd330d": {
     "description": "Auto-generated translation for: Set Audio Language to $language$",
@@ -2476,70 +2280,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_7f70b9b1": {
-    "description": "Auto-generated translation for: Button Variants Showcase",
-    "message": "የአዝራሮች ልዩነቶች ማሳያ"
-  },
-  "v2_428c8b55": {
-    "description": "Auto-generated translation for: Showcase of different Button variants using various icons and styles.",
-    "message": "የተለያዩ የአዝራር አይነቶችን በተለያዩ ምልክቶች እና ቅጦች ማሳያ።"
-  },
-  "v2_2c9893e5": {
-    "description": "Auto-generated translation for: Default Style with Icon",
-    "message": "ነባሪ ስታይል ከአይከን ጋር"
-  },
-  "v2_4029d9c9": {
-    "description": "Auto-generated translation for: Variant: Destructive",
-    "message": "ተለዋጭ፡ አጥፊ"
-  },
-  "v2_798fa489": {
-    "description": "Auto-generated translation for: Variant: Outline",
-    "message": "የተለያዩ፡ መግለጫ"
-  },
-  "v2_00dccb69": {
-    "description": "Auto-generated translation for: Variant: Secondary",
-    "message": "ተለዋጭ: ሁለተኛ ደረጃ"
-  },
-  "v2_4d320704": {
-    "description": "Auto-generated translation for: Variant: Ghost",
-    "message": "ተለዋጭ፡ መንፈስ"
-  },
-  "v2_47d2cf1b": {
-    "description": "Auto-generated translation for: Variant: Link",
-    "message": "ተለዋጭ: ማገናኛ"
-  },
-  "v2_49020a9b": {
-    "description": "Auto-generated translation for: Variant: Gradient",
-    "message": "ተለዋጭ፡ ቅልመት"
-  },
-  "v2_50ea6657": {
-    "description": "Auto-generated translation for: Variant: Border",
-    "message": "የተለየ ዓይነት፡ ድንበር"
-  },
-  "v2_35989bd6": {
-    "description": "Auto-generated translation for: Custom Class (Border Gradient)",
-    "message": "ብጁ ክፍል (የድንበር ቅልመት)"
-  },
-  "v2_371b53e0": {
-    "description": "Auto-generated translation for: Size: Icon",
-    "message": "መጠን: አዶ"
-  },
-  "v2_54421a40": {
-    "description": "Auto-generated translation for: Size: Small",
-    "message": "መጠን: ትንሽ"
-  },
-  "v2_18472b55": {
-    "description": "Auto-generated translation for: Small Button",
-    "message": "ትንሽ አዝራር"
-  },
-  "v2_53da4074": {
-    "description": "Auto-generated translation for: Size: Large",
-    "message": "መጠን: ትልቅ"
-  },
-  "v2_33870bf7": {
-    "description": "Auto-generated translation for: Large Button",
-    "message": "ትልቅ ቁልፍ"
   },
   "v2_4f0165df": {
     "description": "Auto-generated translation for: Click to copy this text to your clipboard",
@@ -2897,14 +2637,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "የቪዲዮ ፍጥነት"
-  },
-  "v2_6ab787aa": {
-    "description": "Auto-generated translation for: Learning Subtitles Settings",
-    "message": "ወይን ስኩዱት ፍልራት"
-  },
-  "v2_72e62611": {
-    "description": "Auto-generated translation for: Native Subtitles Settings",
-    "message": "የአፍ መፍቻ የትርጉም ጽሑፎች ቅንብሮች"
   },
   "v2_0fa166e0": {
     "description": "Auto-generated translation for: Influencer Campaigns",
@@ -3596,54 +3328,6 @@
   "v2_01f95b31": {
     "description": "Auto-generated translation for: Resumes playback when you move your cursor away from a word.",
     "message": "ከቃል ውጭ ሲንቀሳቀሱ መልሶ ማጫወት ይቀጥላል።"
-  },
-  "v2_2345cff7": {
-    "description": "Auto-generated translation for: Complete onboarding flow with all steps in a single modal with smooth transitions.",
-    "message": "ሁሉንም ደረጃዎች በአንድ ሞዳል ውስጥ በማለስለስ ሽግግሮች ጋር የኦንቦርዲንግ ፍሰትን ያጠናቅቁ።"
-  },
-  "v2_001a1392": {
-    "description": "Auto-generated translation for: Start Full Onboarding",
-    "message": "ሙሉውን የመሳፈር ሂደት ይጀምሩ"
-  },
-  "v2_3e46a2e4": {
-    "description": "Auto-generated translation for: Start from Language Selection",
-    "message": "ከቋንቋ ምርጫ ይጀምሩ"
-  },
-  "v2_29c6dda7": {
-    "description": "Auto-generated translation for: Start from Mode Selection",
-    "message": "ከ ሁነቶች ምርጫ ይምረጡ"
-  },
-  "v2_0ac58232": {
-    "description": "Auto-generated translation for: Start from Final Step",
-    "message": "ከመጨረሻው ደረጃ ጀምሮ"
-  },
-  "v2_32ff0dca": {
-    "description": "Auto-generated translation for: Onboarding Flow Features",
-    "message": "የማስጀመር ሂደት ባህሪያት ፍሰት"
-  },
-  "v2_466845a5": {
-    "description": "Auto-generated translation for: Smooth transitions between steps",
-    "message": "በመካከለኛ ደረጃዎች መካከል ለስላሳ ሽግግሮች"
-  },
-  "v2_23125444": {
-    "description": "Auto-generated translation for: Consistent UI/UX throughout the flow",
-    "message": "በምልልሱ ሁሉ ወጥ የሆነ የልዩ በይነገፅና የተጠቃሚ ተሞክሮ"
-  },
-  "v2_678ffa21": {
-    "description": "Auto-generated translation for: Can start from any step for testing",
-    "message": "በሙከራ ምክንያት ከማንኛውም ደረጃ መጀመር ይቻላል"
-  },
-  "v2_56cab48d": {
-    "description": "Auto-generated translation for: Integrated with settings service for persistence",
-    "message": "ከቅንብሮች አገልግሎት ጋር ተቀናጅቶ ለጽናትነት"
-  },
-  "v2_18323d68": {
-    "description": "Auto-generated translation for: Multi-Step Onboarding Modal",
-    "message": "ባለብዙ-ደረጃ ምዝገባ ሞዳል"
-  },
-  "v2_75483b60": {
-    "description": "Auto-generated translation for: Unified modal with step progression",
-    "message": "የተዋሃደ ሞዳል በደረጃ እድገት"
   },
   "v2_451e2b9d": {
     "description": "Auto-generated translation for: Let's get started!",
@@ -5041,10 +4725,6 @@
   "v2_54ecac08": {
     "description": "Auto-generated translation for: Manage Subscription",
     "message": "የደንበኝነት ምዝገባን ያስተዳድሩ"
-  },
-  "v2_2d97a959": {
-    "description": "Auto-generated translation for: Sandbox",
-    "message": "የአሸዋ ሳጥን"
   },
   "v2_3d9fd727": {
     "description": "Auto-generated translation for: Something went wrong",
@@ -6633,10 +6313,6 @@
     "description": "Auto-generated translation for: Click the grammar button",
     "message": "ግራማር ቁልፉን ጠቀሉ"
   },
-  "v2_4268f68d": {
-    "description": "Auto-generated translation for: Language Settings Error",
-    "message": "ቋንቋ ቅንብሮች ስህተት"
-  },
   "v2_67b9c7b8": {
     "description": "Auto-generated translation for: Highlight Words During Live Speaking",
     "message": "ቃላትን በቀጥታ መነጋገር ጊዜ ማብራት"
@@ -7807,5 +7483,53 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "ሁሉንም የተቀመጡ ቃላትዎን፣ ሀረጎችዎን እና ዓረፍተ ነገሮችዎን እዚህ ያገኛሉ። በማጣሪያዎች መደርደር፣ ዝርዝሮችን መፍጠር እና ወደ anki መላክ ይችላሉ።"
+  },
+  "v2_718eecbf": {
+    "description": "Auto-generated translation for: Subtitles Panel",
+    "message": "የግርጌ ጽሑፍ ፓነል"
+  },
+  "v2_02626478": {
+    "description": "Auto-generated translation for: Subtitles Settings",
+    "message": "የግርጌ ፅሁፎች ቅንብሮች"
+  },
+  "v2_77454a7b": {
+    "description": "Auto-generated translation for: Choose the language you are learning",
+    "message": "የሚማሩትን ቋንቋ ይምረጡ"
+  },
+  "v2_400584df": {
+    "description": "Auto-generated translation for: Choose the color for learning subtitle text",
+    "message": "ለምማር የግርጌ ጽሑፍ ቀለሙን ይምረጡ"
+  },
+  "v2_39ecc2fa": {
+    "description": "Auto-generated translation for: Length (chars)",
+    "message": "ርዝመት (ቁምፊዎች)"
+  },
+  "v2_7b7a6663": {
+    "description": "Auto-generated translation for: Choose your native language",
+    "message": "የትውልድ ቋንቋዎትን ይምረጡ"
+  },
+  "v2_35e4aae8": {
+    "description": "Auto-generated translation for: Choose the color for native subtitle text",
+    "message": "ለዋናው የትርጉም ጽሑፍ ቀለም ይምረጡ"
+  },
+  "v2_03b1e76f": {
+    "description": "Auto-generated translation for: Enable Native Subtitles",
+    "message": "የተፈጥሮ ንዑስ ርዕሶችን አንቃ"
+  },
+  "v2_0694d44f": {
+    "description": "Auto-generated translation for: Choose the audio language for the video",
+    "message": "ለቪዲዮው የድምጽ ቋንቋ ይምረጡ"
+  },
+  "v2_7b29e03a": {
+    "description": "Auto-generated translation for: Choose color",
+    "message": "ቀለም ይምረጡ"
+  },
+  "v2_74a1febf": {
+    "description": "Auto-generated translation for: Choose your color",
+    "message": "ቀለምዎን ይምረጡ"
+  },
+  "v2_6c15e43b": {
+    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
+    "message": "የግርጌ ጽሑፎች ዝርዝር ፓነል የጽሑፍ መጠን"
   }
 }
