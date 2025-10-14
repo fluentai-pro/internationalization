@@ -7544,5 +7544,192 @@
         "content": "$1"
       }
     }
+  },
+  "v2_463e7617": {
+    "description": "Auto-generated translation for: Export Notebook Entries",
+    "message": "Εξαγωγή Καταχωρίσεων Σημειωματάριου"
+  },
+  "v2_2e2128a6": {
+    "description": "Auto-generated translation for: Export {count} selected entries in your preferred format",
+    "message": "Εξαγωγή {count} επιλεγμένων καταχωρίσεων στην προτιμώμενη μορφή σας",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4c290fa6": {
+    "description": "Auto-generated translation for: Please wait while we prepare your export",
+    "message": "Παρακαλώ περιμένετε όσο ετοιμάζουμε την εξαγωγή σας"
+  },
+  "v2_30a168ea": {
+    "description": "Auto-generated translation for: No entries to export",
+    "message": "Δεν υπάρχουν καταχωρήσεις για εξαγωγή"
+  },
+  "v2_4c37e69a": {
+    "description": "Auto-generated translation for: Please select at least one column",
+    "message": "Παρακαλώ επιλέξτε τουλάχιστον μία στήλη"
+  },
+  "v2_612040d8": {
+    "description": "Auto-generated translation for: Export completed successfully",
+    "message": "Η εξαγωγή ολοκληρώθηκε επιτυχώς"
+  },
+  "v2_1cd7c76c": {
+    "description": "Auto-generated translation for: Failed to export data",
+    "message": "Αποτυχία εξαγωγής δεδομένων"
+  },
+  "v2_73298046": {
+    "description": "Auto-generated translation for: Choose Export Format",
+    "message": "Επιλέξτε Μορφή Εξαγωγής"
+  },
+  "v2_6a280933": {
+    "description": "Auto-generated translation for: Select how you want to export your {count} selected entries",
+    "message": "Επιλέξτε πώς θέλετε να εξαγάγετε τις $count$ επιλεγμένες καταχωρίσεις σας",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4d7d758e": {
+    "description": "Auto-generated translation for: Select Columns to Export",
+    "message": "Επιλογή στηλών προς εξαγωγή"
+  },
+  "v2_332d5b45": {
+    "description": "Auto-generated translation for: Choose which columns to include in your export ({count} selected)",
+    "message": "Επιλέξτε ποιες στήλες θα συμπεριλάβετε στην εξαγωγή σας ({count} επιλεγμένες)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1405c07d": {
+    "description": "Auto-generated translation for: Select All",
+    "message": "Επιλογή Όλων"
+  },
+  "v2_669e57be": {
+    "description": "Auto-generated translation for: Deselect All",
+    "message": "Αποεπιλογή όλων"
+  },
+  "v2_551f72bf": {
+    "description": "Auto-generated translation for: Please select at least one column to export",
+    "message": "Παρακαλούμε επιλέξτε τουλάχιστον μία στήλη προς εξαγωγή"
+  },
+  "v2_3747d534": {
+    "description": "Auto-generated translation for: Learning Word",
+    "message": "Εκμάθηση λέξης"
+  },
+  "v2_0c515ad1": {
+    "description": "Auto-generated translation for: The word or phrase being learned",
+    "message": "Η λέξη ή φράση που μαθαίνεται"
+  },
+  "v2_3f4047fe": {
+    "description": "Auto-generated translation for: Translations",
+    "message": "Μεταφράσεις"
+  },
+  "v2_45057a64": {
+    "description": "Auto-generated translation for: Translations of the word",
+    "message": "Μεταφράσεις της λέξης"
+  },
+  "v2_565159f2": {
+    "description": "Auto-generated translation for: Dictionary Form",
+    "message": "Λεξική Μορφή"
+  },
+  "v2_143527b0": {
+    "description": "Auto-generated translation for: Base/canonical form of the word",
+    "message": "Βασική/κανονική μορφή της λέξης"
+  },
+  "v2_6e85c86d": {
+    "description": "Auto-generated translation for: Phonetic representation",
+    "message": "Φωνητική αναπαράσταση"
+  },
+  "v2_378b6b55": {
+    "description": "Auto-generated translation for: Created At",
+    "message": "Δημιουργήθηκε στις"
+  },
+  "v2_50fbc3ce": {
+    "description": "Auto-generated translation for: When the entry was created",
+    "message": "Όταν δημιουργήθηκε η καταχώριση"
+  },
+  "v2_5a5db25b": {
+    "description": "Auto-generated translation for: Language code of the entry",
+    "message": "Κωδικός γλώσσας της καταχώρισης"
+  },
+  "v2_6e0186b8": {
+    "description": "Auto-generated translation for: Source platform",
+    "message": "Πλατφόρμα προέλευσης"
+  },
+  "v2_77991676": {
+    "description": "Auto-generated translation for: Learning status of the word",
+    "message": "Κατάσταση εκμάθησης της λέξης"
+  },
+  "v2_3883ccc6": {
+    "description": "Auto-generated translation for: Title of the source video",
+    "message": "Τίτλος του βίντεο πηγής"
+  },
+  "v2_100936ce": {
+    "description": "Auto-generated translation for: Related word forms",
+    "message": "Συνδεόμενες μορφές λέξεων"
+  },
+  "v2_5988597a": {
+    "description": "Auto-generated translation for: Export as Anki flashcard deck package (.apkg)",
+    "message": "Εξαγωγή ως πακέτο καρτών Anki (.apkg)"
+  },
+  "v2_3b2d9d58": {
+    "description": "Auto-generated translation for: Export as Comma-Separated Values file (.csv)",
+    "message": "Εξαγωγή ως αρχείο διαχωρισμένο με κόμματα (.csv)"
+  },
+  "v2_14953c68": {
+    "description": "Auto-generated translation for: Export as plain text file (.txt)",
+    "message": "Εξαγωγή ως αρχείο απλού κειμένου (.txt)"
+  },
+  "v2_08670371": {
+    "description": "Auto-generated translation for: Anki Package",
+    "message": "Πακέτο Anki"
+  },
+  "v2_14c6ec6a": {
+    "description": "Auto-generated translation for: CSV File",
+    "message": "Αρχείο CSV"
+  },
+  "v2_360d688f": {
+    "description": "Auto-generated translation for: Text File",
+    "message": "Αρχείο κειμένου"
+  },
+  "v2_2b05fa40": {
+    "description": "Auto-generated translation for: Delete selected entries",
+    "message": "Διαγραφή επιλεγμένων καταχωρήσεων"
+  },
+  "v2_468f2f1b": {
+    "description": "Auto-generated translation for: Delete Entries",
+    "message": "Διαγραφή καταχωρίσεων"
+  },
+  "v2_73dcd43a": {
+    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
+    "message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε {count} {entries}; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "entries": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_5edd7b70": {
+    "description": "Auto-generated translation for: entries",
+    "message": "καταχωρήσεις"
+  },
+  "v2_43062ad7": {
+    "description": "Auto-generated translation for: Export selected entries",
+    "message": "Εξαγωγή επιλεγμένων καταχωρίσεων"
+  },
+  "v2_3209b1da": {
+    "description": "Auto-generated translation for: Book Reader",
+    "message": "Αναγνώστης Βιβλίων"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "Δεν υπάρχει διαθέσιμο περιεχόμενο για αυτήν τη σελίδα"
   }
 }

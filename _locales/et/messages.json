@@ -7544,5 +7544,192 @@
         "content": "$1"
       }
     }
+  },
+  "v2_463e7617": {
+    "description": "Auto-generated translation for: Export Notebook Entries",
+    "message": "Ekspordi märkmiku kirjed"
+  },
+  "v2_2e2128a6": {
+    "description": "Auto-generated translation for: Export {count} selected entries in your preferred format",
+    "message": "Ekspordi $count$ valitud kirjet eelistatud vormingus",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4c290fa6": {
+    "description": "Auto-generated translation for: Please wait while we prepare your export",
+    "message": "Palun oodake, kuni ette valmistame teie ekspordi."
+  },
+  "v2_30a168ea": {
+    "description": "Auto-generated translation for: No entries to export",
+    "message": "Eksporditavaid kirjeid pole"
+  },
+  "v2_4c37e69a": {
+    "description": "Auto-generated translation for: Please select at least one column",
+    "message": "Palun valige vähemalt üks veerg"
+  },
+  "v2_612040d8": {
+    "description": "Auto-generated translation for: Export completed successfully",
+    "message": "Eksportimine edukalt lõpetatud"
+  },
+  "v2_1cd7c76c": {
+    "description": "Auto-generated translation for: Failed to export data",
+    "message": "Andmete eksport ebaõnnestus"
+  },
+  "v2_73298046": {
+    "description": "Auto-generated translation for: Choose Export Format",
+    "message": "Vali ekspordivorming"
+  },
+  "v2_6a280933": {
+    "description": "Auto-generated translation for: Select how you want to export your {count} selected entries",
+    "message": "Valige, kuidas soovite eksportida teie {count} valitud kirjet",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4d7d758e": {
+    "description": "Auto-generated translation for: Select Columns to Export",
+    "message": "Vali eksporditavad veerud"
+  },
+  "v2_332d5b45": {
+    "description": "Auto-generated translation for: Choose which columns to include in your export ({count} selected)",
+    "message": "Valige, millised veerud eksporti kaasata ({count} valitud)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1405c07d": {
+    "description": "Auto-generated translation for: Select All",
+    "message": "Vali kõik"
+  },
+  "v2_669e57be": {
+    "description": "Auto-generated translation for: Deselect All",
+    "message": "Tühista kõik valikud"
+  },
+  "v2_551f72bf": {
+    "description": "Auto-generated translation for: Please select at least one column to export",
+    "message": "Palun valige eksportimiseks vähemalt üks veerg"
+  },
+  "v2_3747d534": {
+    "description": "Auto-generated translation for: Learning Word",
+    "message": "Sõna õppimine"
+  },
+  "v2_0c515ad1": {
+    "description": "Auto-generated translation for: The word or phrase being learned",
+    "message": "Õpitav sõna või fraas"
+  },
+  "v2_3f4047fe": {
+    "description": "Auto-generated translation for: Translations",
+    "message": "Tõlked"
+  },
+  "v2_45057a64": {
+    "description": "Auto-generated translation for: Translations of the word",
+    "message": "Sõna tõlked"
+  },
+  "v2_565159f2": {
+    "description": "Auto-generated translation for: Dictionary Form",
+    "message": "Sõnastikuvorm"
+  },
+  "v2_143527b0": {
+    "description": "Auto-generated translation for: Base/canonical form of the word",
+    "message": "Sõna algvorm/kanooniline vorm"
+  },
+  "v2_6e85c86d": {
+    "description": "Auto-generated translation for: Phonetic representation",
+    "message": "Foneetiline esitus"
+  },
+  "v2_378b6b55": {
+    "description": "Auto-generated translation for: Created At",
+    "message": "Loodud"
+  },
+  "v2_50fbc3ce": {
+    "description": "Auto-generated translation for: When the entry was created",
+    "message": "Millal kanne loodi"
+  },
+  "v2_5a5db25b": {
+    "description": "Auto-generated translation for: Language code of the entry",
+    "message": "Kirje keelekood"
+  },
+  "v2_6e0186b8": {
+    "description": "Auto-generated translation for: Source platform",
+    "message": "Allika platvorm"
+  },
+  "v2_77991676": {
+    "description": "Auto-generated translation for: Learning status of the word",
+    "message": "Sõna õppimise olek"
+  },
+  "v2_3883ccc6": {
+    "description": "Auto-generated translation for: Title of the source video",
+    "message": "Allikasvideο pealkiri"
+  },
+  "v2_100936ce": {
+    "description": "Auto-generated translation for: Related word forms",
+    "message": "Seonduvad sõnavormid"
+  },
+  "v2_5988597a": {
+    "description": "Auto-generated translation for: Export as Anki flashcard deck package (.apkg)",
+    "message": "Ekspordi Anki mälukaartide paki paketi (.apkg) kujul"
+  },
+  "v2_3b2d9d58": {
+    "description": "Auto-generated translation for: Export as Comma-Separated Values file (.csv)",
+    "message": "Ekspordi komadega eraldatud väärtuste failina (.csv)"
+  },
+  "v2_14953c68": {
+    "description": "Auto-generated translation for: Export as plain text file (.txt)",
+    "message": "Ekspordi lihttekstifailina (.txt)"
+  },
+  "v2_08670371": {
+    "description": "Auto-generated translation for: Anki Package",
+    "message": "Anki pakett"
+  },
+  "v2_14c6ec6a": {
+    "description": "Auto-generated translation for: CSV File",
+    "message": "CSV-fail"
+  },
+  "v2_360d688f": {
+    "description": "Auto-generated translation for: Text File",
+    "message": "Tekstifail"
+  },
+  "v2_2b05fa40": {
+    "description": "Auto-generated translation for: Delete selected entries",
+    "message": "Kustuta valitud kirjed"
+  },
+  "v2_468f2f1b": {
+    "description": "Auto-generated translation for: Delete Entries",
+    "message": "Kustuta kirjed"
+  },
+  "v2_73dcd43a": {
+    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
+    "message": "Olete kindel, et soovite kustutada {count} {entries}? Seda toimingut ei saa tagasi võtta.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "entries": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_5edd7b70": {
+    "description": "Auto-generated translation for: entries",
+    "message": "kanded"
+  },
+  "v2_43062ad7": {
+    "description": "Auto-generated translation for: Export selected entries",
+    "message": "Ekspordi valitud kirjed"
+  },
+  "v2_3209b1da": {
+    "description": "Auto-generated translation for: Book Reader",
+    "message": "Raamatulugeja"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "Sisu pole sellel lehel saadaval"
   }
 }

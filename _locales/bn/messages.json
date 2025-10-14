@@ -7691,5 +7691,192 @@
         "content": "$1"
       }
     }
+  },
+  "v2_463e7617": {
+    "description": "Auto-generated translation for: Export Notebook Entries",
+    "message": "নোটবুক এন্ট্রি এক্সপোর্ট করুন"
+  },
+  "v2_2e2128a6": {
+    "description": "Auto-generated translation for: Export {count} selected entries in your preferred format",
+    "message": "$count$ টি নির্বাচিত এন্ট্রি আপনার পছন্দের বিন্যাসে এক্সপোর্ট করুন",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4c290fa6": {
+    "description": "Auto-generated translation for: Please wait while we prepare your export",
+    "message": "আপনার এক্সপোর্ট প্রস্তুত করার সময় অনুগ্রহ করে অপেক্ষা করুন"
+  },
+  "v2_30a168ea": {
+    "description": "Auto-generated translation for: No entries to export",
+    "message": "রপ্তানি করার মতো কোনো এন্ট্রি নেই"
+  },
+  "v2_4c37e69a": {
+    "description": "Auto-generated translation for: Please select at least one column",
+    "message": "কমপক্ষে একটি কলাম নির্বাচন করুন"
+  },
+  "v2_612040d8": {
+    "description": "Auto-generated translation for: Export completed successfully",
+    "message": "সফলভাবে রপ্তানি করা হয়েছে"
+  },
+  "v2_1cd7c76c": {
+    "description": "Auto-generated translation for: Failed to export data",
+    "message": "ডেটা এক্সপোর্ট করা যায়নি"
+  },
+  "v2_73298046": {
+    "description": "Auto-generated translation for: Choose Export Format",
+    "message": "রপ্তানি বিন্যাস চয়ন করুন"
+  },
+  "v2_6a280933": {
+    "description": "Auto-generated translation for: Select how you want to export your {count} selected entries",
+    "message": "আপনি আপনার নির্বাচিত {count} সংখ্যক এন্ট্রিগুলো কিভাবে এক্সপোর্ট করতে চান তা নির্বাচন করুন",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4d7d758e": {
+    "description": "Auto-generated translation for: Select Columns to Export",
+    "message": "রপ্তানির জন্য কলাম নির্বাচন করুন"
+  },
+  "v2_332d5b45": {
+    "description": "Auto-generated translation for: Choose which columns to include in your export ({count} selected)",
+    "message": "আপনার রপ্তানিতে কোন কলামগুলি অন্তর্ভুক্ত করবেন তা চয়ন করুন ({count}টি নির্বাচন করা হয়েছে)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1405c07d": {
+    "description": "Auto-generated translation for: Select All",
+    "message": "সবগুলি নির্বাচন করুন"
+  },
+  "v2_669e57be": {
+    "description": "Auto-generated translation for: Deselect All",
+    "message": "সবগুলি অনির্বাচন করুন"
+  },
+  "v2_551f72bf": {
+    "description": "Auto-generated translation for: Please select at least one column to export",
+    "message": "রপ্তানি করার জন্য অনুগ্রহ করে অন্তত একটি কলাম নির্বাচন করুন"
+  },
+  "v2_3747d534": {
+    "description": "Auto-generated translation for: Learning Word",
+    "message": "শব্দ শেখা"
+  },
+  "v2_0c515ad1": {
+    "description": "Auto-generated translation for: The word or phrase being learned",
+    "message": "যে শব্দ বা শব্দগুচ্ছ শেখা হচ্ছে"
+  },
+  "v2_3f4047fe": {
+    "description": "Auto-generated translation for: Translations",
+    "message": "অনুবাদ"
+  },
+  "v2_45057a64": {
+    "description": "Auto-generated translation for: Translations of the word",
+    "message": "শব্দের অনুবাদ"
+  },
+  "v2_565159f2": {
+    "description": "Auto-generated translation for: Dictionary Form",
+    "message": "অভিধানিক রূপ"
+  },
+  "v2_143527b0": {
+    "description": "Auto-generated translation for: Base/canonical form of the word",
+    "message": "শব্দের মূল/অনুবাদকরণীয় রূপ"
+  },
+  "v2_6e85c86d": {
+    "description": "Auto-generated translation for: Phonetic representation",
+    "message": "ধ্বনিগত উপস্থাপনা"
+  },
+  "v2_378b6b55": {
+    "description": "Auto-generated translation for: Created At",
+    "message": "তৈরির সময়"
+  },
+  "v2_50fbc3ce": {
+    "description": "Auto-generated translation for: When the entry was created",
+    "message": "যখন এন্ট্রি তৈরি হয়েছিল"
+  },
+  "v2_5a5db25b": {
+    "description": "Auto-generated translation for: Language code of the entry",
+    "message": "এন্ট্রির ভাষার কোড"
+  },
+  "v2_6e0186b8": {
+    "description": "Auto-generated translation for: Source platform",
+    "message": "উৎস প্ল্যাটফর্ম"
+  },
+  "v2_77991676": {
+    "description": "Auto-generated translation for: Learning status of the word",
+    "message": "শব্দের শেখার অবস্থা"
+  },
+  "v2_3883ccc6": {
+    "description": "Auto-generated translation for: Title of the source video",
+    "message": "সোর্স ভিডিওর শিরোনাম"
+  },
+  "v2_100936ce": {
+    "description": "Auto-generated translation for: Related word forms",
+    "message": "সম্পর্কিত শব্দ রূপ"
+  },
+  "v2_5988597a": {
+    "description": "Auto-generated translation for: Export as Anki flashcard deck package (.apkg)",
+    "message": "অ্যাঙ্কি ফ্ল্যাশকার্ড ডেক প্যাকেজ (.apkg) হিসাবে এক্সপোর্ট করুন"
+  },
+  "v2_3b2d9d58": {
+    "description": "Auto-generated translation for: Export as Comma-Separated Values file (.csv)",
+    "message": "কমা দ্বারা পৃথক করা ভ্যালু ফাইল (.csv) হিসেবে এক্সপোর্ট করুন"
+  },
+  "v2_14953c68": {
+    "description": "Auto-generated translation for: Export as plain text file (.txt)",
+    "message": "সাধারণ পাঠ্য ফাইল (৷txt) হিসেবে এক্সপোর্ট করুন"
+  },
+  "v2_08670371": {
+    "description": "Auto-generated translation for: Anki Package",
+    "message": "আঙ্কি প্যাকেজ"
+  },
+  "v2_14c6ec6a": {
+    "description": "Auto-generated translation for: CSV File",
+    "message": "সিএসভি ফাইল"
+  },
+  "v2_360d688f": {
+    "description": "Auto-generated translation for: Text File",
+    "message": "টেক্সট ফাইল"
+  },
+  "v2_2b05fa40": {
+    "description": "Auto-generated translation for: Delete selected entries",
+    "message": "নির্বাচিত এন্ট্রিগুলি মুছুন"
+  },
+  "v2_468f2f1b": {
+    "description": "Auto-generated translation for: Delete Entries",
+    "message": "এন্ট্রি মুছে ফেলুন"
+  },
+  "v2_73dcd43a": {
+    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
+    "message": "আপনি কি নিশ্চিত যে আপনি {count}টি {entries} মুছে ফেলতে চান? এই পদক্ষেপটি পূর্বাবস্থায় ফেরানো যাবে না।",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "entries": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_5edd7b70": {
+    "description": "Auto-generated translation for: entries",
+    "message": "এন্ট্রি"
+  },
+  "v2_43062ad7": {
+    "description": "Auto-generated translation for: Export selected entries",
+    "message": "নির্বাচিত এন্ট্রিগুলি রপ্তানি করুন"
+  },
+  "v2_3209b1da": {
+    "description": "Auto-generated translation for: Book Reader",
+    "message": "বই পাঠক"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "এই পৃষ্ঠার জন্য কোনো বিষয়বস্তু উপলব্ধ নেই"
   }
 }

@@ -7544,5 +7544,192 @@
         "content": "$1"
       }
     }
+  },
+  "v2_463e7617": {
+    "description": "Auto-generated translation for: Export Notebook Entries",
+    "message": "تصدير إدخالات دفتر الملاحظات"
+  },
+  "v2_2e2128a6": {
+    "description": "Auto-generated translation for: Export {count} selected entries in your preferred format",
+    "message": "تصدير {count} من الإدخالات المختارة بالتنسيق المفضل لديك",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4c290fa6": {
+    "description": "Auto-generated translation for: Please wait while we prepare your export",
+    "message": "الرجاء الانتظار بينما نقوم بتجهيز ملف التصدير الخاص بك"
+  },
+  "v2_30a168ea": {
+    "description": "Auto-generated translation for: No entries to export",
+    "message": "لا توجد إدخالات لتصديرها"
+  },
+  "v2_4c37e69a": {
+    "description": "Auto-generated translation for: Please select at least one column",
+    "message": "الرجاء تحديد عمود واحد على الأقل"
+  },
+  "v2_612040d8": {
+    "description": "Auto-generated translation for: Export completed successfully",
+    "message": "اكتمل التصدير بنجاح"
+  },
+  "v2_1cd7c76c": {
+    "description": "Auto-generated translation for: Failed to export data",
+    "message": "فشل تصدير البيانات"
+  },
+  "v2_73298046": {
+    "description": "Auto-generated translation for: Choose Export Format",
+    "message": "اختر صيغة التصدير"
+  },
+  "v2_6a280933": {
+    "description": "Auto-generated translation for: Select how you want to export your {count} selected entries",
+    "message": "اختر كيف تريد تصدير إدخالاتك الـ {count} المختارة",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4d7d758e": {
+    "description": "Auto-generated translation for: Select Columns to Export",
+    "message": "تحديد الأعمدة المراد تصديرها"
+  },
+  "v2_332d5b45": {
+    "description": "Auto-generated translation for: Choose which columns to include in your export ({count} selected)",
+    "message": "اختر الأعمدة لتضمينها في التصدير الخاص بك ($count$ محددة)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1405c07d": {
+    "description": "Auto-generated translation for: Select All",
+    "message": "تحديد الكل"
+  },
+  "v2_669e57be": {
+    "description": "Auto-generated translation for: Deselect All",
+    "message": "إلغاء تحديد الكل"
+  },
+  "v2_551f72bf": {
+    "description": "Auto-generated translation for: Please select at least one column to export",
+    "message": "الرجاء تحديد عمود واحد على الأقل للتصدير"
+  },
+  "v2_3747d534": {
+    "description": "Auto-generated translation for: Learning Word",
+    "message": "تعلم الكلمات"
+  },
+  "v2_0c515ad1": {
+    "description": "Auto-generated translation for: The word or phrase being learned",
+    "message": "الكلمة أو العبارة التي يتم تعلّمها"
+  },
+  "v2_3f4047fe": {
+    "description": "Auto-generated translation for: Translations",
+    "message": "الترجمات"
+  },
+  "v2_45057a64": {
+    "description": "Auto-generated translation for: Translations of the word",
+    "message": "ترجمات كلمة"
+  },
+  "v2_565159f2": {
+    "description": "Auto-generated translation for: Dictionary Form",
+    "message": "صيغة القاموس"
+  },
+  "v2_143527b0": {
+    "description": "Auto-generated translation for: Base/canonical form of the word",
+    "message": "الصيغة الأساسية/الأصلية للكلمة"
+  },
+  "v2_6e85c86d": {
+    "description": "Auto-generated translation for: Phonetic representation",
+    "message": "التمثيل الصوتي"
+  },
+  "v2_378b6b55": {
+    "description": "Auto-generated translation for: Created At",
+    "message": "تاريخ الإنشاء"
+  },
+  "v2_50fbc3ce": {
+    "description": "Auto-generated translation for: When the entry was created",
+    "message": "عند إنشاء الإدخال"
+  },
+  "v2_5a5db25b": {
+    "description": "Auto-generated translation for: Language code of the entry",
+    "message": "رمز لغة الإدخال"
+  },
+  "v2_6e0186b8": {
+    "description": "Auto-generated translation for: Source platform",
+    "message": "مصدر المنصة"
+  },
+  "v2_77991676": {
+    "description": "Auto-generated translation for: Learning status of the word",
+    "message": "حالة تعلم الكلمة"
+  },
+  "v2_3883ccc6": {
+    "description": "Auto-generated translation for: Title of the source video",
+    "message": "عنوان الفيديو المصدر"
+  },
+  "v2_100936ce": {
+    "description": "Auto-generated translation for: Related word forms",
+    "message": "صيغ الكلمات ذات الصلة"
+  },
+  "v2_5988597a": {
+    "description": "Auto-generated translation for: Export as Anki flashcard deck package (.apkg)",
+    "message": "تصدير كحزمة بطاقات أنكي التعليمية (.apkg)"
+  },
+  "v2_3b2d9d58": {
+    "description": "Auto-generated translation for: Export as Comma-Separated Values file (.csv)",
+    "message": "تصدير كملف قيم مفصولة بفاصلة (.csv)"
+  },
+  "v2_14953c68": {
+    "description": "Auto-generated translation for: Export as plain text file (.txt)",
+    "message": "تصدير كملف نص عادي (.txt)"
+  },
+  "v2_08670371": {
+    "description": "Auto-generated translation for: Anki Package",
+    "message": "حزمة أنكي"
+  },
+  "v2_14c6ec6a": {
+    "description": "Auto-generated translation for: CSV File",
+    "message": "ملف CSV"
+  },
+  "v2_360d688f": {
+    "description": "Auto-generated translation for: Text File",
+    "message": "ملف نصي"
+  },
+  "v2_2b05fa40": {
+    "description": "Auto-generated translation for: Delete selected entries",
+    "message": "حذف الإدخالات المحددة"
+  },
+  "v2_468f2f1b": {
+    "description": "Auto-generated translation for: Delete Entries",
+    "message": "حذف الإدخالات"
+  },
+  "v2_73dcd43a": {
+    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
+    "message": "هل أنت متأكد أنك تريد حذف {count} {entries}؟ لا يمكن التراجع عن هذا الإجراء.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "entries": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_5edd7b70": {
+    "description": "Auto-generated translation for: entries",
+    "message": "إدخالات"
+  },
+  "v2_43062ad7": {
+    "description": "Auto-generated translation for: Export selected entries",
+    "message": "تصدير الإدخالات المحددة"
+  },
+  "v2_3209b1da": {
+    "description": "Auto-generated translation for: Book Reader",
+    "message": "قارئ الكتب"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "لا يتوفر محتوى لهذه الصفحة"
   }
 }

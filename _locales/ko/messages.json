@@ -7544,5 +7544,192 @@
         "content": "$1"
       }
     }
+  },
+  "v2_463e7617": {
+    "description": "Auto-generated translation for: Export Notebook Entries",
+    "message": "노트북 항목 내보내기"
+  },
+  "v2_2e2128a6": {
+    "description": "Auto-generated translation for: Export {count} selected entries in your preferred format",
+    "message": "선택한 항목 $count$개를 원하는 형식으로 내보내기",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4c290fa6": {
+    "description": "Auto-generated translation for: Please wait while we prepare your export",
+    "message": "내보내기를 준비하는 동안 잠시만 기다려 주세요"
+  },
+  "v2_30a168ea": {
+    "description": "Auto-generated translation for: No entries to export",
+    "message": "내보낼 항목 없음"
+  },
+  "v2_4c37e69a": {
+    "description": "Auto-generated translation for: Please select at least one column",
+    "message": "최소 한 개의 열을 선택해주세요"
+  },
+  "v2_612040d8": {
+    "description": "Auto-generated translation for: Export completed successfully",
+    "message": "내보내기가 성공적으로 완료되었습니다."
+  },
+  "v2_1cd7c76c": {
+    "description": "Auto-generated translation for: Failed to export data",
+    "message": "데이터 내보내기 실패"
+  },
+  "v2_73298046": {
+    "description": "Auto-generated translation for: Choose Export Format",
+    "message": "내보내기 형식 선택"
+  },
+  "v2_6a280933": {
+    "description": "Auto-generated translation for: Select how you want to export your {count} selected entries",
+    "message": "선택한 항목 $count$개를 어떻게 내보내시겠습니까?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4d7d758e": {
+    "description": "Auto-generated translation for: Select Columns to Export",
+    "message": "내보낼 열 선택"
+  },
+  "v2_332d5b45": {
+    "description": "Auto-generated translation for: Choose which columns to include in your export ({count} selected)",
+    "message": "내보내기에 포함할 열을 선택하세요 ({count}개 선택됨)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1405c07d": {
+    "description": "Auto-generated translation for: Select All",
+    "message": "모두 선택"
+  },
+  "v2_669e57be": {
+    "description": "Auto-generated translation for: Deselect All",
+    "message": "모두 선택 해제"
+  },
+  "v2_551f72bf": {
+    "description": "Auto-generated translation for: Please select at least one column to export",
+    "message": "내보낼 열을 하나 이상 선택하세요."
+  },
+  "v2_3747d534": {
+    "description": "Auto-generated translation for: Learning Word",
+    "message": "단어 학습"
+  },
+  "v2_0c515ad1": {
+    "description": "Auto-generated translation for: The word or phrase being learned",
+    "message": "학습 중인 단어 또는 문구"
+  },
+  "v2_3f4047fe": {
+    "description": "Auto-generated translation for: Translations",
+    "message": "번역"
+  },
+  "v2_45057a64": {
+    "description": "Auto-generated translation for: Translations of the word",
+    "message": "단어 번역"
+  },
+  "v2_565159f2": {
+    "description": "Auto-generated translation for: Dictionary Form",
+    "message": "사전형"
+  },
+  "v2_143527b0": {
+    "description": "Auto-generated translation for: Base/canonical form of the word",
+    "message": "단어의 기본/정식 형태"
+  },
+  "v2_6e85c86d": {
+    "description": "Auto-generated translation for: Phonetic representation",
+    "message": "음성 표현"
+  },
+  "v2_378b6b55": {
+    "description": "Auto-generated translation for: Created At",
+    "message": "생성 날짜"
+  },
+  "v2_50fbc3ce": {
+    "description": "Auto-generated translation for: When the entry was created",
+    "message": "항목 생성 시점"
+  },
+  "v2_5a5db25b": {
+    "description": "Auto-generated translation for: Language code of the entry",
+    "message": "항목의 언어 코드"
+  },
+  "v2_6e0186b8": {
+    "description": "Auto-generated translation for: Source platform",
+    "message": "소스 플랫폼"
+  },
+  "v2_77991676": {
+    "description": "Auto-generated translation for: Learning status of the word",
+    "message": "단어 학습 현황"
+  },
+  "v2_3883ccc6": {
+    "description": "Auto-generated translation for: Title of the source video",
+    "message": "소스 동영상의 제목"
+  },
+  "v2_100936ce": {
+    "description": "Auto-generated translation for: Related word forms",
+    "message": "관련 단어 형태"
+  },
+  "v2_5988597a": {
+    "description": "Auto-generated translation for: Export as Anki flashcard deck package (.apkg)",
+    "message": "Anki 플래시카드 덱 패키지(.apkg)로 내보내기"
+  },
+  "v2_3b2d9d58": {
+    "description": "Auto-generated translation for: Export as Comma-Separated Values file (.csv)",
+    "message": "쉼표로 구분된 값 파일(.csv)로 내보내기"
+  },
+  "v2_14953c68": {
+    "description": "Auto-generated translation for: Export as plain text file (.txt)",
+    "message": "일반 텍스트 파일(.txt)로 내보내기"
+  },
+  "v2_08670371": {
+    "description": "Auto-generated translation for: Anki Package",
+    "message": "Anki 패키지"
+  },
+  "v2_14c6ec6a": {
+    "description": "Auto-generated translation for: CSV File",
+    "message": "CSV 파일"
+  },
+  "v2_360d688f": {
+    "description": "Auto-generated translation for: Text File",
+    "message": "텍스트 파일"
+  },
+  "v2_2b05fa40": {
+    "description": "Auto-generated translation for: Delete selected entries",
+    "message": "선택한 항목 삭제"
+  },
+  "v2_468f2f1b": {
+    "description": "Auto-generated translation for: Delete Entries",
+    "message": "항목 삭제"
+  },
+  "v2_73dcd43a": {
+    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
+    "message": "{count}개의 {entries}을(를) 정말 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "entries": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_5edd7b70": {
+    "description": "Auto-generated translation for: entries",
+    "message": "항목"
+  },
+  "v2_43062ad7": {
+    "description": "Auto-generated translation for: Export selected entries",
+    "message": "선택한 항목 내보내기"
+  },
+  "v2_3209b1da": {
+    "description": "Auto-generated translation for: Book Reader",
+    "message": "책 리더"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "이 페이지에 대한 콘텐츠가 없습니다"
   }
 }

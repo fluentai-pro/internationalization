@@ -7544,5 +7544,192 @@
         "content": "$1"
       }
     }
+  },
+  "v2_463e7617": {
+    "description": "Auto-generated translation for: Export Notebook Entries",
+    "message": "નોટબુક એન્ટ્રીઓ નિકાસ કરો"
+  },
+  "v2_2e2128a6": {
+    "description": "Auto-generated translation for: Export {count} selected entries in your preferred format",
+    "message": "તમારા પસંદગીના ફોર્મેટમાં $count$ પસંદ કરેલી એન્ટ્રીઓ નિકાસ કરો",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4c290fa6": {
+    "description": "Auto-generated translation for: Please wait while we prepare your export",
+    "message": "કૃપા કરીને રાહ જુઓ જ્યારે અમે તમારી નિકાસ તૈયાર કરીએ છીએ"
+  },
+  "v2_30a168ea": {
+    "description": "Auto-generated translation for: No entries to export",
+    "message": "નિકાસ કરવા માટે કોઈ એન્ટ્રી નથી."
+  },
+  "v2_4c37e69a": {
+    "description": "Auto-generated translation for: Please select at least one column",
+    "message": "કૃપા કરીને ઓછામાં ઓછી એક કૉલમ પસંદ કરો"
+  },
+  "v2_612040d8": {
+    "description": "Auto-generated translation for: Export completed successfully",
+    "message": "નિકાસ સફળતાપૂર્વક પૂર્ણ થયું"
+  },
+  "v2_1cd7c76c": {
+    "description": "Auto-generated translation for: Failed to export data",
+    "message": "ડેટા નિકાસ કરવામાં નિષ્ફળ"
+  },
+  "v2_73298046": {
+    "description": "Auto-generated translation for: Choose Export Format",
+    "message": "નિકાસનું ફોર્મેટ પસંદ કરો"
+  },
+  "v2_6a280933": {
+    "description": "Auto-generated translation for: Select how you want to export your {count} selected entries",
+    "message": "તમે તમારી $count$ પસંદ કરેલી એન્ટ્રીઓ કેવી રીતે નિકાસ કરવા માંગો છો તે પસંદ કરો",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4d7d758e": {
+    "description": "Auto-generated translation for: Select Columns to Export",
+    "message": "નિકાસ કરવા માટેના કૉલમ પસંદ કરો"
+  },
+  "v2_332d5b45": {
+    "description": "Auto-generated translation for: Choose which columns to include in your export ({count} selected)",
+    "message": "તમારા નિકાસમાં કયા કૉલમ શામેલ કરવા તે પસંદ કરો ({count} પસંદ કરેલ)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1405c07d": {
+    "description": "Auto-generated translation for: Select All",
+    "message": "બધા પસંદ કરો"
+  },
+  "v2_669e57be": {
+    "description": "Auto-generated translation for: Deselect All",
+    "message": "બધું નાપસંદ કરો"
+  },
+  "v2_551f72bf": {
+    "description": "Auto-generated translation for: Please select at least one column to export",
+    "message": "નિકાસ કરવા માટે કૃપા કરીને ઓછામાં ઓછો એક કૉલમ પસંદ કરો"
+  },
+  "v2_3747d534": {
+    "description": "Auto-generated translation for: Learning Word",
+    "message": "શબ્દ શીખવો"
+  },
+  "v2_0c515ad1": {
+    "description": "Auto-generated translation for: The word or phrase being learned",
+    "message": "શીખવામાં આવી રહેલો શબ્દ અથવા શબ્દસમૂહ"
+  },
+  "v2_3f4047fe": {
+    "description": "Auto-generated translation for: Translations",
+    "message": "ભાષાંતરો"
+  },
+  "v2_45057a64": {
+    "description": "Auto-generated translation for: Translations of the word",
+    "message": "શબ્દના અનુવાદો"
+  },
+  "v2_565159f2": {
+    "description": "Auto-generated translation for: Dictionary Form",
+    "message": "શબ્દકોશ ફોર્મ"
+  },
+  "v2_143527b0": {
+    "description": "Auto-generated translation for: Base/canonical form of the word",
+    "message": "શબ્દનું મૂળ/પ્રમાણિત સ્વરૂપ"
+  },
+  "v2_6e85c86d": {
+    "description": "Auto-generated translation for: Phonetic representation",
+    "message": "ધ્વન્યાત્મક રજૂઆત"
+  },
+  "v2_378b6b55": {
+    "description": "Auto-generated translation for: Created At",
+    "message": "આના પર બનાવવામાં આવ્યું"
+  },
+  "v2_50fbc3ce": {
+    "description": "Auto-generated translation for: When the entry was created",
+    "message": "જ્યારે એન્ટ્રી બનાવવામાં આવી હતી"
+  },
+  "v2_5a5db25b": {
+    "description": "Auto-generated translation for: Language code of the entry",
+    "message": "એન્ટ્રીનો ભાષા કોડ"
+  },
+  "v2_6e0186b8": {
+    "description": "Auto-generated translation for: Source platform",
+    "message": "સ્રોત પ્લેટફોર્મ"
+  },
+  "v2_77991676": {
+    "description": "Auto-generated translation for: Learning status of the word",
+    "message": "શબ્દની શીખવાની સ્થિતિ"
+  },
+  "v2_3883ccc6": {
+    "description": "Auto-generated translation for: Title of the source video",
+    "message": "સ્રોત વિડિઓનું શીર્ષક"
+  },
+  "v2_100936ce": {
+    "description": "Auto-generated translation for: Related word forms",
+    "message": "સંબંધિત શબ્દ સ્વરૂપો"
+  },
+  "v2_5988597a": {
+    "description": "Auto-generated translation for: Export as Anki flashcard deck package (.apkg)",
+    "message": "Anki ફ્લેશકાર્ડ ડેક પેકેજ (.apkg) તરીકે એક્સપોર્ટ કરો"
+  },
+  "v2_3b2d9d58": {
+    "description": "Auto-generated translation for: Export as Comma-Separated Values file (.csv)",
+    "message": "અલ્પવિરામથી વિભાજિત મૂલ્ય ફાઇલ (.csv) તરીકે નિકાસ કરો"
+  },
+  "v2_14953c68": {
+    "description": "Auto-generated translation for: Export as plain text file (.txt)",
+    "message": "સામાન્ય ટેક્સ્ટ ફાઇલ (.txt) તરીકે નિકાસ કરો"
+  },
+  "v2_08670371": {
+    "description": "Auto-generated translation for: Anki Package",
+    "message": "અંકી પેકેજ"
+  },
+  "v2_14c6ec6a": {
+    "description": "Auto-generated translation for: CSV File",
+    "message": "CSV ફાઇલ"
+  },
+  "v2_360d688f": {
+    "description": "Auto-generated translation for: Text File",
+    "message": "ટેક્સ્ટ ફાઇલ"
+  },
+  "v2_2b05fa40": {
+    "description": "Auto-generated translation for: Delete selected entries",
+    "message": "પસંદ કરેલી ઍન્ટ્રીઓ કાઢી નાખો"
+  },
+  "v2_468f2f1b": {
+    "description": "Auto-generated translation for: Delete Entries",
+    "message": "એન્ટ્રીઓ કાઢી નાખો"
+  },
+  "v2_73dcd43a": {
+    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
+    "message": "શું તમે ખરેખર {count} {entries} કાઢી નાખવા માંગો છો? આ ક્રિયા પૂર્વવત્ કરી શકાતી નથી.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "entries": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_5edd7b70": {
+    "description": "Auto-generated translation for: entries",
+    "message": "પ્રવિષ્ટીઓ"
+  },
+  "v2_43062ad7": {
+    "description": "Auto-generated translation for: Export selected entries",
+    "message": "પસંદ કરેલી ઍન્ટ્રીઓ નિકાસ કરો"
+  },
+  "v2_3209b1da": {
+    "description": "Auto-generated translation for: Book Reader",
+    "message": "પુસ્તક વાચક"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "આ પેજ માટે કોઈ સામગ્રી ઉપલબ્ધ નથી."
   }
 }

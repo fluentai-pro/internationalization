@@ -7544,5 +7544,192 @@
         "content": "$1"
       }
     }
+  },
+  "v2_463e7617": {
+    "description": "Auto-generated translation for: Export Notebook Entries",
+    "message": "ನೋಟ್‌ಬುಕ್ ನಮೂದುಗಳನ್ನು ರಫ್ತು ಮಾಡಿ"
+  },
+  "v2_2e2128a6": {
+    "description": "Auto-generated translation for: Export {count} selected entries in your preferred format",
+    "message": "ನಿಮ್ಮ ಆದ್ಯತೆಯ ಸ್ವರೂಪದಲ್ಲಿ $count$ ಆಯ್ದ ನಮೂದುಗಳನ್ನು ರಫ್ತು ಮಾಡಿ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4c290fa6": {
+    "description": "Auto-generated translation for: Please wait while we prepare your export",
+    "message": "ದಯವಿಟ್ಟು, ನಿಮ್ಮ ರಫ್ತು ಸಿದ್ಧಪಡಿಸುವವರೆಗೆ ನಿರೀಕ್ಷಿಸಿ"
+  },
+  "v2_30a168ea": {
+    "description": "Auto-generated translation for: No entries to export",
+    "message": "ರಫ್ತು ಮಾಡಲು ನಮೂದುಗಳಿಲ್ಲ"
+  },
+  "v2_4c37e69a": {
+    "description": "Auto-generated translation for: Please select at least one column",
+    "message": "ದಯವಿಟ್ಟು ಕನಿಷ್ಠ ಒಂದು ಕಾಲಮ್ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_612040d8": {
+    "description": "Auto-generated translation for: Export completed successfully",
+    "message": "ರಫ್ತು ಯಶಸ್ವಿಯಾಗಿ ಪೂರ್ಣಗೊಂಡಿದೆ"
+  },
+  "v2_1cd7c76c": {
+    "description": "Auto-generated translation for: Failed to export data",
+    "message": "ಡೇಟಾವನ್ನು ರಫ್ತು ಮಾಡಲು ವಿಫಲವಾಗಿದೆ"
+  },
+  "v2_73298046": {
+    "description": "Auto-generated translation for: Choose Export Format",
+    "message": "ರಫ್ತು ಸ್ವರೂಪವನ್ನು ಆರಿಸಿ"
+  },
+  "v2_6a280933": {
+    "description": "Auto-generated translation for: Select how you want to export your {count} selected entries",
+    "message": "ನಿಮ್ಮ $count$ ಆಯ್ದ ನಮೂದುಗಳನ್ನು ಹೇಗೆ ರಫ್ತು ಮಾಡಬೇಕೆಂದು ಆಯ್ಕೆಮಾಡಿ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4d7d758e": {
+    "description": "Auto-generated translation for: Select Columns to Export",
+    "message": "ರಫ್ತು ಮಾಡಲು ಕಾಲಮ್‌ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_332d5b45": {
+    "description": "Auto-generated translation for: Choose which columns to include in your export ({count} selected)",
+    "message": "ನಿಮ್ಮ ರಫ್ತಿನಲ್ಲಿ ಯಾವ ಕಾಲಮ್‌ಗಳನ್ನು ಸೇರಿಸಬೇಕೆಂದು ಆಯ್ಕೆಮಾಡಿ ({count} ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1405c07d": {
+    "description": "Auto-generated translation for: Select All",
+    "message": "ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_669e57be": {
+    "description": "Auto-generated translation for: Deselect All",
+    "message": "ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ರದ್ದುಗೊಳಿಸಿ"
+  },
+  "v2_551f72bf": {
+    "description": "Auto-generated translation for: Please select at least one column to export",
+    "message": "ರಫ್ತು ಮಾಡಲು ದಯವಿಟ್ಟು ಕನಿಷ್ಠ ಒಂದು ಅಂಕಣವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_3747d534": {
+    "description": "Auto-generated translation for: Learning Word",
+    "message": "ಪದವನ್ನು ಕಲಿಯುವುದು"
+  },
+  "v2_0c515ad1": {
+    "description": "Auto-generated translation for: The word or phrase being learned",
+    "message": "ಕಲಿತಿರುವುದು ಪದ ಅಥವಾ ಪದಗುಚ್ಛ"
+  },
+  "v2_3f4047fe": {
+    "description": "Auto-generated translation for: Translations",
+    "message": "ಭಾಷಾಂತರಗಳು"
+  },
+  "v2_45057a64": {
+    "description": "Auto-generated translation for: Translations of the word",
+    "message": "ಪದದ ಅನುವಾದಗಳು"
+  },
+  "v2_565159f2": {
+    "description": "Auto-generated translation for: Dictionary Form",
+    "message": "ನಿಘಂಟು ರೂಪ"
+  },
+  "v2_143527b0": {
+    "description": "Auto-generated translation for: Base/canonical form of the word",
+    "message": "ಪದದ ಮೂಲ/ಅಧಿಕೃತ ರೂಪ"
+  },
+  "v2_6e85c86d": {
+    "description": "Auto-generated translation for: Phonetic representation",
+    "message": "ಧ್ವನಿಶಾಸ್ತ್ರದ ನಿರೂಪಣೆ"
+  },
+  "v2_378b6b55": {
+    "description": "Auto-generated translation for: Created At",
+    "message": "ರಚಿಸಿದ ದಿನಾಂಕ"
+  },
+  "v2_50fbc3ce": {
+    "description": "Auto-generated translation for: When the entry was created",
+    "message": "ಪ್ರವೇಶವನ್ನು ರಚಿಸಿದಾಗ"
+  },
+  "v2_5a5db25b": {
+    "description": "Auto-generated translation for: Language code of the entry",
+    "message": "ನಮೂದಿನ ಭಾಷೆಯ ಕೋಡ್"
+  },
+  "v2_6e0186b8": {
+    "description": "Auto-generated translation for: Source platform",
+    "message": "ಮೂಲ ವೇದಿಕೆ"
+  },
+  "v2_77991676": {
+    "description": "Auto-generated translation for: Learning status of the word",
+    "message": "ಪದದ ಕಲಿಕೆಯ ಸ್ಥಿತಿ"
+  },
+  "v2_3883ccc6": {
+    "description": "Auto-generated translation for: Title of the source video",
+    "message": "ಮೂಲ ವೀಡಿಯೊದ ಶೀರ್ಷಿಕೆ"
+  },
+  "v2_100936ce": {
+    "description": "Auto-generated translation for: Related word forms",
+    "message": "ಸಂಬಂಧಿತ ಪದ ರೂಪಗಳು"
+  },
+  "v2_5988597a": {
+    "description": "Auto-generated translation for: Export as Anki flashcard deck package (.apkg)",
+    "message": "ಅಂಕಿ ಫ್ಲ್ಯಾಶ್‌ಕಾರ್ಡ್ ಡೆಕ್ ಪ್ಯಾಕೇಜ್ (.apkg) ಆಗಿ ರಫ್ತುಮಾಡಿ"
+  },
+  "v2_3b2d9d58": {
+    "description": "Auto-generated translation for: Export as Comma-Separated Values file (.csv)",
+    "message": "ಕಾಮಾಕ್ಷರಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸಿದ ಮೌಲ್ಯಗಳ ಫೈಲ್ (.csv) ಆಗಿ ರಫ್ತುಮಾಡು"
+  },
+  "v2_14953c68": {
+    "description": "Auto-generated translation for: Export as plain text file (.txt)",
+    "message": "ಸಾದಾ ಪಠ್ಯ ಕಡತವಾಗಿ ರಫ್ತು ಮಾಡಿ (.txt)"
+  },
+  "v2_08670371": {
+    "description": "Auto-generated translation for: Anki Package",
+    "message": "ಅಂಕಿ ಪ್ಯಾಕೇಜ್"
+  },
+  "v2_14c6ec6a": {
+    "description": "Auto-generated translation for: CSV File",
+    "message": "CSV ಫೈಲ್"
+  },
+  "v2_360d688f": {
+    "description": "Auto-generated translation for: Text File",
+    "message": "ಪಠ್ಯ ಕಡತ"
+  },
+  "v2_2b05fa40": {
+    "description": "Auto-generated translation for: Delete selected entries",
+    "message": "ಆಯ್ಕೆ ಮಾಡಿದ ನಮೂದುಗಳನ್ನು ಅಳಿಸಿ"
+  },
+  "v2_468f2f1b": {
+    "description": "Auto-generated translation for: Delete Entries",
+    "message": "ನಮೂದುಗಳನ್ನು ಅಳಿಸಿ"
+  },
+  "v2_73dcd43a": {
+    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
+    "message": "ನೀವು {count} {entries} ಅಳಿಸಲು ಖಚಿತರಾಗಿದ್ದೀರಾ? ಈ ಕ್ರಿಯೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗುವುದಿಲ್ಲ.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      },
+      "entries": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_5edd7b70": {
+    "description": "Auto-generated translation for: entries",
+    "message": "ನಮೂದುಗಳನ್ನು"
+  },
+  "v2_43062ad7": {
+    "description": "Auto-generated translation for: Export selected entries",
+    "message": "ಆಯ್ಕೆಮಾಡಿದ ನಮೂದುಗಳನ್ನು ರಫ್ತು ಮಾಡಿ"
+  },
+  "v2_3209b1da": {
+    "description": "Auto-generated translation for: Book Reader",
+    "message": "ಪುಸ್ತಕ ಓದುಗ"
+  },
+  "v2_33c9e23d": {
+    "description": "Auto-generated translation for: No content available for this page",
+    "message": "ಈ ಪುಟಕ್ಕೆ ಯಾವುದೇ ವಿಷಯ ಲಭ್ಯವಿಲ್ಲ"
   }
 }
