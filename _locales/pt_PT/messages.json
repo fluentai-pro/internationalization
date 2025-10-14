@@ -3923,66 +3923,6 @@
     "description": "Auto-generated translation for: Norwegian",
     "message": "Norueguês"
   },
-  "v2_402dccaa": {
-    "description": "Auto-generated translation for: Play/Pause Video",
-    "message": "Reproduzir/Pausar Vídeo"
-  },
-  "v2_7d1b22e4": {
-    "description": "Auto-generated translation for: Repeat Current Subtitle",
-    "message": "Repetir Legenda Atual"
-  },
-  "v2_6a3347f3": {
-    "description": "Auto-generated translation for: Toggle Space Bar",
-    "message": "Alterar Barra de Espaços"
-  },
-  "v2_02ebddf9": {
-    "description": "Auto-generated translation for: Toggle Pause Mode",
-    "message": "Alternar Modo de Pausa"
-  },
-  "v2_3c58f4ac": {
-    "description": "Auto-generated translation for: Speed Up Video Playback",
-    "message": "Acelerar a Reprodução de Vídeo"
-  },
-  "v2_2c742e08": {
-    "description": "Auto-generated translation for: Go To Next Subtitle",
-    "message": "Ir para a legenda seguinte"
-  },
-  "v2_345ac205": {
-    "description": "Auto-generated translation for: Speed Down Video Playback",
-    "message": "Diminuir a Velocidade de Reprodução do Vídeo"
-  },
-  "v2_7c3b9976": {
-    "description": "Auto-generated translation for: Bookmark The Current Word",
-    "message": "Marcar a Palavra Atual"
-  },
-  "v2_25ee86f4": {
-    "description": "Auto-generated translation for: Bookmark Current Sentence",
-    "message": "Marcar Frase Atual"
-  },
-  "v2_5fb9c84a": {
-    "description": "Auto-generated translation for: Copy Current Subtitle",
-    "message": "Copiar Legenda Atual"
-  },
-  "v2_77c894f4": {
-    "description": "Auto-generated translation for: Go To Previous Subtitle",
-    "message": "Ir para a legenda anterior"
-  },
-  "v2_4b217242": {
-    "description": "Auto-generated translation for: Toggle Native Subtitles",
-    "message": "Ativar/desativar legendas nativas"
-  },
-  "v2_662a694e": {
-    "description": "Auto-generated translation for: Toggle Voice Repeat Mode",
-    "message": "Ativar/desativar modo de repetição de voz"
-  },
-  "v2_3a8a2522": {
-    "description": "Auto-generated translation for: Translate Selected Text (In Websites)",
-    "message": "Traduzir Texto Selecionado (Em Websites)"
-  },
-  "v2_3e7eadb9": {
-    "description": "Auto-generated translation for: Space Bar",
-    "message": "Barra de Espaços"
-  },
   "v2_6a40d4a5": {
     "description": "Auto-generated translation for: Play/Pause",
     "message": "Reproduzir/Pausa"
@@ -3990,10 +3930,6 @@
   "v2_7b2dd2ac": {
     "description": "Auto-generated translation for: Speed Up",
     "message": "Acelerar"
-  },
-  "v2_74b838fd": {
-    "description": "Auto-generated translation for: Repeat Subtitle",
-    "message": "Repetir Legenda"
   },
   "v2_670b86e5": {
     "description": "Auto-generated translation for: Speed Down",
@@ -4003,18 +3939,6 @@
     "description": "Auto-generated translation for: Native Subtitles",
     "message": "Legendas Nativas"
   },
-  "v2_422887b4": {
-    "description": "Auto-generated translation for: Bookmark Word",
-    "message": "Marcador de Texto"
-  },
-  "v2_4fcfcdf3": {
-    "description": "Auto-generated translation for: Bookmark Sentence",
-    "message": "Marcar Frase"
-  },
-  "v2_6eada463": {
-    "description": "Auto-generated translation for: Copy Subtitle",
-    "message": "Copiar Legenda"
-  },
   "v2_4314d6a5": {
     "description": "Auto-generated translation for: Next Subtitle",
     "message": "Legenda Seguinte"
@@ -4022,18 +3946,6 @@
   "v2_28436777": {
     "description": "Auto-generated translation for: Voice Repeat",
     "message": "Repetição de Voz"
-  },
-  "v2_3cb57b21": {
-    "description": "Auto-generated translation for: Previous Subtitle",
-    "message": "Legenda Anterior"
-  },
-  "v2_5dc2a4fa": {
-    "description": "Auto-generated translation for: Translate Selection",
-    "message": "Traduzir Seleção"
-  },
-  "v2_0a2627af": {
-    "description": "Auto-generated translation for: Pronounce Subtitle",
-    "message": "Pronunciar Legenda"
   },
   "v2_74026238": {
     "description": "Auto-generated translation for: Interactive Word",
@@ -7672,5 +7584,205 @@
   "v2_4811e0e9": {
     "description": "Auto-generated translation for: Previous",
     "message": "Anterior"
+  },
+  "v2_3b7cdd98": {
+    "description": "Auto-generated translation for: Pause/Play Video",
+    "message": "Pausa/Reproduzir vídeo"
+  },
+  "v2_569e95e8": {
+    "description": "Auto-generated translation for: Replay Current Subtitle",
+    "message": "Reproduzir Legenda Atual"
+  },
+  "v2_1570b77f": {
+    "description": "Auto-generated translation for: Turn On/Off Pause After Subtitle Mode",
+    "message": "Ativar/desativar Pausar Após Modo de Legendas"
+  },
+  "v2_3aab6480": {
+    "description": "Auto-generated translation for: Increase Playback Speed",
+    "message": "Aumentar a Velocidade de Reprodução"
+  },
+  "v2_6856f25c": {
+    "description": "Auto-generated translation for: Decrease Playback Speed",
+    "message": "Diminuir Velocidade de Reprodução"
+  },
+  "v2_01369e21": {
+    "description": "Auto-generated translation for: Skip to Next Subtitle",
+    "message": "Saltar para a próxima legenda"
+  },
+  "v2_0290db63": {
+    "description": "Auto-generated translation for: Skip to Previous Subtitle",
+    "message": "Saltar para a Legenda Anterior"
+  },
+  "v2_45537b7f": {
+    "description": "Auto-generated translation for: Move to Next Word",
+    "message": "Mover para a Próxima Palavra"
+  },
+  "v2_2cae81fd": {
+    "description": "Auto-generated translation for: Move to Previous Word",
+    "message": "Mover para a Palavra Anterior"
+  },
+  "v2_74505730": {
+    "description": "Auto-generated translation for: Turn On/Off Native Subtitles",
+    "message": "Ativar/Desativar Legendas Nativas"
+  },
+  "v2_50f8cf97": {
+    "description": "Auto-generated translation for: Turn On/Off Learning Subtitles",
+    "message": "Ativar/Desativar Legendas de Aprendizagem"
+  },
+  "v2_75b12d08": {
+    "description": "Auto-generated translation for: Turn On/Off Learning Subtitle Blur Mode",
+    "message": "Ativar/Desativar Modo de Desfoque de Legendas de Aprendizagem"
+  },
+  "v2_5e69b621": {
+    "description": "Auto-generated translation for: Turn On/Off Native Subtitle Blur Mode",
+    "message": "Ativar/desativar modo de desfocagem de legendas nativas"
+  },
+  "v2_3a6ae653": {
+    "description": "Auto-generated translation for: Unblur Current Learning Subtitle",
+    "message": "Remover Desfocagem da Legenda de Aprendizagem Atual"
+  },
+  "v2_2a986c46": {
+    "description": "Auto-generated translation for: Unblur Current Native Subtitle",
+    "message": "Remover o Desfoque da Legenda Nativa Atual"
+  },
+  "v2_697cb07c": {
+    "description": "Auto-generated translation for: Turn On/Off Voice Repeat Mode",
+    "message": "Ativar/Desativar Modo de Repetição Vocal"
+  },
+  "v2_4d9359fa": {
+    "description": "Auto-generated translation for: Turn On/Off Word Mapping Colors",
+    "message": "Ativar/desativar as cores do mapeamento de palavras"
+  },
+  "v2_0c503f96": {
+    "description": "Auto-generated translation for: Pronounce Current Subtitle",
+    "message": "Pronunciar Legenda Atual"
+  },
+  "v2_39c4029a": {
+    "description": "Auto-generated translation for: Pronounce Hovered Word",
+    "message": "Pronunciar Palavra Sob o Cursor"
+  },
+  "v2_5530a734": {
+    "description": "Auto-generated translation for: Save Current Word",
+    "message": "Guardar Palavra Atual"
+  },
+  "v2_44e36e73": {
+    "description": "Auto-generated translation for: Save Current Sentence",
+    "message": "Guardar Frase Atual"
+  },
+  "v2_3e331dd9": {
+    "description": "Auto-generated translation for: Copy Current Subtitle to Clipboard",
+    "message": "Copiar Legenda Atual para a Área de Transferência"
+  },
+  "v2_28ee13e0": {
+    "description": "Auto-generated translation for: Translate Selected Text",
+    "message": "Traduzir Texto Selecionado"
+  },
+  "v2_580eee3f": {
+    "description": "Auto-generated translation for: Merge with Previous Word",
+    "message": "Unir com Palavra Anterior"
+  },
+  "v2_18159645": {
+    "description": "Auto-generated translation for: Merge with Next Word",
+    "message": "Intercalar com a Palavra Seguinte"
+  },
+  "v2_49c96d9b": {
+    "description": "Auto-generated translation for: Show Grammar Breakdown",
+    "message": "Mostrar Análise Gramatical"
+  },
+  "v2_6e4ecbf9": {
+    "description": "Auto-generated translation for: Replay",
+    "message": "Repetição"
+  },
+  "v2_1d27c458": {
+    "description": "Auto-generated translation for: Auto-Pause",
+    "message": "Pausa Automática"
+  },
+  "v2_5fb9e765": {
+    "description": "Auto-generated translation for: Prev Subtitle",
+    "message": "Legenda anterior"
+  },
+  "v2_43855fe9": {
+    "description": "Auto-generated translation for: Next Word",
+    "message": "Próxima palavra"
+  },
+  "v2_41c610d7": {
+    "description": "Auto-generated translation for: Prev Word",
+    "message": "Palavra Anterior"
+  },
+  "v2_37bcc364": {
+    "description": "Auto-generated translation for: Native Subs",
+    "message": "Legendas Nativas"
+  },
+  "v2_3749920b": {
+    "description": "Auto-generated translation for: Learning Subs",
+    "message": "Subscrições de Aprendizagem"
+  },
+  "v2_492c3b5a": {
+    "description": "Auto-generated translation for: Learning Blur Mode",
+    "message": "Aprender Modo Desfoque"
+  },
+  "v2_3b9682ed": {
+    "description": "Auto-generated translation for: Native Blur Mode",
+    "message": "Modo de Desfoque Nativo"
+  },
+  "v2_2fb7f4be": {
+    "description": "Auto-generated translation for: Unblur Learning",
+    "message": "Desfocar a Aprendizagem"
+  },
+  "v2_44a64649": {
+    "description": "Auto-generated translation for: Unblur Native",
+    "message": "Tornar Nítido Nativo"
+  },
+  "v2_356ad346": {
+    "description": "Auto-generated translation for: Word Colors",
+    "message": "Cores de Palavras"
+  },
+  "v2_49847ac9": {
+    "description": "Auto-generated translation for: Pronounce",
+    "message": "Pronunciar"
+  },
+  "v2_765b71a1": {
+    "description": "Auto-generated translation for: Say Word",
+    "message": "É verdade"
+  },
+  "v2_7ee6efcd": {
+    "description": "Auto-generated translation for: Save Word",
+    "message": "Guardar Palavra"
+  },
+  "v2_18dae5a6": {
+    "description": "Auto-generated translation for: Save Sentence",
+    "message": "Guardar Frase"
+  },
+  "v2_1a65dceb": {
+    "description": "Auto-generated translation for: Copy Sub",
+    "message": "Copiar sub"
+  },
+  "v2_49cceed2": {
+    "description": "Auto-generated translation for: Translate",
+    "message": "Traduzir"
+  },
+  "v2_323f1f2f": {
+    "description": "Auto-generated translation for: Merge Left",
+    "message": "Una à Esquerda"
+  },
+  "v2_15fb27f4": {
+    "description": "Auto-generated translation for: Merge Right",
+    "message": "Fundir à Direita"
+  },
+  "v2_4bcefd40": {
+    "description": "Auto-generated translation for: Play text to speech",
+    "message": "Reproduzir texto para voz"
+  },
+  "v2_4c22888e": {
+    "description": "Auto-generated translation for: Copy paragraph to clipboard",
+    "message": "Copiar parágrafo para a área de transferência"
+  },
+  "v2_3f382304": {
+    "description": "Auto-generated translation for: Translate paragraph",
+    "message": "Traduzir parágrafo"
+  },
+  "v2_54f38869": {
+    "description": "Auto-generated translation for: Close translation",
+    "message": "Tradução aproximada"
   }
 }

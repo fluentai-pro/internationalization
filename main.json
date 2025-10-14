@@ -3935,66 +3935,6 @@
     "description": "Auto-generated translation for: Norwegian",
     "message": "Norwegian"
   },
-  "v2_402dccaa": {
-    "description": "Auto-generated translation for: Play/Pause Video",
-    "message": "Play/Pause Video"
-  },
-  "v2_7d1b22e4": {
-    "description": "Auto-generated translation for: Repeat Current Subtitle",
-    "message": "Repeat Current Subtitle"
-  },
-  "v2_6a3347f3": {
-    "description": "Auto-generated translation for: Toggle Space Bar",
-    "message": "Toggle Space Bar"
-  },
-  "v2_02ebddf9": {
-    "description": "Auto-generated translation for: Toggle Pause Mode",
-    "message": "Toggle Pause Mode"
-  },
-  "v2_3c58f4ac": {
-    "description": "Auto-generated translation for: Speed Up Video Playback",
-    "message": "Speed Up Video Playback"
-  },
-  "v2_2c742e08": {
-    "description": "Auto-generated translation for: Go To Next Subtitle",
-    "message": "Go To Next Subtitle"
-  },
-  "v2_345ac205": {
-    "description": "Auto-generated translation for: Speed Down Video Playback",
-    "message": "Speed Down Video Playback"
-  },
-  "v2_7c3b9976": {
-    "description": "Auto-generated translation for: Bookmark The Current Word",
-    "message": "Bookmark The Current Word"
-  },
-  "v2_25ee86f4": {
-    "description": "Auto-generated translation for: Bookmark Current Sentence",
-    "message": "Bookmark Current Sentence"
-  },
-  "v2_5fb9c84a": {
-    "description": "Auto-generated translation for: Copy Current Subtitle",
-    "message": "Copy Current Subtitle"
-  },
-  "v2_77c894f4": {
-    "description": "Auto-generated translation for: Go To Previous Subtitle",
-    "message": "Go To Previous Subtitle"
-  },
-  "v2_4b217242": {
-    "description": "Auto-generated translation for: Toggle Native Subtitles",
-    "message": "Toggle Native Subtitles"
-  },
-  "v2_662a694e": {
-    "description": "Auto-generated translation for: Toggle Voice Repeat Mode",
-    "message": "Toggle Voice Repeat Mode"
-  },
-  "v2_3a8a2522": {
-    "description": "Auto-generated translation for: Translate Selected Text (In Websites)",
-    "message": "Translate Selected Text (In Websites)"
-  },
-  "v2_3e7eadb9": {
-    "description": "Auto-generated translation for: Space Bar",
-    "message": "Space Bar"
-  },
   "v2_6a40d4a5": {
     "description": "Auto-generated translation for: Play/Pause",
     "message": "Play/Pause"
@@ -4002,10 +3942,6 @@
   "v2_7b2dd2ac": {
     "description": "Auto-generated translation for: Speed Up",
     "message": "Speed Up"
-  },
-  "v2_74b838fd": {
-    "description": "Auto-generated translation for: Repeat Subtitle",
-    "message": "Repeat Subtitle"
   },
   "v2_670b86e5": {
     "description": "Auto-generated translation for: Speed Down",
@@ -4015,18 +3951,6 @@
     "description": "Auto-generated translation for: Native Subtitles",
     "message": "Native Subtitles"
   },
-  "v2_422887b4": {
-    "description": "Auto-generated translation for: Bookmark Word",
-    "message": "Bookmark Word"
-  },
-  "v2_4fcfcdf3": {
-    "description": "Auto-generated translation for: Bookmark Sentence",
-    "message": "Bookmark Sentence"
-  },
-  "v2_6eada463": {
-    "description": "Auto-generated translation for: Copy Subtitle",
-    "message": "Copy Subtitle"
-  },
   "v2_4314d6a5": {
     "description": "Auto-generated translation for: Next Subtitle",
     "message": "Next Subtitle"
@@ -4034,18 +3958,6 @@
   "v2_28436777": {
     "description": "Auto-generated translation for: Voice Repeat",
     "message": "Voice Repeat"
-  },
-  "v2_3cb57b21": {
-    "description": "Auto-generated translation for: Previous Subtitle",
-    "message": "Previous Subtitle"
-  },
-  "v2_5dc2a4fa": {
-    "description": "Auto-generated translation for: Translate Selection",
-    "message": "Translate Selection"
-  },
-  "v2_0a2627af": {
-    "description": "Auto-generated translation for: Pronounce Subtitle",
-    "message": "Pronounce Subtitle"
   },
   "v2_74026238": {
     "description": "Auto-generated translation for: Interactive Word",
@@ -7676,5 +7588,205 @@
   "v2_4811e0e9": {
     "description": "Auto-generated translation for: Previous",
     "message": "Previous"
+  },
+  "v2_3b7cdd98": {
+    "description": "Auto-generated translation for: Pause/Play Video",
+    "message": "Pause/Play Video"
+  },
+  "v2_569e95e8": {
+    "description": "Auto-generated translation for: Replay Current Subtitle",
+    "message": "Replay Current Subtitle"
+  },
+  "v2_1570b77f": {
+    "description": "Auto-generated translation for: Turn On/Off Pause After Subtitle Mode",
+    "message": "Turn On/Off Pause After Subtitle Mode"
+  },
+  "v2_3aab6480": {
+    "description": "Auto-generated translation for: Increase Playback Speed",
+    "message": "Increase Playback Speed"
+  },
+  "v2_6856f25c": {
+    "description": "Auto-generated translation for: Decrease Playback Speed",
+    "message": "Decrease Playback Speed"
+  },
+  "v2_01369e21": {
+    "description": "Auto-generated translation for: Skip to Next Subtitle",
+    "message": "Skip to Next Subtitle"
+  },
+  "v2_0290db63": {
+    "description": "Auto-generated translation for: Skip to Previous Subtitle",
+    "message": "Skip to Previous Subtitle"
+  },
+  "v2_45537b7f": {
+    "description": "Auto-generated translation for: Move to Next Word",
+    "message": "Move to Next Word"
+  },
+  "v2_2cae81fd": {
+    "description": "Auto-generated translation for: Move to Previous Word",
+    "message": "Move to Previous Word"
+  },
+  "v2_74505730": {
+    "description": "Auto-generated translation for: Turn On/Off Native Subtitles",
+    "message": "Turn On/Off Native Subtitles"
+  },
+  "v2_50f8cf97": {
+    "description": "Auto-generated translation for: Turn On/Off Learning Subtitles",
+    "message": "Turn On/Off Learning Subtitles"
+  },
+  "v2_75b12d08": {
+    "description": "Auto-generated translation for: Turn On/Off Learning Subtitle Blur Mode",
+    "message": "Turn On/Off Learning Subtitle Blur Mode"
+  },
+  "v2_5e69b621": {
+    "description": "Auto-generated translation for: Turn On/Off Native Subtitle Blur Mode",
+    "message": "Turn On/Off Native Subtitle Blur Mode"
+  },
+  "v2_3a6ae653": {
+    "description": "Auto-generated translation for: Unblur Current Learning Subtitle",
+    "message": "Unblur Current Learning Subtitle"
+  },
+  "v2_2a986c46": {
+    "description": "Auto-generated translation for: Unblur Current Native Subtitle",
+    "message": "Unblur Current Native Subtitle"
+  },
+  "v2_697cb07c": {
+    "description": "Auto-generated translation for: Turn On/Off Voice Repeat Mode",
+    "message": "Turn On/Off Voice Repeat Mode"
+  },
+  "v2_4d9359fa": {
+    "description": "Auto-generated translation for: Turn On/Off Word Mapping Colors",
+    "message": "Turn On/Off Word Mapping Colors"
+  },
+  "v2_0c503f96": {
+    "description": "Auto-generated translation for: Pronounce Current Subtitle",
+    "message": "Pronounce Current Subtitle"
+  },
+  "v2_39c4029a": {
+    "description": "Auto-generated translation for: Pronounce Hovered Word",
+    "message": "Pronounce Hovered Word"
+  },
+  "v2_5530a734": {
+    "description": "Auto-generated translation for: Save Current Word",
+    "message": "Save Current Word"
+  },
+  "v2_44e36e73": {
+    "description": "Auto-generated translation for: Save Current Sentence",
+    "message": "Save Current Sentence"
+  },
+  "v2_3e331dd9": {
+    "description": "Auto-generated translation for: Copy Current Subtitle to Clipboard",
+    "message": "Copy Current Subtitle to Clipboard"
+  },
+  "v2_28ee13e0": {
+    "description": "Auto-generated translation for: Translate Selected Text",
+    "message": "Translate Selected Text"
+  },
+  "v2_580eee3f": {
+    "description": "Auto-generated translation for: Merge with Previous Word",
+    "message": "Merge with Previous Word"
+  },
+  "v2_18159645": {
+    "description": "Auto-generated translation for: Merge with Next Word",
+    "message": "Merge with Next Word"
+  },
+  "v2_49c96d9b": {
+    "description": "Auto-generated translation for: Show Grammar Breakdown",
+    "message": "Show Grammar Breakdown"
+  },
+  "v2_6e4ecbf9": {
+    "description": "Auto-generated translation for: Replay",
+    "message": "Replay"
+  },
+  "v2_1d27c458": {
+    "description": "Auto-generated translation for: Auto-Pause",
+    "message": "Auto-Pause"
+  },
+  "v2_5fb9e765": {
+    "description": "Auto-generated translation for: Prev Subtitle",
+    "message": "Prev Subtitle"
+  },
+  "v2_43855fe9": {
+    "description": "Auto-generated translation for: Next Word",
+    "message": "Next Word"
+  },
+  "v2_41c610d7": {
+    "description": "Auto-generated translation for: Prev Word",
+    "message": "Prev Word"
+  },
+  "v2_37bcc364": {
+    "description": "Auto-generated translation for: Native Subs",
+    "message": "Native Subs"
+  },
+  "v2_3749920b": {
+    "description": "Auto-generated translation for: Learning Subs",
+    "message": "Learning Subs"
+  },
+  "v2_492c3b5a": {
+    "description": "Auto-generated translation for: Learning Blur Mode",
+    "message": "Learning Blur Mode"
+  },
+  "v2_3b9682ed": {
+    "description": "Auto-generated translation for: Native Blur Mode",
+    "message": "Native Blur Mode"
+  },
+  "v2_2fb7f4be": {
+    "description": "Auto-generated translation for: Unblur Learning",
+    "message": "Unblur Learning"
+  },
+  "v2_44a64649": {
+    "description": "Auto-generated translation for: Unblur Native",
+    "message": "Unblur Native"
+  },
+  "v2_356ad346": {
+    "description": "Auto-generated translation for: Word Colors",
+    "message": "Word Colors"
+  },
+  "v2_49847ac9": {
+    "description": "Auto-generated translation for: Pronounce",
+    "message": "Pronounce"
+  },
+  "v2_765b71a1": {
+    "description": "Auto-generated translation for: Say Word",
+    "message": "Say Word"
+  },
+  "v2_7ee6efcd": {
+    "description": "Auto-generated translation for: Save Word",
+    "message": "Save Word"
+  },
+  "v2_18dae5a6": {
+    "description": "Auto-generated translation for: Save Sentence",
+    "message": "Save Sentence"
+  },
+  "v2_1a65dceb": {
+    "description": "Auto-generated translation for: Copy Sub",
+    "message": "Copy Sub"
+  },
+  "v2_49cceed2": {
+    "description": "Auto-generated translation for: Translate",
+    "message": "Translate"
+  },
+  "v2_323f1f2f": {
+    "description": "Auto-generated translation for: Merge Left",
+    "message": "Merge Left"
+  },
+  "v2_15fb27f4": {
+    "description": "Auto-generated translation for: Merge Right",
+    "message": "Merge Right"
+  },
+  "v2_4bcefd40": {
+    "description": "Auto-generated translation for: Play text to speech",
+    "message": "Play text to speech"
+  },
+  "v2_4c22888e": {
+    "description": "Auto-generated translation for: Copy paragraph to clipboard",
+    "message": "Copy paragraph to clipboard"
+  },
+  "v2_3f382304": {
+    "description": "Auto-generated translation for: Translate paragraph",
+    "message": "Translate paragraph"
+  },
+  "v2_54f38869": {
+    "description": "Auto-generated translation for: Close translation",
+    "message": "Close translation"
   }
 }
