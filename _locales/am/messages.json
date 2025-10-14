@@ -7508,27 +7508,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "ቀናት ቀርተዋል"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "ይህ ቪዲዮ {{videoMinutes}} ደቂቃዎችን ይወስዳል (በኮታ ምክንያት እስከ {{remainingQuota}} ደቂቃዎች ብቻ የተገደበ ነው)",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "ይህ ቪዲዮ {{videoMinutes}} ደቂቃዎችን ይፈጃል",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "የህይወት ዘመን ኮታ"
@@ -7542,6 +7521,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "ይህ ቪዲዮ $videoMinutes$ ደቂቃዎችን ይጠቀማል (በምደባው ምክንያት እስከ $remainingQuota$ ደቂቃ ብቻ የተፈቀደ)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "ይህ ቪዲዮ $videoMinutes$ ደቂቃዎችን ይፈጃል።",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

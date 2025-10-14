@@ -7508,27 +7508,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "剩餘天數"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "此影片將使用 {{videoMinutes}} 分鐘（因配額限制，上限為 {{remainingQuota}} 分鐘）",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "此影片將使用 {{videoMinutes}} 分鐘",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "終身配額"
@@ -7542,6 +7521,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "此影片將花費 $videoMinutes$ 分鐘（受限於配額，僅能播放 $remainingQuota$ 分鐘）",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "這部影片將會使用 $videoMinutes$ 分鐘",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

@@ -7508,27 +7508,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "hari tersisa"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "Video ini akan menggunakan {{videoMinutes}} menit (terbatas hingga {{remainingQuota}} menit karena kuota)",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "Video ini akan menggunakan waktu {{videoMinutes}} menit",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "Kuota Seumur Hidup"
@@ -7542,6 +7521,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "Video ini akan menggunakan $videoMinutes$ menit (terbatas hingga $remainingQuota$ menit karena kuota)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "Video ini akan berdurasi $videoMinutes$ menit",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

@@ -7508,27 +7508,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "ngày còn lại"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "Video này sẽ tốn {{videoMinutes}} phút (giới hạn còn {{remainingQuota}} phút do hạn ngạch)",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "Video này sẽ mất {{videoMinutes}} phút",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "Hạn mức trọn đời"
@@ -7542,6 +7521,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "Video này sẽ sử dụng $videoMinutes$ phút (giới hạn còn lại là $remainingQuota$ phút do hạn mức)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "Video này sẽ chạy trong $videoMinutes$ phút",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

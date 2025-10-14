@@ -7655,27 +7655,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "দিন বাকি"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "এই ভিডিওটি {{videoMinutes}} মিনিট ব্যবহার করবে (কোটায় সীমাবদ্ধতার কারণে {{remainingQuota}} মিনিটে সীমিত)",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "এই ভিডিওটি {{videoMinutes}} মিনিট সময় নেবে",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "আজীবন কোটা"
@@ -7689,6 +7668,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "এই ভিডিওটি ব্যবহার করবে $videoMinutes$ মিনিট (কোটায় সীমাবদ্ধ থাকার কারণে $remainingQuota$ মিনিটে সীমিত)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "এই ভিডিওটি দেখতে $videoMinutes$ মিনিট সময় লাগবে",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

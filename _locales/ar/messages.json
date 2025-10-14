@@ -7508,27 +7508,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "أيام متبقية"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "سيستخدم هذا الفيديو {{videoMinutes}} دقيقة (محدودة بـ {{remainingQuota}} دقيقة بسبب الحصة المخصصة)",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "سيستغرق هذا الفيديو {{videoMinutes}} دقيقة",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "الحصة العمرية"
@@ -7542,6 +7521,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "سيستخدم هذا الفيديو $videoMinutes$ دقيقة (محدودة بـ $remainingQuota$ دقيقة بسبب سعة الاستخدام)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "سيستخدم هذا الفيديو $videoMinutes$ دقيقة",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

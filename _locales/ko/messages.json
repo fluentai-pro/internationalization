@@ -7508,27 +7508,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "남은 일수"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "이 영상은 {{videoMinutes}}분 소요될 예정입니다 (할당량 제한으로 인해 {{remainingQuota}}분으로 제한됨)",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "이 영상은 {{videoMinutes}}분 재생됩니다.",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "평생 할당량"
@@ -7542,6 +7521,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "이 영상은 $videoMinutes$분 소요됩니다 (할당량 제한으로 인해 최대 $remainingQuota$분).",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "이 영상은 $videoMinutes$분 분량입니다.",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

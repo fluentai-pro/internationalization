@@ -7508,15 +7508,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "روز باقی مانده"
   },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "این ویدیو {{videoMinutes}} دقیقه طول خواهد کشید",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "سهمیه مادام‌العمر"
@@ -7530,6 +7521,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "این ویدئو $videoMinutes$ دقیقه به طول می‌انجامد (به دلیل محدودیت سهمیه، حداکثر $remainingQuota$ دقیقه)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "این ویدئو $videoMinutes$ دقیقه خواهد بود",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

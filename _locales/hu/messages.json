@@ -7508,27 +7508,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "hány nap maradt"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "Ez a videó {{videoMinutes}} percet fog felhasználni (a kvóta miatt korlátozva {{remainingQuota}} percre)",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "Ez a videó {{videoMinutes}} percet vesz igénybe.",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "Életre szóló kvóta"
@@ -7542,6 +7521,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "Ez a videó $videoMinutes$ percet fog felhasználni (a kvóta miatt $remainingQuota$ percre korlátozva)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "Ez a videó $videoMinutes$ percig tart majd",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

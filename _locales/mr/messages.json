@@ -7655,27 +7655,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "दिवस बाकी"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "हा व्हिडिओ {{videoMinutes}} मिनिटांचा असेल (कोटामुळे {{remainingQuota}} मिनिटांपर्यंत मर्यादित)",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "हा व्हिडिओ {{videoMinutes}} मिनिटे चालेल",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "आजीवन कोटा"
@@ -7689,6 +7668,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "हा व्हिडिओ $videoMinutes$ मिनिटे चालेल (कोट्यामुळे $remainingQuota$ मिनिटांपर्यंत मर्यादित)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "हा व्हिडिओ $videoMinutes$ मिनिटे चालेल",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

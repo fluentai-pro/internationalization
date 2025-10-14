@@ -7508,27 +7508,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "ದಿನಗಳು ಬಾಕಿ"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "ಈ ವೀಡಿಯೊಗೆ {{videoMinutes}} ನಿಮಿಷ ಬೇಕಾಗುತ್ತದೆ (ಕೋ ಕಾರಣದಿಂದಾಗಿ {{remainingQuota}} ನಿಮಿಷಗಳಿಗೆ ಸೀಮಿತವಾಗಿದೆ)",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "ಈ ವೀಡಿಯೊ {{videoMinutes}} ನಿಮಿಷಗಳನ್ನು ಬಳಸುತ್ತದೆ",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "ಜೀವಮಾನದ ಕೋಟಾ"
@@ -7542,6 +7521,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "ಈ ವೀಡಿಯೊ $videoMinutes$ ನಿಮಿಷಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ ($remainingQuota$ ನಿಮಿಷಗಳ ಕೋಟಾದ ಮಿತಿಯಿರುವುದರಿಂದ)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "ಈ ವೀಡಿಯೊಗೆ $videoMinutes$ ನಿಮಿಷಗಳು ಬೇಕಾಗುತ್ತವೆ",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }

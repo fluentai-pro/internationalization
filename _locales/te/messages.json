@@ -7655,27 +7655,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "రోజులు మిగిలి ఉన్నాయి"
   },
-  "v2_16548541": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
-    "message": "ఈ వీడియో {{videoMinutes}} నిమిషాలు ఉపయోగించుకుంటుంది (కోటా కారణంగా {{remainingQuota}} నిమిషాలకు పరిమితం చేయబడింది)",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7fb8911d": {
-    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
-    "message": "ఈ వీడియోకు {{videoMinutes}} నిమిషాలు పడుతుంది",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_7912689f": {
     "description": "Auto-generated translation for: Lifetime Quota",
     "message": "జీవితకాల కోటా"
@@ -7689,6 +7668,27 @@
       },
       "remainingQuota": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_209fcb83": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes (limited to $remainingQuota$ minutes due to quota)",
+    "message": "ఈ వీడియోకు $videoMinutes$ నిమిషాలు పడుతుంది (కోటా కారణంగా $remainingQuota$ నిమిషాలకు పరిమితం చేయబడింది)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1e458fe5": {
+    "description": "Auto-generated translation for: This video will use $videoMinutes$ minutes",
+    "message": "ఈ వీడియోకు $videoMinutes$ నిమిషాలు పడుతుంది",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
       }
     }
   }
