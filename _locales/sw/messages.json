@@ -6886,22 +6886,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "Inapakia..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "Chagua EPUB kutoka maktaba yako ili uanze kusoma"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "Hakuna kurasa zilizopatikana kwenye EPUB hii"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "Iliyotangulia"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "Hakuna maudhui yanayopatikana kwa ukurasa huu"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "EPUB imepakiwa kwa mafanikio"
@@ -7236,10 +7220,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "Washa FluentAI"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "Video hii itatumia dakika %s"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "Inapakia muda wa video..."
@@ -7247,10 +7227,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "Panga la Kuboresha"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "Video hii inahitaji dakika %s lakini una dakika %s tu zilizosalia"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7420,10 +7396,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "Fungua Kidukizo cha Tafsiri kwa Kuelea"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "Onyesha Tafsiri kwenye Orodha ya Manukuu"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "Pengo la Eneo la Chini"
@@ -7528,8 +7500,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "Chagua rangi yako"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "Ukubwa wa Maandishi ya Paneli ya Orodha ya Manukuu"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "Jaribio la Kitaalamu"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "siku zilizobaki"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "Video hii itatumia dakika {{videoMinutes}} (imepunguzwa hadi dakika {{remainingQuota}} kwa sababu ya kiasi kilichowekwa)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "Video hii itatumia dakika {{videoMinutes}}",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "Kiwango cha Juu Maishani"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "Video hii inahitaji {{videoMinutes}} dakika lakini una dakika {{remainingQuota}} zilizobaki. Utapokea manukuu ya neural kwa dakika {{remainingQuota}} za kwanza.",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

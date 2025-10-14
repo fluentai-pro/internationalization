@@ -6886,22 +6886,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "جارٍ التحميل..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "اختر كتابًا إلكترونيًا (EPUB) من مكتبتك لتبدأ القراءة"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "لم يتم العثور على صفحات في ملف EPUB هذا"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "السابق"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "لا يوجد محتوى متاح لهذه الصفحة"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "تم رفع كتاب EPUB بنجاح"
@@ -7236,10 +7220,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "تمكين FluentAI"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "سيستخدم هذا الفيديو %s دقيقة"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "جارٍ تحميل مدة الفيديو..."
@@ -7247,10 +7227,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "ترقية الخطة"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "يتطلب هذا الفيديو %s دقيقة، ولكن لا يتبقى لديك سوى %s دقيقة."
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7420,10 +7396,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "فتح نافذة الترجمة المنبثقة عند التحويم"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "عرض الترجمة في قائمة الترجمات الفرعية"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "فجوة المنطقة السفلية"
@@ -7528,8 +7500,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "اختر لونك"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "حجم نص لوحة قائمة الترجمة"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "تجربة احترافية"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "أيام متبقية"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "سيستخدم هذا الفيديو {{videoMinutes}} دقيقة (محدودة بـ {{remainingQuota}} دقيقة بسبب الحصة المخصصة)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "سيستغرق هذا الفيديو {{videoMinutes}} دقيقة",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "الحصة العمرية"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "يتطلب هذا الفيديو {{videoMinutes}} دقيقة، ولكن لا يتبقى لديك سوى {{remainingQuota}} دقيقة. ستتلقى ترجمة تلقائية لأول {{remainingQuota}} دقيقة.",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

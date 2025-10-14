@@ -6923,22 +6923,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "Téléchargement..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "Sélectionnez un EPUB dans votre bibliothèque pour commencer à lire"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "Aucune page trouvée dans cet EPUB"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "Précédent"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "Aucun contenu disponible pour cette page"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "EPUB téléchargé avec succès"
@@ -7269,10 +7253,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "Activer FluentAI"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "Cette vidéo durera %s minutes"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "Chargement de la durée de la vidéo..."
@@ -7280,10 +7260,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "Forfait de mise à niveau"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "Cette vidéo nécessite %s minutes, mais il ne vous reste que %s minutes"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7453,10 +7429,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "Ouvrir la fenêtre de traduction au survol"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "Afficher la traduction dans la liste des sous-titres"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "Écart de la zone inférieure"
@@ -7565,8 +7537,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "Choisissez votre couleur"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "Taille du texte du panneau Liste des sous-titres"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "Essai Pro"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "jours restants"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "Cette vidéo utilisera {{videoMinutes}} minutes (limité à {{remainingQuota}} minutes en raison du quota)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "Cette vidéo durera {{videoMinutes}} minutes",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "Quota à vie"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "Cette vidéo dure {{videoMinutes}} minutes, mais il ne vous reste que {{remainingQuota}} minutes de quota. Vous recevrez des sous-titres neuronaux pour les {{remainingQuota}} premières minutes.",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

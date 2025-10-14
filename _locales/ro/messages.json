@@ -6886,22 +6886,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "Se încarcă..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "Selectați un EPUB din bibliotecă pentru a începe lectura"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "Nicio pagină găsită în acest EPUB"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "Anteriorul"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "Niciun conținut disponibil pentru această pagină"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "EPUB încărcat cu succes"
@@ -7236,10 +7220,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "Activează FluentAI"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "Acest videoclip va rula %s minute"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "Se încarcă durata videoclipului..."
@@ -7247,10 +7227,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "Plan de upgrade"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "Acest videoclip necesită %s minute dar mai aveți doar %s minute rămase."
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7420,10 +7396,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "Deschide fereastra pop-up de traducere la trecerea cu mouse-ul"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "Afișează traducerea în lista de subtitrări"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "Spațiu la baza zonei"
@@ -7528,8 +7500,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "Alegeți culoarea"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "Dimensiune text panou listă subtitrări"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "Versiune de încercare Pro"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "zile rămase"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "Acest videoclip va utiliza {{videoMinutes}} minute (limitat la {{remainingQuota}} minute din cauza cotei)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "Acest videoclip va dura {{videoMinutes}} minute",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "Cotă pe viață"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "Acest videoclip necesită {{videoMinutes}} minute, dar mai aveți la dispoziție doar {{remainingQuota}} minute. Veți primi subtitrări neurale pentru primele {{remainingQuota}} minute.",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

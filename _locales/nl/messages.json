@@ -6886,22 +6886,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "Bestand uploaden..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "Selecteer een EPUB uit uw bibliotheek om te beginnen met lezen"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "Geen pagina's gevonden in deze EPUB"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "Vorige"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "Geen inhoud beschikbaar voor deze pagina"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "EPUB succesvol geüpload"
@@ -7236,10 +7220,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "FluentAI inschakelen"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "Deze video zal %s minuten duren"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "Videoduur laden..."
@@ -7247,10 +7227,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "Upgradeabonnement"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "Deze video duurt %s minuten, maar u heeft nog maar %s minuten over"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7420,10 +7396,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "Vertaling van pop-up openen bij aanwijzen"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "Vertaling in ondertitellijst weergeven"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "Spleet onderaan"
@@ -7528,8 +7500,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "Kies je kleur"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "Tekengrootte van ondertitellijstpaneel"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "Professionele proefversie"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "dagen over"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "Deze video duurt {{videoMinutes}} minuten (limiet van {{remainingQuota}} minuten vanwege quotum)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "Deze video duurt {{videoMinutes}} minuten",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "Levenslange quotum"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "Deze video duurt {{videoMinutes}} minuten, maar je hebt nog maar {{remainingQuota}} minuten over. Je ontvangt neurale ondertitels voor de eerste {{remainingQuota}} minuten.",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

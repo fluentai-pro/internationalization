@@ -6886,22 +6886,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "กำลังอัปโหลด..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "เลือก EPUB จากคลังของคุณเพื่อเริ่มอ่าน"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "ไม่พบหน้าใน EPUB นี้"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "ก่อนหน้า"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "ไม่มีเนื้อหาสำหรับหน้านี้"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "อัปโหลด EPUB สำเร็จแล้ว"
@@ -7236,10 +7220,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "เปิดใช้งาน FluentAI"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "วิดีโอนี้จะใช้เวลา %s นาที"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "กำลังโหลดระยะเวลาวิดีโอ..."
@@ -7247,10 +7227,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "อัปเกรดแพ็กเกจ"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "วิดีโอนี้ต้องใช้เวลา %s นาที แต่คุณเหลือเวลาเพียง %s นาที"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7420,10 +7396,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "เปิดหน้าต่างแปลภาษาเมื่อวางเมาส์เหนือ"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "แสดงคำแปลในรายการคำบรรยาย"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "ช่องว่างที่พื้นที่ด้านล่าง"
@@ -7528,8 +7500,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "เลือกสีของคุณ"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "ขนาดข้อความของแผงรายการคำบรรยาย"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "ทดลองใช้งาน Pro"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "วันที่เหลือ"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "วิดีโอนี้จะใช้เวลา {{videoMinutes}} นาที (จำกัดที่ {{remainingQuota}} นาทีเนื่องจากโควต้า)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "วิดีโอนี้จะใช้เวลา {{videoMinutes}} นาที",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "โควตาตลอดชีพ"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "วิดีโอนี้ต้องใช้เวลา {{videoMinutes}} นาที แต่คุณมีเวลาเหลือเพียง {{remainingQuota}} นาที คุณจะได้รับคำบรรยายที่สร้างโดย AI สำหรับ {{remainingQuota}} นาทีแรก",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

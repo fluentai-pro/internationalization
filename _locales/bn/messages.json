@@ -7033,22 +7033,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "আপলোড হচ্ছে..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "পড়া শুরু করতে আপনার লাইব্রেরি থেকে একটি EPUB নির্বাচন করুন"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "এই EPUB-এ কোনো পৃষ্ঠা পাওয়া যায়নি"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "পূর্ববর্তী"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "এই পৃষ্ঠার জন্য কোনো বিষয়বস্তু উপলব্ধ নেই"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "EPUB সফলভাবে আপলোড হয়েছে"
@@ -7383,10 +7367,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "ফ্লুয়েন্টএআই সক্ষম করুন"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "এই ভিডিওটি দেখতে %s মিনিট সময় লাগবে"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "ভিডিওর দৈর্ঘ্য লোড হচ্ছে..."
@@ -7394,10 +7374,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "প্ল্যান আপগ্রেড করুন"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "এই ভিডিওটির জন্য %s মিনিটের প্রয়োজন কিন্তু আপনার কাছে মাত্র %s মিনিট অবশিষ্ট আছে"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7563,10 +7539,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "হোভার করলে অনুবাদ পপআপ খুলুন"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "সাবটাইটেল তালিকায় অনুবাদ দেখান"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "নীচের অঞ্চল ফাঁক"
@@ -7675,8 +7647,49 @@
     "description": "Auto-generated translation for: Transliteration Visibility",
     "message": "প্রতিবর্ণীকরণ দৃশ্যমানতা"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "সাবটাইটেল তালিকা প্যানেলের পাঠ্যের আকার"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "প্রো ট্রায়াল"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "দিন বাকি"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "এই ভিডিওটি {{videoMinutes}} মিনিট ব্যবহার করবে (কোটায় সীমাবদ্ধতার কারণে {{remainingQuota}} মিনিটে সীমিত)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "এই ভিডিওটি {{videoMinutes}} মিনিট সময় নেবে",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "আজীবন কোটা"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "এই ভিডিওটির জন্য {{videoMinutes}} মিনিট প্রয়োজন, কিন্তু আপনার কাছে আছে মাত্র {{remainingQuota}} মিনিট। আপনি প্রথম {{remainingQuota}} মিনিটের জন্য নিউরাল সাবটাইটেল পাবেন।",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

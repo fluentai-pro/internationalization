@@ -6886,22 +6886,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "በመጫን ላይ..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "ንባብ ለመጀመር ከላይብረሪዎ ውስጥ EPUB ይምረጡ።"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "በዚህ EPUB ውስጥ ምንም ገጾች አልተገኙም።"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "የቀድሞ"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "ለዚህ ገጽ ምንም ይዘት የለም።"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "EPUB በተሳካ ሁኔታ ተሰቅሏል"
@@ -7236,10 +7220,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "FluentAI አንቃ"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "ይህ ቪዲዮ %s ደቂቃ ይወስዳል"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "የቪዲዮ ቆይታ እየጫነ ነው..."
@@ -7247,10 +7227,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "የዕቅድ ማሻሻያ"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "ይህ ቪዲዮ %s ደቂቃ ይወስዳል ነገር ግን የቀረው ጊዜዎ %s ደቂቃ ብቻ ነው።"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7420,10 +7396,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "ሲያልፉ ብቅ ባይ ትርጉም ከፍተ"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "ትርጉምን በትዕምርቶች ዝርዝር ውስጥ አሳይ"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "የታችኛው አካባቢ ክፍተት"
@@ -7528,8 +7500,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "ቀለምዎን ይምረጡ"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "የግርጌ ጽሑፎች ዝርዝር ፓነል የጽሑፍ መጠን"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "የሙያዊ ምዘና"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "ቀናት ቀርተዋል"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "ይህ ቪዲዮ {{videoMinutes}} ደቂቃዎችን ይወስዳል (በኮታ ምክንያት እስከ {{remainingQuota}} ደቂቃዎች ብቻ የተገደበ ነው)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "ይህ ቪዲዮ {{videoMinutes}} ደቂቃዎችን ይፈጃል",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "የህይወት ዘመን ኮታ"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "ይህ ቪዲዮ {{videoMinutes}} ደቂቃ ይወስዳል ነገር ግን የቀረው {{remainingQuota}} ደቂቃ ብቻ ነው። ለመጀመሪያዎቹ {{remainingQuota}} ደቂቃዎች የነርቭ ንዑስ ርዕሶችን ይቀበላሉ።",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

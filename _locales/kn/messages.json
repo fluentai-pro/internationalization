@@ -6886,22 +6886,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "ಅಪ್‌ಲೋಡ್‌ ಆಗುತ್ತಿದೆ..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "ಓದಲು ಪ್ರಾರಂಭಿಸಲು ನಿಮ್ಮ ಲೈಬ್ರರಿಯಿಂದ EPUB ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "ಈ EPUB ನಲ್ಲಿ ಯಾವುದೇ ಪುಟಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "ಹಿಂದಿನ"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "ಈ ಪುಟಕ್ಕೆ ಯಾವುದೇ ವಿಷಯ ಲಭ್ಯವಿಲ್ಲ"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "EPUB ಯಶಸ್ವಿಯಾಗಿ ಅಪ್‌ಲೋಡ್ ಆಗಿದೆ"
@@ -7236,10 +7220,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "ಫ್ಲೂಯೆಂಟ್AI ಸಕ್ರಿಯಗೊಳಿಸಿ"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "ಈ ವೀಡಿಯೊ %s ನಿಮಿಷಗಳನ್ನು ಬಳಸುತ್ತದೆ"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "ವೀಡಿಯೊ ಅವಧಿಯನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
@@ -7247,10 +7227,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "ಯೋಜನೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "ಈ ವೀಡಿಯೊಗೆ %s ನಿಮಿಷಗಳು ಬೇಕಾಗುತ್ತವೆ, ಆದರೆ ನಿಮ್ಮಲ್ಲಿ ಕೇವಲ %s ನಿಮಿಷಗಳು ಮಾತ್ರ ಉಳಿದಿವೆ"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7420,10 +7396,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "ಹೋವರ್ ಮಾಡಿದಾಗ ಅನುವಾದ ಪಾಪ್-ಅಪ್ ತೆರೆಯಿರಿ"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "ಉಪಶೀರ್ಷಿಕೆಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಅನುವಾದ ತೋರಿಸಿ"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "ಕೆಳಭಾಗದ ಪ್ರದೇಶದ ಅಂತರ"
@@ -7528,8 +7500,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "ನಿಮ್ಮ ಬಣ್ಣವನ್ನು ಆರಿಸಿ"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "ಉಪಶೀರ್ಷಿಕೆಗಳ ಪಟ್ಟಿ ಫಲಕ ಪಠ್ಯ ಗಾತ್ರ"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "ಪ್ರೊ ಪ್ರಯೋಗ"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "ದಿನಗಳು ಬಾಕಿ"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "ಈ ವೀಡಿಯೊಗೆ {{videoMinutes}} ನಿಮಿಷ ಬೇಕಾಗುತ್ತದೆ (ಕೋ ಕಾರಣದಿಂದಾಗಿ {{remainingQuota}} ನಿಮಿಷಗಳಿಗೆ ಸೀಮಿತವಾಗಿದೆ)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "ಈ ವೀಡಿಯೊ {{videoMinutes}} ನಿಮಿಷಗಳನ್ನು ಬಳಸುತ್ತದೆ",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "ಜೀವಮಾನದ ಕೋಟಾ"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "ಈ ವೀಡಿಯೊಗೆ {{videoMinutes}} ನಿಮಿಷಗಳು ಬೇಕಾಗುತ್ತವೆ, ಆದರೆ ನಿಮ್ಮಲ್ಲಿ ಕೇವಲ {{remainingQuota}} ನಿಮಿಷಗಳು ಮಾತ್ರ ಉಳಿದಿವೆ. ಮೊದಲ {{remainingQuota}} ನಿಮಿಷಗಳವರೆಗೆ ನೀವು ನ್ಯೂರಲ್ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಪಡೆಯುತ್ತೀರಿ.",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

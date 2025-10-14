@@ -6886,22 +6886,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "در حال بارگذاری..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "برای شروع مطالعه، یک EPUB از کتابخانه خود انتخاب کنید."
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "هیچ صفحه‌ای در این EPUB یافت نشد."
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "قبلی"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "محتوایی برای این صفحه در دسترس نیست"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "EPUB با موفقیت بارگذاری شد"
@@ -7236,10 +7220,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "فعال‌سازی FluentAI"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "این ویدیو %s دقیقه خواهد بود"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "در حال بارگذاری مدت زمان ویدئو..."
@@ -7247,10 +7227,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "برنامه ارتقا"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "این ویدئو به %s دقیقه زمان نیاز دارد ولی شما تنها %s دقیقه زمان باقی‌مانده دارید."
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7420,10 +7396,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "باز کردن پنجره بازشو ترجمه هنگام نگه داشتن مکان‌نما"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "نمایش ترجمه در لیست زیرنویس‌ها"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "شکاف ناحیه پایین"
@@ -7528,8 +7500,37 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "رنگ خود را انتخاب کنید"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "اندازه متن پنل فهرست زیرنویس‌ها"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "نسخه آزمایشی حرفه‌ای"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "روز باقی مانده"
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "این ویدیو {{videoMinutes}} دقیقه طول خواهد کشید",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "سهمیه مادام‌العمر"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "این ویدئو نیاز به {{videoMinutes}} دقیقه دارد؛ اما شما تنها {{remainingQuota}} دقیقه زمان باقی‌مانده دارید. زیرنویس‌های عصبی برای اولین {{remainingQuota}} دقیقه در دسترس شما قرار خواهد گرفت.",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

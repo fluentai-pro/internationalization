@@ -6886,22 +6886,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "അപ്‌ലോഡുചെയ്യുന്നു..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "വായിക്കാൻ തുടങ്ങുന്നതിന് നിങ്ങളുടെ ലൈബ്രറിയിൽ നിന്നും ഒരു EPUB തിരഞ്ഞെടുക്കുക"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "ഈ EPUB-ൽ പേജുകളൊന്നും കണ്ടെത്തിയില്ല"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "മുൻപത്തെ"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "ഈ പേജിന് ഉള്ളടക്കമൊന്നും ലഭ്യമല്ല"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "EPUB വിജയകരമായി അപ്‌ലോഡ് ചെയ്തു"
@@ -7236,10 +7220,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "ഫ്ലുവന്റ്എഐ ഓണാക്കുക"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "ഈ വീഡിയോ %s മിനിറ്റ് ദൈർഘ്യം ഉള്ളതാണ്"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "വീഡിയോ ദൈർഘ്യം ലോഡ് ചെയ്യുന്നു..."
@@ -7247,10 +7227,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "പ്ലാൻ നവീകരിക്കുക"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "ഈ വീഡിയോയ്ക്ക് %s മിനിറ്റ് ആവശ്യമാണ്, എന്നാൽ നിങ്ങൾക്ക് %s മിനിറ്റ് മാത്രമേ ശേഷിക്കുന്നുള്ളൂ"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7420,10 +7396,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "ഹോവർ ചെയ്യുമ്പോൾ ട്രാൻസ്‍ലേഷൻ പോപ്പപ്പ് തുറക്കുക"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "സബ്‌ടൈറ്റിൽ ലിസ്റ്റിൽ വിവർത്തനം കാണിക്കുക"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "ചുവടെയുള്ള ഭാഗത്തെ വിടവ്"
@@ -7528,8 +7500,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "നിങ്ങളുടെ നിറം തിരഞ്ഞെടുക്കുക"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "സബ്ടൈറ്റിലുകൾ പട്ടിക പാനൽ ടെക്സ്റ്റ് വലുപ്പം"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "പ്രോ ട്രയൽ"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "ദിവസങ്ങൾ അവശേഷിക്കുന്നു"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "ഈ വീഡിയോയ്ക്ക് {{videoMinutes}} മിനിറ്റ് എടുക്കും (പങ്കാളിത്തം മൂലം {{remainingQuota}} മിനിറ്റായി പരിമിതപ്പെടുത്തിയിരിക്കുന്നു)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "ഈ വീഡിയോയ്ക്ക് {{videoMinutes}} മിനിറ്റ് എടുക്കും",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "ആജീവനാന്ത ക്വാട്ട"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "ഈ വീഡിയോയ്ക്ക് {{videoMinutes}} മിനിറ്റ് ആവശ്യമാണ്, എന്നാൽ നിങ്ങൾക്ക് {{remainingQuota}} മിനിറ്റ് മാത്രമേ ബാക്കിയുള്ളൂ. ആദ്യത്തെ {{remainingQuota}} മിനിറ്റിനുള്ള ന്യൂറൽ സബ്‌ടൈറ്റിലുകൾ നിങ്ങൾക്ക് ലഭിക്കുന്നതാണ്.",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

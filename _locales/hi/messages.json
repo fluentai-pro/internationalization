@@ -7038,22 +7038,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "अपलोड हो रहा है..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "पढ़ना शुरू करने के लिए अपनी लाइब्रेरी से एक ईपीयूबी चुनें"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "इस EPUB में कोई पृष्ठ नहीं मिला"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "पिछला"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "इस पृष्ठ के लिए कोई सामग्री उपलब्ध नहीं है"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "ईपीयूबी सफलतापूर्वक अपलोड हो गया"
@@ -7388,10 +7372,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "फ्लुएंटएआई सक्षम करें"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "यह वीडियो %s मिनट का होगा"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "वीडियो अवधि लोड हो रही है..."
@@ -7399,10 +7379,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "योजना अपग्रेड करें"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "इस वीडियो को देखने के लिए %s मिनट चाहिए लेकिन आपके पास केवल %s मिनट बचे हैं"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7572,10 +7548,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "मंडराते ही अनुवाद पॉपअप खोलें"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "उपशीर्षक सूची में अनुवाद दिखाएँ"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "निचले क्षेत्र का अंतर"
@@ -7680,8 +7652,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "अपना रंग चुनें"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "उपशीर्षक सूची पैनल पाठ का आकार"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "प्रो परीक्षण"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "दिन शेष"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "यह वीडियो {{videoMinutes}} मिनट का होगा (कोटा के कारण {{remainingQuota}} मिनट तक सीमित)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "यह वीडियो {{videoMinutes}} मिनट का होगा",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "लाइफटाइम कोटा"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "इस वीडियो के लिए {{videoMinutes}} मिनट चाहिए, लेकिन आपके पास केवल {{remainingQuota}} मिनट बचे हैं। आपको पहले {{remainingQuota}} मिनट के लिए न्यूरल सबटाइटल मिलेंगे।",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }

@@ -7033,22 +7033,6 @@
     "description": "Auto-generated translation for: Uploading...",
     "message": "అప్‌లోడ్ అవుతోంది..."
   },
-  "v2_01a5d0c2": {
-    "description": "Auto-generated translation for: Select an EPUB from your library to start reading",
-    "message": "చదవడం ప్రారంభించడానికి మీ లైబ్రరీ నుండి EPUBని ఎంచుకోండి"
-  },
-  "v2_6c4fc568": {
-    "description": "Auto-generated translation for: No pages found in this EPUB",
-    "message": "ఈ EPUBలో పేజీలు ఏవీ కనుగొనబడలేదు"
-  },
-  "v2_4811e0e9": {
-    "description": "Auto-generated translation for: Previous",
-    "message": "మునుపటి"
-  },
-  "v2_33c9e23d": {
-    "description": "Auto-generated translation for: No content available for this page",
-    "message": "ఈ పేజీకి కంటెంట్ అందుబాటులో లేదు"
-  },
   "v2_76053a41": {
     "description": "Auto-generated translation for: EPUB uploaded successfully",
     "message": "EPUB విజయవంతంగా అప్‌లోడ్ చేయబడింది"
@@ -7383,10 +7367,6 @@
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "ఫ్లూయెంట్ఏఐని ఎనేబుల్ చేయండి"
   },
-  "v2_558e3bed": {
-    "description": "Auto-generated translation for: This video will use %s minutes",
-    "message": "ఈ వీడియో %s నిమిషాలు ఉంటుంది"
-  },
   "v2_5df79a31": {
     "description": "Auto-generated translation for: Loading video duration...",
     "message": "వీడియో నిడివి లోడ్ అవుతోంది..."
@@ -7394,10 +7374,6 @@
   "v2_496c6513": {
     "description": "Auto-generated translation for: Upgrade Plan",
     "message": "ప్లాన్‌ను అప్‌గ్రేడ్ చేయండి"
-  },
-  "v2_64d14b6f": {
-    "description": "Auto-generated translation for: This video requires %s minutes but you only have %s minutes remaining",
-    "message": "ఈ వీడియోకు %s నిమిషాలు అవసరం, కానీ మీకు %s నిమిషాలు మాత్రమే మిగిలి ఉన్నాయి"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -7567,10 +7543,6 @@
     "description": "Auto-generated translation for: Open Translation Popup on Hover",
     "message": "హోవర్‌పై అనువాద పాప్‌అప్‌ను తెరవండి"
   },
-  "v2_2673a54c": {
-    "description": "Auto-generated translation for: Show Translation in Subtitles List",
-    "message": "సబ్‌టైటిల్స్ జాబితాలో అనువాదాన్ని చూపించు"
-  },
   "v2_650906f8": {
     "description": "Auto-generated translation for: Bottom Area Gap",
     "message": "దిగువ ప్రాంత అంతరం"
@@ -7675,8 +7647,49 @@
     "description": "Auto-generated translation for: Choose your color",
     "message": "మీ రంగును ఎంచుకోండి"
   },
-  "v2_6c15e43b": {
-    "description": "Auto-generated translation for: Subtitles List Panel Text Size",
-    "message": "సబ్‌టైటిల్స్ జాబితా ప్యానెల్ టెక్స్ట్ సైజు"
+  "v2_3d13705d": {
+    "description": "Auto-generated translation for: Pro Trial",
+    "message": "ప్రో ట్రయల్"
+  },
+  "v2_0e123e30": {
+    "description": "Auto-generated translation for: days left",
+    "message": "రోజులు మిగిలి ఉన్నాయి"
+  },
+  "v2_16548541": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes (limited to {{remainingQuota}} minutes due to quota)",
+    "message": "ఈ వీడియో {{videoMinutes}} నిమిషాలు ఉపయోగించుకుంటుంది (కోటా కారణంగా {{remainingQuota}} నిమిషాలకు పరిమితం చేయబడింది)",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_7fb8911d": {
+    "description": "Auto-generated translation for: This video will use {{videoMinutes}} minutes",
+    "message": "ఈ వీడియోకు {{videoMinutes}} నిమిషాలు పడుతుంది",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7912689f": {
+    "description": "Auto-generated translation for: Lifetime Quota",
+    "message": "జీవితకాల కోటా"
+  },
+  "v2_05c52cdc": {
+    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
+    "message": "ఈ వీడియోకు {{videoMinutes}} నిమిషాలు అవసరం, కానీ మీకు ఇంక {{remainingQuota}} నిమిషాలు మాత్రమే మిగిలి ఉన్నాయి. మొదటి {{remainingQuota}} నిమిషాలకు మీకు న్యూరల్ ఉపశీర్షికలు లభిస్తాయి.",
+    "placeholders": {
+      "videoMinutes": {
+        "content": "$1"
+      },
+      "remainingQuota": {
+        "content": "$2"
+      }
+    }
   }
 }
