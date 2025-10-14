@@ -7731,5 +7731,98 @@
   "v2_33c9e23d": {
     "description": "Auto-generated translation for: No content available for this page",
     "message": "ไม่มีเนื้อหาสำหรับหน้านี้"
+  },
+  "v2_619cb302": {
+    "description": "Auto-generated translation for: Preparing export...",
+    "message": "กำลังเตรียมการส่งออก..."
+  },
+  "v2_5e7f99a9": {
+    "description": "Auto-generated translation for: Creating Anki deck...",
+    "message": "กำลังสร้างเด็ค Anki..."
+  },
+  "v2_414e60bc": {
+    "description": "Auto-generated translation for: Export complete!",
+    "message": "ส่งออกสมบูรณ์แล้ว!"
+  },
+  "v2_08fc84b0": {
+    "description": "Auto-generated translation for: Exporting to Anki...",
+    "message": "กำลังส่งออกไปยัง Anki..."
+  },
+  "v2_7bfb7a37": {
+    "description": "Auto-generated translation for: Exporting {count} entries to Anki",
+    "message": "กำลังส่งออก {count} รายการไปยัง Anki",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1e96f7d3": {
+    "description": "Auto-generated translation for: CSV Delimiter",
+    "message": "ตัวคั่น CSV"
+  },
+  "v2_20fdbd89": {
+    "description": "Auto-generated translation for: Choose the character to separate values",
+    "message": "เลือกอักขระเพื่อคั่นค่า"
+  },
+  "v2_1b4e07fd": {
+    "description": "Auto-generated translation for: Select delimiter",
+    "message": "เลือกตัวคั่น"
+  },
+  "v2_1df907ba": {
+    "description": "Auto-generated translation for: Comma (,)",
+    "message": "เครื่องหมายจุลภาค (,)"
+  },
+  "v2_6ad26d67": {
+    "description": "Auto-generated translation for: Semicolon (;)",
+    "message": "อัฒภาค (;)"
+  },
+  "v2_00014775": {
+    "description": "Auto-generated translation for: Tab",
+    "message": "แท็บ"
+  },
+  "v2_12766ffd": {
+    "description": "Auto-generated translation for: Pipe (|)",
+    "message": "เครื่องหมายไปป์ (|)"
+  },
+  "v2_0c3774be": {
+    "description": "Auto-generated translation for: Standard format, may conflict with commas in sentences",
+    "message": "รูปแบบมาตรฐาน อาจขัดแย้งกับเครื่องหมายจุลภาคในประโยค"
+  },
+  "v2_3d33337f": {
+    "description": "Auto-generated translation for: Good for European locales and sentences with commas",
+    "message": "เหมาะสำหรับสถานที่ในยุโรปและประโยคที่มีเครื่องหมายจุลภาค"
+  },
+  "v2_6ab254c3": {
+    "description": "Auto-generated translation for: Clean separation, works well with all text",
+    "message": "แยกจากกันอย่างชัดเจน ใช้งานได้ดีกับข้อความทุกประเภท"
+  },
+  "v2_319381fc": {
+    "description": "Auto-generated translation for: Rare in text, minimal conflicts",
+    "message": "หายากในข้อความ ความขัดแย้งน้อยที่สุด"
+  },
+  "v2_6cb2cf8d": {
+    "description": "Auto-generated translation for: Select Book",
+    "message": "เลือกหนังสือ"
+  },
+  "v2_67b52e74": {
+    "description": "Auto-generated translation for: No books in your library",
+    "message": "ไม่มีหนังสือในคลังของคุณ"
+  },
+  "v2_408d6104": {
+    "description": "Auto-generated translation for: Upload your first EPUB to get started",
+    "message": "อัปโหลด EPUB แรกของคุณเพื่อเริ่มต้นใช้งาน"
+  },
+  "v2_09ecadf3": {
+    "description": "Auto-generated translation for: No book selected",
+    "message": "ไม่ได้เลือกหนังสือ"
+  },
+  "v2_532adef9": {
+    "description": "Auto-generated translation for: Select a book from the dropdown to start reading",
+    "message": "เลือกหนังสือจากรายการดรอปดาวน์เพื่อเริ่มต้นอ่าน"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "ก่อนหน้า"
   }
 }

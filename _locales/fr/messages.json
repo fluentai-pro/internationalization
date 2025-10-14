@@ -7768,5 +7768,98 @@
   "v2_33c9e23d": {
     "description": "Auto-generated translation for: No content available for this page",
     "message": "Aucun contenu disponible pour cette page"
+  },
+  "v2_619cb302": {
+    "description": "Auto-generated translation for: Preparing export...",
+    "message": "Préparation de l'exportation..."
+  },
+  "v2_5e7f99a9": {
+    "description": "Auto-generated translation for: Creating Anki deck...",
+    "message": "Création du paquet Anki..."
+  },
+  "v2_414e60bc": {
+    "description": "Auto-generated translation for: Export complete!",
+    "message": "Exportation terminée !"
+  },
+  "v2_08fc84b0": {
+    "description": "Auto-generated translation for: Exporting to Anki...",
+    "message": "Exportation vers Anki..."
+  },
+  "v2_7bfb7a37": {
+    "description": "Auto-generated translation for: Exporting {count} entries to Anki",
+    "message": "Exportation de {count} entrées vers Anki",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1e96f7d3": {
+    "description": "Auto-generated translation for: CSV Delimiter",
+    "message": "Délimiteur CSV"
+  },
+  "v2_20fdbd89": {
+    "description": "Auto-generated translation for: Choose the character to separate values",
+    "message": "Choisissez le caractère pour séparer les valeurs"
+  },
+  "v2_1b4e07fd": {
+    "description": "Auto-generated translation for: Select delimiter",
+    "message": "Sélectionner un délimiteur"
+  },
+  "v2_1df907ba": {
+    "description": "Auto-generated translation for: Comma (,)",
+    "message": "Virgule (,)"
+  },
+  "v2_6ad26d67": {
+    "description": "Auto-generated translation for: Semicolon (;)",
+    "message": "Point-virgule (;)"
+  },
+  "v2_00014775": {
+    "description": "Auto-generated translation for: Tab",
+    "message": "Tabulation"
+  },
+  "v2_12766ffd": {
+    "description": "Auto-generated translation for: Pipe (|)",
+    "message": "Barre verticale (|)"
+  },
+  "v2_0c3774be": {
+    "description": "Auto-generated translation for: Standard format, may conflict with commas in sentences",
+    "message": "Format standard, peut entrer en conflit avec les virgules dans les phrases"
+  },
+  "v2_3d33337f": {
+    "description": "Auto-generated translation for: Good for European locales and sentences with commas",
+    "message": "Bon pour les locales européennes et les phrases avec des virgules"
+  },
+  "v2_6ab254c3": {
+    "description": "Auto-generated translation for: Clean separation, works well with all text",
+    "message": "Séparation nette, fonctionne bien avec tout le texte"
+  },
+  "v2_319381fc": {
+    "description": "Auto-generated translation for: Rare in text, minimal conflicts",
+    "message": "Rare dans le texte, conflits minimaux"
+  },
+  "v2_6cb2cf8d": {
+    "description": "Auto-generated translation for: Select Book",
+    "message": "Sélectionner un livre"
+  },
+  "v2_67b52e74": {
+    "description": "Auto-generated translation for: No books in your library",
+    "message": "Aucun livre dans votre bibliothèque"
+  },
+  "v2_408d6104": {
+    "description": "Auto-generated translation for: Upload your first EPUB to get started",
+    "message": "Importez votre premier EPUB pour commencer."
+  },
+  "v2_09ecadf3": {
+    "description": "Auto-generated translation for: No book selected",
+    "message": "Aucun livre sélectionné"
+  },
+  "v2_532adef9": {
+    "description": "Auto-generated translation for: Select a book from the dropdown to start reading",
+    "message": "Sélectionnez un livre dans le menu déroulant pour commencer votre lecture"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "Précédent"
   }
 }

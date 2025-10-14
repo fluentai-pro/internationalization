@@ -7878,5 +7878,98 @@
   "v2_33c9e23d": {
     "description": "Auto-generated translation for: No content available for this page",
     "message": "এই পৃষ্ঠার জন্য কোনো বিষয়বস্তু উপলব্ধ নেই"
+  },
+  "v2_619cb302": {
+    "description": "Auto-generated translation for: Preparing export...",
+    "message": "রপ্তানির প্রস্তুতি চলছে..."
+  },
+  "v2_5e7f99a9": {
+    "description": "Auto-generated translation for: Creating Anki deck...",
+    "message": "আঙ্কি ডেক তৈরি হচ্ছে..."
+  },
+  "v2_414e60bc": {
+    "description": "Auto-generated translation for: Export complete!",
+    "message": "রপ্তানি সম্পূর্ণ হয়েছে!"
+  },
+  "v2_08fc84b0": {
+    "description": "Auto-generated translation for: Exporting to Anki...",
+    "message": "আঙ্কিতে এক্সপোর্ট করা হচ্ছে..."
+  },
+  "v2_7bfb7a37": {
+    "description": "Auto-generated translation for: Exporting {count} entries to Anki",
+    "message": "Anki-তে {count}টি এন্ট্রি এক্সপোর্ট করা হচ্ছে",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1e96f7d3": {
+    "description": "Auto-generated translation for: CSV Delimiter",
+    "message": "CSV ডিলিমিটার"
+  },
+  "v2_20fdbd89": {
+    "description": "Auto-generated translation for: Choose the character to separate values",
+    "message": "মানগুলি পৃথক করার জন্য অক্ষরটি চয়ন করুন"
+  },
+  "v2_1b4e07fd": {
+    "description": "Auto-generated translation for: Select delimiter",
+    "message": "সীমায়ক নির্বাচন করুন"
+  },
+  "v2_1df907ba": {
+    "description": "Auto-generated translation for: Comma (,)",
+    "message": "কমা (,)"
+  },
+  "v2_6ad26d67": {
+    "description": "Auto-generated translation for: Semicolon (;)",
+    "message": "সেমিকোলন (;)"
+  },
+  "v2_00014775": {
+    "description": "Auto-generated translation for: Tab",
+    "message": "ট্যাব"
+  },
+  "v2_12766ffd": {
+    "description": "Auto-generated translation for: Pipe (|)",
+    "message": "পাইপ (|)"
+  },
+  "v2_0c3774be": {
+    "description": "Auto-generated translation for: Standard format, may conflict with commas in sentences",
+    "message": "স্ট্যান্ডার্ড ফর্ম্যাট, বাক্যে কমার সাথে সাংঘর্ষিক হতে পারে"
+  },
+  "v2_3d33337f": {
+    "description": "Auto-generated translation for: Good for European locales and sentences with commas",
+    "message": "ইউরোপীয় স্থান এবং কমাযুক্ত বাক্যগুলির জন্য ভালো"
+  },
+  "v2_6ab254c3": {
+    "description": "Auto-generated translation for: Clean separation, works well with all text",
+    "message": "পরিষ্কার বিচ্ছেদ, সমস্ত লেখার সাথে ভালোভাবে কাজ করে"
+  },
+  "v2_319381fc": {
+    "description": "Auto-generated translation for: Rare in text, minimal conflicts",
+    "message": "লেখায় বিরল, ন্যূনতম দ্বন্দ্ব"
+  },
+  "v2_6cb2cf8d": {
+    "description": "Auto-generated translation for: Select Book",
+    "message": "বই নির্বাচন করুন"
+  },
+  "v2_67b52e74": {
+    "description": "Auto-generated translation for: No books in your library",
+    "message": "আপনার লাইব্রেরিতে কোনো বই নেই"
+  },
+  "v2_408d6104": {
+    "description": "Auto-generated translation for: Upload your first EPUB to get started",
+    "message": "শুরু করতে আপনার প্রথম EPUB আপলোড করুন"
+  },
+  "v2_09ecadf3": {
+    "description": "Auto-generated translation for: No book selected",
+    "message": "কোনো বই নির্বাচন করা হয়নি"
+  },
+  "v2_532adef9": {
+    "description": "Auto-generated translation for: Select a book from the dropdown to start reading",
+    "message": "পড়া শুরু করতে ড্রপডাউন থেকে একটি বই নির্বাচন করুন"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "পূর্ববর্তী"
   }
 }

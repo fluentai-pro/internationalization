@@ -7883,5 +7883,98 @@
   "v2_33c9e23d": {
     "description": "Auto-generated translation for: No content available for this page",
     "message": "इस पृष्ठ के लिए कोई सामग्री उपलब्ध नहीं है"
+  },
+  "v2_619cb302": {
+    "description": "Auto-generated translation for: Preparing export...",
+    "message": "निर्यात तैयार किया जा रहा है..."
+  },
+  "v2_5e7f99a9": {
+    "description": "Auto-generated translation for: Creating Anki deck...",
+    "message": "अंकी डेक बनाया जा रहा है..."
+  },
+  "v2_414e60bc": {
+    "description": "Auto-generated translation for: Export complete!",
+    "message": "निर्यात पूर्ण!"
+  },
+  "v2_08fc84b0": {
+    "description": "Auto-generated translation for: Exporting to Anki...",
+    "message": "अंकी को निर्यात किया जा रहा है..."
+  },
+  "v2_7bfb7a37": {
+    "description": "Auto-generated translation for: Exporting {count} entries to Anki",
+    "message": "Anki में {count} प्रविष्टियाँ निर्यात कर रहा है",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1e96f7d3": {
+    "description": "Auto-generated translation for: CSV Delimiter",
+    "message": "CSV डेलीमीटर."
+  },
+  "v2_20fdbd89": {
+    "description": "Auto-generated translation for: Choose the character to separate values",
+    "message": "मानों को अलग करने के लिए वर्ण चुनें"
+  },
+  "v2_1b4e07fd": {
+    "description": "Auto-generated translation for: Select delimiter",
+    "message": "डीलिमिटर चुनें"
+  },
+  "v2_1df907ba": {
+    "description": "Auto-generated translation for: Comma (,)",
+    "message": "अल्पविराम (,)"
+  },
+  "v2_6ad26d67": {
+    "description": "Auto-generated translation for: Semicolon (;)",
+    "message": "अर्धविराम (;)"
+  },
+  "v2_00014775": {
+    "description": "Auto-generated translation for: Tab",
+    "message": "टैब"
+  },
+  "v2_12766ffd": {
+    "description": "Auto-generated translation for: Pipe (|)",
+    "message": "पाइप (|)"
+  },
+  "v2_0c3774be": {
+    "description": "Auto-generated translation for: Standard format, may conflict with commas in sentences",
+    "message": "मानक प्रारूप, वाक्यों में अल्पविरामों से विरोधाभास हो सकता है"
+  },
+  "v2_3d33337f": {
+    "description": "Auto-generated translation for: Good for European locales and sentences with commas",
+    "message": "यूरोपीय स्थानों और अल्पविराम वाले वाक्यों के लिए अच्छा"
+  },
+  "v2_6ab254c3": {
+    "description": "Auto-generated translation for: Clean separation, works well with all text",
+    "message": "स्वच्छ अलगाव, सभी टेक्स्ट के साथ अच्छी तरह काम करता है"
+  },
+  "v2_319381fc": {
+    "description": "Auto-generated translation for: Rare in text, minimal conflicts",
+    "message": "पाठ में दुर्लभ, न्यूनतम संघर्ष"
+  },
+  "v2_6cb2cf8d": {
+    "description": "Auto-generated translation for: Select Book",
+    "message": "पुस्तक चुनें"
+  },
+  "v2_67b52e74": {
+    "description": "Auto-generated translation for: No books in your library",
+    "message": "आपकी लाइब्रेरी में कोई किताब नहीं है"
+  },
+  "v2_408d6104": {
+    "description": "Auto-generated translation for: Upload your first EPUB to get started",
+    "message": "शुरू करने के लिए अपनी पहली EPUB अपलोड करें"
+  },
+  "v2_09ecadf3": {
+    "description": "Auto-generated translation for: No book selected",
+    "message": "कोई पुस्तक नहीं चुनी गई"
+  },
+  "v2_532adef9": {
+    "description": "Auto-generated translation for: Select a book from the dropdown to start reading",
+    "message": "पढ़ना शुरू करने के लिए ड्रॉपडाउन से एक किताब चुनें"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "पिछला"
   }
 }

@@ -7731,5 +7731,98 @@
   "v2_33c9e23d": {
     "description": "Auto-generated translation for: No content available for this page",
     "message": "ഈ പേജിന് ഉള്ളടക്കം ലഭ്യമല്ല"
+  },
+  "v2_619cb302": {
+    "description": "Auto-generated translation for: Preparing export...",
+    "message": "കയറ്റുമതി തയ്യാറാക്കുന്നു..."
+  },
+  "v2_5e7f99a9": {
+    "description": "Auto-generated translation for: Creating Anki deck...",
+    "message": "അങ്കി ഡെക്ക് ഉണ്ടാക്കുന്നു..."
+  },
+  "v2_414e60bc": {
+    "description": "Auto-generated translation for: Export complete!",
+    "message": "കയറ്റുമതി പൂർത്തിയായി!"
+  },
+  "v2_08fc84b0": {
+    "description": "Auto-generated translation for: Exporting to Anki...",
+    "message": "ആൻകിയിലേക്ക് എക്സ്പോർട്ട് ചെയ്യുന്നു..."
+  },
+  "v2_7bfb7a37": {
+    "description": "Auto-generated translation for: Exporting {count} entries to Anki",
+    "message": "ആൻകിയിലേക്ക് {count} എൻട്രികൾ കയറ്റുമതി ചെയ്യുന്നു",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1e96f7d3": {
+    "description": "Auto-generated translation for: CSV Delimiter",
+    "message": "CSV ഡിലിമിറ്റർ"
+  },
+  "v2_20fdbd89": {
+    "description": "Auto-generated translation for: Choose the character to separate values",
+    "message": "വിലകൾ വേർതിരിക്കാൻ പ്രതീകം തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_1b4e07fd": {
+    "description": "Auto-generated translation for: Select delimiter",
+    "message": "ഡിലിമിറ്റർ തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_1df907ba": {
+    "description": "Auto-generated translation for: Comma (,)",
+    "message": "കോമ (,)"
+  },
+  "v2_6ad26d67": {
+    "description": "Auto-generated translation for: Semicolon (;)",
+    "message": "അർദ്ധവിരാമം (;)"
+  },
+  "v2_00014775": {
+    "description": "Auto-generated translation for: Tab",
+    "message": "ടാബ്"
+  },
+  "v2_12766ffd": {
+    "description": "Auto-generated translation for: Pipe (|)",
+    "message": "പൈപ്പ് (|)"
+  },
+  "v2_0c3774be": {
+    "description": "Auto-generated translation for: Standard format, may conflict with commas in sentences",
+    "message": "സാധാരണ ഫോർമാറ്റ്, വാക്യങ്ങളിലെ കോമകളുമായി പൊരുത്തപ്പെടാൻ സാധ്യതയുണ്ട്"
+  },
+  "v2_3d33337f": {
+    "description": "Auto-generated translation for: Good for European locales and sentences with commas",
+    "message": "യൂറോപ്യൻ സ്ഥലങ്ങൾക്കും കോമകളുള്ള വാക്യങ്ങൾക്കും നല്ലതാണ്"
+  },
+  "v2_6ab254c3": {
+    "description": "Auto-generated translation for: Clean separation, works well with all text",
+    "message": "വ്യക്തമായ വേർതിരിവ്, എല്ലാ ടെക്‌സ്റ്റുകളോടും നന്നായി യോജിക്കുന്നു"
+  },
+  "v2_319381fc": {
+    "description": "Auto-generated translation for: Rare in text, minimal conflicts",
+    "message": "ടെക്സ്റ്റിൽ അപൂർവ്വം, വളരെ കുറഞ്ഞ വൈരുദ്ധ്യങ്ങൾ"
+  },
+  "v2_6cb2cf8d": {
+    "description": "Auto-generated translation for: Select Book",
+    "message": "പുസ്തകം തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_67b52e74": {
+    "description": "Auto-generated translation for: No books in your library",
+    "message": "നിങ്ങളുടെ ലൈബ്രറിയിൽ പുസ്തകങ്ങളില്ല"
+  },
+  "v2_408d6104": {
+    "description": "Auto-generated translation for: Upload your first EPUB to get started",
+    "message": "ആരംഭിക്കാൻ നിങ്ങളുടെ ആദ്യത്തെ EPUB അപ്‌ലോഡ് ചെയ്യുക"
+  },
+  "v2_09ecadf3": {
+    "description": "Auto-generated translation for: No book selected",
+    "message": "പുസ്തകങ്ങളൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല"
+  },
+  "v2_532adef9": {
+    "description": "Auto-generated translation for: Select a book from the dropdown to start reading",
+    "message": "വായിച്ചു തുടങ്ങുന്നതിന് ഡ്രോപ്പ്ഡൗണിൽ നിന്നും ഒരു പുസ്തകം തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "മുമ്പത്തെ"
   }
 }

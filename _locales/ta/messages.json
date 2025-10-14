@@ -7731,5 +7731,98 @@
   "v2_33c9e23d": {
     "description": "Auto-generated translation for: No content available for this page",
     "message": "இந்த பக்கத்திற்கு எந்த உள்ளடக்கமும் இல்லை"
+  },
+  "v2_619cb302": {
+    "description": "Auto-generated translation for: Preparing export...",
+    "message": "ஏற்றுமதி தயாராகிறது..."
+  },
+  "v2_5e7f99a9": {
+    "description": "Auto-generated translation for: Creating Anki deck...",
+    "message": "அன்கி டெக்கை உருவாக்குகிறோம்..."
+  },
+  "v2_414e60bc": {
+    "description": "Auto-generated translation for: Export complete!",
+    "message": "ஏற்றுமதி வெற்றிகரம்!"
+  },
+  "v2_08fc84b0": {
+    "description": "Auto-generated translation for: Exporting to Anki...",
+    "message": "அன்கிக்கு ஏற்றுமதி செய்யப்படுகிறது..."
+  },
+  "v2_7bfb7a37": {
+    "description": "Auto-generated translation for: Exporting {count} entries to Anki",
+    "message": "$count$ உள்ளீடுகள் அங்கிக்கு ஏற்றுமதி செய்யப்படுகின்றன",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1e96f7d3": {
+    "description": "Auto-generated translation for: CSV Delimiter",
+    "message": "CSV பிரிப்பான்"
+  },
+  "v2_20fdbd89": {
+    "description": "Auto-generated translation for: Choose the character to separate values",
+    "message": "மதிப்புகளைப் பிரிக்க வேண்டிய எழுத்தைத் தேர்வுசெய்யவும்"
+  },
+  "v2_1b4e07fd": {
+    "description": "Auto-generated translation for: Select delimiter",
+    "message": "பிரிப்பினைத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_1df907ba": {
+    "description": "Auto-generated translation for: Comma (,)",
+    "message": "கமா (,)"
+  },
+  "v2_6ad26d67": {
+    "description": "Auto-generated translation for: Semicolon (;)",
+    "message": "அரைப்புள்ளி (;)"
+  },
+  "v2_00014775": {
+    "description": "Auto-generated translation for: Tab",
+    "message": "தாவல்"
+  },
+  "v2_12766ffd": {
+    "description": "Auto-generated translation for: Pipe (|)",
+    "message": "குழாய் (|)"
+  },
+  "v2_0c3774be": {
+    "description": "Auto-generated translation for: Standard format, may conflict with commas in sentences",
+    "message": "நிலையான வடிவம், வாக்கியங்களில் உள்ள கமாக்களுடன் முரண்படலாம்"
+  },
+  "v2_3d33337f": {
+    "description": "Auto-generated translation for: Good for European locales and sentences with commas",
+    "message": "ஐரோப்பிய வட்டாரங்களுக்கும், காற்புள்ளிகள் கொண்ட வாக்கியங்களுக்கும் நல்லது"
+  },
+  "v2_6ab254c3": {
+    "description": "Auto-generated translation for: Clean separation, works well with all text",
+    "message": "தெளிவான பிரிவு, அனைத்து உரைகளுடன் நன்றாக வேலை செய்கிறது"
+  },
+  "v2_319381fc": {
+    "description": "Auto-generated translation for: Rare in text, minimal conflicts",
+    "message": "உரைகளில் அரிதானது, குறைந்தபட்ச மோதல்கள்"
+  },
+  "v2_6cb2cf8d": {
+    "description": "Auto-generated translation for: Select Book",
+    "message": "புத்தகத்தைத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_67b52e74": {
+    "description": "Auto-generated translation for: No books in your library",
+    "message": "உங்கள் நூலகத்தில் புத்தகங்கள் இல்லை"
+  },
+  "v2_408d6104": {
+    "description": "Auto-generated translation for: Upload your first EPUB to get started",
+    "message": "தொடங்குவதற்கு உங்கள் முதல் EPUBஐப் பதிவேற்றவும்"
+  },
+  "v2_09ecadf3": {
+    "description": "Auto-generated translation for: No book selected",
+    "message": "எந்தப் புத்தகமும் தேர்ந்தெடுக்கப்படவில்லை"
+  },
+  "v2_532adef9": {
+    "description": "Auto-generated translation for: Select a book from the dropdown to start reading",
+    "message": "படிக்கத் தொடங்க கீழ்தோன்றும் பட்டியலிலிருந்து ஒரு புத்தகத்தைத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "முந்தையது"
   }
 }

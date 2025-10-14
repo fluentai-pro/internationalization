@@ -7731,5 +7731,98 @@
   "v2_33c9e23d": {
     "description": "Auto-generated translation for: No content available for this page",
     "message": "ಈ ಪುಟಕ್ಕೆ ಯಾವುದೇ ವಿಷಯ ಲಭ್ಯವಿಲ್ಲ"
+  },
+  "v2_619cb302": {
+    "description": "Auto-generated translation for: Preparing export...",
+    "message": "ರಫ್ತನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_5e7f99a9": {
+    "description": "Auto-generated translation for: Creating Anki deck...",
+    "message": "ಅಂಕಿ ಡೆಕ್ ರಚಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_414e60bc": {
+    "description": "Auto-generated translation for: Export complete!",
+    "message": "ರಫ್ತು ಪೂರ್ಣಗೊಂಡಿದೆ!"
+  },
+  "v2_08fc84b0": {
+    "description": "Auto-generated translation for: Exporting to Anki...",
+    "message": "ಅಂಕಿಗೆ ರಫ್ತು ಮಾಡಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_7bfb7a37": {
+    "description": "Auto-generated translation for: Exporting {count} entries to Anki",
+    "message": "ಅಂಕಿ(Anki) ಗೆ {count} ನಮೂದುಗಳನ್ನು ರಫ್ತು ಮಾಡಲಾಗುತ್ತಿದೆ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1e96f7d3": {
+    "description": "Auto-generated translation for: CSV Delimiter",
+    "message": "CSV ಡಿಲಿಮಿಟರ್"
+  },
+  "v2_20fdbd89": {
+    "description": "Auto-generated translation for: Choose the character to separate values",
+    "message": "ಮೌಲ್ಯಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಅಕ್ಷರವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_1b4e07fd": {
+    "description": "Auto-generated translation for: Select delimiter",
+    "message": "ಡಿಲಿಮಿಟರ್ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_1df907ba": {
+    "description": "Auto-generated translation for: Comma (,)",
+    "message": "ಅಲ್ಪವಿರಾಮ (,)"
+  },
+  "v2_6ad26d67": {
+    "description": "Auto-generated translation for: Semicolon (;)",
+    "message": "ಸೆಮಿಕೋಲನ್ (;)"
+  },
+  "v2_00014775": {
+    "description": "Auto-generated translation for: Tab",
+    "message": "ಟ್ಯಾಬ್"
+  },
+  "v2_12766ffd": {
+    "description": "Auto-generated translation for: Pipe (|)",
+    "message": "ಪೈಪ್ (|)"
+  },
+  "v2_0c3774be": {
+    "description": "Auto-generated translation for: Standard format, may conflict with commas in sentences",
+    "message": "ಪ್ರಮಾಣಿತ ಸ್ವರೂಪ, ವಾಕ್ಯಗಳಲ್ಲಿನ ಅಲ್ಪವಿರಾಮಗಳೊಂದಿಗೆ ಸಂಘರ್ಷಿಸಬಹುದು"
+  },
+  "v2_3d33337f": {
+    "description": "Auto-generated translation for: Good for European locales and sentences with commas",
+    "message": "ಯುರೋಪಿಯನ್ ಸ್ಥಳೀಯರಿಗೆ ಮತ್ತು ಅಲ್ಪವಿರಾಮವಿರುವ ವಾಕ್ಯಗಳಿಗೆ ಉತ್ತಮವಾಗಿದೆ"
+  },
+  "v2_6ab254c3": {
+    "description": "Auto-generated translation for: Clean separation, works well with all text",
+    "message": "ಸ್ವಚ್ಛ ಪ್ರತ್ಯೇಕತೆ, ಎಲ್ಲಾ ಪಠ್ಯದೊಂದಿಗೆ ಉತ್ತಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ"
+  },
+  "v2_319381fc": {
+    "description": "Auto-generated translation for: Rare in text, minimal conflicts",
+    "message": "ಪಠ್ಯದಲ್ಲಿ ವಿರಳ, ಕನಿಷ್ಠ ಘರ್ಷಣೆಗಳು"
+  },
+  "v2_6cb2cf8d": {
+    "description": "Auto-generated translation for: Select Book",
+    "message": "ಪುಸ್ತಕ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_67b52e74": {
+    "description": "Auto-generated translation for: No books in your library",
+    "message": "ನಿಮ್ಮ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಪುಸ್ತಕಗಳಿಲ್ಲ"
+  },
+  "v2_408d6104": {
+    "description": "Auto-generated translation for: Upload your first EPUB to get started",
+    "message": "ಪ್ರಾರಂಭಿಸಲು ನಿಮ್ಮ ಮೊದಲ EPUB ಅನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ"
+  },
+  "v2_09ecadf3": {
+    "description": "Auto-generated translation for: No book selected",
+    "message": "ಯಾವುದೇ ಪುಸ್ತಕ ಆಯ್ಕೆ ಮಾಡಿಲ್ಲ"
+  },
+  "v2_532adef9": {
+    "description": "Auto-generated translation for: Select a book from the dropdown to start reading",
+    "message": "ಓದಲು ಪ್ರಾರಂಭಿಸಲು ಡ್ರಾಪ್‌ಡೌನ್‌ನಿಂದ ಪುಸ್ತಕವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_4811e0e9": {
+    "description": "Auto-generated translation for: Previous",
+    "message": "ಹಿಂದಿನ"
   }
 }
