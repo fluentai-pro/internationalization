@@ -5278,22 +5278,6 @@
     "description": "Auto-generated translation for: Failed to refresh prompts: ",
     "message": "无法刷新提示："
   },
-  "v2_6259d6a4": {
-    "description": "Auto-generated translation for: Entry deleted successfully",
-    "message": "条目已成功删除"
-  },
-  "v2_78454681": {
-    "description": "Auto-generated translation for: Failed to delete entry",
-    "message": "删除条目失败"
-  },
-  "v2_313e7c02": {
-    "description": "Auto-generated translation for: Entries deleted successfully",
-    "message": "条目删除成功"
-  },
-  "v2_7c0dd9a3": {
-    "description": "Auto-generated translation for: Failed to delete entries",
-    "message": "删除条目失败"
-  },
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "流式解释"
@@ -6972,10 +6956,6 @@
     "description": "Auto-generated translation for: Remaining",
     "message": "剩余"
   },
-  "v2_2f347555": {
-    "description": "Auto-generated translation for: Setting Updated",
-    "message": "设置已更新"
-  },
   "v2_0024250c": {
     "description": "Auto-generated translation for: Live",
     "message": "直播"
@@ -7348,10 +7328,6 @@
     "description": "Auto-generated translation for: Search filters...",
     "message": "搜索筛选条件..."
   },
-  "v2_77202330": {
-    "description": "Auto-generated translation for: No filters found.",
-    "message": "未找到筛选器。"
-  },
   "v2_6990bce1": {
     "description": "Auto-generated translation for: Active Filters",
     "message": "筛选条件"
@@ -7607,30 +7583,6 @@
   "v2_360d688f": {
     "description": "Auto-generated translation for: Text File",
     "message": "文本文件"
-  },
-  "v2_2b05fa40": {
-    "description": "Auto-generated translation for: Delete selected entries",
-    "message": "删除所选条目"
-  },
-  "v2_468f2f1b": {
-    "description": "Auto-generated translation for: Delete Entries",
-    "message": "删除条目"
-  },
-  "v2_73dcd43a": {
-    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
-    "message": "您确定要删除 {count} 个{entries}吗？此操作无法撤消。",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "entries": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_5edd7b70": {
-    "description": "Auto-generated translation for: entries",
-    "message": "条目"
   },
   "v2_43062ad7": {
     "description": "Auto-generated translation for: Export selected entries",
@@ -7936,5 +7888,86 @@
   "v2_54f38869": {
     "description": "Auto-generated translation for: Close translation",
     "message": "直译"
+  },
+  "v2_48bbbd84": {
+    "description": "Auto-generated translation for: Word deleted successfully",
+    "message": "词语删除成功"
+  },
+  "v2_1d2f405d": {
+    "description": "Auto-generated translation for: Failed to delete word",
+    "message": "删除单词失败"
+  },
+  "v2_15426f85": {
+    "description": "Auto-generated translation for: Words deleted successfully",
+    "message": "词语删除成功"
+  },
+  "v2_7747344a": {
+    "description": "Auto-generated translation for: Failed to delete words",
+    "message": "删除单词失败"
+  },
+  "v2_20b8982a": {
+    "description": "Auto-generated translation for: $settingName$ updated to $value$",
+    "message": "$settingName$ 更新为 $value$",
+    "placeholders": {
+      "settingName": {
+        "content": "$1"
+      },
+      "value": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1418d827": {
+    "description": "Auto-generated translation for: Delete selected words",
+    "message": "删除所选词语"
+  },
+  "v2_7c23140c": {
+    "description": "Auto-generated translation for: Delete Words",
+    "message": "删除字词"
+  },
+  "v2_4bec14d6": {
+    "description": "Auto-generated translation for: {count} items will be deleted, are you sure?",
+    "message": "将删除 {count} 个项目，确定吗？",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_79c2d8ce": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis",
+    "message": "正在获取语音合成"
+  },
+  "v2_705c4e2c": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis",
+    "message": "正在播放语音合成"
+  },
+  "v2_549d74de": {
+    "description": "Auto-generated translation for: Failed to synthesize audio",
+    "message": "合成音频失败"
+  },
+  "v2_016b1d37": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready",
+    "message": "语音合成就绪"
+  },
+  "v2_74634f26": {
+    "description": "Auto-generated translation for: No word found to bookmark",
+    "message": "没有找到可添加书签的单词"
+  },
+  "v2_3035d230": {
+    "description": "Auto-generated translation for: Bookmarking word...",
+    "message": "正在书签此词..."
+  },
+  "v2_35d1ae83": {
+    "description": "Auto-generated translation for: Word added successfully",
+    "message": "词语添加成功"
+  },
+  "v2_70abeef9": {
+    "description": "Auto-generated translation for: No word found to pronounce",
+    "message": "未找到发音"
+  },
+  "v2_3ebff6d1": {
+    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
+    "message": "将可见列和顺序重置为默认配置"
   }
 }

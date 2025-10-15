@@ -303,22 +303,6 @@
     "description": "Auto-generated translation for: Translation failed",
     "message": "A tradução falhou"
   },
-  "v2_6259d6a4": {
-    "description": "Auto-generated translation for: Entry deleted successfully",
-    "message": "Entrada eliminada com sucesso"
-  },
-  "v2_78454681": {
-    "description": "Auto-generated translation for: Failed to delete entry",
-    "message": "Não foi possível eliminar a entrada"
-  },
-  "v2_313e7c02": {
-    "description": "Auto-generated translation for: Entries deleted successfully",
-    "message": "Entradas eliminadas com sucesso"
-  },
-  "v2_7c0dd9a3": {
-    "description": "Auto-generated translation for: Failed to delete entries",
-    "message": "Falha ao eliminar entradas"
-  },
   "v2_3846b5ed": {
     "description": "Auto-generated translation for: Failed to request neural transcription. Please try again.",
     "message": "Não foi possível pedir a transcrição neural. Por favor, tente novamente."
@@ -6816,10 +6800,6 @@
     "description": "Auto-generated translation for: Resets in",
     "message": "Reinicia em"
   },
-  "v2_2f347555": {
-    "description": "Auto-generated translation for: Setting Updated",
-    "message": "Definição Atualizada"
-  },
   "v2_0024250c": {
     "description": "Auto-generated translation for: Live",
     "message": "Em direto"
@@ -7196,10 +7176,6 @@
     "description": "Auto-generated translation for: Search filters...",
     "message": "Filtros de pesquisa..."
   },
-  "v2_77202330": {
-    "description": "Auto-generated translation for: No filters found.",
-    "message": "Nenhum filtro encontrado."
-  },
   "v2_6990bce1": {
     "description": "Auto-generated translation for: Active Filters",
     "message": "Filtros Ativos"
@@ -7455,30 +7431,6 @@
   "v2_360d688f": {
     "description": "Auto-generated translation for: Text File",
     "message": "Ficheiro de Texto"
-  },
-  "v2_2b05fa40": {
-    "description": "Auto-generated translation for: Delete selected entries",
-    "message": "Eliminar entradas selecionadas"
-  },
-  "v2_468f2f1b": {
-    "description": "Auto-generated translation for: Delete Entries",
-    "message": "Apagar Entradas"
-  },
-  "v2_73dcd43a": {
-    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
-    "message": "Tem a certeza de que pretende eliminar {count} {entries}? Esta ação não pode ser desfeita.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "entries": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_5edd7b70": {
-    "description": "Auto-generated translation for: entries",
-    "message": "entradas"
   },
   "v2_43062ad7": {
     "description": "Auto-generated translation for: Export selected entries",
@@ -7784,5 +7736,86 @@
   "v2_54f38869": {
     "description": "Auto-generated translation for: Close translation",
     "message": "Tradução aproximada"
+  },
+  "v2_48bbbd84": {
+    "description": "Auto-generated translation for: Word deleted successfully",
+    "message": "Palavra eliminada com sucesso"
+  },
+  "v2_1d2f405d": {
+    "description": "Auto-generated translation for: Failed to delete word",
+    "message": "Falha ao eliminar a palavra"
+  },
+  "v2_15426f85": {
+    "description": "Auto-generated translation for: Words deleted successfully",
+    "message": "Palavras eliminadas com sucesso"
+  },
+  "v2_7747344a": {
+    "description": "Auto-generated translation for: Failed to delete words",
+    "message": "Não foi possível apagar as palavras"
+  },
+  "v2_20b8982a": {
+    "description": "Auto-generated translation for: $settingName$ updated to $value$",
+    "message": "$settingName$ atualizado para $value$",
+    "placeholders": {
+      "settingName": {
+        "content": "$1"
+      },
+      "value": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1418d827": {
+    "description": "Auto-generated translation for: Delete selected words",
+    "message": "Eliminar palavras selecionadas"
+  },
+  "v2_7c23140c": {
+    "description": "Auto-generated translation for: Delete Words",
+    "message": "Eliminar Palavras"
+  },
+  "v2_4bec14d6": {
+    "description": "Auto-generated translation for: {count} items will be deleted, are you sure?",
+    "message": "$count$ itens serão eliminados, tem a certeza?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_79c2d8ce": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis",
+    "message": "A obter Síntese de Voz"
+  },
+  "v2_705c4e2c": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis",
+    "message": "A reproduzir síntese de voz"
+  },
+  "v2_549d74de": {
+    "description": "Auto-generated translation for: Failed to synthesize audio",
+    "message": "Falha ao sintetizar áudio"
+  },
+  "v2_016b1d37": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready",
+    "message": "Síntese de Voz Pronta"
+  },
+  "v2_74634f26": {
+    "description": "Auto-generated translation for: No word found to bookmark",
+    "message": "Nenhuma palavra encontrada para marcar"
+  },
+  "v2_3035d230": {
+    "description": "Auto-generated translation for: Bookmarking word...",
+    "message": "A adicionar palavra aos favoritos..."
+  },
+  "v2_35d1ae83": {
+    "description": "Auto-generated translation for: Word added successfully",
+    "message": "Palavra adicionada com sucesso"
+  },
+  "v2_70abeef9": {
+    "description": "Auto-generated translation for: No word found to pronounce",
+    "message": "Nenhuma palavra encontrada para pronunciar"
+  },
+  "v2_3ebff6d1": {
+    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
+    "message": "Repor as colunas visíveis e a ordem para a configuração padrão"
   }
 }

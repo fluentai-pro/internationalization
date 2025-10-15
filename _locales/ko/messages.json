@@ -5278,22 +5278,6 @@
     "description": "Auto-generated translation for: Failed to refresh prompts: ",
     "message": "프롬프트 새로고치기 실패:"
   },
-  "v2_6259d6a4": {
-    "description": "Auto-generated translation for: Entry deleted successfully",
-    "message": "항목이 성공적으로 삭제되었습니다."
-  },
-  "v2_78454681": {
-    "description": "Auto-generated translation for: Failed to delete entry",
-    "message": "항목 삭제 실패"
-  },
-  "v2_313e7c02": {
-    "description": "Auto-generated translation for: Entries deleted successfully",
-    "message": "항목이 성공적으로 삭제되었습니다."
-  },
-  "v2_7c0dd9a3": {
-    "description": "Auto-generated translation for: Failed to delete entries",
-    "message": "항목 삭제 실패"
-  },
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "스트리밍 설명"
@@ -6972,10 +6956,6 @@
     "description": "Auto-generated translation for: Remaining",
     "message": "남은"
   },
-  "v2_2f347555": {
-    "description": "Auto-generated translation for: Setting Updated",
-    "message": "설정 업데이트됨"
-  },
   "v2_0024250c": {
     "description": "Auto-generated translation for: Live",
     "message": "실시간"
@@ -7348,10 +7328,6 @@
     "description": "Auto-generated translation for: Search filters...",
     "message": "검색 필터..."
   },
-  "v2_77202330": {
-    "description": "Auto-generated translation for: No filters found.",
-    "message": "필터를 찾을 수 없습니다."
-  },
   "v2_6990bce1": {
     "description": "Auto-generated translation for: Active Filters",
     "message": "활성 필터"
@@ -7607,30 +7583,6 @@
   "v2_360d688f": {
     "description": "Auto-generated translation for: Text File",
     "message": "텍스트 파일"
-  },
-  "v2_2b05fa40": {
-    "description": "Auto-generated translation for: Delete selected entries",
-    "message": "선택한 항목 삭제"
-  },
-  "v2_468f2f1b": {
-    "description": "Auto-generated translation for: Delete Entries",
-    "message": "항목 삭제"
-  },
-  "v2_73dcd43a": {
-    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
-    "message": "{count}개의 {entries}을(를) 정말 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "entries": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_5edd7b70": {
-    "description": "Auto-generated translation for: entries",
-    "message": "항목"
   },
   "v2_43062ad7": {
     "description": "Auto-generated translation for: Export selected entries",
@@ -7936,5 +7888,86 @@
   "v2_54f38869": {
     "description": "Auto-generated translation for: Close translation",
     "message": "직접 번역"
+  },
+  "v2_48bbbd84": {
+    "description": "Auto-generated translation for: Word deleted successfully",
+    "message": "단어가 성공적으로 삭제되었습니다"
+  },
+  "v2_1d2f405d": {
+    "description": "Auto-generated translation for: Failed to delete word",
+    "message": "단어 삭제 실패"
+  },
+  "v2_15426f85": {
+    "description": "Auto-generated translation for: Words deleted successfully",
+    "message": "단어가 성공적으로 삭제되었습니다"
+  },
+  "v2_7747344a": {
+    "description": "Auto-generated translation for: Failed to delete words",
+    "message": "단어 삭제 실패"
+  },
+  "v2_20b8982a": {
+    "description": "Auto-generated translation for: $settingName$ updated to $value$",
+    "message": "$settingName$이(가) $value$(으)로 업데이트되었습니다.",
+    "placeholders": {
+      "settingName": {
+        "content": "$1"
+      },
+      "value": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1418d827": {
+    "description": "Auto-generated translation for: Delete selected words",
+    "message": "선택한 단어 삭제"
+  },
+  "v2_7c23140c": {
+    "description": "Auto-generated translation for: Delete Words",
+    "message": "단어 삭제"
+  },
+  "v2_4bec14d6": {
+    "description": "Auto-generated translation for: {count} items will be deleted, are you sure?",
+    "message": "$count$개의 항목이 삭제됩니다. 계속하시겠습니까?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_79c2d8ce": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis",
+    "message": "음성 합성 불러오는 중"
+  },
+  "v2_705c4e2c": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis",
+    "message": "음성 합성 재생 중"
+  },
+  "v2_549d74de": {
+    "description": "Auto-generated translation for: Failed to synthesize audio",
+    "message": "오디오 합성에 실패했습니다."
+  },
+  "v2_016b1d37": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready",
+    "message": "음성 합성 준비 완료"
+  },
+  "v2_74634f26": {
+    "description": "Auto-generated translation for: No word found to bookmark",
+    "message": "북마크할 단어를 찾을 수 없습니다"
+  },
+  "v2_3035d230": {
+    "description": "Auto-generated translation for: Bookmarking word...",
+    "message": "단어를 북마크하는 중..."
+  },
+  "v2_35d1ae83": {
+    "description": "Auto-generated translation for: Word added successfully",
+    "message": "단어가 성공적으로 추가되었습니다."
+  },
+  "v2_70abeef9": {
+    "description": "Auto-generated translation for: No word found to pronounce",
+    "message": "발음할 단어를 찾을 수 없습니다"
+  },
+  "v2_3ebff6d1": {
+    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
+    "message": "표시되는 열과 순서를 기본 구성으로 재설정합니다."
   }
 }

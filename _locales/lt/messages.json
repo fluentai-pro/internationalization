@@ -5278,22 +5278,6 @@
     "description": "Auto-generated translation for: Failed to refresh prompts: ",
     "message": "Nepavyko atnaujinti raginimų:"
   },
-  "v2_6259d6a4": {
-    "description": "Auto-generated translation for: Entry deleted successfully",
-    "message": "Įrašas sėkmingai ištrintas"
-  },
-  "v2_78454681": {
-    "description": "Auto-generated translation for: Failed to delete entry",
-    "message": "Nepavyko ištrinti įrašo"
-  },
-  "v2_313e7c02": {
-    "description": "Auto-generated translation for: Entries deleted successfully",
-    "message": "Įrašai sėkmingai ištrinti"
-  },
-  "v2_7c0dd9a3": {
-    "description": "Auto-generated translation for: Failed to delete entries",
-    "message": "Nepavyko ištrinti įrašų"
-  },
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "Srautinio perdavimo paaiškinimas"
@@ -6972,10 +6956,6 @@
     "description": "Auto-generated translation for: Remaining",
     "message": "Liko"
   },
-  "v2_2f347555": {
-    "description": "Auto-generated translation for: Setting Updated",
-    "message": "Nustatymas atnaujintas"
-  },
   "v2_0024250c": {
     "description": "Auto-generated translation for: Live",
     "message": "Tiesiogiai"
@@ -7348,10 +7328,6 @@
     "description": "Auto-generated translation for: Search filters...",
     "message": "Paieškos filtrai..."
   },
-  "v2_77202330": {
-    "description": "Auto-generated translation for: No filters found.",
-    "message": "Filtrų nerasta."
-  },
   "v2_6990bce1": {
     "description": "Auto-generated translation for: Active Filters",
     "message": "Aktyvūs filtrai"
@@ -7607,30 +7583,6 @@
   "v2_360d688f": {
     "description": "Auto-generated translation for: Text File",
     "message": "Teksto failas"
-  },
-  "v2_2b05fa40": {
-    "description": "Auto-generated translation for: Delete selected entries",
-    "message": "Ištrinti pasirinktus įrašus"
-  },
-  "v2_468f2f1b": {
-    "description": "Auto-generated translation for: Delete Entries",
-    "message": "Naikinti įrašus"
-  },
-  "v2_73dcd43a": {
-    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
-    "message": "Ar tikrai norite ištrinti {count} {entries}? Šio veiksmo anuliuoti negalima.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "entries": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_5edd7b70": {
-    "description": "Auto-generated translation for: entries",
-    "message": "įrašai"
   },
   "v2_43062ad7": {
     "description": "Auto-generated translation for: Export selected entries",
@@ -7936,5 +7888,86 @@
   "v2_54f38869": {
     "description": "Auto-generated translation for: Close translation",
     "message": "Tikslus vertimas"
+  },
+  "v2_48bbbd84": {
+    "description": "Auto-generated translation for: Word deleted successfully",
+    "message": "Žodis sėkmingai ištrintas"
+  },
+  "v2_1d2f405d": {
+    "description": "Auto-generated translation for: Failed to delete word",
+    "message": "Nepavyko ištrinti žodžio"
+  },
+  "v2_15426f85": {
+    "description": "Auto-generated translation for: Words deleted successfully",
+    "message": "Žodžiai sėkmingai ištrinti"
+  },
+  "v2_7747344a": {
+    "description": "Auto-generated translation for: Failed to delete words",
+    "message": "Nepavyko ištrinti žodžių"
+  },
+  "v2_20b8982a": {
+    "description": "Auto-generated translation for: $settingName$ updated to $value$",
+    "message": "$settingName$ atnaujinta į $value$",
+    "placeholders": {
+      "settingName": {
+        "content": "$1"
+      },
+      "value": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1418d827": {
+    "description": "Auto-generated translation for: Delete selected words",
+    "message": "Ištrinti pasirinktus žodžius"
+  },
+  "v2_7c23140c": {
+    "description": "Auto-generated translation for: Delete Words",
+    "message": "Ištrinti žodžius"
+  },
+  "v2_4bec14d6": {
+    "description": "Auto-generated translation for: {count} items will be deleted, are you sure?",
+    "message": "$count$ elementai bus ištrinti, ar tikrai to norite?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_79c2d8ce": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis",
+    "message": "Gaunamas balso sintezavimas"
+  },
+  "v2_705c4e2c": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis",
+    "message": "Grojamas balso sintezavimas"
+  },
+  "v2_549d74de": {
+    "description": "Auto-generated translation for: Failed to synthesize audio",
+    "message": "Nepavyko sintezuoti garso įrašo"
+  },
+  "v2_016b1d37": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready",
+    "message": "Balso sintezė paruošta"
+  },
+  "v2_74634f26": {
+    "description": "Auto-generated translation for: No word found to bookmark",
+    "message": "Nerastas žodis, kurį būtų galima pažymėti"
+  },
+  "v2_3035d230": {
+    "description": "Auto-generated translation for: Bookmarking word...",
+    "message": "Žymimas žodis..."
+  },
+  "v2_35d1ae83": {
+    "description": "Auto-generated translation for: Word added successfully",
+    "message": "Žodis sėkmingai pridėtas"
+  },
+  "v2_70abeef9": {
+    "description": "Auto-generated translation for: No word found to pronounce",
+    "message": "Nerasta žodžio tarimui"
+  },
+  "v2_3ebff6d1": {
+    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
+    "message": "Atkurti matomų stulpelių ir rikiavimo numatytąją konfigūraciją"
   }
 }

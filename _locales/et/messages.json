@@ -5278,22 +5278,6 @@
     "description": "Auto-generated translation for: Failed to refresh prompts: ",
     "message": "Päringute värskendamine ebaõnnestus:"
   },
-  "v2_6259d6a4": {
-    "description": "Auto-generated translation for: Entry deleted successfully",
-    "message": "Kirje edukalt kustutatud"
-  },
-  "v2_78454681": {
-    "description": "Auto-generated translation for: Failed to delete entry",
-    "message": "Sissekande kustutamine ebaõnnestus"
-  },
-  "v2_313e7c02": {
-    "description": "Auto-generated translation for: Entries deleted successfully",
-    "message": "Kirjed edukalt kustutatud"
-  },
-  "v2_7c0dd9a3": {
-    "description": "Auto-generated translation for: Failed to delete entries",
-    "message": "Sissekannete kustutamine ebaõnnestus"
-  },
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "Voogesituse selgitus"
@@ -6972,10 +6956,6 @@
     "description": "Auto-generated translation for: Remaining",
     "message": "Ülejäänud"
   },
-  "v2_2f347555": {
-    "description": "Auto-generated translation for: Setting Updated",
-    "message": "Säte uuendatud"
-  },
   "v2_0024250c": {
     "description": "Auto-generated translation for: Live",
     "message": "Elu"
@@ -7348,10 +7328,6 @@
     "description": "Auto-generated translation for: Search filters...",
     "message": "Otsingufiltrid..."
   },
-  "v2_77202330": {
-    "description": "Auto-generated translation for: No filters found.",
-    "message": "Filtreid ei leitud."
-  },
   "v2_6990bce1": {
     "description": "Auto-generated translation for: Active Filters",
     "message": "Aktiivsed filtrid"
@@ -7607,30 +7583,6 @@
   "v2_360d688f": {
     "description": "Auto-generated translation for: Text File",
     "message": "Tekstifail"
-  },
-  "v2_2b05fa40": {
-    "description": "Auto-generated translation for: Delete selected entries",
-    "message": "Kustuta valitud kirjed"
-  },
-  "v2_468f2f1b": {
-    "description": "Auto-generated translation for: Delete Entries",
-    "message": "Kustuta kirjed"
-  },
-  "v2_73dcd43a": {
-    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
-    "message": "Olete kindel, et soovite kustutada {count} {entries}? Seda toimingut ei saa tagasi võtta.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "entries": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_5edd7b70": {
-    "description": "Auto-generated translation for: entries",
-    "message": "kanded"
   },
   "v2_43062ad7": {
     "description": "Auto-generated translation for: Export selected entries",
@@ -7936,5 +7888,86 @@
   "v2_54f38869": {
     "description": "Auto-generated translation for: Close translation",
     "message": "Täpne tõlge"
+  },
+  "v2_48bbbd84": {
+    "description": "Auto-generated translation for: Word deleted successfully",
+    "message": "Sõna edukalt kustutatud"
+  },
+  "v2_1d2f405d": {
+    "description": "Auto-generated translation for: Failed to delete word",
+    "message": "Sõna kustutamine ebaõnnestus"
+  },
+  "v2_15426f85": {
+    "description": "Auto-generated translation for: Words deleted successfully",
+    "message": "Sõnad kustutati edukalt"
+  },
+  "v2_7747344a": {
+    "description": "Auto-generated translation for: Failed to delete words",
+    "message": "Sõnade kustutamine ebaõnnestus"
+  },
+  "v2_20b8982a": {
+    "description": "Auto-generated translation for: $settingName$ updated to $value$",
+    "message": "$settingName$ värskendatud olekule $value$",
+    "placeholders": {
+      "settingName": {
+        "content": "$1"
+      },
+      "value": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1418d827": {
+    "description": "Auto-generated translation for: Delete selected words",
+    "message": "Kustuta valitud sõnad"
+  },
+  "v2_7c23140c": {
+    "description": "Auto-generated translation for: Delete Words",
+    "message": "Kustuta sõnad"
+  },
+  "v2_4bec14d6": {
+    "description": "Auto-generated translation for: {count} items will be deleted, are you sure?",
+    "message": "Kas olete kindel, et kustutate $count$ üksust?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_79c2d8ce": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis",
+    "message": "Häälsünteesi laadimine"
+  },
+  "v2_705c4e2c": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis",
+    "message": "Häälsünteesi esitamine"
+  },
+  "v2_549d74de": {
+    "description": "Auto-generated translation for: Failed to synthesize audio",
+    "message": "Heli süntees ebaõnnestus"
+  },
+  "v2_016b1d37": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready",
+    "message": "Häälesüntees valmis"
+  },
+  "v2_74634f26": {
+    "description": "Auto-generated translation for: No word found to bookmark",
+    "message": "Järjehoidmiseks ei leitud ühtegi sõna"
+  },
+  "v2_3035d230": {
+    "description": "Auto-generated translation for: Bookmarking word...",
+    "message": "Sõna järjehoidjasse lisamine..."
+  },
+  "v2_35d1ae83": {
+    "description": "Auto-generated translation for: Word added successfully",
+    "message": "Sõna edukalt lisatud"
+  },
+  "v2_70abeef9": {
+    "description": "Auto-generated translation for: No word found to pronounce",
+    "message": "Hääldatavat sõna ei leitud"
+  },
+  "v2_3ebff6d1": {
+    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
+    "message": "Lähtestage nähtavad veerud ja järjestus vaikekonfiguratsioonile"
   }
 }

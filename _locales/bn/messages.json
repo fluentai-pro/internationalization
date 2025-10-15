@@ -5425,22 +5425,6 @@
     "description": "Auto-generated translation for: Failed to refresh prompts: ",
     "message": "প্রম্পট রিফ্রেশ করা যায়নি:"
   },
-  "v2_6259d6a4": {
-    "description": "Auto-generated translation for: Entry deleted successfully",
-    "message": "এন্ট্রি সফলভাবে মুছে ফেলা হয়েছে"
-  },
-  "v2_78454681": {
-    "description": "Auto-generated translation for: Failed to delete entry",
-    "message": "এন্ট্রি মুছতে ব্যর্থ হয়েছে"
-  },
-  "v2_313e7c02": {
-    "description": "Auto-generated translation for: Entries deleted successfully",
-    "message": "এন্ট্রিগুলি সফলভাবে মুছে ফেলা হয়েছে"
-  },
-  "v2_7c0dd9a3": {
-    "description": "Auto-generated translation for: Failed to delete entries",
-    "message": "এন্ট্রিগুলি মুছে ফেলা যায়নি"
-  },
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "স্ট্রিমিং ব্যাখ্যা"
@@ -7119,10 +7103,6 @@
     "description": "Auto-generated translation for: Remaining",
     "message": "বাকি"
   },
-  "v2_2f347555": {
-    "description": "Auto-generated translation for: Setting Updated",
-    "message": "সেটিং আপডেট করা হয়েছে"
-  },
   "v2_0024250c": {
     "description": "Auto-generated translation for: Live",
     "message": "সরাসরি"
@@ -7491,10 +7471,6 @@
     "description": "Auto-generated translation for: Search filters...",
     "message": "অনুসন্ধান ফিল্টার..."
   },
-  "v2_77202330": {
-    "description": "Auto-generated translation for: No filters found.",
-    "message": "কোনো ফিল্টার পাওয়া যায়নি।"
-  },
   "v2_6990bce1": {
     "description": "Auto-generated translation for: Active Filters",
     "message": "সক্রিয় ফিল্টার"
@@ -7754,30 +7730,6 @@
   "v2_360d688f": {
     "description": "Auto-generated translation for: Text File",
     "message": "টেক্সট ফাইল"
-  },
-  "v2_2b05fa40": {
-    "description": "Auto-generated translation for: Delete selected entries",
-    "message": "নির্বাচিত এন্ট্রিগুলি মুছুন"
-  },
-  "v2_468f2f1b": {
-    "description": "Auto-generated translation for: Delete Entries",
-    "message": "এন্ট্রি মুছে ফেলুন"
-  },
-  "v2_73dcd43a": {
-    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
-    "message": "আপনি কি নিশ্চিত যে আপনি {count}টি {entries} মুছে ফেলতে চান? এই পদক্ষেপটি পূর্বাবস্থায় ফেরানো যাবে না।",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "entries": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_5edd7b70": {
-    "description": "Auto-generated translation for: entries",
-    "message": "এন্ট্রি"
   },
   "v2_43062ad7": {
     "description": "Auto-generated translation for: Export selected entries",
@@ -8083,5 +8035,86 @@
   "v2_54f38869": {
     "description": "Auto-generated translation for: Close translation",
     "message": "ঘনিষ্ঠ অনুবাদ"
+  },
+  "v2_48bbbd84": {
+    "description": "Auto-generated translation for: Word deleted successfully",
+    "message": "শব্দটি সফলভাবে মুছে ফেলা হয়েছে"
+  },
+  "v2_1d2f405d": {
+    "description": "Auto-generated translation for: Failed to delete word",
+    "message": "শব্দ মুছতে ব্যর্থ হয়েছে"
+  },
+  "v2_15426f85": {
+    "description": "Auto-generated translation for: Words deleted successfully",
+    "message": "শব্দগুলি সফলভাবে মুছে ফেলা হয়েছে"
+  },
+  "v2_7747344a": {
+    "description": "Auto-generated translation for: Failed to delete words",
+    "message": "শব্দ মুছতে ব্যর্থ হয়েছে"
+  },
+  "v2_20b8982a": {
+    "description": "Auto-generated translation for: $settingName$ updated to $value$",
+    "message": "$settingName$ $value$-তে আপডেট করা হয়েছে",
+    "placeholders": {
+      "settingName": {
+        "content": "$1"
+      },
+      "value": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1418d827": {
+    "description": "Auto-generated translation for: Delete selected words",
+    "message": "নির্বাচিত শব্দগুলি মুছুন"
+  },
+  "v2_7c23140c": {
+    "description": "Auto-generated translation for: Delete Words",
+    "message": "শব্দ মুছুন"
+  },
+  "v2_4bec14d6": {
+    "description": "Auto-generated translation for: {count} items will be deleted, are you sure?",
+    "message": "$count$টি আইটেম মুছে ফেলা হবে, আপনি কি নিশ্চিত?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_79c2d8ce": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis",
+    "message": "ভয়েস সিন্থেসিস আনা হচ্ছে"
+  },
+  "v2_705c4e2c": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis",
+    "message": "ভয়েস সিন্থেসিস চালানো হচ্ছে"
+  },
+  "v2_549d74de": {
+    "description": "Auto-generated translation for: Failed to synthesize audio",
+    "message": "অডিও সংশ্লেষণ ব্যর্থ হয়েছে"
+  },
+  "v2_016b1d37": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready",
+    "message": "ভয়েস সিন্থেসিস প্রস্তুত"
+  },
+  "v2_74634f26": {
+    "description": "Auto-generated translation for: No word found to bookmark",
+    "message": "বুকমার্ক করার জন্য কোনো শব্দ খুঁজে পাওয়া যায়নি"
+  },
+  "v2_3035d230": {
+    "description": "Auto-generated translation for: Bookmarking word...",
+    "message": "শব্দ বুকমার্ক করা হচ্ছে..."
+  },
+  "v2_35d1ae83": {
+    "description": "Auto-generated translation for: Word added successfully",
+    "message": "শব্দ সফলভাবে যোগ করা হয়েছে"
+  },
+  "v2_70abeef9": {
+    "description": "Auto-generated translation for: No word found to pronounce",
+    "message": "উচ্চারণ করার জন্য কোনো শব্দ পাওয়া যায়নি"
+  },
+  "v2_3ebff6d1": {
+    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
+    "message": "দৃশ্যমান কলাম এবং ক্রম ডিফল্ট কনফিগারেশনে রিসেট করুন"
   }
 }

@@ -5425,22 +5425,6 @@
     "description": "Auto-generated translation for: Failed to refresh prompts: ",
     "message": "ప్రాంప్ట్‌లను రిఫ్రెష్ చేయడంలో విఫలమైంది:"
   },
-  "v2_6259d6a4": {
-    "description": "Auto-generated translation for: Entry deleted successfully",
-    "message": "ఎంట్రీ విజయవంతంగా తొలగించబడింది"
-  },
-  "v2_78454681": {
-    "description": "Auto-generated translation for: Failed to delete entry",
-    "message": "ఎంట్రీని తొలగించడంలో విఫలమైంది"
-  },
-  "v2_313e7c02": {
-    "description": "Auto-generated translation for: Entries deleted successfully",
-    "message": "ఎంట్రీలు విజయవంతంగా తొలగించబడ్డాయి"
-  },
-  "v2_7c0dd9a3": {
-    "description": "Auto-generated translation for: Failed to delete entries",
-    "message": "ఎంట్రీలను తొలగించడం విఫలమైంది"
-  },
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "స్ట్రీమింగ్ వివరణ"
@@ -7119,10 +7103,6 @@
     "description": "Auto-generated translation for: Remaining",
     "message": "మిగిలిన"
   },
-  "v2_2f347555": {
-    "description": "Auto-generated translation for: Setting Updated",
-    "message": "సెట్టింగ్ అప్‌డేట్ చేయబడింది"
-  },
   "v2_0024250c": {
     "description": "Auto-generated translation for: Live",
     "message": "ప్రత్యక్షంగా"
@@ -7495,10 +7475,6 @@
     "description": "Auto-generated translation for: Search filters...",
     "message": "శోధన ఫిల్టర్లు..."
   },
-  "v2_77202330": {
-    "description": "Auto-generated translation for: No filters found.",
-    "message": "ఎటువంటి ఫిల్టర్‌లు కనుగొనబడలేదు."
-  },
   "v2_6990bce1": {
     "description": "Auto-generated translation for: Active Filters",
     "message": "యాక్టివ్ ఫిల్టర్‌లు"
@@ -7754,30 +7730,6 @@
   "v2_360d688f": {
     "description": "Auto-generated translation for: Text File",
     "message": "టెక్స్ట్ ఫైల్"
-  },
-  "v2_2b05fa40": {
-    "description": "Auto-generated translation for: Delete selected entries",
-    "message": "ఎంచుకున్న ఎంట్రీలను తొలగించండి"
-  },
-  "v2_468f2f1b": {
-    "description": "Auto-generated translation for: Delete Entries",
-    "message": "ఎంట్రీలను తొలగించు"
-  },
-  "v2_73dcd43a": {
-    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
-    "message": "{count} {entries} తొలగించడానికి మీరు ఖచ్చితంగా ఉన్నారా? ఈ చర్యను రద్దు చేయలేము.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "entries": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_5edd7b70": {
-    "description": "Auto-generated translation for: entries",
-    "message": "ఎంట్రీలు"
   },
   "v2_43062ad7": {
     "description": "Auto-generated translation for: Export selected entries",
@@ -8083,5 +8035,86 @@
   "v2_54f38869": {
     "description": "Auto-generated translation for: Close translation",
     "message": "సమీప అనువాదం"
+  },
+  "v2_48bbbd84": {
+    "description": "Auto-generated translation for: Word deleted successfully",
+    "message": "పదం విజయవంతంగా తొలగించబడింది"
+  },
+  "v2_1d2f405d": {
+    "description": "Auto-generated translation for: Failed to delete word",
+    "message": "పదాన్ని తొలగించడంలో విఫలమైంది"
+  },
+  "v2_15426f85": {
+    "description": "Auto-generated translation for: Words deleted successfully",
+    "message": "పదాలు విజయవంతంగా తొలగించబడ్డాయి"
+  },
+  "v2_7747344a": {
+    "description": "Auto-generated translation for: Failed to delete words",
+    "message": "పదాలను తొలగించడంలో విఫలమైంది"
+  },
+  "v2_20b8982a": {
+    "description": "Auto-generated translation for: $settingName$ updated to $value$",
+    "message": "$settingName$ ఇప్పుడు $value$గా నవీకరించబడింది",
+    "placeholders": {
+      "settingName": {
+        "content": "$1"
+      },
+      "value": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1418d827": {
+    "description": "Auto-generated translation for: Delete selected words",
+    "message": "ఎంచుకున్న పదాలను తొలగించండి"
+  },
+  "v2_7c23140c": {
+    "description": "Auto-generated translation for: Delete Words",
+    "message": "పదాలను తొలగించు"
+  },
+  "v2_4bec14d6": {
+    "description": "Auto-generated translation for: {count} items will be deleted, are you sure?",
+    "message": "$count$ అంశాలు తొలగించబడతాయి, మీరు ఖచ్చితంగా ఉన్నారా?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_79c2d8ce": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis",
+    "message": "వాయిస్ సింథసిస్ తెచ్చిన అంశాలు"
+  },
+  "v2_705c4e2c": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis",
+    "message": "వాయిస్ సింథసిస్ ప్లే చేస్తోంది"
+  },
+  "v2_549d74de": {
+    "description": "Auto-generated translation for: Failed to synthesize audio",
+    "message": "ఆడియోను సృష్టించడంలో విఫలమైంది"
+  },
+  "v2_016b1d37": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready",
+    "message": "వాయిస్ సింథసిస్ సిద్ధంగా ఉంది"
+  },
+  "v2_74634f26": {
+    "description": "Auto-generated translation for: No word found to bookmark",
+    "message": "బుక్‌మార్క్ చేయడానికి పదం కనుగొనబడలేదు"
+  },
+  "v2_3035d230": {
+    "description": "Auto-generated translation for: Bookmarking word...",
+    "message": "పదాన్ని బుక్‌మార్క్ చేస్తోంది..."
+  },
+  "v2_35d1ae83": {
+    "description": "Auto-generated translation for: Word added successfully",
+    "message": "పదం విజయవంతంగా జోడించబడింది"
+  },
+  "v2_70abeef9": {
+    "description": "Auto-generated translation for: No word found to pronounce",
+    "message": "ఉచ్చరించడానికి ఎటువంటి పదం కనుగొనబడలేదు"
+  },
+  "v2_3ebff6d1": {
+    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
+    "message": "డిఫాల్ట్ కాన్ఫిగరేషన్‌కు కనిపించే కాలమ్‌లు మరియు క్రమాన్ని రీసెట్ చేయండి"
   }
 }

@@ -5425,22 +5425,6 @@
     "description": "Auto-generated translation for: Failed to refresh prompts: ",
     "message": "प्रॉम्प्ट रिफ्रेश करण्यात अयशस्वी:"
   },
-  "v2_6259d6a4": {
-    "description": "Auto-generated translation for: Entry deleted successfully",
-    "message": "नोंद यशस्वीरित्या हटवली"
-  },
-  "v2_78454681": {
-    "description": "Auto-generated translation for: Failed to delete entry",
-    "message": "एंट्री हटविण्यात अयशस्वी"
-  },
-  "v2_313e7c02": {
-    "description": "Auto-generated translation for: Entries deleted successfully",
-    "message": "नोंदी यशस्वीरित्या हटवल्या"
-  },
-  "v2_7c0dd9a3": {
-    "description": "Auto-generated translation for: Failed to delete entries",
-    "message": "नोंदी हटवण्यात अयशस्वी"
-  },
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "स्ट्रीमिंग स्पष्टीकरण"
@@ -7119,10 +7103,6 @@
     "description": "Auto-generated translation for: Remaining",
     "message": "बाकी"
   },
-  "v2_2f347555": {
-    "description": "Auto-generated translation for: Setting Updated",
-    "message": "सेटिंग्ज अपडेट केली"
-  },
   "v2_0024250c": {
     "description": "Auto-generated translation for: Live",
     "message": "थेट"
@@ -7495,10 +7475,6 @@
     "description": "Auto-generated translation for: Search filters...",
     "message": "फिल्टर शोधा..."
   },
-  "v2_77202330": {
-    "description": "Auto-generated translation for: No filters found.",
-    "message": "कोणतेही फिल्टर सापडले नाही."
-  },
   "v2_6990bce1": {
     "description": "Auto-generated translation for: Active Filters",
     "message": "सक्रिय फिल्टर"
@@ -7754,30 +7730,6 @@
   "v2_360d688f": {
     "description": "Auto-generated translation for: Text File",
     "message": "मजकूर फाइल"
-  },
-  "v2_2b05fa40": {
-    "description": "Auto-generated translation for: Delete selected entries",
-    "message": "निवडलेल्या नोंदी हटवा"
-  },
-  "v2_468f2f1b": {
-    "description": "Auto-generated translation for: Delete Entries",
-    "message": "प्रविष्टी हटवा"
-  },
-  "v2_73dcd43a": {
-    "description": "Auto-generated translation for: Are you sure you want to delete {count} {entries}? This action cannot be undone.",
-    "message": "तुम्हाला खात्री आहे की तुम्हाला {count} {entries} हटवायची आहेत? ही कृती पूर्ववत केली जाऊ शकत नाही.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "entries": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_5edd7b70": {
-    "description": "Auto-generated translation for: entries",
-    "message": "प्रॉपर्टीज"
   },
   "v2_43062ad7": {
     "description": "Auto-generated translation for: Export selected entries",
@@ -8083,5 +8035,86 @@
   "v2_54f38869": {
     "description": "Auto-generated translation for: Close translation",
     "message": "जवळचे भाषांतर"
+  },
+  "v2_48bbbd84": {
+    "description": "Auto-generated translation for: Word deleted successfully",
+    "message": "शब्द यशस्वीरित्या हटवला"
+  },
+  "v2_1d2f405d": {
+    "description": "Auto-generated translation for: Failed to delete word",
+    "message": "शब्द हटवण्यात अयशस्वी"
+  },
+  "v2_15426f85": {
+    "description": "Auto-generated translation for: Words deleted successfully",
+    "message": "शब्द यशस्वीरित्या हटवले"
+  },
+  "v2_7747344a": {
+    "description": "Auto-generated translation for: Failed to delete words",
+    "message": "शब्द हटवण्यात अयशस्वी"
+  },
+  "v2_20b8982a": {
+    "description": "Auto-generated translation for: $settingName$ updated to $value$",
+    "message": "$settingName$ हे $value$ वर अपडेट केले आहे.",
+    "placeholders": {
+      "settingName": {
+        "content": "$1"
+      },
+      "value": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_1418d827": {
+    "description": "Auto-generated translation for: Delete selected words",
+    "message": "निवडलेले शब्द हटवा"
+  },
+  "v2_7c23140c": {
+    "description": "Auto-generated translation for: Delete Words",
+    "message": "शब्द हटवा"
+  },
+  "v2_4bec14d6": {
+    "description": "Auto-generated translation for: {count} items will be deleted, are you sure?",
+    "message": "{count} वस्तू हटवल्या जातील, तुम्हाला खात्री आहे?",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_79c2d8ce": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis",
+    "message": "व्हॉइस सिंथेसिस आणत आहे"
+  },
+  "v2_705c4e2c": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis",
+    "message": "व्हॉईस सिंथेसिस प्ले करत आहे"
+  },
+  "v2_549d74de": {
+    "description": "Auto-generated translation for: Failed to synthesize audio",
+    "message": "ऑडिओ संश्लेषित करण्यात अयशस्वी"
+  },
+  "v2_016b1d37": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready",
+    "message": "व्हॉइस सिंथेसिस सज्ज"
+  },
+  "v2_74634f26": {
+    "description": "Auto-generated translation for: No word found to bookmark",
+    "message": "बुकमार्क करण्यासाठी कोणताही शब्द आढळला नाही"
+  },
+  "v2_3035d230": {
+    "description": "Auto-generated translation for: Bookmarking word...",
+    "message": "शब्द बुकमार्क करत आहे..."
+  },
+  "v2_35d1ae83": {
+    "description": "Auto-generated translation for: Word added successfully",
+    "message": "शब्द यशस्वीरित्या जोडला"
+  },
+  "v2_70abeef9": {
+    "description": "Auto-generated translation for: No word found to pronounce",
+    "message": "उच्चारित करण्यासाठी कोणताही शब्द आढळला नाही"
+  },
+  "v2_3ebff6d1": {
+    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
+    "message": "दृश्यमान स्तंभांना आणि क्रमाला डीफॉल्ट संरचनेमध्ये रीसेट करा"
   }
 }
