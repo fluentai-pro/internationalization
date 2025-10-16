@@ -5909,10 +5909,6 @@
     "description": "Auto-generated translation for: Keyboard",
     "message": "Kiibodi"
   },
-  "v2_09e2e778": {
-    "description": "Auto-generated translation for: Playback Settings",
-    "message": "Mipangilio ya Ucheza"
-  },
   "v2_20470c92": {
     "description": "Auto-generated translation for: Disable Neural Subtitles",
     "message": "Zima Manukato ya Neural"
@@ -7886,22 +7882,6 @@
       }
     }
   },
-  "v2_79c2d8ce": {
-    "description": "Auto-generated translation for: Fetching Voice Synthesis",
-    "message": "Inapakia Hati ya Sauti"
-  },
-  "v2_705c4e2c": {
-    "description": "Auto-generated translation for: Playing Voice Synthesis",
-    "message": "Inacheza Usanisi wa Sauti"
-  },
-  "v2_549d74de": {
-    "description": "Auto-generated translation for: Failed to synthesize audio",
-    "message": "Imeshindwa kuunganisha sauti"
-  },
-  "v2_016b1d37": {
-    "description": "Auto-generated translation for: Voice Synthesis Ready",
-    "message": "Utengenezaji wa Sauti Uko Tayari"
-  },
   "v2_74634f26": {
     "description": "Auto-generated translation for: No word found to bookmark",
     "message": "Hakuna neno lililopatikana la kualamisha"
@@ -7934,10 +7914,6 @@
     "description": "Auto-generated translation for: System",
     "message": "Mfumo"
   },
-  "v2_51aabb46": {
-    "description": "Auto-generated translation for: Subtitle Display",
-    "message": "Onyesho la Manukuu"
-  },
   "v2_7f8ab538": {
     "description": "Auto-generated translation for: Learning Subtitle Styling",
     "message": "Kujifunza Kuweka Mtindo wa Manukuu"
@@ -7962,14 +7938,6 @@
     "description": "Auto-generated translation for: Styles",
     "message": "Mitindo"
   },
-  "v2_78850bfc": {
-    "description": "Auto-generated translation for: Additional Settings",
-    "message": "Mipangilio ya Ziada"
-  },
-  "v2_7d162fb5": {
-    "description": "Auto-generated translation for: Turn Off Extension",
-    "message": "Zima Kiendelezi"
-  },
   "v2_00015ac7": {
     "description": "Auto-generated translation for: Yes",
     "message": "Ndiyo"
@@ -7981,5 +7949,48 @@
   "v2_6b0868e6": {
     "description": "Auto-generated translation for: Reset to defaults",
     "message": "Rudisha mipangilio msingi"
+  },
+  "v2_53c44581": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis for $word$",
+    "message": "Inapakia Usanisi wa Sauti kwa ajili ya $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_124cde47": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis for $word$",
+    "message": "Inacheza Utambuzi wa Sauti kwa $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1a2735a4": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready for $word$",
+    "message": "Sinthesisi ya Sauti Iko Tayari kwa $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_239b4a8c": {
+    "description": "Auto-generated translation for: Match the Audio Language",
+    "message": "Linganisha Lugha ya Sauti"
+  },
+  "v2_330c9ebd": {
+    "description": "Auto-generated translation for: Maps words from the learning language to your native language for better understanding",
+    "message": "Hulinganisha maneno kutoka lugha ya kujifunzia na lugha yako asilia ili kuelewa vizuri zaidi"
+  },
+  "v2_5bd41b72": {
+    "description": "Auto-generated translation for: More Settings",
+    "message": "Mipangilio Zaidi"
+  },
+  "v2_5dc3e7ce": {
+    "description": "Auto-generated translation for: Failed to bookmark word",
+    "message": "Imeshindwa kualamisha neno"
   }
 }

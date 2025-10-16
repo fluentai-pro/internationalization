@@ -5909,10 +5909,6 @@
     "description": "Auto-generated translation for: Keyboard",
     "message": "Tastatur"
   },
-  "v2_09e2e778": {
-    "description": "Auto-generated translation for: Playback Settings",
-    "message": "Wiedergabeeinstellungen"
-  },
   "v2_20470c92": {
     "description": "Auto-generated translation for: Disable Neural Subtitles",
     "message": "Neuronale Untertitel deaktivieren"
@@ -7886,22 +7882,6 @@
       }
     }
   },
-  "v2_79c2d8ce": {
-    "description": "Auto-generated translation for: Fetching Voice Synthesis",
-    "message": "Sprachsynthese wird abgerufen"
-  },
-  "v2_705c4e2c": {
-    "description": "Auto-generated translation for: Playing Voice Synthesis",
-    "message": "Sprachsynthese wiedergeben"
-  },
-  "v2_549d74de": {
-    "description": "Auto-generated translation for: Failed to synthesize audio",
-    "message": "Audiosynthese fehlgeschlagen"
-  },
-  "v2_016b1d37": {
-    "description": "Auto-generated translation for: Voice Synthesis Ready",
-    "message": "Sprachsynthese bereit"
-  },
   "v2_74634f26": {
     "description": "Auto-generated translation for: No word found to bookmark",
     "message": "Kein Wort zum Lesezeichen gefunden"
@@ -7934,10 +7914,6 @@
     "description": "Auto-generated translation for: System",
     "message": "System"
   },
-  "v2_51aabb46": {
-    "description": "Auto-generated translation for: Subtitle Display",
-    "message": "Untertitelanzeige"
-  },
   "v2_7f8ab538": {
     "description": "Auto-generated translation for: Learning Subtitle Styling",
     "message": "Untertitel-Stil lernen"
@@ -7962,14 +7938,6 @@
     "description": "Auto-generated translation for: Styles",
     "message": "Stile"
   },
-  "v2_78850bfc": {
-    "description": "Auto-generated translation for: Additional Settings",
-    "message": "Zusätzliche Einstellungen"
-  },
-  "v2_7d162fb5": {
-    "description": "Auto-generated translation for: Turn Off Extension",
-    "message": "Erweiterung deaktivieren"
-  },
   "v2_00015ac7": {
     "description": "Auto-generated translation for: Yes",
     "message": "Ja"
@@ -7981,5 +7949,48 @@
   "v2_6b0868e6": {
     "description": "Auto-generated translation for: Reset to defaults",
     "message": "Auf Standardwerte zurücksetzen"
+  },
+  "v2_53c44581": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis for $word$",
+    "message": "Sprachsynthese für $word$ wird geladen",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_124cde47": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis for $word$",
+    "message": "Sprachsynthese für \"$word$\" wird abgespielt",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1a2735a4": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready for $word$",
+    "message": "Sprachsynthese bereit für $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_239b4a8c": {
+    "description": "Auto-generated translation for: Match the Audio Language",
+    "message": "Audio-Sprache anpassen"
+  },
+  "v2_330c9ebd": {
+    "description": "Auto-generated translation for: Maps words from the learning language to your native language for better understanding",
+    "message": "Ordnet Wörter aus der Lernsprache Ihrer Muttersprache zu, um das Verständnis zu verbessern"
+  },
+  "v2_5bd41b72": {
+    "description": "Auto-generated translation for: More Settings",
+    "message": "Weitere Einstellungen"
+  },
+  "v2_5dc3e7ce": {
+    "description": "Auto-generated translation for: Failed to bookmark word",
+    "message": "Wort konnte nicht mit Lesezeichen versehen werden"
   }
 }

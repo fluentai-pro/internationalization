@@ -6056,10 +6056,6 @@
     "description": "Auto-generated translation for: Keyboard",
     "message": "कीबोर्ड"
   },
-  "v2_09e2e778": {
-    "description": "Auto-generated translation for: Playback Settings",
-    "message": "पुनरुत्पादन सेटिंग्ज"
-  },
   "v2_20470c92": {
     "description": "Auto-generated translation for: Disable Neural Subtitles",
     "message": "न्यूरल उपशीर्षके अक्षम करा"
@@ -8033,22 +8029,6 @@
       }
     }
   },
-  "v2_79c2d8ce": {
-    "description": "Auto-generated translation for: Fetching Voice Synthesis",
-    "message": "व्हॉइस सिंथेसिस आणत आहे"
-  },
-  "v2_705c4e2c": {
-    "description": "Auto-generated translation for: Playing Voice Synthesis",
-    "message": "व्हॉईस सिंथेसिस प्ले करत आहे"
-  },
-  "v2_549d74de": {
-    "description": "Auto-generated translation for: Failed to synthesize audio",
-    "message": "ऑडिओ संश्लेषित करण्यात अयशस्वी"
-  },
-  "v2_016b1d37": {
-    "description": "Auto-generated translation for: Voice Synthesis Ready",
-    "message": "व्हॉइस सिंथेसिस सज्ज"
-  },
   "v2_74634f26": {
     "description": "Auto-generated translation for: No word found to bookmark",
     "message": "बुकमार्क करण्यासाठी कोणताही शब्द आढळला नाही"
@@ -8081,10 +8061,6 @@
     "description": "Auto-generated translation for: System",
     "message": "सिस्टम"
   },
-  "v2_51aabb46": {
-    "description": "Auto-generated translation for: Subtitle Display",
-    "message": "उपशीर्षक प्रदर्शन"
-  },
   "v2_7f8ab538": {
     "description": "Auto-generated translation for: Learning Subtitle Styling",
     "message": "उपशीर्षक शैली शिकणे"
@@ -8109,14 +8085,6 @@
     "description": "Auto-generated translation for: Styles",
     "message": "शैली"
   },
-  "v2_78850bfc": {
-    "description": "Auto-generated translation for: Additional Settings",
-    "message": "अतिरिक्त सेटिंग्ज"
-  },
-  "v2_7d162fb5": {
-    "description": "Auto-generated translation for: Turn Off Extension",
-    "message": "विस्तार बंद करा"
-  },
   "v2_00015ac7": {
     "description": "Auto-generated translation for: Yes",
     "message": "हो"
@@ -8128,5 +8096,48 @@
   "v2_6b0868e6": {
     "description": "Auto-generated translation for: Reset to defaults",
     "message": "डीफॉल्टवर रीसेट करा"
+  },
+  "v2_53c44581": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis for $word$",
+    "message": "$word$ साठी व्हॉइस सिंथेसिस आणत आहे",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_124cde47": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis for $word$",
+    "message": "$word$ साठी व्हॉईस सिंथेसिस प्ले करत आहे",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1a2735a4": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready for $word$",
+    "message": "व्हॉइस सिंथेसिस $word$ साठी सज्ज",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_239b4a8c": {
+    "description": "Auto-generated translation for: Match the Audio Language",
+    "message": "ऑडिओ भाषेनुसार जुळवा"
+  },
+  "v2_330c9ebd": {
+    "description": "Auto-generated translation for: Maps words from the learning language to your native language for better understanding",
+    "message": "चांगल्या प्रकारे समजून घेण्यासाठी शिकण्याच्या भाषेतील शब्दांचे तुमच्या मूळ भाषेत भाषांतर करते."
+  },
+  "v2_5bd41b72": {
+    "description": "Auto-generated translation for: More Settings",
+    "message": "आणखी सेटिंग्ज"
+  },
+  "v2_5dc3e7ce": {
+    "description": "Auto-generated translation for: Failed to bookmark word",
+    "message": "शब्द बुकमार्क करण्यात अयशस्वी"
   }
 }

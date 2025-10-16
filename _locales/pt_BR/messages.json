@@ -2989,10 +2989,6 @@
     "description": "Auto-generated translation for: Other",
     "message": "Outro"
   },
-  "v2_09e2e778": {
-    "description": "Auto-generated translation for: Playback Settings",
-    "message": "Configurações de Reprodução"
-  },
   "v2_54d819a0": {
     "description": "Auto-generated translation for: Subtitle Language",
     "message": "Idioma da Legenda"
@@ -7734,22 +7730,6 @@
       }
     }
   },
-  "v2_79c2d8ce": {
-    "description": "Auto-generated translation for: Fetching Voice Synthesis",
-    "message": "Buscando Síntese de Voz"
-  },
-  "v2_705c4e2c": {
-    "description": "Auto-generated translation for: Playing Voice Synthesis",
-    "message": "Reproduzindo Síntese de Voz"
-  },
-  "v2_549d74de": {
-    "description": "Auto-generated translation for: Failed to synthesize audio",
-    "message": "Falha ao sintetizar áudio"
-  },
-  "v2_016b1d37": {
-    "description": "Auto-generated translation for: Voice Synthesis Ready",
-    "message": "Síntese de voz pronta"
-  },
   "v2_74634f26": {
     "description": "Auto-generated translation for: No word found to bookmark",
     "message": "Nenhuma palavra encontrada para adicionar aos favoritos"
@@ -7782,10 +7762,6 @@
     "description": "Auto-generated translation for: System",
     "message": "Sistema"
   },
-  "v2_51aabb46": {
-    "description": "Auto-generated translation for: Subtitle Display",
-    "message": "Exibição de Legendas"
-  },
   "v2_7f8ab538": {
     "description": "Auto-generated translation for: Learning Subtitle Styling",
     "message": "Aprendendo a Estilização de Legendas"
@@ -7810,14 +7786,6 @@
     "description": "Auto-generated translation for: Styles",
     "message": "Estilos"
   },
-  "v2_78850bfc": {
-    "description": "Auto-generated translation for: Additional Settings",
-    "message": "Configurações Adicionais"
-  },
-  "v2_7d162fb5": {
-    "description": "Auto-generated translation for: Turn Off Extension",
-    "message": "Desativar Extensão"
-  },
   "v2_00015ac7": {
     "description": "Auto-generated translation for: Yes",
     "message": "Sim"
@@ -7829,5 +7797,48 @@
   "v2_6b0868e6": {
     "description": "Auto-generated translation for: Reset to defaults",
     "message": "Redefinir para o padrão"
+  },
+  "v2_53c44581": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis for $word$",
+    "message": "Buscando síntese de voz para $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_124cde47": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis for $word$",
+    "message": "Reproduzindo síntese de voz para $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1a2735a4": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready for $word$",
+    "message": "Síntese de Voz Pronta para $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_239b4a8c": {
+    "description": "Auto-generated translation for: Match the Audio Language",
+    "message": "Corresponder ao idioma do áudio"
+  },
+  "v2_330c9ebd": {
+    "description": "Auto-generated translation for: Maps words from the learning language to your native language for better understanding",
+    "message": "Mapeia as palavras do idioma que você está aprendendo para sua língua nativa para melhor compreensão"
+  },
+  "v2_5bd41b72": {
+    "description": "Auto-generated translation for: More Settings",
+    "message": "Mais configurações"
+  },
+  "v2_5dc3e7ce": {
+    "description": "Auto-generated translation for: Failed to bookmark word",
+    "message": "Falha ao favoritar palavra"
   }
 }

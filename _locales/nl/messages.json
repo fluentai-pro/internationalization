@@ -5909,10 +5909,6 @@
     "description": "Auto-generated translation for: Keyboard",
     "message": "Toetsenbord"
   },
-  "v2_09e2e778": {
-    "description": "Auto-generated translation for: Playback Settings",
-    "message": "Afspelen-instellingen"
-  },
   "v2_20470c92": {
     "description": "Auto-generated translation for: Disable Neural Subtitles",
     "message": "Neurale ondertitels uitschakelen"
@@ -7886,22 +7882,6 @@
       }
     }
   },
-  "v2_79c2d8ce": {
-    "description": "Auto-generated translation for: Fetching Voice Synthesis",
-    "message": "Spraaksynthese ophalen"
-  },
-  "v2_705c4e2c": {
-    "description": "Auto-generated translation for: Playing Voice Synthesis",
-    "message": "Spraaksynthese afspelen"
-  },
-  "v2_549d74de": {
-    "description": "Auto-generated translation for: Failed to synthesize audio",
-    "message": "Niet gelukt om audio te synthetiseren"
-  },
-  "v2_016b1d37": {
-    "description": "Auto-generated translation for: Voice Synthesis Ready",
-    "message": "Spraaksynthese Klaar"
-  },
   "v2_74634f26": {
     "description": "Auto-generated translation for: No word found to bookmark",
     "message": "Geen woord gevonden om te bookmarken"
@@ -7934,10 +7914,6 @@
     "description": "Auto-generated translation for: System",
     "message": "Systeem"
   },
-  "v2_51aabb46": {
-    "description": "Auto-generated translation for: Subtitle Display",
-    "message": "Ondertiteling Weergeven"
-  },
   "v2_7f8ab538": {
     "description": "Auto-generated translation for: Learning Subtitle Styling",
     "message": "Leren Subtitel Stijlen"
@@ -7962,14 +7938,6 @@
     "description": "Auto-generated translation for: Styles",
     "message": "Stijlen"
   },
-  "v2_78850bfc": {
-    "description": "Auto-generated translation for: Additional Settings",
-    "message": "Aanvullende instellingen"
-  },
-  "v2_7d162fb5": {
-    "description": "Auto-generated translation for: Turn Off Extension",
-    "message": "Extensie Uitschakelen"
-  },
   "v2_00015ac7": {
     "description": "Auto-generated translation for: Yes",
     "message": "Ja"
@@ -7981,5 +7949,48 @@
   "v2_6b0868e6": {
     "description": "Auto-generated translation for: Reset to defaults",
     "message": "Terugzetten naar standaardinstellingen"
+  },
+  "v2_53c44581": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis for $word$",
+    "message": "Spraaksynthese ophalen voor $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_124cde47": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis for $word$",
+    "message": "Spraaksynthese afspelen voor $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1a2735a4": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready for $word$",
+    "message": "Spraaksynthese Klaar voor $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_239b4a8c": {
+    "description": "Auto-generated translation for: Match the Audio Language",
+    "message": "Overeenkomen met de audiokanalen"
+  },
+  "v2_330c9ebd": {
+    "description": "Auto-generated translation for: Maps words from the learning language to your native language for better understanding",
+    "message": "Vertalen woorden van de leertaal naar uw moedertaal voor een beter begrip"
+  },
+  "v2_5bd41b72": {
+    "description": "Auto-generated translation for: More Settings",
+    "message": "Meer instellingen"
+  },
+  "v2_5dc3e7ce": {
+    "description": "Auto-generated translation for: Failed to bookmark word",
+    "message": "Niet gelukt om woord als bladwijzer toe te voegen"
   }
 }

@@ -5909,10 +5909,6 @@
     "description": "Auto-generated translation for: Keyboard",
     "message": "ಕೀಬೋರ್ಡ್"
   },
-  "v2_09e2e778": {
-    "description": "Auto-generated translation for: Playback Settings",
-    "message": "ಪ್ರತಿರೂಪಣೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
-  },
   "v2_20470c92": {
     "description": "Auto-generated translation for: Disable Neural Subtitles",
     "message": "ನ್ಯೂರಲ್ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
@@ -7886,22 +7882,6 @@
       }
     }
   },
-  "v2_79c2d8ce": {
-    "description": "Auto-generated translation for: Fetching Voice Synthesis",
-    "message": "ಧ್ವನಿ ಸಂಶ್ಲೇಷಣೆಯನ್ನು ತರಲಾಗುತ್ತಿದೆ"
-  },
-  "v2_705c4e2c": {
-    "description": "Auto-generated translation for: Playing Voice Synthesis",
-    "message": "ಧ್ವನಿ ಸಂಶ್ಲೇಷಣೆಯನ್ನು ಪ್ಲೇ ಮಾಡಲಾಗುತ್ತಿದೆ"
-  },
-  "v2_549d74de": {
-    "description": "Auto-generated translation for: Failed to synthesize audio",
-    "message": "ಆಡಿಯೊ ಸಂಶ್ಲೇಷಿಸಲು ವಿಫಲವಾಗಿದೆ"
-  },
-  "v2_016b1d37": {
-    "description": "Auto-generated translation for: Voice Synthesis Ready",
-    "message": "ಧ್ವನಿ ಸಂಶ್ಲೇಷಣೆ ಸಿದ್ಧವಾಗಿದೆ"
-  },
   "v2_74634f26": {
     "description": "Auto-generated translation for: No word found to bookmark",
     "message": "ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಲು ಯಾವುದೇ ಪದ ಕಂಡುಬಂದಿಲ್ಲ"
@@ -7934,10 +7914,6 @@
     "description": "Auto-generated translation for: System",
     "message": "ಸಿಸ್ಟಮ್"
   },
-  "v2_51aabb46": {
-    "description": "Auto-generated translation for: Subtitle Display",
-    "message": "ಉಪಶೀರ್ಷಿಕೆ ಪ್ರದರ್ಶನ"
-  },
   "v2_7f8ab538": {
     "description": "Auto-generated translation for: Learning Subtitle Styling",
     "message": "ಉಪಶೀರ್ಷಿಕೆ ಶೈಲಿಯನ್ನು ಕಲಿಯುವುದು"
@@ -7962,14 +7938,6 @@
     "description": "Auto-generated translation for: Styles",
     "message": "ಶೈಲಿಗಳು"
   },
-  "v2_78850bfc": {
-    "description": "Auto-generated translation for: Additional Settings",
-    "message": "ಹೆಚ್ಚುವರಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
-  },
-  "v2_7d162fb5": {
-    "description": "Auto-generated translation for: Turn Off Extension",
-    "message": "ವಿಸ್ತರಣೆಯನ್ನು ಆಫ್ ಮಾಡಿ"
-  },
   "v2_00015ac7": {
     "description": "Auto-generated translation for: Yes",
     "message": "ಹೌದು"
@@ -7981,5 +7949,48 @@
   "v2_6b0868e6": {
     "description": "Auto-generated translation for: Reset to defaults",
     "message": "ಡೀಫಾಲ್ಟ್‌ಗಳಿಗೆ ಮರುಹೊಂದಿಸಿ"
+  },
+  "v2_53c44581": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis for $word$",
+    "message": "$word$ ಗಾಗಿ ಧ್ವನಿ ಸಂಶ್ಲೇಷಣೆಯನ್ನು ತರಲಾಗುತ್ತಿದೆ",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_124cde47": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis for $word$",
+    "message": "$word$ ಗಾಗಿ ಧ್ವನಿ ಸಂಶ್ಲೇಷಣೆ ಪ್ಲೇ ಮಾಡಲಾಗುತ್ತಿದೆ",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1a2735a4": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready for $word$",
+    "message": "$word$ ಗಾಗಿ ಧ್ವನಿ ಸಂಶ್ಲೇಷಣೆ ಸಿದ್ಧವಾಗಿದೆ",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_239b4a8c": {
+    "description": "Auto-generated translation for: Match the Audio Language",
+    "message": "ಆಡಿಯೊ ಭಾಷೆಯನ್ನು ಹೊಂದಿಸಿ"
+  },
+  "v2_330c9ebd": {
+    "description": "Auto-generated translation for: Maps words from the learning language to your native language for better understanding",
+    "message": "ಉತ್ತಮ ತಿಳುವಳಿಕೆಗಾಗಿ ಕಲಿಕೆಯ ಭಾಷೆಯ ಪದಗಳನ್ನು ನಿಮ್ಮ ಸ್ಥಳೀಯ ಭಾಷೆಗೆ ನಕ್ಷೆ ಮಾಡುತ್ತದೆ"
+  },
+  "v2_5bd41b72": {
+    "description": "Auto-generated translation for: More Settings",
+    "message": "ಇನ್ನಷ್ಟು ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "v2_5dc3e7ce": {
+    "description": "Auto-generated translation for: Failed to bookmark word",
+    "message": "ಪದವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ"
   }
 }

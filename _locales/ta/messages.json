@@ -5909,10 +5909,6 @@
     "description": "Auto-generated translation for: Keyboard",
     "message": "மென்பலகை"
   },
-  "v2_09e2e778": {
-    "description": "Auto-generated translation for: Playback Settings",
-    "message": "இயக்க அமைப்புகள்"
-  },
   "v2_20470c92": {
     "description": "Auto-generated translation for: Disable Neural Subtitles",
     "message": "நியூரல் உபசர்த்தங்களை முடக்கு"
@@ -7886,22 +7882,6 @@
       }
     }
   },
-  "v2_79c2d8ce": {
-    "description": "Auto-generated translation for: Fetching Voice Synthesis",
-    "message": "குரல் தொகுப்பு எடுக்கப்படுகிறது"
-  },
-  "v2_705c4e2c": {
-    "description": "Auto-generated translation for: Playing Voice Synthesis",
-    "message": "குரல் தொகுப்பை இயக்குகிறது"
-  },
-  "v2_549d74de": {
-    "description": "Auto-generated translation for: Failed to synthesize audio",
-    "message": "ஆடியோ ஒருங்கிணைப்பு தோல்வியடைந்தது"
-  },
-  "v2_016b1d37": {
-    "description": "Auto-generated translation for: Voice Synthesis Ready",
-    "message": "குரல் தொகுப்பு தயார்"
-  },
   "v2_74634f26": {
     "description": "Auto-generated translation for: No word found to bookmark",
     "message": "புக்மார்க் செய்ய எந்த வார்த்தையும் இல்லை"
@@ -7934,10 +7914,6 @@
     "description": "Auto-generated translation for: System",
     "message": "கணினி"
   },
-  "v2_51aabb46": {
-    "description": "Auto-generated translation for: Subtitle Display",
-    "message": "வசனம் காட்டு"
-  },
   "v2_7f8ab538": {
     "description": "Auto-generated translation for: Learning Subtitle Styling",
     "message": "வசன தலைப்பு நடைப்படுத்துதலைக் கற்றல்"
@@ -7962,14 +7938,6 @@
     "description": "Auto-generated translation for: Styles",
     "message": "வகைகள்"
   },
-  "v2_78850bfc": {
-    "description": "Auto-generated translation for: Additional Settings",
-    "message": "கூடுதல் அமைப்புகள்"
-  },
-  "v2_7d162fb5": {
-    "description": "Auto-generated translation for: Turn Off Extension",
-    "message": "நீட்டிப்பை முடக்கு"
-  },
   "v2_00015ac7": {
     "description": "Auto-generated translation for: Yes",
     "message": "ஆம்"
@@ -7981,5 +7949,48 @@
   "v2_6b0868e6": {
     "description": "Auto-generated translation for: Reset to defaults",
     "message": "இயல்புநிலைக்கு மீட்டமை"
+  },
+  "v2_53c44581": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis for $word$",
+    "message": "$word$ என்ற வார்த்தைக்கான குரல் தொகுப்பு பெறப்படுகிறது",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_124cde47": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis for $word$",
+    "message": "$word$ என்ற வார்த்தைக்கான குரல் தொகுப்பு இயக்கப்படுகிறது",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1a2735a4": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready for $word$",
+    "message": "குரல் தொகுப்பு $word$ க்குத் தயார்",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_239b4a8c": {
+    "description": "Auto-generated translation for: Match the Audio Language",
+    "message": "ஆடியோ மொழியுடன் பொருத்துக"
+  },
+  "v2_330c9ebd": {
+    "description": "Auto-generated translation for: Maps words from the learning language to your native language for better understanding",
+    "message": "கற்றல் மொழியில் உள்ள வார்த்தைகளைத் தாய்மொழியுடன் பொருத்தி சிறப்பாகப் புரிந்துகொள்ள உதவும்."
+  },
+  "v2_5bd41b72": {
+    "description": "Auto-generated translation for: More Settings",
+    "message": "மேலும் அமைப்புகள்"
+  },
+  "v2_5dc3e7ce": {
+    "description": "Auto-generated translation for: Failed to bookmark word",
+    "message": "சொல்லை புக்மார்க் செய்ய முடியவில்லை"
   }
 }

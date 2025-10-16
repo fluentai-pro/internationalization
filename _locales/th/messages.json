@@ -5909,10 +5909,6 @@
     "description": "Auto-generated translation for: Keyboard",
     "message": "แป้นพิมพ์"
   },
-  "v2_09e2e778": {
-    "description": "Auto-generated translation for: Playback Settings",
-    "message": "การตั้งค่าการเล่น"
-  },
   "v2_20470c92": {
     "description": "Auto-generated translation for: Disable Neural Subtitles",
     "message": "ปิดการใช้งานคำบรรยาย Neural"
@@ -7886,22 +7882,6 @@
       }
     }
   },
-  "v2_79c2d8ce": {
-    "description": "Auto-generated translation for: Fetching Voice Synthesis",
-    "message": "กำลังดึงข้อมูลการสังเคราะห์เสียง"
-  },
-  "v2_705c4e2c": {
-    "description": "Auto-generated translation for: Playing Voice Synthesis",
-    "message": "กำลังเล่นการสังเคราะห์เสียง"
-  },
-  "v2_549d74de": {
-    "description": "Auto-generated translation for: Failed to synthesize audio",
-    "message": "สังเคราะห์เสียงไม่สำเร็จ"
-  },
-  "v2_016b1d37": {
-    "description": "Auto-generated translation for: Voice Synthesis Ready",
-    "message": "การสังเคราะห์เสียงพร้อมใช้งาน"
-  },
   "v2_74634f26": {
     "description": "Auto-generated translation for: No word found to bookmark",
     "message": "ไม่พบคำที่จะคั่นหน้า"
@@ -7934,10 +7914,6 @@
     "description": "Auto-generated translation for: System",
     "message": "ระบบ"
   },
-  "v2_51aabb46": {
-    "description": "Auto-generated translation for: Subtitle Display",
-    "message": "แสดงคำบรรยาย"
-  },
   "v2_7f8ab538": {
     "description": "Auto-generated translation for: Learning Subtitle Styling",
     "message": "จัดรูปแบบคำบรรยาย"
@@ -7962,14 +7938,6 @@
     "description": "Auto-generated translation for: Styles",
     "message": "สไตล์"
   },
-  "v2_78850bfc": {
-    "description": "Auto-generated translation for: Additional Settings",
-    "message": "การตั้งค่าเพิ่มเติม"
-  },
-  "v2_7d162fb5": {
-    "description": "Auto-generated translation for: Turn Off Extension",
-    "message": "ปิดส่วนขยาย"
-  },
   "v2_00015ac7": {
     "description": "Auto-generated translation for: Yes",
     "message": "ใช่"
@@ -7981,5 +7949,48 @@
   "v2_6b0868e6": {
     "description": "Auto-generated translation for: Reset to defaults",
     "message": "รีเซ็ตเป็นค่าเริ่มต้น"
+  },
+  "v2_53c44581": {
+    "description": "Auto-generated translation for: Fetching Voice Synthesis for $word$",
+    "message": "กำลังเตรียมการสังเคราะห์เสียงสำหรับ $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_124cde47": {
+    "description": "Auto-generated translation for: Playing Voice Synthesis for $word$",
+    "message": "กำลังเล่นเสียงสังเคราะห์สำหรับ $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1a2735a4": {
+    "description": "Auto-generated translation for: Voice Synthesis Ready for $word$",
+    "message": "การสังเคราะห์เสียงพร้อมสำหรับ $word$",
+    "placeholders": {
+      "word": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_239b4a8c": {
+    "description": "Auto-generated translation for: Match the Audio Language",
+    "message": "ตรงกับภาษาเสียง"
+  },
+  "v2_330c9ebd": {
+    "description": "Auto-generated translation for: Maps words from the learning language to your native language for better understanding",
+    "message": "จับคู่คำศัพท์จากภาษาที่กำลังเรียนรู้กับภาษาแม่ของคุณเพื่อความเข้าใจที่ดียิ่งขึ้น"
+  },
+  "v2_5bd41b72": {
+    "description": "Auto-generated translation for: More Settings",
+    "message": "การตั้งค่าเพิ่มเติม"
+  },
+  "v2_5dc3e7ce": {
+    "description": "Auto-generated translation for: Failed to bookmark word",
+    "message": "คั่นหน้าคำไม่สำเร็จ"
   }
 }
