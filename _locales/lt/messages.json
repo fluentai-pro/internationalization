@@ -4722,25 +4722,9 @@
     "description": "Auto-generated translation for: Request Assistance",
     "message": "Prašyti pagalbos"
   },
-  "v2_52c31967": {
-    "description": "Auto-generated translation for: {count} of {total} row(s) selected",
-    "message": "Pasirinkta įrašų: {count} iš {total}",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
   "v2_2f69a4c0": {
     "description": "Auto-generated translation for: Customize Columns",
     "message": "Tinkinti stulpelius"
-  },
-  "v2_41ef59a9": {
-    "description": "Auto-generated translation for: No results.",
-    "message": "Nėra rezultatų."
   },
   "v2_79267c9d": {
     "description": "Auto-generated translation for: Page {current} of {total}",
@@ -4821,10 +4805,6 @@
   "v2_70579b79": {
     "description": "Auto-generated translation for: Start Practice",
     "message": "Pradėti praktiką"
-  },
-  "v2_04b32d2f": {
-    "description": "Auto-generated translation for: Reset",
-    "message": "Iš naujo nustatyti"
   },
   "v2_1e91545a": {
     "description": "Auto-generated translation for: Search...",
@@ -5965,10 +5945,6 @@
     "description": "Auto-generated translation for: Reset to Original",
     "message": "Atstatyti originalą"
   },
-  "v2_2707730d": {
-    "description": "Auto-generated translation for: More options",
-    "message": "Daugiau parinkčių"
-  },
   "v2_69333c39": {
     "description": "Auto-generated translation for: YouTube subtitles available",
     "message": "YouTube subtitrai prieinami"
@@ -6437,14 +6413,6 @@
   "v2_5b90e4bc": {
     "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
     "message": "Mėgaukitės AI valdomais subtitrais ir vertimais"
-  },
-  "v2_186f9e96": {
-    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
-    "message": "Naudoti esamus neuroninius subtitrus"
-  },
-  "v2_41b77648": {
-    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
-    "message": "Šis vaizdo įrašas jau turi prieinamus neuroninius subtitrus iš kito naudotojo."
   },
   "v2_20adfd45": {
     "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
@@ -7136,14 +7104,6 @@
     "description": "Auto-generated translation for: Examples",
     "message": "Pavyzdžiai"
   },
-  "v2_33b68d5c": {
-    "description": "Auto-generated translation for: v2_yes",
-    "message": "v2_taip"
-  },
-  "v2_06970264": {
-    "description": "Auto-generated translation for: v2_no",
-    "message": "v2_ne"
-  },
   "v2_03e43f43": {
     "description": "Auto-generated translation for: Color",
     "message": "Spalva"
@@ -7356,10 +7316,6 @@
     "description": "Auto-generated translation for: Choose the color for learning subtitle text",
     "message": "Pasirinkite mokomojo subtitrų teksto spalvą"
   },
-  "v2_39ecc2fa": {
-    "description": "Auto-generated translation for: Length (chars)",
-    "message": "Ilgis (ženklai)"
-  },
   "v2_7b7a6663": {
     "description": "Auto-generated translation for: Choose your native language",
     "message": "Pasirinkite savo gimtąją kalbą"
@@ -7367,10 +7323,6 @@
   "v2_35e4aae8": {
     "description": "Auto-generated translation for: Choose the color for native subtitle text",
     "message": "Pasirinkite vietinių subtitrų teksto spalvą"
-  },
-  "v2_03b1e76f": {
-    "description": "Auto-generated translation for: Enable Native Subtitles",
-    "message": "Įjungti vietinius subtitrus"
   },
   "v2_0694d44f": {
     "description": "Auto-generated translation for: Choose the audio language for the video",
@@ -7966,8 +7918,64 @@
     "description": "Auto-generated translation for: No word found to pronounce",
     "message": "Nerasta žodžio tarimui"
   },
-  "v2_3ebff6d1": {
-    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
-    "message": "Atkurti matomų stulpelių ir rikiavimo numatytąją konfigūraciją"
+  "v2_25749bd6": {
+    "description": "Auto-generated translation for: Unselect All",
+    "message": "Atžymėti visus"
+  },
+  "v2_046044f6": {
+    "description": "Auto-generated translation for: Light",
+    "message": "Šviesa"
+  },
+  "v2_00206396": {
+    "description": "Auto-generated translation for: Dark",
+    "message": "Tamsus"
+  },
+  "v2_6b7ea1b1": {
+    "description": "Auto-generated translation for: System",
+    "message": "Sistema"
+  },
+  "v2_51aabb46": {
+    "description": "Auto-generated translation for: Subtitle Display",
+    "message": "Subtitrų rodymas"
+  },
+  "v2_7f8ab538": {
+    "description": "Auto-generated translation for: Learning Subtitle Styling",
+    "message": "Sužinokite subtitrų stilių"
+  },
+  "v2_6b49a911": {
+    "description": "Auto-generated translation for: Native Subtitle Styling",
+    "message": "Vietinis subtitrų stilius"
+  },
+  "v2_7c1626a0": {
+    "description": "Auto-generated translation for: Choose theme",
+    "message": "Pasirinkite temą"
+  },
+  "v2_2e0e0805": {
+    "description": "Auto-generated translation for: Languages",
+    "message": "Kalbos"
+  },
+  "v2_4dc00fae": {
+    "description": "Auto-generated translation for: Learning Modes",
+    "message": "Mokymosi režimai"
+  },
+  "v2_6bc27afe": {
+    "description": "Auto-generated translation for: Styles",
+    "message": "Stiliai"
+  },
+  "v2_78850bfc": {
+    "description": "Auto-generated translation for: Additional Settings",
+    "message": "Papildomi nustatymai"
+  },
+  "v2_7d162fb5": {
+    "description": "Auto-generated translation for: Turn Off Extension",
+    "message": "Išjungti plėtinį"
+  },
+  "v2_00015ac7": {
+    "description": "Auto-generated translation for: Yes",
+    "message": "Taip"
+  },
+  "v2_6b0868e6": {
+    "description": "Auto-generated translation for: Reset to defaults",
+    "message": "Atkurti numatytuosius nustatymus"
   }
 }

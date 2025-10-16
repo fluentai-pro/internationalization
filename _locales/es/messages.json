@@ -4722,25 +4722,9 @@
     "description": "Auto-generated translation for: Request Assistance",
     "message": "Solicitar asistencia"
   },
-  "v2_52c31967": {
-    "description": "Auto-generated translation for: {count} of {total} row(s) selected",
-    "message": "{count} de {total} fila(s) seleccionada(s)",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
   "v2_2f69a4c0": {
     "description": "Auto-generated translation for: Customize Columns",
     "message": "Personalizar columnas"
-  },
-  "v2_41ef59a9": {
-    "description": "Auto-generated translation for: No results.",
-    "message": "Sin resultados."
   },
   "v2_79267c9d": {
     "description": "Auto-generated translation for: Page {current} of {total}",
@@ -4821,10 +4805,6 @@
   "v2_70579b79": {
     "description": "Auto-generated translation for: Start Practice",
     "message": "Empezar Práctica"
-  },
-  "v2_04b32d2f": {
-    "description": "Auto-generated translation for: Reset",
-    "message": "Restablecer"
   },
   "v2_1e91545a": {
     "description": "Auto-generated translation for: Search...",
@@ -6002,10 +5982,6 @@
     "description": "Auto-generated translation for: Reset to Original",
     "message": "Restablecer al original"
   },
-  "v2_2707730d": {
-    "description": "Auto-generated translation for: More options",
-    "message": "Más opciones"
-  },
   "v2_69333c39": {
     "description": "Auto-generated translation for: YouTube subtitles available",
     "message": "Subtítulos de YouTube disponibles"
@@ -6474,14 +6450,6 @@
   "v2_5b90e4bc": {
     "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
     "message": "Disfruta de subtítulos y traducciones con IA"
-  },
-  "v2_186f9e96": {
-    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
-    "message": "Usar subtítulos neuronales existentes"
-  },
-  "v2_41b77648": {
-    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
-    "message": "Este video ya tiene subtítulos neuronales disponibles de otro usuario."
   },
   "v2_20adfd45": {
     "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
@@ -7173,14 +7141,6 @@
     "description": "Auto-generated translation for: Examples",
     "message": "Ejemplos"
   },
-  "v2_33b68d5c": {
-    "description": "Auto-generated translation for: v2_yes",
-    "message": "v2_sí"
-  },
-  "v2_06970264": {
-    "description": "Auto-generated translation for: v2_no",
-    "message": "v2_no"
-  },
   "v2_03e43f43": {
     "description": "Auto-generated translation for: Color",
     "message": "Color"
@@ -7397,10 +7357,6 @@
     "description": "Auto-generated translation for: Choose the color for learning subtitle text",
     "message": "Elige el color para el texto de los subtítulos de aprendizaje"
   },
-  "v2_39ecc2fa": {
-    "description": "Auto-generated translation for: Length (chars)",
-    "message": "Longitud (caracteres)"
-  },
   "v2_7b7a6663": {
     "description": "Auto-generated translation for: Choose your native language",
     "message": "Elige tu idioma nativo"
@@ -7408,10 +7364,6 @@
   "v2_35e4aae8": {
     "description": "Auto-generated translation for: Choose the color for native subtitle text",
     "message": "Elige el color del texto del subtítulo nativo"
-  },
-  "v2_03b1e76f": {
-    "description": "Auto-generated translation for: Enable Native Subtitles",
-    "message": "Habilitar subtítulos nativos"
   },
   "v2_0694d44f": {
     "description": "Auto-generated translation for: Choose the audio language for the video",
@@ -8003,8 +7955,68 @@
     "description": "Auto-generated translation for: No word found to pronounce",
     "message": "No se encontró ninguna palabra para pronunciar"
   },
-  "v2_3ebff6d1": {
-    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
-    "message": "Restablecer las columnas visibles y ordenar a la configuración predeterminada"
+  "v2_25749bd6": {
+    "description": "Auto-generated translation for: Unselect All",
+    "message": "Deseleccionar todo"
+  },
+  "v2_046044f6": {
+    "description": "Auto-generated translation for: Light",
+    "message": "Claro"
+  },
+  "v2_00206396": {
+    "description": "Auto-generated translation for: Dark",
+    "message": "Oscuro"
+  },
+  "v2_6b7ea1b1": {
+    "description": "Auto-generated translation for: System",
+    "message": "Sistema"
+  },
+  "v2_51aabb46": {
+    "description": "Auto-generated translation for: Subtitle Display",
+    "message": "Visualización de subtítulos"
+  },
+  "v2_7f8ab538": {
+    "description": "Auto-generated translation for: Learning Subtitle Styling",
+    "message": "Aprendiendo estilos de subtítulos"
+  },
+  "v2_6b49a911": {
+    "description": "Auto-generated translation for: Native Subtitle Styling",
+    "message": "Estilo de Subtítulos Nativo"
+  },
+  "v2_7c1626a0": {
+    "description": "Auto-generated translation for: Choose theme",
+    "message": "Elegir tema"
+  },
+  "v2_2e0e0805": {
+    "description": "Auto-generated translation for: Languages",
+    "message": "Idiomas"
+  },
+  "v2_4dc00fae": {
+    "description": "Auto-generated translation for: Learning Modes",
+    "message": "Modos de aprendizaje"
+  },
+  "v2_6bc27afe": {
+    "description": "Auto-generated translation for: Styles",
+    "message": "Estilos"
+  },
+  "v2_78850bfc": {
+    "description": "Auto-generated translation for: Additional Settings",
+    "message": "Ajustes adicionales"
+  },
+  "v2_7d162fb5": {
+    "description": "Auto-generated translation for: Turn Off Extension",
+    "message": "Desactivar Extensión"
+  },
+  "v2_00015ac7": {
+    "description": "Auto-generated translation for: Yes",
+    "message": "Sí"
+  },
+  "v2_000009e1": {
+    "description": "Auto-generated translation for: No",
+    "message": "No"
+  },
+  "v2_6b0868e6": {
+    "description": "Auto-generated translation for: Reset to defaults",
+    "message": "Restablecer a valores predeterminados"
   }
 }

@@ -4869,25 +4869,9 @@
     "description": "Auto-generated translation for: Request Assistance",
     "message": "সহায়তার অনুরোধ করুন"
   },
-  "v2_52c31967": {
-    "description": "Auto-generated translation for: {count} of {total} row(s) selected",
-    "message": "$total$-এর মধ্যে $count$টি সারি নির্বাচন করা হয়েছে",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
   "v2_2f69a4c0": {
     "description": "Auto-generated translation for: Customize Columns",
     "message": "কলাম কাস্টোমাইজ করুন"
-  },
-  "v2_41ef59a9": {
-    "description": "Auto-generated translation for: No results.",
-    "message": "কোনো ফলাফল নেই।"
   },
   "v2_79267c9d": {
     "description": "Auto-generated translation for: Page {current} of {total}",
@@ -4968,10 +4952,6 @@
   "v2_70579b79": {
     "description": "Auto-generated translation for: Start Practice",
     "message": "অনুশীলন শুরু করুন"
-  },
-  "v2_04b32d2f": {
-    "description": "Auto-generated translation for: Reset",
-    "message": "পুনরায় সেট করুন"
   },
   "v2_1e91545a": {
     "description": "Auto-generated translation for: Search...",
@@ -6112,10 +6092,6 @@
     "description": "Auto-generated translation for: Reset to Original",
     "message": "মূল অবস্থায় রিসেট করুন"
   },
-  "v2_2707730d": {
-    "description": "Auto-generated translation for: More options",
-    "message": "আরও বিকল্প"
-  },
   "v2_69333c39": {
     "description": "Auto-generated translation for: YouTube subtitles available",
     "message": "ইউটিউব সাবটাইটেল উপলব্ধ"
@@ -6584,14 +6560,6 @@
   "v2_5b90e4bc": {
     "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
     "message": "এআই-চালিত সাবটাইটেল এবং অনুবাদ উপভোগ করুন"
-  },
-  "v2_186f9e96": {
-    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
-    "message": "বিদ্যমান নিউরাল সাবটাইটেল ব্যবহার করুন"
-  },
-  "v2_41b77648": {
-    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
-    "message": "এই ভিডিওতে অন্য একজন ব্যবহারকারীর থেকে নিউরাল সাবটাইটেল ইতিমধ্যেই উপলব্ধ রয়েছে।"
   },
   "v2_20adfd45": {
     "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
@@ -7283,14 +7251,6 @@
     "description": "Auto-generated translation for: Examples",
     "message": "উদাহরণ"
   },
-  "v2_33b68d5c": {
-    "description": "Auto-generated translation for: v2_yes",
-    "message": "v2_হ্যাঁ"
-  },
-  "v2_06970264": {
-    "description": "Auto-generated translation for: v2_no",
-    "message": "v2_না"
-  },
   "v2_03e43f43": {
     "description": "Auto-generated translation for: Color",
     "message": "রং"
@@ -7503,10 +7463,6 @@
     "description": "Auto-generated translation for: Choose the color for learning subtitle text",
     "message": "শিক্ষার জন্য সাবটাইটেল লেখার রঙ বেছে নিন"
   },
-  "v2_39ecc2fa": {
-    "description": "Auto-generated translation for: Length (chars)",
-    "message": "দৈর্ঘ্য (ক্যারেক্টার)"
-  },
   "v2_7b7a6663": {
     "description": "Auto-generated translation for: Choose your native language",
     "message": "আপনার স্থানীয় ভাষা চয়ন করুন"
@@ -7514,10 +7470,6 @@
   "v2_35e4aae8": {
     "description": "Auto-generated translation for: Choose the color for native subtitle text",
     "message": "নেটিভ সাবটাইটেল লেখার জন্য রঙ নির্বাচন করুন"
-  },
-  "v2_03b1e76f": {
-    "description": "Auto-generated translation for: Enable Native Subtitles",
-    "message": "নেটিভ সাবটাইটেল সক্রিয় করুন"
   },
   "v2_0694d44f": {
     "description": "Auto-generated translation for: Choose the audio language for the video",
@@ -8113,8 +8065,68 @@
     "description": "Auto-generated translation for: No word found to pronounce",
     "message": "উচ্চারণ করার জন্য কোনো শব্দ পাওয়া যায়নি"
   },
-  "v2_3ebff6d1": {
-    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
-    "message": "দৃশ্যমান কলাম এবং ক্রম ডিফল্ট কনফিগারেশনে রিসেট করুন"
+  "v2_25749bd6": {
+    "description": "Auto-generated translation for: Unselect All",
+    "message": "সবগুলি অনির্বাচন করুন"
+  },
+  "v2_046044f6": {
+    "description": "Auto-generated translation for: Light",
+    "message": "আলো"
+  },
+  "v2_00206396": {
+    "description": "Auto-generated translation for: Dark",
+    "message": "অন্ধকার"
+  },
+  "v2_6b7ea1b1": {
+    "description": "Auto-generated translation for: System",
+    "message": "সিস্টেম"
+  },
+  "v2_51aabb46": {
+    "description": "Auto-generated translation for: Subtitle Display",
+    "message": "সাবটাইটেল প্রদর্শন"
+  },
+  "v2_7f8ab538": {
+    "description": "Auto-generated translation for: Learning Subtitle Styling",
+    "message": "সাবটাইটেল স্টাইলিং শেখা"
+  },
+  "v2_6b49a911": {
+    "description": "Auto-generated translation for: Native Subtitle Styling",
+    "message": "নেটিভ সাবটাইটেল স্টাইলিং"
+  },
+  "v2_7c1626a0": {
+    "description": "Auto-generated translation for: Choose theme",
+    "message": "থিম নির্বাচন করুন"
+  },
+  "v2_2e0e0805": {
+    "description": "Auto-generated translation for: Languages",
+    "message": "ভাষা"
+  },
+  "v2_4dc00fae": {
+    "description": "Auto-generated translation for: Learning Modes",
+    "message": "শিক্ষার ধরন"
+  },
+  "v2_6bc27afe": {
+    "description": "Auto-generated translation for: Styles",
+    "message": "শৈলী"
+  },
+  "v2_78850bfc": {
+    "description": "Auto-generated translation for: Additional Settings",
+    "message": "অতিরিক্ত সেটিংস"
+  },
+  "v2_7d162fb5": {
+    "description": "Auto-generated translation for: Turn Off Extension",
+    "message": "এক্সটেনশন বন্ধ করুন"
+  },
+  "v2_00015ac7": {
+    "description": "Auto-generated translation for: Yes",
+    "message": "হ্যাঁ"
+  },
+  "v2_000009e1": {
+    "description": "Auto-generated translation for: No",
+    "message": "না"
+  },
+  "v2_6b0868e6": {
+    "description": "Auto-generated translation for: Reset to defaults",
+    "message": "ডিফল্টে রিসেট করুন"
   }
 }

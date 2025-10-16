@@ -4722,25 +4722,9 @@
     "description": "Auto-generated translation for: Request Assistance",
     "message": "આવશ્યકતામાં મદદ"
   },
-  "v2_52c31967": {
-    "description": "Auto-generated translation for: {count} of {total} row(s) selected",
-    "message": "$total$ માંથી $count$ પંક્તિ(ઓ) પસંદ કરેલ છે",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
   "v2_2f69a4c0": {
     "description": "Auto-generated translation for: Customize Columns",
     "message": "કૉલમ કસ્ટમાઇઝ કરો"
-  },
-  "v2_41ef59a9": {
-    "description": "Auto-generated translation for: No results.",
-    "message": "કોઈ પરિણામ નથી."
   },
   "v2_79267c9d": {
     "description": "Auto-generated translation for: Page {current} of {total}",
@@ -4821,10 +4805,6 @@
   "v2_70579b79": {
     "description": "Auto-generated translation for: Start Practice",
     "message": "અભ્યાસ શરૂ કરો"
-  },
-  "v2_04b32d2f": {
-    "description": "Auto-generated translation for: Reset",
-    "message": "ફરી સેટ કરો"
   },
   "v2_1e91545a": {
     "description": "Auto-generated translation for: Search...",
@@ -5965,10 +5945,6 @@
     "description": "Auto-generated translation for: Reset to Original",
     "message": "મૂળમાં રીસેટ કરો"
   },
-  "v2_2707730d": {
-    "description": "Auto-generated translation for: More options",
-    "message": "વધુ વિકલ્પો"
-  },
   "v2_69333c39": {
     "description": "Auto-generated translation for: YouTube subtitles available",
     "message": "યુટ્યુબ સબટાઇટલ્સ ઉપલબ્ધ છે"
@@ -6437,14 +6413,6 @@
   "v2_5b90e4bc": {
     "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
     "message": "AI-સંચાલિત સબટાઇટલ અને અનુવાદનો આનંદ માણો"
-  },
-  "v2_186f9e96": {
-    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
-    "message": "હાલના ન્યુરલ સબટાઈટલનો ઉપયોગ કરો"
-  },
-  "v2_41b77648": {
-    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
-    "message": "આ વિડિઓમાં અન્ય વપરાશકર્તા દ્વારા ઉપલબ્ધ ન્યુરલ સબટાઇટલ્સ પહેલેથી જ છે."
   },
   "v2_20adfd45": {
     "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
@@ -7136,14 +7104,6 @@
     "description": "Auto-generated translation for: Examples",
     "message": "ઉદાહરણો"
   },
-  "v2_33b68d5c": {
-    "description": "Auto-generated translation for: v2_yes",
-    "message": "v2_હા"
-  },
-  "v2_06970264": {
-    "description": "Auto-generated translation for: v2_no",
-    "message": "v2_ના"
-  },
   "v2_03e43f43": {
     "description": "Auto-generated translation for: Color",
     "message": "રંગ"
@@ -7360,10 +7320,6 @@
     "description": "Auto-generated translation for: Choose the color for learning subtitle text",
     "message": "શીખવા માટેના સબટાઇટલ ટેક્સ્ટનો રંગ પસંદ કરો"
   },
-  "v2_39ecc2fa": {
-    "description": "Auto-generated translation for: Length (chars)",
-    "message": "લંબાઈ (અક્ષરો)"
-  },
   "v2_7b7a6663": {
     "description": "Auto-generated translation for: Choose your native language",
     "message": "તમારી મૂળ ભાષા પસંદ કરો"
@@ -7371,10 +7327,6 @@
   "v2_35e4aae8": {
     "description": "Auto-generated translation for: Choose the color for native subtitle text",
     "message": "મૂળ ઉપશીર્ષકની ભાષા માટે રંગ પસંદ કરો"
-  },
-  "v2_03b1e76f": {
-    "description": "Auto-generated translation for: Enable Native Subtitles",
-    "message": "નેટીવ સબટાઈટલ સક્ષમ કરો"
   },
   "v2_0694d44f": {
     "description": "Auto-generated translation for: Choose the audio language for the video",
@@ -7966,8 +7918,68 @@
     "description": "Auto-generated translation for: No word found to pronounce",
     "message": "ઉચ્ચારવા માટે કોઈ શબ્દ મળ્યો નથી"
   },
-  "v2_3ebff6d1": {
-    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
-    "message": "દૃશ્યમાન કૉલમ્સ અને ઑર્ડરને ડિફોલ્ટ રૂપરેખાંકન પર રીસેટ કરો"
+  "v2_25749bd6": {
+    "description": "Auto-generated translation for: Unselect All",
+    "message": "બધું પસંદગીરદ કરો"
+  },
+  "v2_046044f6": {
+    "description": "Auto-generated translation for: Light",
+    "message": "પ્રકાશ"
+  },
+  "v2_00206396": {
+    "description": "Auto-generated translation for: Dark",
+    "message": "ઘેરો"
+  },
+  "v2_6b7ea1b1": {
+    "description": "Auto-generated translation for: System",
+    "message": "સિસ્ટમ"
+  },
+  "v2_51aabb46": {
+    "description": "Auto-generated translation for: Subtitle Display",
+    "message": "ઉપશીર્ષક પ્રદર્શન"
+  },
+  "v2_7f8ab538": {
+    "description": "Auto-generated translation for: Learning Subtitle Styling",
+    "message": "સબટાઈટલ સ્ટાઇલ શીખવી"
+  },
+  "v2_6b49a911": {
+    "description": "Auto-generated translation for: Native Subtitle Styling",
+    "message": "મૂળભૂત સબટાઇટલ સ્ટાઇલિંગ"
+  },
+  "v2_7c1626a0": {
+    "description": "Auto-generated translation for: Choose theme",
+    "message": "થીમ પસંદ કરો"
+  },
+  "v2_2e0e0805": {
+    "description": "Auto-generated translation for: Languages",
+    "message": "ભાષાઓ"
+  },
+  "v2_4dc00fae": {
+    "description": "Auto-generated translation for: Learning Modes",
+    "message": "શીખવાની રીતો"
+  },
+  "v2_6bc27afe": {
+    "description": "Auto-generated translation for: Styles",
+    "message": "શૈલીઓ"
+  },
+  "v2_78850bfc": {
+    "description": "Auto-generated translation for: Additional Settings",
+    "message": "વધારાની સેટિંગ્સ"
+  },
+  "v2_7d162fb5": {
+    "description": "Auto-generated translation for: Turn Off Extension",
+    "message": "એક્સ્ટેંશન બંધ કરો"
+  },
+  "v2_00015ac7": {
+    "description": "Auto-generated translation for: Yes",
+    "message": "હા"
+  },
+  "v2_000009e1": {
+    "description": "Auto-generated translation for: No",
+    "message": "ના"
+  },
+  "v2_6b0868e6": {
+    "description": "Auto-generated translation for: Reset to defaults",
+    "message": "ડિફૉલ્ટ પર રીસેટ કરો"
   }
 }

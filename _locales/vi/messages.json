@@ -4722,25 +4722,9 @@
     "description": "Auto-generated translation for: Request Assistance",
     "message": "Yêu cầu hỗ trợ"
   },
-  "v2_52c31967": {
-    "description": "Auto-generated translation for: {count} of {total} row(s) selected",
-    "message": "Đã chọn $count$ trong tổng số $total$ hàng",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
   "v2_2f69a4c0": {
     "description": "Auto-generated translation for: Customize Columns",
     "message": "Tùy chỉnh cột"
-  },
-  "v2_41ef59a9": {
-    "description": "Auto-generated translation for: No results.",
-    "message": "Không có kết quả."
   },
   "v2_79267c9d": {
     "description": "Auto-generated translation for: Page {current} of {total}",
@@ -4821,10 +4805,6 @@
   "v2_70579b79": {
     "description": "Auto-generated translation for: Start Practice",
     "message": "Bắt đầu Luyện tập"
-  },
-  "v2_04b32d2f": {
-    "description": "Auto-generated translation for: Reset",
-    "message": "Đặt lại"
   },
   "v2_1e91545a": {
     "description": "Auto-generated translation for: Search...",
@@ -5965,10 +5945,6 @@
     "description": "Auto-generated translation for: Reset to Original",
     "message": "Đặt lại về bản gốc"
   },
-  "v2_2707730d": {
-    "description": "Auto-generated translation for: More options",
-    "message": "Tùy chọn khác"
-  },
   "v2_69333c39": {
     "description": "Auto-generated translation for: YouTube subtitles available",
     "message": "Phụ đề YouTube có sẵn"
@@ -6437,14 +6413,6 @@
   "v2_5b90e4bc": {
     "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
     "message": "Thưởng thức phụ đề và bản dịch được hỗ trợ bởi AI"
-  },
-  "v2_186f9e96": {
-    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
-    "message": "Sử dụng phụ đề thần kinh hiện có"
-  },
-  "v2_41b77648": {
-    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
-    "message": "Video này đã có phụ đề neural do người dùng khác tạo."
   },
   "v2_20adfd45": {
     "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
@@ -7136,14 +7104,6 @@
     "description": "Auto-generated translation for: Examples",
     "message": "Ví dụ"
   },
-  "v2_33b68d5c": {
-    "description": "Auto-generated translation for: v2_yes",
-    "message": "v2_yes"
-  },
-  "v2_06970264": {
-    "description": "Auto-generated translation for: v2_no",
-    "message": "v2_no"
-  },
   "v2_03e43f43": {
     "description": "Auto-generated translation for: Color",
     "message": "Màu sắc"
@@ -7360,10 +7320,6 @@
     "description": "Auto-generated translation for: Choose the color for learning subtitle text",
     "message": "Chọn màu cho văn bản phụ đề học tập"
   },
-  "v2_39ecc2fa": {
-    "description": "Auto-generated translation for: Length (chars)",
-    "message": "Độ dài (ký tự)"
-  },
   "v2_7b7a6663": {
     "description": "Auto-generated translation for: Choose your native language",
     "message": "Chọn ngôn ngữ mẹ đẻ của bạn"
@@ -7371,10 +7327,6 @@
   "v2_35e4aae8": {
     "description": "Auto-generated translation for: Choose the color for native subtitle text",
     "message": "Chọn màu cho văn bản phụ đề gốc"
-  },
-  "v2_03b1e76f": {
-    "description": "Auto-generated translation for: Enable Native Subtitles",
-    "message": "Bật phụ đề gốc"
   },
   "v2_0694d44f": {
     "description": "Auto-generated translation for: Choose the audio language for the video",
@@ -7966,8 +7918,68 @@
     "description": "Auto-generated translation for: No word found to pronounce",
     "message": "Không tìm thấy từ nào để phát âm"
   },
-  "v2_3ebff6d1": {
-    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
-    "message": "Đặt lại cấu hình và thứ tự các cột hiển thị về mặc định"
+  "v2_25749bd6": {
+    "description": "Auto-generated translation for: Unselect All",
+    "message": "Bỏ chọn tất cả"
+  },
+  "v2_046044f6": {
+    "description": "Auto-generated translation for: Light",
+    "message": "Ánh sáng"
+  },
+  "v2_00206396": {
+    "description": "Auto-generated translation for: Dark",
+    "message": "Tối"
+  },
+  "v2_6b7ea1b1": {
+    "description": "Auto-generated translation for: System",
+    "message": "Hệ thống"
+  },
+  "v2_51aabb46": {
+    "description": "Auto-generated translation for: Subtitle Display",
+    "message": "Hiển thị phụ đề"
+  },
+  "v2_7f8ab538": {
+    "description": "Auto-generated translation for: Learning Subtitle Styling",
+    "message": "Tìm hiểu cách tạo kiểu phụ đề"
+  },
+  "v2_6b49a911": {
+    "description": "Auto-generated translation for: Native Subtitle Styling",
+    "message": "Tạo kiểu phụ đề gốc"
+  },
+  "v2_7c1626a0": {
+    "description": "Auto-generated translation for: Choose theme",
+    "message": "Chọn chủ đề"
+  },
+  "v2_2e0e0805": {
+    "description": "Auto-generated translation for: Languages",
+    "message": "Ngôn ngữ"
+  },
+  "v2_4dc00fae": {
+    "description": "Auto-generated translation for: Learning Modes",
+    "message": "Chế độ học tập"
+  },
+  "v2_6bc27afe": {
+    "description": "Auto-generated translation for: Styles",
+    "message": "Kiểu dáng"
+  },
+  "v2_78850bfc": {
+    "description": "Auto-generated translation for: Additional Settings",
+    "message": "Cài đặt bổ sung"
+  },
+  "v2_7d162fb5": {
+    "description": "Auto-generated translation for: Turn Off Extension",
+    "message": "Tắt tiện ích mở rộng"
+  },
+  "v2_00015ac7": {
+    "description": "Auto-generated translation for: Yes",
+    "message": "Có"
+  },
+  "v2_000009e1": {
+    "description": "Auto-generated translation for: No",
+    "message": "Không"
+  },
+  "v2_6b0868e6": {
+    "description": "Auto-generated translation for: Reset to defaults",
+    "message": "Đặt lại về mặc định"
   }
 }

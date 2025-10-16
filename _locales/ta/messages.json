@@ -4722,25 +4722,9 @@
     "description": "Auto-generated translation for: Request Assistance",
     "message": "உதவி கோரவும்"
   },
-  "v2_52c31967": {
-    "description": "Auto-generated translation for: {count} of {total} row(s) selected",
-    "message": "{total} வரிசைகளில் {count} தேர்ந்தெடுக்கப்பட்டன",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
   "v2_2f69a4c0": {
     "description": "Auto-generated translation for: Customize Columns",
     "message": "நெடுவரிசைகளைத் தனிப்பயனாக்கு"
-  },
-  "v2_41ef59a9": {
-    "description": "Auto-generated translation for: No results.",
-    "message": "முடிவுகள் இல்லை."
   },
   "v2_79267c9d": {
     "description": "Auto-generated translation for: Page {current} of {total}",
@@ -4821,10 +4805,6 @@
   "v2_70579b79": {
     "description": "Auto-generated translation for: Start Practice",
     "message": "பயிற்சியைத் தொடங்கு"
-  },
-  "v2_04b32d2f": {
-    "description": "Auto-generated translation for: Reset",
-    "message": "மீட்டமை"
   },
   "v2_1e91545a": {
     "description": "Auto-generated translation for: Search...",
@@ -5965,10 +5945,6 @@
     "description": "Auto-generated translation for: Reset to Original",
     "message": "அசல் நிலைக்கு மீட்டமை"
   },
-  "v2_2707730d": {
-    "description": "Auto-generated translation for: More options",
-    "message": "மேலும் விருப்பங்கள்"
-  },
   "v2_69333c39": {
     "description": "Auto-generated translation for: YouTube subtitles available",
     "message": "யூடியூப் உள்தட்டிகள் கிடைக்கும்"
@@ -6437,14 +6413,6 @@
   "v2_5b90e4bc": {
     "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
     "message": "AI-ஆல் இயங்கும் வசனங்கள் மற்றும் மொழிபெயர்ப்புகளை அனுபவிக்கவும்"
-  },
-  "v2_186f9e96": {
-    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
-    "message": "ஏற்கனவே உள்ள நரம்பியல் வசனங்களைப் பயன்படுத்தவும்"
-  },
-  "v2_41b77648": {
-    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
-    "message": "இந்த வீடியோவிற்கு மற்றொரு பயனர் வழங்கிய நியூரல் வசனங்கள் ஏற்கனவே உள்ளன."
   },
   "v2_20adfd45": {
     "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
@@ -7136,14 +7104,6 @@
     "description": "Auto-generated translation for: Examples",
     "message": "எடுத்துக்காட்டுகள்"
   },
-  "v2_33b68d5c": {
-    "description": "Auto-generated translation for: v2_yes",
-    "message": "v2_ஆம்"
-  },
-  "v2_06970264": {
-    "description": "Auto-generated translation for: v2_no",
-    "message": "v2_no"
-  },
   "v2_03e43f43": {
     "description": "Auto-generated translation for: Color",
     "message": "நிறம்"
@@ -7356,10 +7316,6 @@
     "description": "Auto-generated translation for: Choose the color for learning subtitle text",
     "message": "சப் டைட்டில் உரை கற்பதற்கான ஒரு வண்ணத்தைத் தேர்ந்தெடுக்கவும்"
   },
-  "v2_39ecc2fa": {
-    "description": "Auto-generated translation for: Length (chars)",
-    "message": "நீளம் (எழுத்துக்கள்)"
-  },
   "v2_7b7a6663": {
     "description": "Auto-generated translation for: Choose your native language",
     "message": "உங்கள் தாய்மொழியைத் தேர்ந்தெடுங்கள்"
@@ -7367,10 +7323,6 @@
   "v2_35e4aae8": {
     "description": "Auto-generated translation for: Choose the color for native subtitle text",
     "message": "நேட்டிவ் சப்­டைட்டில் உரைக்கான வண்ணத்தைத் தேர்வுசெய்யவும்"
-  },
-  "v2_03b1e76f": {
-    "description": "Auto-generated translation for: Enable Native Subtitles",
-    "message": "நேட்டிவ் சப்டைட்டில்களை இயக்கு"
   },
   "v2_0694d44f": {
     "description": "Auto-generated translation for: Choose the audio language for the video",
@@ -7966,8 +7918,68 @@
     "description": "Auto-generated translation for: No word found to pronounce",
     "message": "உச்சரிக்க வார்த்தை எதுவும் கண்டறியப்படவில்லை"
   },
-  "v2_3ebff6d1": {
-    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
-    "message": "காணக்கூடிய நெடுவரிசைகளையும் பட்டியலையும் இயல்புநிலை அமைப்பிற்கு மீட்டமைக்கவும்"
+  "v2_25749bd6": {
+    "description": "Auto-generated translation for: Unselect All",
+    "message": "அனைத்தையும் தேர்வுநீக்கு"
+  },
+  "v2_046044f6": {
+    "description": "Auto-generated translation for: Light",
+    "message": "ஒளி"
+  },
+  "v2_00206396": {
+    "description": "Auto-generated translation for: Dark",
+    "message": "இருண்ட"
+  },
+  "v2_6b7ea1b1": {
+    "description": "Auto-generated translation for: System",
+    "message": "கணினி"
+  },
+  "v2_51aabb46": {
+    "description": "Auto-generated translation for: Subtitle Display",
+    "message": "வசனம் காட்டு"
+  },
+  "v2_7f8ab538": {
+    "description": "Auto-generated translation for: Learning Subtitle Styling",
+    "message": "வசன தலைப்பு நடைப்படுத்துதலைக் கற்றல்"
+  },
+  "v2_6b49a911": {
+    "description": "Auto-generated translation for: Native Subtitle Styling",
+    "message": "சொந்த வசன நடையமைப்பு"
+  },
+  "v2_7c1626a0": {
+    "description": "Auto-generated translation for: Choose theme",
+    "message": "தீம் என்பதைத் தேர்வுசெய்"
+  },
+  "v2_2e0e0805": {
+    "description": "Auto-generated translation for: Languages",
+    "message": "மொழிகள்"
+  },
+  "v2_4dc00fae": {
+    "description": "Auto-generated translation for: Learning Modes",
+    "message": "கற்றல் முறைகள்"
+  },
+  "v2_6bc27afe": {
+    "description": "Auto-generated translation for: Styles",
+    "message": "வகைகள்"
+  },
+  "v2_78850bfc": {
+    "description": "Auto-generated translation for: Additional Settings",
+    "message": "கூடுதல் அமைப்புகள்"
+  },
+  "v2_7d162fb5": {
+    "description": "Auto-generated translation for: Turn Off Extension",
+    "message": "நீட்டிப்பை முடக்கு"
+  },
+  "v2_00015ac7": {
+    "description": "Auto-generated translation for: Yes",
+    "message": "ஆம்"
+  },
+  "v2_000009e1": {
+    "description": "Auto-generated translation for: No",
+    "message": "இல்லை"
+  },
+  "v2_6b0868e6": {
+    "description": "Auto-generated translation for: Reset to defaults",
+    "message": "இயல்புநிலைக்கு மீட்டமை"
   }
 }

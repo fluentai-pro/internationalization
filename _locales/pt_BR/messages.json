@@ -3074,17 +3074,9 @@
     "description": "Auto-generated translation for: Text-to-Speech Volume",
     "message": "Volume da Síntese de Voz"
   },
-  "v2_186f9e96": {
-    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
-    "message": "Usar legendas neurais existentes"
-  },
   "v2_2046e717": {
     "description": "Auto-generated translation for: Enable Neural Subtitles",
     "message": "Habilitar Legendas Neurais"
-  },
-  "v2_41b77648": {
-    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
-    "message": "Este vídeo já tem legendas neurais disponíveis de outro usuário."
   },
   "v2_20adfd45": {
     "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
@@ -3334,10 +3326,6 @@
   "v2_046d9230": {
     "description": "Auto-generated translation for: Dev Tools",
     "message": "Ferramentas do desenvolvedor"
-  },
-  "v2_2707730d": {
-    "description": "Auto-generated translation for: More options",
-    "message": "Mais opções"
   },
   "v2_406dd7bc": {
     "description": "Auto-generated translation for: Something went wrong. Please try again later.",
@@ -3983,10 +3971,6 @@
     "description": "Auto-generated translation for: Get instant, accurate translations powered by advanced AI technology.",
     "message": "Obtenha traduções instantâneas e precisas com tecnologia avançada de IA."
   },
-  "v2_04b32d2f": {
-    "description": "Auto-generated translation for: Reset",
-    "message": "Redefinir"
-  },
   "v2_3eb0f107": {
     "description": "Auto-generated translation for: Delete {count} selected",
     "message": "Excluir $count$ selecionados",
@@ -4035,22 +4019,6 @@
   "v2_64168160": {
     "description": "Auto-generated translation for: Confirm",
     "message": "Confirmar"
-  },
-  "v2_52c31967": {
-    "description": "Auto-generated translation for: {count} of {total} row(s) selected",
-    "message": "{count} de {total} linha(s) selecionada(s)",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_41ef59a9": {
-    "description": "Auto-generated translation for: No results.",
-    "message": "Nenhum resultado."
   },
   "v2_286328e9": {
     "description": "Auto-generated translation for: row(s) selected",
@@ -6984,14 +6952,6 @@
     "description": "Auto-generated translation for: Examples",
     "message": "Exemplos"
   },
-  "v2_33b68d5c": {
-    "description": "Auto-generated translation for: v2_yes",
-    "message": "v2_sim"
-  },
-  "v2_06970264": {
-    "description": "Auto-generated translation for: v2_no",
-    "message": "v2_não"
-  },
   "v2_03e43f43": {
     "description": "Auto-generated translation for: Color",
     "message": "Cor"
@@ -7208,10 +7168,6 @@
     "description": "Auto-generated translation for: Choose the color for learning subtitle text",
     "message": "Escolha a cor para aprender o texto da legenda"
   },
-  "v2_39ecc2fa": {
-    "description": "Auto-generated translation for: Length (chars)",
-    "message": "Comprimento (caracteres)"
-  },
   "v2_7b7a6663": {
     "description": "Auto-generated translation for: Choose your native language",
     "message": "Escolha seu idioma nativo"
@@ -7219,10 +7175,6 @@
   "v2_35e4aae8": {
     "description": "Auto-generated translation for: Choose the color for native subtitle text",
     "message": "Escolha a cor para o texto da legenda nativa"
-  },
-  "v2_03b1e76f": {
-    "description": "Auto-generated translation for: Enable Native Subtitles",
-    "message": "Habilitar legendas nativas"
   },
   "v2_0694d44f": {
     "description": "Auto-generated translation for: Choose the audio language for the video",
@@ -7814,8 +7766,68 @@
     "description": "Auto-generated translation for: No word found to pronounce",
     "message": "Nenhuma palavra encontrada para pronunciar"
   },
-  "v2_3ebff6d1": {
-    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
-    "message": "Redefinir as colunas visíveis e a ordem para a configuração padrão"
+  "v2_25749bd6": {
+    "description": "Auto-generated translation for: Unselect All",
+    "message": "Desmarcar tudo"
+  },
+  "v2_046044f6": {
+    "description": "Auto-generated translation for: Light",
+    "message": "Claro"
+  },
+  "v2_00206396": {
+    "description": "Auto-generated translation for: Dark",
+    "message": "Escuro"
+  },
+  "v2_6b7ea1b1": {
+    "description": "Auto-generated translation for: System",
+    "message": "Sistema"
+  },
+  "v2_51aabb46": {
+    "description": "Auto-generated translation for: Subtitle Display",
+    "message": "Exibição de Legendas"
+  },
+  "v2_7f8ab538": {
+    "description": "Auto-generated translation for: Learning Subtitle Styling",
+    "message": "Aprendendo a Estilização de Legendas"
+  },
+  "v2_6b49a911": {
+    "description": "Auto-generated translation for: Native Subtitle Styling",
+    "message": "Estilo nativo da legenda"
+  },
+  "v2_7c1626a0": {
+    "description": "Auto-generated translation for: Choose theme",
+    "message": "Escolher tema"
+  },
+  "v2_2e0e0805": {
+    "description": "Auto-generated translation for: Languages",
+    "message": "Idiomas"
+  },
+  "v2_4dc00fae": {
+    "description": "Auto-generated translation for: Learning Modes",
+    "message": "Modos de Aprendizagem"
+  },
+  "v2_6bc27afe": {
+    "description": "Auto-generated translation for: Styles",
+    "message": "Estilos"
+  },
+  "v2_78850bfc": {
+    "description": "Auto-generated translation for: Additional Settings",
+    "message": "Configurações Adicionais"
+  },
+  "v2_7d162fb5": {
+    "description": "Auto-generated translation for: Turn Off Extension",
+    "message": "Desativar Extensão"
+  },
+  "v2_00015ac7": {
+    "description": "Auto-generated translation for: Yes",
+    "message": "Sim"
+  },
+  "v2_000009e1": {
+    "description": "Auto-generated translation for: No",
+    "message": "Não"
+  },
+  "v2_6b0868e6": {
+    "description": "Auto-generated translation for: Reset to defaults",
+    "message": "Redefinir para o padrão"
   }
 }

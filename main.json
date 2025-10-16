@@ -3074,17 +3074,9 @@
     "description": "Auto-generated translation for: Text-to-Speech Volume",
     "message": "Text-to-Speech Volume"
   },
-  "v2_186f9e96": {
-    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
-    "message": "Use Existing Neural Subtitles"
-  },
   "v2_2046e717": {
     "description": "Auto-generated translation for: Enable Neural Subtitles",
     "message": "Enable Neural Subtitles"
-  },
-  "v2_41b77648": {
-    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
-    "message": "This video already has neural subtitles available from another user."
   },
   "v2_20adfd45": {
     "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
@@ -3334,10 +3326,6 @@
   "v2_046d9230": {
     "description": "Auto-generated translation for: Dev Tools",
     "message": "Dev Tools"
-  },
-  "v2_2707730d": {
-    "description": "Auto-generated translation for: More options",
-    "message": "More options"
   },
   "v2_406dd7bc": {
     "description": "Auto-generated translation for: Something went wrong. Please try again later.",
@@ -3983,10 +3971,6 @@
     "description": "Auto-generated translation for: Get instant, accurate translations powered by advanced AI technology.",
     "message": "Get instant, accurate translations powered by advanced AI technology."
   },
-  "v2_04b32d2f": {
-    "description": "Auto-generated translation for: Reset",
-    "message": "Reset"
-  },
   "v2_3eb0f107": {
     "description": "Auto-generated translation for: Delete {count} selected",
     "message": "Delete {count} selected",
@@ -4035,22 +4019,6 @@
   "v2_64168160": {
     "description": "Auto-generated translation for: Confirm",
     "message": "Confirm"
-  },
-  "v2_52c31967": {
-    "description": "Auto-generated translation for: {count} of {total} row(s) selected",
-    "message": "{count} of {total} row(s) selected",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_41ef59a9": {
-    "description": "Auto-generated translation for: No results.",
-    "message": "No results."
   },
   "v2_286328e9": {
     "description": "Auto-generated translation for: row(s) selected",
@@ -6988,14 +6956,6 @@
     "description": "Auto-generated translation for: Examples",
     "message": "Examples"
   },
-  "v2_33b68d5c": {
-    "description": "Auto-generated translation for: v2_yes",
-    "message": "v2_yes"
-  },
-  "v2_06970264": {
-    "description": "Auto-generated translation for: v2_no",
-    "message": "v2_no"
-  },
   "v2_03e43f43": {
     "description": "Auto-generated translation for: Color",
     "message": "Color"
@@ -7212,10 +7172,6 @@
     "description": "Auto-generated translation for: Choose the color for learning subtitle text",
     "message": "Choose the color for learning subtitle text"
   },
-  "v2_39ecc2fa": {
-    "description": "Auto-generated translation for: Length (chars)",
-    "message": "Length (chars)"
-  },
   "v2_7b7a6663": {
     "description": "Auto-generated translation for: Choose your native language",
     "message": "Choose your native language"
@@ -7223,10 +7179,6 @@
   "v2_35e4aae8": {
     "description": "Auto-generated translation for: Choose the color for native subtitle text",
     "message": "Choose the color for native subtitle text"
-  },
-  "v2_03b1e76f": {
-    "description": "Auto-generated translation for: Enable Native Subtitles",
-    "message": "Enable Native Subtitles"
   },
   "v2_0694d44f": {
     "description": "Auto-generated translation for: Choose the audio language for the video",
@@ -7818,8 +7770,68 @@
     "description": "Auto-generated translation for: No word found to pronounce",
     "message": "No word found to pronounce"
   },
-  "v2_3ebff6d1": {
-    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
-    "message": "Reset the visible columns and order to the default configuration"
+  "v2_25749bd6": {
+    "description": "Auto-generated translation for: Unselect All",
+    "message": "Unselect All"
+  },
+  "v2_046044f6": {
+    "description": "Auto-generated translation for: Light",
+    "message": "Light"
+  },
+  "v2_00206396": {
+    "description": "Auto-generated translation for: Dark",
+    "message": "Dark"
+  },
+  "v2_6b7ea1b1": {
+    "description": "Auto-generated translation for: System",
+    "message": "System"
+  },
+  "v2_51aabb46": {
+    "description": "Auto-generated translation for: Subtitle Display",
+    "message": "Subtitle Display"
+  },
+  "v2_7f8ab538": {
+    "description": "Auto-generated translation for: Learning Subtitle Styling",
+    "message": "Learning Subtitle Styling"
+  },
+  "v2_6b49a911": {
+    "description": "Auto-generated translation for: Native Subtitle Styling",
+    "message": "Native Subtitle Styling"
+  },
+  "v2_7c1626a0": {
+    "description": "Auto-generated translation for: Choose theme",
+    "message": "Choose theme"
+  },
+  "v2_2e0e0805": {
+    "description": "Auto-generated translation for: Languages",
+    "message": "Languages"
+  },
+  "v2_4dc00fae": {
+    "description": "Auto-generated translation for: Learning Modes",
+    "message": "Learning Modes"
+  },
+  "v2_6bc27afe": {
+    "description": "Auto-generated translation for: Styles",
+    "message": "Styles"
+  },
+  "v2_78850bfc": {
+    "description": "Auto-generated translation for: Additional Settings",
+    "message": "Additional Settings"
+  },
+  "v2_7d162fb5": {
+    "description": "Auto-generated translation for: Turn Off Extension",
+    "message": "Turn Off Extension"
+  },
+  "v2_00015ac7": {
+    "description": "Auto-generated translation for: Yes",
+    "message": "Yes"
+  },
+  "v2_000009e1": {
+    "description": "Auto-generated translation for: No",
+    "message": "No"
+  },
+  "v2_6b0868e6": {
+    "description": "Auto-generated translation for: Reset to defaults",
+    "message": "Reset to defaults"
   }
 }

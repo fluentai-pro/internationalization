@@ -4722,25 +4722,9 @@
     "description": "Auto-generated translation for: Request Assistance",
     "message": "Yardım İste"
   },
-  "v2_52c31967": {
-    "description": "Auto-generated translation for: {count} of {total} row(s) selected",
-    "message": "Seçilen satır: {total} adetten {count} adet",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
   "v2_2f69a4c0": {
     "description": "Auto-generated translation for: Customize Columns",
     "message": "Sütunları Özelleştir"
-  },
-  "v2_41ef59a9": {
-    "description": "Auto-generated translation for: No results.",
-    "message": "Sonuç bulunamadı."
   },
   "v2_79267c9d": {
     "description": "Auto-generated translation for: Page {current} of {total}",
@@ -4821,10 +4805,6 @@
   "v2_70579b79": {
     "description": "Auto-generated translation for: Start Practice",
     "message": "Pratiğe Başla"
-  },
-  "v2_04b32d2f": {
-    "description": "Auto-generated translation for: Reset",
-    "message": "Sıfırla"
   },
   "v2_1e91545a": {
     "description": "Auto-generated translation for: Search...",
@@ -5965,10 +5945,6 @@
     "description": "Auto-generated translation for: Reset to Original",
     "message": "Orijinale Sıfırla"
   },
-  "v2_2707730d": {
-    "description": "Auto-generated translation for: More options",
-    "message": "Daha fazla seçenek"
-  },
   "v2_69333c39": {
     "description": "Auto-generated translation for: YouTube subtitles available",
     "message": "YouTube altyazıları mevcut"
@@ -6437,14 +6413,6 @@
   "v2_5b90e4bc": {
     "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
     "message": "Yapay zeka destekli altyazı ve çevirilerin keyfini çıkarın"
-  },
-  "v2_186f9e96": {
-    "description": "Auto-generated translation for: Use Existing Neural Subtitles",
-    "message": "Mevcut Sinirsel Altyazıları Kullan"
-  },
-  "v2_41b77648": {
-    "description": "Auto-generated translation for: This video already has neural subtitles available from another user.",
-    "message": "Bu videonun başka bir kullanıcıdan alınmış nöral altyazıları zaten mevcut."
   },
   "v2_20adfd45": {
     "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
@@ -7136,14 +7104,6 @@
     "description": "Auto-generated translation for: Examples",
     "message": "Örnekler"
   },
-  "v2_33b68d5c": {
-    "description": "Auto-generated translation for: v2_yes",
-    "message": "v2_evet"
-  },
-  "v2_06970264": {
-    "description": "Auto-generated translation for: v2_no",
-    "message": "v2_hayır"
-  },
   "v2_03e43f43": {
     "description": "Auto-generated translation for: Color",
     "message": "Renk"
@@ -7360,10 +7320,6 @@
     "description": "Auto-generated translation for: Choose the color for learning subtitle text",
     "message": "Öğrenme altyazısı metni için rengi seçin"
   },
-  "v2_39ecc2fa": {
-    "description": "Auto-generated translation for: Length (chars)",
-    "message": "Uzunluk (karakter)"
-  },
   "v2_7b7a6663": {
     "description": "Auto-generated translation for: Choose your native language",
     "message": "Ana dilinizi seçin"
@@ -7371,10 +7327,6 @@
   "v2_35e4aae8": {
     "description": "Auto-generated translation for: Choose the color for native subtitle text",
     "message": "Yerel altyazı metni için rengi seçin"
-  },
-  "v2_03b1e76f": {
-    "description": "Auto-generated translation for: Enable Native Subtitles",
-    "message": "Yerel Altyazıları Etkinleştir"
   },
   "v2_0694d44f": {
     "description": "Auto-generated translation for: Choose the audio language for the video",
@@ -7966,8 +7918,68 @@
     "description": "Auto-generated translation for: No word found to pronounce",
     "message": "Telaffuz edilecek kelime bulunamadı"
   },
-  "v2_3ebff6d1": {
-    "description": "Auto-generated translation for: Reset the visible columns and order to the default configuration",
-    "message": "Görünür sütunları ve sıralamayı varsayılan yapılandırmaya sıfırla"
+  "v2_25749bd6": {
+    "description": "Auto-generated translation for: Unselect All",
+    "message": "Tüm Seçimleri Kaldır"
+  },
+  "v2_046044f6": {
+    "description": "Auto-generated translation for: Light",
+    "message": "Işık"
+  },
+  "v2_00206396": {
+    "description": "Auto-generated translation for: Dark",
+    "message": "Koyu"
+  },
+  "v2_6b7ea1b1": {
+    "description": "Auto-generated translation for: System",
+    "message": "Sistem"
+  },
+  "v2_51aabb46": {
+    "description": "Auto-generated translation for: Subtitle Display",
+    "message": "Altyazı Görüntüleme"
+  },
+  "v2_7f8ab538": {
+    "description": "Auto-generated translation for: Learning Subtitle Styling",
+    "message": "Altyazı Stili Öğrenme"
+  },
+  "v2_6b49a911": {
+    "description": "Auto-generated translation for: Native Subtitle Styling",
+    "message": "Yerel Altyazı Biçimlendirme"
+  },
+  "v2_7c1626a0": {
+    "description": "Auto-generated translation for: Choose theme",
+    "message": "Tema seç"
+  },
+  "v2_2e0e0805": {
+    "description": "Auto-generated translation for: Languages",
+    "message": "Diller"
+  },
+  "v2_4dc00fae": {
+    "description": "Auto-generated translation for: Learning Modes",
+    "message": "Öğrenme Modları"
+  },
+  "v2_6bc27afe": {
+    "description": "Auto-generated translation for: Styles",
+    "message": "Stiller"
+  },
+  "v2_78850bfc": {
+    "description": "Auto-generated translation for: Additional Settings",
+    "message": "Ek Ayarlar"
+  },
+  "v2_7d162fb5": {
+    "description": "Auto-generated translation for: Turn Off Extension",
+    "message": "Uzantıyı Kapat"
+  },
+  "v2_00015ac7": {
+    "description": "Auto-generated translation for: Yes",
+    "message": "Evet"
+  },
+  "v2_000009e1": {
+    "description": "Auto-generated translation for: No",
+    "message": "Hayır"
+  },
+  "v2_6b0868e6": {
+    "description": "Auto-generated translation for: Reset to defaults",
+    "message": "Varsayılan ayarlara sıfırla"
   }
 }
