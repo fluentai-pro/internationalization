@@ -1523,10 +1523,6 @@
     "description": "Auto-generated translation for: Verify your email",
     "message": "अपने ईमेल को सत्यापित करें"
   },
-  "v2_3a7ebed9": {
-    "description": "Auto-generated translation for: Please enter the verification code sent to your email",
-    "message": "कृपया अपने ईमेल पर भेजा गया सत्यापन कोड दर्ज करें"
-  },
   "v2_742db2cb": {
     "description": "Auto-generated translation for: Verify Email",
     "message": "ईमेल सत्यापित करें"
@@ -3150,17 +3146,9 @@
     "description": "Auto-generated translation for: Premium tooltip",
     "message": "प्रीमियम टूलटिप"
   },
-  "v2_6a9872e7": {
-    "description": "Auto-generated translation for: Interface",
-    "message": "इंटरफ़ेस"
-  },
   "v2_7adbfec8": {
     "description": "Auto-generated translation for: Interface Size",
     "message": "इंटरफ़ेस आकार"
-  },
-  "v2_5af2c9a9": {
-    "description": "Auto-generated translation for: Adjust the size of the interface elements.",
-    "message": "इंटरफ़ेस तत्वों का आकार समायोजित करें।"
   },
   "v2_2a338708": {
     "description": "Auto-generated translation for: Learning Subtitles Size",
@@ -5369,10 +5357,6 @@
       }
     }
   },
-  "v2_57761200": {
-    "description": "Auto-generated translation for: Unbookmarking sentences not yet implemented",
-    "message": "जो वाक्य अभी तक लागू नहीं किए गए हैं उन्हें अनबुकमार्क करना"
-  },
   "v2_3c750a29": {
     "description": "Auto-generated translation for: Remove sentence bookmark",
     "message": "वाक्य बुकमार्क हटाएँ"
@@ -5421,10 +5405,6 @@
     "description": "Auto-generated translation for: Choose a video",
     "message": "वीडियो चुनें"
   },
-  "v2_65e0d045": {
-    "description": "Auto-generated translation for: Open any movie or video on your streaming platform",
-    "message": "अपने स्ट्रीमिंग प्लेटफ़ॉर्म पर कोई भी फ़िल्म या वीडियो खोलें"
-  },
   "v2_6e2ab0b6": {
     "description": "Auto-generated translation for: Click FluentAI button",
     "message": "FluentAI बटन पर क्लिक करें"
@@ -5440,10 +5420,6 @@
   "v2_5b90e4bc": {
     "description": "Auto-generated translation for: Enjoy AI-powered subtitles and translations",
     "message": "एआई-पावर्ड सबटाइटल और अनुवाद का आनंद लें"
-  },
-  "v2_20adfd45": {
-    "description": "Auto-generated translation for: Experience real-time AI-powered transcription with unmatched accuracy.",
-    "message": "बेजोड़ सटीकता के साथ रीयल-टाइम AI-संचालित ट्रांसक्रिप्शन का अनुभव करें।"
   },
   "v2_5b65a386": {
     "description": "Auto-generated translation for: AI-Powered Accuracy",
@@ -5488,14 +5464,6 @@
   "v2_1143d851": {
     "description": "Auto-generated translation for: Please select a language to continue",
     "message": "जारी रखने के लिए कृपया एक भाषा चुनें"
-  },
-  "v2_0442ce8f": {
-    "description": "Auto-generated translation for: Daily Quota",
-    "message": "दैनिक कोटा"
-  },
-  "v2_09e12465": {
-    "description": "Auto-generated translation for: Monthly Quota",
-    "message": "मासिक कोटा"
   },
   "v2_1c043be4": {
     "description": "Auto-generated translation for: Your video is",
@@ -5576,10 +5544,6 @@
   "v2_51350959": {
     "description": "Auto-generated translation for: Lingering subtitle",
     "message": "देर तक रहने वाला सबटाइटल"
-  },
-  "v2_0bd10da6": {
-    "description": "Auto-generated translation for: Keep the current subtitle visible, even after it has ended",
-    "message": "वर्तमान उपशीर्षक समाप्त होने के बाद भी उसे दृश्यमान रखें"
   },
   "v2_54604014": {
     "description": "Auto-generated translation for: Text-to-Speech",
@@ -5805,10 +5769,6 @@
     "description": "Auto-generated translation for: Number of Translations",
     "message": "अनुवादों की संख्या"
   },
-  "v2_107db982": {
-    "description": "Auto-generated translation for: Chip Font Size",
-    "message": "चिप फ़ॉन्ट आकार"
-  },
   "v2_62e23b91": {
     "description": "Auto-generated translation for: Contribute on Github",
     "message": "Github पर योगदान करें"
@@ -5876,10 +5836,6 @@
   "v2_568faf56": {
     "description": "Auto-generated translation for: Completed!",
     "message": "पूरा हुआ!"
-  },
-  "v2_7004a3f5": {
-    "description": "Auto-generated translation for: minutes remaining",
-    "message": "मिनट शेष"
   },
   "v2_6d7c277a": {
     "description": "Auto-generated translation for: Loading quota...",
@@ -6363,10 +6319,6 @@
     "description": "Auto-generated translation for: days left",
     "message": "दिन शेष"
   },
-  "v2_7912689f": {
-    "description": "Auto-generated translation for: Lifetime Quota",
-    "message": "लाइफटाइम कोटा"
-  },
   "v2_05c52cdc": {
     "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
     "message": "इस वीडियो के लिए {{videoMinutes}} मिनट चाहिए, लेकिन आपके पास केवल {{remainingQuota}} मिनट बचे हैं। आपको पहले {{remainingQuota}} मिनट के लिए न्यूरल सबटाइटल मिलेंगे।",
@@ -6723,10 +6675,6 @@
     "description": "Auto-generated translation for: Copy Current Subtitle to Clipboard",
     "message": "वर्तमान उपशीर्षक को क्लिपबोर्ड पर कॉपी करें"
   },
-  "v2_28ee13e0": {
-    "description": "Auto-generated translation for: Translate Selected Text",
-    "message": "चयनित पाठ का अनुवाद करें"
-  },
   "v2_580eee3f": {
     "description": "Auto-generated translation for: Merge with Previous Word",
     "message": "पिछले शब्द के साथ मर्ज करें"
@@ -6806,10 +6754,6 @@
   "v2_1a65dceb": {
     "description": "Auto-generated translation for: Copy Sub",
     "message": "कॉपी उपशीर्षक"
-  },
-  "v2_49cceed2": {
-    "description": "Auto-generated translation for: Translate",
-    "message": "अनुवाद करें"
   },
   "v2_323f1f2f": {
     "description": "Auto-generated translation for: Merge Left",
@@ -6987,17 +6931,9 @@
     "description": "Auto-generated translation for: Morphology",
     "message": "आकृति विज्ञान"
   },
-  "v2_2c695d57": {
-    "description": "Auto-generated translation for: Popup Settings",
-    "message": "पॉपअप सेटिंग्स"
-  },
   "v2_494648f6": {
     "description": "Auto-generated translation for: Default Tab",
     "message": "डिफ़ॉल्ट टैब"
-  },
-  "v2_640048d1": {
-    "description": "Auto-generated translation for: Choose which tab opens by default when the popup appears",
-    "message": "चुनें कि पॉपअप दिखने पर डिफ़ॉल्ट रूप से कौन सा टैब खुलेगा"
   },
   "v2_708261f0": {
     "description": "Auto-generated translation for: Choose the default tab to open in the fast translation popup",
@@ -7066,5 +7002,195 @@
   "v2_021c110d": {
     "description": "Auto-generated translation for: Failed to get subtitle context",
     "message": "उपशीर्षक संदर्भ प्राप्त करने में विफल"
+  },
+  "v2_6ecf6dff": {
+    "description": "Auto-generated translation for: Pronounce word",
+    "message": "शब्द का उच्चारण करें"
+  },
+  "v2_77a1b37e": {
+    "description": "Auto-generated translation for: Part of speech",
+    "message": "शब्द भेद"
+  },
+  "v2_70346218": {
+    "description": "Auto-generated translation for: Base form (dictionary form) of the word",
+    "message": "शब्द का मूल रूप (शब्दकोश रूप)"
+  },
+  "v2_01653b35": {
+    "description": "Auto-generated translation for: Popup Size",
+    "message": "पॉपअप का आकार"
+  },
+  "v2_4803098a": {
+    "description": "Auto-generated translation for: Scale all translation popups including text, buttons, and spacing",
+    "message": "टेक्स्ट, बटन और स्पेसिंग सहित सभी अनुवाद पॉपअप को स्केल करें"
+  },
+  "v2_756da0fc": {
+    "description": "Auto-generated translation for: Sentence removed from bookmarks",
+    "message": "बुकमार्क से वाक्य हटा दिया गया"
+  },
+  "v2_78606dc1": {
+    "description": "Auto-generated translation for: Merge with previous word",
+    "message": "पिछले शब्द के साथ मर्ज करें"
+  },
+  "v2_5f4dfdbb": {
+    "description": "Auto-generated translation for: Merge with next word",
+    "message": "अगले शब्द से मर्ज करें"
+  },
+  "v2_69be8149": {
+    "description": "Auto-generated translation for: Analyse word",
+    "message": "शब्द का विश्लेषण करें"
+  },
+  "v2_03c2f0e0": {
+    "description": "Auto-generated translation for: Added",
+    "message": "जोड़ा गया"
+  },
+  "v2_22c02861": {
+    "description": "Auto-generated translation for: Panel Store Monitor",
+    "message": "पैनल स्टोर मॉनिटर"
+  },
+  "v2_7d79b9aa": {
+    "description": "Auto-generated translation for: Real-time panel store state monitoring",
+    "message": "रीयल-टाइम पैनल स्टोर स्थिति निगरानी"
+  },
+  "v2_00dd2fd1": {
+    "description": "Auto-generated translation for: No store data available",
+    "message": "कोई स्टोर डेटा उपलब्ध नहीं है"
+  },
+  "v2_04e9a151": {
+    "description": "Auto-generated translation for: Value",
+    "message": "मूल्य"
+  },
+  "v2_7ff0b2ad": {
+    "description": "Auto-generated translation for: Structure",
+    "message": "संरचना"
+  },
+  "v2_2b169a4d": {
+    "description": "Auto-generated translation for: Array with",
+    "message": "के साथ सरणी"
+  },
+  "v2_13d2d4e7": {
+    "description": "Auto-generated translation for: Object with",
+    "message": "के साथ ऑब्जेक्ट"
+  },
+  "v2_373272cd": {
+    "description": "Auto-generated translation for: properties",
+    "message": "गुण"
+  },
+  "v2_1dfd168b": {
+    "description": "Auto-generated translation for: Not set",
+    "message": "सेट नहीं"
+  },
+  "v2_74946b26": {
+    "description": "Auto-generated translation for: Active",
+    "message": "सक्रिय"
+  },
+  "v2_1547e4ce": {
+    "description": "Auto-generated translation for: Auto-refreshes every second",
+    "message": "हर सेकंड अपने-आप रीफ़्रेश होता है"
+  },
+  "v2_4abe27de": {
+    "description": "Auto-generated translation for: Loop Monitor",
+    "message": "लूप मॉनिटर"
+  },
+  "v2_4feab152": {
+    "description": "Auto-generated translation for: No loops detected",
+    "message": "कोई लूप नहीं मिला"
+  },
+  "v2_0552c08b": {
+    "description": "Auto-generated translation for: Inactive",
+    "message": "निष्क्रिय"
+  },
+  "v2_25da48e5": {
+    "description": "Auto-generated translation for: Interval",
+    "message": "अंतराल"
+  },
+  "v2_145c865e": {
+    "description": "Auto-generated translation for: Tick ID",
+    "message": "टिकट ID"
+  },
+  "v2_00252358": {
+    "description": "Auto-generated translation for: None",
+    "message": "कोई नहीं"
+  },
+  "v2_40585261": {
+    "description": "Auto-generated translation for: Running",
+    "message": "दौड़ना"
+  },
+  "v2_0d17d653": {
+    "description": "Auto-generated translation for: Stopped",
+    "message": "रुका हुआ"
+  },
+  "v2_59be7697": {
+    "description": "Auto-generated translation for: Next tick scheduled",
+    "message": "अगला टिक निर्धारित"
+  },
+  "v2_1fcddc9c": {
+    "description": "Auto-generated translation for: Failed to get user after login",
+    "message": "लॉगिन के बाद उपयोगकर्ता प्राप्त करने में विफल"
+  },
+  "v2_7d1ee00a": {
+    "description": "Auto-generated translation for: Play audio",
+    "message": "ऑडियो चलाएं"
+  },
+  "v2_51a73e86": {
+    "description": "Auto-generated translation for: {{limit}} min in your 7 days free trial available",
+    "message": "आपके 7 दिनों के निःशुल्क परीक्षण में {{limit}} मिनट उपलब्ध हैं",
+    "placeholders": {
+      "limit": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_13805c42": {
+    "description": "Auto-generated translation for: {{remaining}} min remaining",
+    "message": "{{remaining}} मिनट शेष",
+    "placeholders": {
+      "remaining": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_401f71c3": {
+    "description": "Auto-generated translation for: Watch continuously without interruptions",
+    "message": "बिना किसी रुकावट के लगातार देखें"
+  },
+  "v2_24281b74": {
+    "description": "Auto-generated translation for: Automatically pause after each subtitle",
+    "message": "प्रत्येक उपशीर्षक के बाद स्वतः रोकें"
+  },
+  "v2_08da8e89": {
+    "description": "Auto-generated translation for: Repeat each subtitle for better learning",
+    "message": "बेहतर सीखने के लिए हर सबटाइटल दोहराएँ"
+  },
+  "v2_76b15736": {
+    "description": "Auto-generated translation for: Keep the current subtitle visible, even after it has ended, until the next one appears",
+    "message": "वर्तमान उपशीर्षक समाप्त होने के बाद भी उसे तब तक दृश्यमान रखें, जब तक कि अगला उपशीर्षक प्रकट न हो जाए"
+  },
+  "v2_43fc8b67": {
+    "description": "Auto-generated translation for: Show Subtitle List Panel",
+    "message": "उपशीर्षक सूची पैनल दिखाएँ"
+  },
+  "v2_12abaa5c": {
+    "description": "Auto-generated translation for: Displays a scrollable panel with all subtitles for easy navigation",
+    "message": "आसान नेविगेशन के लिए सभी उपशीर्षकों के साथ एक स्क्रॉल करने योग्य पैनल प्रदर्शित करता है"
+  },
+  "v2_550e3b85": {
+    "description": "Auto-generated translation for: Panel Store",
+    "message": "पैनल स्टोर"
+  },
+  "v2_35041e75": {
+    "description": "Auto-generated translation for: Toggle Mini Hover Popup",
+    "message": "मिनी होवर पॉपअप टॉगल करें"
+  },
+  "v2_3c2074d7": {
+    "description": "Auto-generated translation for: Toggle Mini Click Popup",
+    "message": "मिनी क्लिक पॉपअप टॉगल करें"
+  },
+  "v2_0cdcd290": {
+    "description": "Auto-generated translation for: Toggle Hover",
+    "message": "होवर टॉगल करें"
+  },
+  "v2_0d24d644": {
+    "description": "Auto-generated translation for: Toggle Click",
+    "message": "टॉगल क्लिक करें"
   }
 }
