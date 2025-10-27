@@ -2232,10 +2232,6 @@
     "description": "Auto-generated translation for: Highlight Words During Live Speaking (When available)",
     "message": "Destacar Palavras ao Vivo (Quando disponível)"
   },
-  "v2_25cb06ec": {
-    "description": "Auto-generated translation for: Highlights words as they are spoken to improve listening comprehension.",
-    "message": "Destaca as palavras enquanto são faladas para melhorar a compreensão auditiva."
-  },
   "v2_54a8edca": {
     "description": "Auto-generated translation for: Enables AI-powered mapping between learning language and native language tokens for better translation alignment.",
     "message": "Permite o mapeamento por IA entre tokens de idioma de aprendizado e idioma nativo para um melhor alinhamento na tradução."
@@ -4188,10 +4184,6 @@
     "description": "Auto-generated translation for: FluentAI is temporarily unavailable on Chrome",
     "message": "O FluentAI está temporariamente indisponível no Chrome"
   },
-  "v2_62f19e8e": {
-    "description": "Auto-generated translation for: Due to recent changes by the Chrome Web Store, FluentAI is temporarily unavailable on Chrome. We’re working on a fix ASAP. In the meantime, you can continue learning with Firefox. Sorry for the inconvenience.",
-    "message": "Devido a mudanças recentes na Chrome Web Store, o FluentAI está temporariamente indisponível no Chrome. Estamos trabalhando em uma solução o mais rápido possível. Enquanto isso, você pode continuar aprendendo com o Firefox. Pedimos desculpas pelo inconveniente."
-  },
   "v2_50fc052b": {
     "description": "Auto-generated translation for: Install FluentAI for Firefox",
     "message": "Instalar FluentAI para Firefox"
@@ -5163,30 +5155,6 @@
     "description": "Auto-generated translation for: Your detailed feedback will unlock 1 month of premium features at no cost, so we get to fix your issue and you get to enjoy our tool :)",
     "message": "Seu feedback detalhado irá liberar 1 mês de recursos premium sem custo, assim conseguiremos resolver seu problema e você poderá aproveitar nossa ferramenta :)"
   },
-  "v2_78c2dd31": {
-    "description": "Auto-generated translation for: Submitting feedback...",
-    "message": "Enviando feedback..."
-  },
-  "v2_48dcfece": {
-    "description": "Auto-generated translation for: Submit feedback & get 1 month free",
-    "message": "Envie seu feedback e ganhe 1 mês grátis"
-  },
-  "v2_2312ebfb": {
-    "description": "Auto-generated translation for: Get 1 month free",
-    "message": "Ganhe 1 mês grátis"
-  },
-  "v2_75605fc1": {
-    "description": "Auto-generated translation for: Feedback length",
-    "message": "Tamanho do feedback"
-  },
-  "v2_136c8d52": {
-    "description": "Auto-generated translation for: Please provide at least 20 characters of feedback before submitting",
-    "message": "Por favor, forneça um feedback com no mínimo 20 caracteres antes de enviar"
-  },
-  "v2_3bd43121": {
-    "description": "Auto-generated translation for: Ready to submit!",
-    "message": "Pronto para enviar!"
-  },
   "v2_580965ba": {
     "description": "Auto-generated translation for: Connection Error",
     "message": "Erro de Conexão"
@@ -5199,90 +5167,13 @@
     "description": "Auto-generated translation for: Validation Error",
     "message": "Erro de Validação"
   },
-  "v2_3dbfa3d4": {
-    "description": "Auto-generated translation for: Retrying...",
-    "message": "Tentando novamente..."
-  },
-  "v2_04b33288": {
-    "description": "Auto-generated translation for: Retry",
-    "message": "Tentar novamente"
-  },
-  "v2_3923b596": {
-    "description": "Auto-generated translation for: Dismiss",
-    "message": "Descartar"
-  },
-  "v2_11a5e409": {
-    "description": "Auto-generated translation for: Found a bug",
-    "message": "Encontrei um bug"
-  },
-  "v2_35fc5464": {
-    "description": "Auto-generated translation for: Difficult to use",
-    "message": "Difícil de usar"
-  },
-  "v2_48b375e4": {
-    "description": "Auto-generated translation for: Missing feature",
-    "message": "Recurso ausente"
-  },
-  "v2_48ec9a66": {
-    "description": "Auto-generated translation for: Found a better alternative",
-    "message": "Encontrei uma alternativa melhor"
-  },
-  "v2_063db64d": {
-    "description": "Auto-generated translation for: Describe the bug you encountered...",
-    "message": "Descreva o erro encontrado..."
-  },
-  "v2_5575fb13": {
-    "description": "Auto-generated translation for: Tell us what was confusing or difficult...",
-    "message": "Diga-nos o que foi confuso ou difícil..."
-  },
-  "v2_070f41f5": {
-    "description": "Auto-generated translation for: What feature would make this perfect for you?",
-    "message": "Que recurso o tornaria perfeito para você?"
-  },
-  "v2_01e0fd6b": {
-    "description": "Auto-generated translation for: What alternative did you find?",
-    "message": "Que alternativa você encontrou?"
-  },
   "v2_1c8b0b53": {
     "description": "Auto-generated translation for: Please share your feedback...",
     "message": "Por favor, compartilhe seu feedback..."
   },
-  "v2_7b1f487c": {
-    "description": "Auto-generated translation for: Your feedback...",
-    "message": "Seu feedback..."
-  },
-  "v2_7f1820b0": {
-    "description": "Auto-generated translation for: Select a reason for uninstalling",
-    "message": "Selecione um motivo para desinstalar"
-  },
   "v2_70349739": {
     "description": "Auto-generated translation for: Feedback details",
     "message": "Detalhes do feedback"
-  },
-  "v2_414238e3": {
-    "description": "Auto-generated translation for: Minimum {min} characters required. Maximum {max} characters.",
-    "message": "Mínimo de {min} caracteres necessários. Máximo de {max} caracteres.",
-    "placeholders": {
-      "min": {
-        "content": "$1"
-      },
-      "max": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_3f200486": {
-    "description": "Auto-generated translation for: Please select a reason for uninstalling",
-    "message": "Por favor, selecione um motivo para a desinstalação"
-  },
-  "v2_4edd317f": {
-    "description": "Auto-generated translation for: Please provide at least {min} characters of feedback",
-    "message": "Por favor, forneça no mínimo {min} caracteres de feedback",
-    "placeholders": {
-      "min": {
-        "content": "$1"
-      }
-    }
   },
   "v2_5a89a2c7": {
     "description": "Auto-generated translation for: Tell us your issue - we can fix it and make the app perfect for you!",
@@ -6671,10 +6562,6 @@
     "description": "Auto-generated translation for: Live Word Highlight",
     "message": "Destaque de palavra ao vivo"
   },
-  "v2_097a2982": {
-    "description": "Auto-generated translation for: Highlights words as they are spoken to improve listening comprehension",
-    "message": "Destaca as palavras enquanto são faladas para melhorar a compreensão auditiva"
-  },
   "v2_19903c02": {
     "description": "Auto-generated translation for: Set the maximum number of characters per subtitle line",
     "message": "Definir o número máximo de caracteres por linha de legenda"
@@ -6888,5 +6775,29 @@
   "v2_0d24d644": {
     "description": "Auto-generated translation for: Toggle Click",
     "message": "Ativar/Desativar Clique"
+  },
+  "v2_161db9bd": {
+    "description": "Auto-generated translation for: Highlights words as spoken. Requires word timestamps or AI subtitles.",
+    "message": "Destaca palavras conforme são faladas. Requer marcações de tempo ou legendas com IA."
+  },
+  "v2_392a0660": {
+    "description": "Auto-generated translation for: We discovered a bug in the Chrome extension that we're fixing right now. An update is on the way! In the meantime, you can continue learning with Firefox. Sorry for the inconvenience.",
+    "message": "Descobrimos um erro na extensão do Chrome que estamos corrigindo agora mesmo. Uma atualização está a caminho! Enquanto isso, você pode continuar aprendendo com o Firefox. Pedimos desculpas pelo inconveniente."
+  },
+  "v2_51526469": {
+    "description": "Auto-generated translation for: Install FluentAI",
+    "message": "Instalar FluentAI"
+  },
+  "v2_05b9551b": {
+    "description": "Auto-generated translation for: Validating...",
+    "message": "Validando..."
+  },
+  "v2_3184de6d": {
+    "description": "Auto-generated translation for: Submit feedback",
+    "message": "Enviar feedback"
+  },
+  "v2_754f777a": {
+    "description": "Auto-generated translation for: Please provide feedback",
+    "message": "Por favor, forneça feedback"
   }
 }

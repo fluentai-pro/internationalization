@@ -175,22 +175,6 @@
     "description": "Auto-generated translation for: Other",
     "message": "أخرى"
   },
-  "v2_11a5e409": {
-    "description": "Auto-generated translation for: Found a bug",
-    "message": "تم العثور على خلل"
-  },
-  "v2_48b375e4": {
-    "description": "Auto-generated translation for: Missing feature",
-    "message": "الميزة مفقودة"
-  },
-  "v2_35fc5464": {
-    "description": "Auto-generated translation for: Difficult to use",
-    "message": "صعب الاستخدام"
-  },
-  "v2_48ec9a66": {
-    "description": "Auto-generated translation for: Found a better alternative",
-    "message": "وجدتُ بديلاً أفضل"
-  },
   "v2_5c530888": {
     "description": "Auto-generated translation for: Language",
     "message": "اللغة"
@@ -2353,10 +2337,6 @@
     "description": "Auto-generated translation for: Back to menu",
     "message": "العودة إلى القائمة"
   },
-  "v2_04b33288": {
-    "description": "Auto-generated translation for: Retry",
-    "message": "إعادة المحاولة"
-  },
   "v2_1090cb35": {
     "description": "Auto-generated translation for: Pronunciation",
     "message": "النطق"
@@ -3025,10 +3005,6 @@
     "description": "Auto-generated translation for: Tell us your issue - we can fix it and make the app perfect for you!",
     "message": "أخبرنا بمشكلتك - يمكننا إصلاحها وجعل التطبيق مثالياً لك!"
   },
-  "v2_2312ebfb": {
-    "description": "Auto-generated translation for: Get 1 month free",
-    "message": "احصل على شهر مجاني"
-  },
   "v2_6a40d4a5": {
     "description": "Auto-generated translation for: Play/Pause",
     "message": "تشغيل/إيقاف مؤقت"
@@ -3092,10 +3068,6 @@
   "v2_2a48fadf": {
     "description": "Auto-generated translation for: FluentAI is temporarily unavailable on Chrome",
     "message": "FluentAI غير متاح مؤقتًا على Chrome"
-  },
-  "v2_62f19e8e": {
-    "description": "Auto-generated translation for: Due to recent changes by the Chrome Web Store, FluentAI is temporarily unavailable on Chrome. We’re working on a fix ASAP. In the meantime, you can continue learning with Firefox. Sorry for the inconvenience.",
-    "message": "نظرًا للتغييرات الأخيرة من متجر Chrome الإلكتروني، فإن FluentAI غير متاح مؤقتًا على Chrome. نحن نعمل على إصلاح المشكلة في أقرب وقت ممكن. في هذه الأثناء، يمكنك مواصلة التعلم باستخدام Firefox. نعتذر عن الإزعاج."
   },
   "v2_25b7fb91": {
     "description": "Auto-generated translation for: We genuinely appreciate you taking the time to share your experience. We are gonna look at your feedback and address it as soon as possible.",
@@ -3588,10 +3560,6 @@
   "v2_41c91b63": {
     "description": "Auto-generated translation for: Word Translation Tutorial",
     "message": "برنامج تعليمي لترجمة الكلمات"
-  },
-  "v2_7f1820b0": {
-    "description": "Auto-generated translation for: Select a reason for uninstalling",
-    "message": "اختر سبباً لإلغاء التثبيت"
   },
   "v2_48955299": {
     "description": "Auto-generated translation for: AI Translation",
@@ -4451,10 +4419,6 @@
     "description": "Auto-generated translation for: Blurs learning subtitles until hovered to train listening skills.",
     "message": "تمويه الترجمة حتى يتم تمرير المؤشر فوقها لتدريب مهارات الاستماع."
   },
-  "v2_25cb06ec": {
-    "description": "Auto-generated translation for: Highlights words as they are spoken to improve listening comprehension.",
-    "message": "يسلط الضوء على الكلمات فور نطقها لتحسين فهم الاستماع."
-  },
   "v2_54a8edca": {
     "description": "Auto-generated translation for: Enables AI-powered mapping between learning language and native language tokens for better translation alignment.",
     "message": "يتيح رسم الخرائط المدعوم بالذكاء الاصطناعي بين رموز لغة التعلم ورموز اللغة الأم لتحسين محاذاة الترجمة."
@@ -4611,26 +4575,6 @@
     "description": "Auto-generated translation for: An error occurred while requesting transcription",
     "message": "حدث خطأ أثناء طلب النسخ"
   },
-  "v2_78c2dd31": {
-    "description": "Auto-generated translation for: Submitting feedback...",
-    "message": "جارٍ إرسال التعليقات..."
-  },
-  "v2_48dcfece": {
-    "description": "Auto-generated translation for: Submit feedback & get 1 month free",
-    "message": "قدم ملاحظاتك واحصل على شهر مجاني"
-  },
-  "v2_75605fc1": {
-    "description": "Auto-generated translation for: Feedback length",
-    "message": "طول التعليق"
-  },
-  "v2_136c8d52": {
-    "description": "Auto-generated translation for: Please provide at least 20 characters of feedback before submitting",
-    "message": "يرجى تقديم ما لا يقل عن 20 حرفًا من التعليق قبل الإرسال"
-  },
-  "v2_3bd43121": {
-    "description": "Auto-generated translation for: Ready to submit!",
-    "message": "جاهز للتقديم!"
-  },
   "v2_580965ba": {
     "description": "Auto-generated translation for: Connection Error",
     "message": "خطأ في الاتصال"
@@ -4643,66 +4587,13 @@
     "description": "Auto-generated translation for: Validation Error",
     "message": "خطأ في التحقق"
   },
-  "v2_3dbfa3d4": {
-    "description": "Auto-generated translation for: Retrying...",
-    "message": "إعادة المحاولة..."
-  },
-  "v2_3923b596": {
-    "description": "Auto-generated translation for: Dismiss",
-    "message": "رفض"
-  },
-  "v2_063db64d": {
-    "description": "Auto-generated translation for: Describe the bug you encountered...",
-    "message": "صف الخطأ الذي واجهته..."
-  },
-  "v2_5575fb13": {
-    "description": "Auto-generated translation for: Tell us what was confusing or difficult...",
-    "message": "أخبرنا ما الذي كان مربكًا أو صعبًا..."
-  },
-  "v2_070f41f5": {
-    "description": "Auto-generated translation for: What feature would make this perfect for you?",
-    "message": "ما الميزة التي ستجعل هذا مثاليًا بالنسبة لك؟"
-  },
-  "v2_01e0fd6b": {
-    "description": "Auto-generated translation for: What alternative did you find?",
-    "message": "ما هو البديل الذي وجدته؟"
-  },
   "v2_1c8b0b53": {
     "description": "Auto-generated translation for: Please share your feedback...",
     "message": "يرجى مشاركة تعليقاتك..."
   },
-  "v2_7b1f487c": {
-    "description": "Auto-generated translation for: Your feedback...",
-    "message": "تعليقاتك..."
-  },
   "v2_70349739": {
     "description": "Auto-generated translation for: Feedback details",
     "message": "تفاصيل الملاحظات"
-  },
-  "v2_414238e3": {
-    "description": "Auto-generated translation for: Minimum {min} characters required. Maximum {max} characters.",
-    "message": "الحد الأدنى {min} أحرف مطلوب. الحد الأقصى {max} أحرف.",
-    "placeholders": {
-      "min": {
-        "content": "$1"
-      },
-      "max": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_3f200486": {
-    "description": "Auto-generated translation for: Please select a reason for uninstalling",
-    "message": "الرجاء اختيار سبب لإلغاء التثبيت"
-  },
-  "v2_4edd317f": {
-    "description": "Auto-generated translation for: Please provide at least {min} characters of feedback",
-    "message": "يرجى تقديم ما لا يقل عن {min} أحرف من التعليقات",
-    "placeholders": {
-      "min": {
-        "content": "$1"
-      }
-    }
   },
   "v2_6195a0ba": {
     "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated. Please try again.",
@@ -6823,10 +6714,6 @@
     "description": "Auto-generated translation for: Live Word Highlight",
     "message": "تمييز الكلمة المباشر"
   },
-  "v2_097a2982": {
-    "description": "Auto-generated translation for: Highlights words as they are spoken to improve listening comprehension",
-    "message": "تمييز الكلمات عند نطقها لتحسين فهم الاستماع"
-  },
   "v2_19903c02": {
     "description": "Auto-generated translation for: Set the maximum number of characters per subtitle line",
     "message": "تعيين الحد الأقصى لعدد الأحرف لكل سطر ترجمة"
@@ -7040,5 +6927,29 @@
   "v2_0d24d644": {
     "description": "Auto-generated translation for: Toggle Click",
     "message": "تبديل النقر"
+  },
+  "v2_161db9bd": {
+    "description": "Auto-generated translation for: Highlights words as spoken. Requires word timestamps or AI subtitles.",
+    "message": "يُبرز الكلمات المنطوقة. يتطلب طوابع زمنية للكلمات أو ترجمات تلقائية بالذكاء الاصطناعي."
+  },
+  "v2_392a0660": {
+    "description": "Auto-generated translation for: We discovered a bug in the Chrome extension that we're fixing right now. An update is on the way! In the meantime, you can continue learning with Firefox. Sorry for the inconvenience.",
+    "message": "اكتشفنا خطأً في إضافة Chrome ونحن نعمل على إصلاحه حاليًا. سيصدر تحديث قريبًا! في هذه الأثناء، يمكنك متابعة التعلم باستخدام Firefox. نأسف للإزعاج."
+  },
+  "v2_51526469": {
+    "description": "Auto-generated translation for: Install FluentAI",
+    "message": "تثبيت FluentAI"
+  },
+  "v2_05b9551b": {
+    "description": "Auto-generated translation for: Validating...",
+    "message": "جارٍ التحقق..."
+  },
+  "v2_3184de6d": {
+    "description": "Auto-generated translation for: Submit feedback",
+    "message": "إرسال ملاحظات"
+  },
+  "v2_754f777a": {
+    "description": "Auto-generated translation for: Please provide feedback",
+    "message": "الرجاء تقديم ملاحظات"
   }
 }
