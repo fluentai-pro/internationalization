@@ -654,10 +654,6 @@
     "description": "Auto-generated translation for: Completed",
     "message": "Completado"
   },
-  "v2_427d6538": {
-    "description": "Auto-generated translation for: In Progress",
-    "message": "En progreso"
-  },
   "v2_66d38cac": {
     "description": "Auto-generated translation for: Translation failed",
     "message": "Traducción fallida"
@@ -2005,15 +2001,6 @@
       }
     }
   },
-  "v2_74a18e59": {
-    "description": "Auto-generated translation for: Translating $lang$",
-    "message": "Traduciendo $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_42c70941": {
     "description": "Auto-generated translation for: Transliterating $lang$",
     "message": "Transliterando $lang$",
@@ -2134,15 +2121,6 @@
   "v2_63dc6819": {
     "description": "Auto-generated translation for: Message",
     "message": "Mensaje"
-  },
-  "v2_42e8a067": {
-    "description": "Auto-generated translation for: Generating Text to Speech for $lang$",
-    "message": "Generando Texto a Voz para $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
   },
   "v2_74026238": {
     "description": "Auto-generated translation for: Interactive Word",
@@ -6535,10 +6513,6 @@
     "description": "Auto-generated translation for: Match the Audio Language",
     "message": "Coincidir con el idioma de audio"
   },
-  "v2_5bd41b72": {
-    "description": "Auto-generated translation for: More Settings",
-    "message": "Más ajustes"
-  },
   "v2_5dc3e7ce": {
     "description": "Auto-generated translation for: Failed to bookmark word",
     "message": "No se pudo marcar la palabra"
@@ -6773,10 +6747,6 @@
     "description": "Auto-generated translation for: Repeat each subtitle for better learning",
     "message": "Repite cada subtítulo para un mejor aprendizaje"
   },
-  "v2_43fc8b67": {
-    "description": "Auto-generated translation for: Show Subtitle List Panel",
-    "message": "Mostrar panel de lista de subtítulos"
-  },
   "v2_12abaa5c": {
     "description": "Auto-generated translation for: Displays a scrollable panel with all subtitles for easy navigation",
     "message": "Muestra un panel desplazable con todos los subtítulos para una fácil navegación"
@@ -6800,10 +6770,6 @@
   "v2_0d24d644": {
     "description": "Auto-generated translation for: Toggle Click",
     "message": "Alternar clic"
-  },
-  "v2_161db9bd": {
-    "description": "Auto-generated translation for: Highlights words as spoken. Requires word timestamps or AI subtitles.",
-    "message": "Resalta las palabras a medida que se pronuncian. Requiere marcas de tiempo de palabras o subtítulos de IA."
   },
   "v2_392a0660": {
     "description": "Auto-generated translation for: We discovered a bug in the Chrome extension that we're fixing right now. An update is on the way! In the meantime, you can continue learning with Firefox. Sorry for the inconvenience.",
@@ -6840,10 +6806,6 @@
   "v2_76acec5a": {
     "description": "Auto-generated translation for: Shows how each word in your learning language corresponds to your native language.",
     "message": "Muestra cómo cada palabra en tu idioma de aprendizaje corresponde a tu idioma nativo."
-  },
-  "v2_3c6da1b1": {
-    "description": "Auto-generated translation for: Show word-by-word translation",
-    "message": "Mostrar traducción palabra por palabra"
   },
   "v2_12b2f306": {
     "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal.",
@@ -6928,5 +6890,59 @@
   "v2_16249571": {
     "description": "Auto-generated translation for: User Analytics",
     "message": "Análisis de usuario"
+  },
+  "v2_7743e7dc": {
+    "description": "Auto-generated translation for: Translating Learning Subtitle for $lang$",
+    "message": "Traducción del subtítulo de aprendizaje para $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_53d55823": {
+    "description": "Auto-generated translation for: Translating Native Subtitle for $lang$",
+    "message": "Traduciendo subtítulos nativos para $lang$",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_456af5e4": {
+    "description": "Auto-generated translation for: Highlight Word Correspondence",
+    "message": "Resaltar correspondencia de palabras"
+  },
+  "v2_3d481770": {
+    "description": "Auto-generated translation for: Show Base Form",
+    "message": "Mostrar forma base"
+  },
+  "v2_37f2e620": {
+    "description": "Auto-generated translation for: Display the dictionary form above bookmarked words in subtitles",
+    "message": "Mostrar la forma de diccionario encima de las palabras marcadas en los subtítulos"
+  },
+  "v2_041e3b6a": {
+    "description": "Auto-generated translation for: Highlights words as spoken.",
+    "message": "Resalta las palabras a medida que se pronuncian."
+  },
+  "v2_0f3410c0": {
+    "description": "Auto-generated translation for: This video doesn't have word timestamps",
+    "message": "Este video no tiene marcas de tiempo de palabras"
+  },
+  "v2_45bfec1d": {
+    "description": "Auto-generated translation for: Show Subtitle List",
+    "message": "Mostrar lista de subtítulos"
+  },
+  "v2_4d2ae379": {
+    "description": "Auto-generated translation for: Failed to reset learning language",
+    "message": "No se pudo restablecer el idioma de aprendizaje"
+  },
+  "v2_1f1ff078": {
+    "description": "Auto-generated translation for: Failed to reset languages",
+    "message": "Fallo al restablecer los idiomas"
+  },
+  "v2_7d5594bf": {
+    "description": "Auto-generated translation for: Base Form Visibility",
+    "message": "Visibilidad del formulario base"
   }
 }

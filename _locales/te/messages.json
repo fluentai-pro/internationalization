@@ -654,10 +654,6 @@
     "description": "Auto-generated translation for: Completed",
     "message": "పూర్తి చేయబడింది"
   },
-  "v2_427d6538": {
-    "description": "Auto-generated translation for: In Progress",
-    "message": "ప్రగతి లో"
-  },
   "v2_66d38cac": {
     "description": "Auto-generated translation for: Translation failed",
     "message": "అనువాదం విఫలమైంది"
@@ -2005,15 +2001,6 @@
       }
     }
   },
-  "v2_74a18e59": {
-    "description": "Auto-generated translation for: Translating $lang$",
-    "message": "$lang$ అనువదిస్తోంది",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_42c70941": {
     "description": "Auto-generated translation for: Transliterating $lang$",
     "message": "$lang$ లిప్యాంతరీకరణ",
@@ -2134,15 +2121,6 @@
   "v2_63dc6819": {
     "description": "Auto-generated translation for: Message",
     "message": "సందేశం"
-  },
-  "v2_42e8a067": {
-    "description": "Auto-generated translation for: Generating Text to Speech for $lang$",
-    "message": "$lang$$ కు వచనాన్ని ప్రసంగంగా రూపొందించడం",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
   },
   "v2_74026238": {
     "description": "Auto-generated translation for: Interactive Word",
@@ -6645,10 +6623,6 @@
     "description": "Auto-generated translation for: Match the Audio Language",
     "message": "ఆడియో భాషకు సరిపోల్చండి"
   },
-  "v2_5bd41b72": {
-    "description": "Auto-generated translation for: More Settings",
-    "message": "మరిన్ని సెట్టింగ్‌లు"
-  },
   "v2_5dc3e7ce": {
     "description": "Auto-generated translation for: Failed to bookmark word",
     "message": "పదాన్ని బుక్‌మార్క్ చేయడంలో విఫలమైంది"
@@ -6883,10 +6857,6 @@
     "description": "Auto-generated translation for: Repeat each subtitle for better learning",
     "message": "మెరుగైన అభ్యాసం కోసం ప్రతి ఉపశీర్షికను పునరావృతం చేయండి"
   },
-  "v2_43fc8b67": {
-    "description": "Auto-generated translation for: Show Subtitle List Panel",
-    "message": "ఉపశీర్షిక జాబితా ప్యానెల్‌ను చూపించు"
-  },
   "v2_12abaa5c": {
     "description": "Auto-generated translation for: Displays a scrollable panel with all subtitles for easy navigation",
     "message": "సులభమైన నావిగేషన్ కోసం అన్ని ఉపశీర్షికలతో స్క్రోల్ చేయదగిన ప్యానెల్‌ను ప్రదర్శిస్తుంది"
@@ -6910,10 +6880,6 @@
   "v2_0d24d644": {
     "description": "Auto-generated translation for: Toggle Click",
     "message": "టాగల్ క్లిక్"
-  },
-  "v2_161db9bd": {
-    "description": "Auto-generated translation for: Highlights words as spoken. Requires word timestamps or AI subtitles.",
-    "message": "మాట్లాడిన పదాలను హైలైట్ చేస్తుంది. పద సమయ స్టాంపులు లేదా AI ఉపశీర్షికలు అవసరం."
   },
   "v2_392a0660": {
     "description": "Auto-generated translation for: We discovered a bug in the Chrome extension that we're fixing right now. An update is on the way! In the meantime, you can continue learning with Firefox. Sorry for the inconvenience.",
@@ -6950,10 +6916,6 @@
   "v2_76acec5a": {
     "description": "Auto-generated translation for: Shows how each word in your learning language corresponds to your native language.",
     "message": "మీరు నేర్చుకుంటున్న భాషలోని ప్రతి పదం మీ మాతృభాషకు ఎలా సంబంధించిందో చూపిస్తుంది."
-  },
-  "v2_3c6da1b1": {
-    "description": "Auto-generated translation for: Show word-by-word translation",
-    "message": "పదం పదం వారీగా అనువాదాన్ని చూపించు"
   },
   "v2_12b2f306": {
     "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal.",
@@ -7038,5 +7000,59 @@
   "v2_16249571": {
     "description": "Auto-generated translation for: User Analytics",
     "message": "యూజర్ అనలిటిక్స్"
+  },
+  "v2_7743e7dc": {
+    "description": "Auto-generated translation for: Translating Learning Subtitle for $lang$",
+    "message": "$lang$ కోసం లెర్నింగ్ సబ్‌టైటిల్‌ను అనువదిస్తోంది",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_53d55823": {
+    "description": "Auto-generated translation for: Translating Native Subtitle for $lang$",
+    "message": "$lang$ కోసం స్థానిక ఉపశీర్షికను అనువదిస్తోంది",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_456af5e4": {
+    "description": "Auto-generated translation for: Highlight Word Correspondence",
+    "message": "పదం అనురూప్యాన్ని హైలైట్ చేయి"
+  },
+  "v2_3d481770": {
+    "description": "Auto-generated translation for: Show Base Form",
+    "message": "బేస్ ఫారమ్‌ను చూపు"
+  },
+  "v2_37f2e620": {
+    "description": "Auto-generated translation for: Display the dictionary form above bookmarked words in subtitles",
+    "message": "ఉపశీర్షికల్లో బుక్‌మార్క్ చేసిన పదాల పైన నిఘంటువు రూపాన్ని ప్రదర్శించు"
+  },
+  "v2_041e3b6a": {
+    "description": "Auto-generated translation for: Highlights words as spoken.",
+    "message": "మాట్లాడుతున్నప్పుడు పదాలను హైలైట్ చేస్తుంది."
+  },
+  "v2_0f3410c0": {
+    "description": "Auto-generated translation for: This video doesn't have word timestamps",
+    "message": "ఈ వీడియోకు పదాల సమయ స్టాంపులు లేవు"
+  },
+  "v2_45bfec1d": {
+    "description": "Auto-generated translation for: Show Subtitle List",
+    "message": "ఉపశీర్షిక జాబితా చూపించు"
+  },
+  "v2_4d2ae379": {
+    "description": "Auto-generated translation for: Failed to reset learning language",
+    "message": "అభ్యసన భాషను రీసెట్ చేయడంలో విఫలమైంది"
+  },
+  "v2_1f1ff078": {
+    "description": "Auto-generated translation for: Failed to reset languages",
+    "message": "భాషలను రీసెట్ చేయడంలో విఫలమైంది"
+  },
+  "v2_7d5594bf": {
+    "description": "Auto-generated translation for: Base Form Visibility",
+    "message": "బేస్ ఫారం విజిబిలిటీ"
   }
 }

@@ -654,10 +654,6 @@
     "description": "Auto-generated translation for: Completed",
     "message": "पूर्ण झाले"
   },
-  "v2_427d6538": {
-    "description": "Auto-generated translation for: In Progress",
-    "message": "प्रगतीमध्ये"
-  },
   "v2_66d38cac": {
     "description": "Auto-generated translation for: Translation failed",
     "message": "अनुवाद अयशस्वी झाला"
@@ -2005,15 +2001,6 @@
       }
     }
   },
-  "v2_74a18e59": {
-    "description": "Auto-generated translation for: Translating $lang$",
-    "message": "$lang$ चे भाषांतर करत आहे",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_42c70941": {
     "description": "Auto-generated translation for: Transliterating $lang$",
     "message": "$lang$ चे लिप्यंतरण करत आहोत",
@@ -2134,15 +2121,6 @@
   "v2_63dc6819": {
     "description": "Auto-generated translation for: Message",
     "message": "संदेश"
-  },
-  "v2_42e8a067": {
-    "description": "Auto-generated translation for: Generating Text to Speech for $lang$",
-    "message": "$lang$ साठी मजकूर-टू-स्पीच तयार करत आहे",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
   },
   "v2_74026238": {
     "description": "Auto-generated translation for: Interactive Word",
@@ -6645,10 +6623,6 @@
     "description": "Auto-generated translation for: Match the Audio Language",
     "message": "ऑडिओ भाषेनुसार जुळवा"
   },
-  "v2_5bd41b72": {
-    "description": "Auto-generated translation for: More Settings",
-    "message": "आणखी सेटिंग्ज"
-  },
   "v2_5dc3e7ce": {
     "description": "Auto-generated translation for: Failed to bookmark word",
     "message": "शब्द बुकमार्क करण्यात अयशस्वी"
@@ -6883,10 +6857,6 @@
     "description": "Auto-generated translation for: Repeat each subtitle for better learning",
     "message": "उत्तम शिक्षणासाठी प्रत्येक सबटायटलची पुनरावृत्ती करा"
   },
-  "v2_43fc8b67": {
-    "description": "Auto-generated translation for: Show Subtitle List Panel",
-    "message": "उपशीर्षक सूची पॅनेल दर्शवा"
-  },
   "v2_12abaa5c": {
     "description": "Auto-generated translation for: Displays a scrollable panel with all subtitles for easy navigation",
     "message": "सुलभ नेव्हिगेशनसाठी सर्व उपशीर्षकांसह स्क्रोल करण्यायोग्य पॅनेल दाखवते."
@@ -6910,10 +6880,6 @@
   "v2_0d24d644": {
     "description": "Auto-generated translation for: Toggle Click",
     "message": "क्लिक टॉगल करा"
-  },
-  "v2_161db9bd": {
-    "description": "Auto-generated translation for: Highlights words as spoken. Requires word timestamps or AI subtitles.",
-    "message": "शब्द उच्चारल्याप्रमाणे हायलाइट करते. शब्द टाइमस्टॅम्प किंवा एआय सबटायटल्स आवश्यक आहेत."
   },
   "v2_392a0660": {
     "description": "Auto-generated translation for: We discovered a bug in the Chrome extension that we're fixing right now. An update is on the way! In the meantime, you can continue learning with Firefox. Sorry for the inconvenience.",
@@ -6950,10 +6916,6 @@
   "v2_76acec5a": {
     "description": "Auto-generated translation for: Shows how each word in your learning language corresponds to your native language.",
     "message": "तुमच्या शिकण्याच्या भाषेतील प्रत्येक शब्द तुमच्या मूळ भाषेशी कसा संबंधित आहे हे दाखवते."
-  },
-  "v2_3c6da1b1": {
-    "description": "Auto-generated translation for: Show word-by-word translation",
-    "message": "शब्दशः भाषांतर दर्शवा"
   },
   "v2_12b2f306": {
     "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal.",
@@ -7038,5 +7000,59 @@
   "v2_16249571": {
     "description": "Auto-generated translation for: User Analytics",
     "message": "वापरकर्ता विश्लेषण"
+  },
+  "v2_7743e7dc": {
+    "description": "Auto-generated translation for: Translating Learning Subtitle for $lang$",
+    "message": "शिकण्याचे उपशीर्षक $lang$ साठी भाषांतरित करत आहे",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_53d55823": {
+    "description": "Auto-generated translation for: Translating Native Subtitle for $lang$",
+    "message": "$lang$ करीता मूळ उपशीर्षक अनुवादित करत आहे",
+    "placeholders": {
+      "lang": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_456af5e4": {
+    "description": "Auto-generated translation for: Highlight Word Correspondence",
+    "message": "शब्दरचना हायलाइट करा"
+  },
+  "v2_3d481770": {
+    "description": "Auto-generated translation for: Show Base Form",
+    "message": "मूळ रूप दाखवा"
+  },
+  "v2_37f2e620": {
+    "description": "Auto-generated translation for: Display the dictionary form above bookmarked words in subtitles",
+    "message": "उपशीर्षकांमध्ये बुकमार्क केलेल्या शब्दांच्या वर डिक्शनरी फॉर्म (मूळ अर्थ) प्रदर्शित करा"
+  },
+  "v2_041e3b6a": {
+    "description": "Auto-generated translation for: Highlights words as spoken.",
+    "message": "उच्चारलेले शब्द हायलाइट करा"
+  },
+  "v2_0f3410c0": {
+    "description": "Auto-generated translation for: This video doesn't have word timestamps",
+    "message": "या व्हिडिओमध्ये शब्दांचे टाइमस्टॅम्प नाहीत"
+  },
+  "v2_45bfec1d": {
+    "description": "Auto-generated translation for: Show Subtitle List",
+    "message": "उपशीर्षक सूची दर्शवा"
+  },
+  "v2_4d2ae379": {
+    "description": "Auto-generated translation for: Failed to reset learning language",
+    "message": "शिकण्याची भाषा रीसेट करण्यात अयशस्वी"
+  },
+  "v2_1f1ff078": {
+    "description": "Auto-generated translation for: Failed to reset languages",
+    "message": "भाषा रीसेट करण्यात अयशस्वी"
+  },
+  "v2_7d5594bf": {
+    "description": "Auto-generated translation for: Base Form Visibility",
+    "message": "प्रारंभिक फॉर्मची दृश्यमानता"
   }
 }
