@@ -399,10 +399,6 @@
     "description": "Auto-generated translation for: Hide",
     "message": "Skrij"
   },
-  "v2_2046e717": {
-    "description": "Auto-generated translation for: Enable Neural Subtitles",
-    "message": "Omogoči nevronske podnapise"
-  },
   "v2_4b5115e4": {
     "description": "Auto-generated translation for: Roadmap",
     "message": "Načrt poti"
@@ -677,14 +673,6 @@
   "v2_7d6f52c3": {
     "description": "Auto-generated translation for: Admin Dashboard",
     "message": "Nadzorna plošča za skrbnike"
-  },
-  "v2_04549323": {
-    "description": "Auto-generated translation for: Known",
-    "message": "Znano"
-  },
-  "v2_3453ab4e": {
-    "description": "Auto-generated translation for: Ignored",
-    "message": "Prezrto"
   },
   "v2_15ee0d06": {
     "description": "Auto-generated translation for: Voice Repeat Mode",
@@ -1614,14 +1602,6 @@
     "description": "Auto-generated translation for: Created",
     "message": "Ustvarjeno"
   },
-  "v2_0c815a78": {
-    "description": "Auto-generated translation for: Mark as Known",
-    "message": "Označi kot znano"
-  },
-  "v2_67649e29": {
-    "description": "Auto-generated translation for: Mark as Ignored",
-    "message": "Označi kot prezrto"
-  },
   "v2_20620e90": {
     "description": "Auto-generated translation for: Your support request has been sent successfully",
     "message": "Vaša zahteva za podporo je bila uspešno poslana"
@@ -1992,24 +1972,6 @@
     "description": "Auto-generated translation for: Upgrade now",
     "message": "Nadgradite zdaj"
   },
-  "v2_2ac7df71": {
-    "description": "Auto-generated translation for: Extracting $lang$",
-    "message": "Pridobivanje $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_42c70941": {
-    "description": "Auto-generated translation for: Transliterating $lang$",
-    "message": "Transkripcija jezika $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_71262ea6": {
     "description": "Auto-generated translation for: in just a word, GREAT. the UI is beautiful, it works smooth and explains every word very clearly. just love it.❤️",
     "message": "z eno besedo, ODLIČNO. uporabniški vmesnik je lep, gladko deluje in vsako besedo zelo jasno razloži. preprosto mi je všeč.❤️"
@@ -2347,10 +2309,6 @@
     "description": "Auto-generated translation for: Network error while downloading Anki deck",
     "message": "Napaka omrežja med prenosom Anki snopa"
   },
-  "v2_4b0f1d6e": {
-    "description": "Auto-generated translation for: Confirm Deletion",
-    "message": "Potrdite izbris"
-  },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
     "message": "Ime"
@@ -2468,14 +2426,6 @@
     "description": "Auto-generated translation for: Changes updated successfully.",
     "message": "Spremembe so bile uspešno posodobljene."
   },
-  "v2_612eb1f9": {
-    "description": "Auto-generated translation for: Adjust the size of subtitle text displayed on screen",
-    "message": "Prilagodi velikost besedila podnapisov, prikazanih na zaslonu"
-  },
-  "v2_075a6afe": {
-    "description": "Auto-generated translation for: Control how transparent or opaque the subtitle background appears",
-    "message": "Določite prosojnost ali neprosojnost ozadja podnapisov"
-  },
   "v2_45a3dc56": {
     "description": "Auto-generated translation for: Display phonetic pronunciation of text in Latin characters",
     "message": "Prikaz fonetične izgovorjave besedila v latiničnih znakih"
@@ -2483,10 +2433,6 @@
   "v2_51109ea3": {
     "description": "Auto-generated translation for: Hide subtitle text until you hover over them to reveal content",
     "message": "Skrij besedilo podnapisov, dokler ne premaknete kazalca nanj, da prikažete vsebino"
-  },
-  "v2_32242863": {
-    "description": "Auto-generated translation for: Choose which language to display for subtitles",
-    "message": "Izberite jezik za podnapise"
   },
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
@@ -2511,10 +2457,6 @@
   "v2_000179d7": {
     "description": "Auto-generated translation for: and",
     "message": "in"
-  },
-  "v2_54f09b77": {
-    "description": "Auto-generated translation for: Choose the color for subtitle text",
-    "message": "Izberite barvo podnapisov"
   },
   "v2_0a6d9248": {
     "description": "Auto-generated translation for: Delete video entry",
@@ -2552,10 +2494,6 @@
     "description": "Auto-generated translation for: Search bookmarks...",
     "message": "Išči med zaznamki..."
   },
-  "v2_5b0de8c6": {
-    "description": "Auto-generated translation for: If a sentence is longer than this amount, it will be split into two subtitles. Set the maximum number of characters per subtitle line",
-    "message": "Če stavek presega to dolžino, bo razdeljen na dva podnapisa. Nastavite največje število znakov na vrstico podnapisa"
-  },
   "v2_7323bd91": {
     "description": "Auto-generated translation for: Sign in to FluentAI",
     "message": "Prijava v FluentAI"
@@ -2583,27 +2521,6 @@
   "v2_0c12281d": {
     "description": "Auto-generated translation for: Success",
     "message": "Uspeh"
-  },
-  "v2_2bc5597d": {
-    "description": "Auto-generated translation for: This action cannot be undone",
-    "message": "Tega dejanja ni mogoče razveljaviti"
-  },
-  "v2_6c7da2b6": {
-    "description": "Auto-generated translation for: Deletion Warning",
-    "message": "Opozorilo o izbrisu"
-  },
-  "v2_6124c60f": {
-    "description": "Auto-generated translation for: You are about to delete <span class=\"font-semibold text-red-500\">$count$</span> item(s). This action cannot be undone.",
-    "message": "Izbrisali boste <span class=\"font-semibold text-red-500\">$count$</span> element(e). Tega dejanja ni mogoče razveljaviti.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_7bf0926f": {
-    "description": "Auto-generated translation for: Type \"confirm\" to proceed:",
-    "message": "Vnesite »potrdi« za nadaljevanje:"
   },
   "v2_628637e8": {
     "description": "Auto-generated translation for: Dual subtitles, AI-powered translations and smart flashcards that turn every movie, series or video into your personal language lesson.",
@@ -2716,10 +2633,6 @@
   "v2_474406ab": {
     "description": "Auto-generated translation for: Compare features and discover why FluentAI is the most powerful tool for language learning through video.",
     "message": "Primerjajte funkcije in odkrijte, zakaj je FluentAI najzmogljivejše orodje za učenje jezikov z videom."
-  },
-  "v2_25034c19": {
-    "description": "Auto-generated translation for: Error fetching explanation",
-    "message": "Napaka pri pridobivanju razlage"
   },
   "v2_03d6328a": {
     "description": "Auto-generated translation for: Books",
@@ -2927,10 +2840,6 @@
     "description": "Auto-generated translation for: To ensure the best experience and security, please update your app to the latest version.",
     "message": "Za najboljšo izkušnjo in varnost posodobite svojo aplikacijo na najnovejšo različico."
   },
-  "v2_266eed7d": {
-    "description": "Auto-generated translation for: Thank you for your feedback!",
-    "message": "Hvala za vaše povratne informacije!"
-  },
   "v2_27ec3cfa": {
     "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
     "message": "Prejmite <span class=\"gradient-highlighted-text\">1 mesec brezplačno</span> za vaše mnenje!"
@@ -3006,14 +2915,6 @@
   "v2_2a48fadf": {
     "description": "Auto-generated translation for: FluentAI is temporarily unavailable on Chrome",
     "message": "FluentAI trenutno ni na voljo v Chromu."
-  },
-  "v2_25b7fb91": {
-    "description": "Auto-generated translation for: We genuinely appreciate you taking the time to share your experience. We are gonna look at your feedback and address it as soon as possible.",
-    "message": "Iskreno cenimo, da ste si vzeli čas za deljenje svojih izkušenj. Pregledali bomo vaše povratne informacije in se jih čim prej lotili."
-  },
-  "v2_03fddd77": {
-    "description": "Auto-generated translation for: 30 days of unlimited access to FluentAI+ have been added to your account.",
-    "message": "Vašemu računu je dodanih 30 dni neomejenega dostopa do FluentAI+."
   },
   "v2_6d62aa18": {
     "description": "Auto-generated translation for: Download again",
@@ -3454,15 +3355,6 @@
       }
     }
   },
-  "v2_0b8d9d53": {
-    "description": "Auto-generated translation for: Tokenising $lang$",
-    "message": "Tokeniziranje $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_68708e8b": {
     "description": "Auto-generated translation for: No meanings",
     "message": "Brez pomenov"
@@ -3647,10 +3539,6 @@
     "description": "Auto-generated translation for: Discord Community",
     "message": "Skupnost Discord"
   },
-  "v2_3e50b3ab": {
-    "description": "Auto-generated translation for: Join our Discord community",
-    "message": "Pridružite se naši skupnosti Discord"
-  },
   "v2_04d51ef6": {
     "description": "Auto-generated translation for: Trial",
     "message": "Sojenje"
@@ -3731,10 +3619,6 @@
     "description": "Auto-generated translation for: Translation temporarily unavailable",
     "message": "Prevajanje trenutno ni na voljo"
   },
-  "v2_45a0dd5e": {
-    "description": "Auto-generated translation for: Merge suggested phrase",
-    "message": "Združi predlagano besedno zvezo"
-  },
   "v2_64103271": {
     "description": "Auto-generated translation for: Context",
     "message": "Kontekst"
@@ -3790,22 +3674,6 @@
   "v2_2fdda2ab": {
     "description": "Auto-generated translation for: Open menu",
     "message": "Odpri meni"
-  },
-  "v2_4daf7813": {
-    "description": "Auto-generated translation for: Learning Lists",
-    "message": "Učenje seznamov"
-  },
-  "v2_5bd31a0c": {
-    "description": "Auto-generated translation for: No Learning Lists Found",
-    "message": "Seznamov za učenje ni bilo mogoče najti"
-  },
-  "v2_37ddb83b": {
-    "description": "Auto-generated translation for: Create your first learning list to organize your vocabulary and phrases.",
-    "message": "Ustvarite svoj prvi učni seznam za organizacijo besedišča in fraz."
-  },
-  "v2_2566d0c9": {
-    "description": "Auto-generated translation for: Create Your First List",
-    "message": "Ustvarite svoj prvi seznam"
   },
   "v2_4983c5ef": {
     "description": "Auto-generated translation for: Search lists...",
@@ -3878,14 +3746,6 @@
     "description": "Auto-generated translation for: View bookmarks in this list",
     "message": "Prikaži zaznamke na tem seznamu"
   },
-  "v2_1f82cd4e": {
-    "description": "Auto-generated translation for: Create AI List",
-    "message": "Ustvari seznam umetne inteligence"
-  },
-  "v2_4958c303": {
-    "description": "Auto-generated translation for: Add List",
-    "message": "Dodaj seznam"
-  },
   "v2_283594e1": {
     "description": "Auto-generated translation for: This list does not have any bookmarks yet.",
     "message": "Ta seznam še nima zaznamkov."
@@ -3946,10 +3806,6 @@
   "v2_002424be": {
     "description": "Auto-generated translation for: List",
     "message": "Seznam"
-  },
-  "v2_42740930": {
-    "description": "Auto-generated translation for: Create and manage your learning lists to organize your vocabulary and phrases.",
-    "message": "Ustvarite in upravljajte svoje sezname za učenje, da si organizirate besedišče in fraze."
   },
   "v2_13855e9b": {
     "description": "Auto-generated translation for: Enter list name",
@@ -4239,10 +4095,6 @@
     "description": "Auto-generated translation for: Norwegian",
     "message": "norveški"
   },
-  "v2_1adb1399": {
-    "description": "Auto-generated translation for: Welcome to <span class=\"gradient-highlighted-text\">FluentAI</span>",
-    "message": "Dobrodošli v <span class=\"gradient-highlighted-text\">FluentAI</span>"
-  },
   "v2_196f550b": {
     "description": "Auto-generated translation for: Anki Jobs",
     "message": "Anki delovna mesta"
@@ -4357,10 +4209,6 @@
     "description": "Auto-generated translation for: Generate AI subtitles.",
     "message": "Ustvari AI podnapise."
   },
-  "v2_74479309": {
-    "description": "Auto-generated translation for: Queued for processing",
-    "message": "V čakalni vrsti za obdelavo"
-  },
   "v2_6d19dc5c": {
     "description": "Auto-generated translation for: Transcription completed!",
     "message": "Transkripcija je dokončana!"
@@ -4408,18 +4256,6 @@
   "v2_119fc9e4": {
     "description": "Auto-generated translation for: An error occurred while requesting transcription",
     "message": "Prišlo je do napake pri zahtevanju prepisa"
-  },
-  "v2_580965ba": {
-    "description": "Auto-generated translation for: Connection Error",
-    "message": "Napaka povezave"
-  },
-  "v2_220cbaeb": {
-    "description": "Auto-generated translation for: Server Error",
-    "message": "Napaka strežnika"
-  },
-  "v2_21fb7c5f": {
-    "description": "Auto-generated translation for: Validation Error",
-    "message": "Napaka preverjanja"
   },
   "v2_1c8b0b53": {
     "description": "Auto-generated translation for: Please share your feedback...",
@@ -4729,18 +4565,6 @@
     "description": "Auto-generated translation for: For serious language learners. Unlimited access for intensive study.",
     "message": "Za resne učeče se jezika. Neomejen dostop za intenzivno učenje."
   },
-  "v2_3dc3d457": {
-    "description": "Auto-generated translation for: Extracting Audio...",
-    "message": "Izvleka zvok..."
-  },
-  "v2_4c4e29c6": {
-    "description": "Auto-generated translation for: Transcribing Audio...",
-    "message": "Prepisujem zvok..."
-  },
-  "v2_0045f33a": {
-    "description": "Auto-generated translation for: Creating Subtitles...",
-    "message": "Ustvarjanje podnapisov..."
-  },
   "v2_25a296fd": {
     "description": "Auto-generated translation for: Your Free Trial has Ended",
     "message": "Vaš brezplačni preizkus se je iztekel"
@@ -4837,14 +4661,6 @@
     "description": "Auto-generated translation for: 30 minutes of AI Subtitles to try",
     "message": "30 minut AI podnapisov za preizkus"
   },
-  "v2_61f938fb": {
-    "description": "Auto-generated translation for: 45 minutes per day of AI Subtitles",
-    "message": "45 minut na dan AI podnapisov"
-  },
-  "v2_5e0d46b3": {
-    "description": "Auto-generated translation for: 120 minutes per day of AI Subtitles",
-    "message": "120 minut na dan AI podnapisov"
-  },
   "v2_5fca11c5": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles per day",
     "message": "Neomejeni AI podnapisi na dan"
@@ -4920,15 +4736,6 @@
   "v2_2743fe99": {
     "description": "Auto-generated translation for: An error occurred while checking transcription status",
     "message": "Prišlo je do napake med preverjanjem statusa prepisa"
-  },
-  "v2_16f3b323": {
-    "description": "Auto-generated translation for: Mapping tokens for $lang$",
-    "message": "Preslikava žetonov za $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
   },
   "v2_3c750a29": {
     "description": "Auto-generated translation for: Remove sentence bookmark",
@@ -5025,18 +4832,6 @@
   "v2_607da960": {
     "description": "Auto-generated translation for: Perfect word-level timing for immersive language learning",
     "message": "Popolno časovno ujemanje na ravni besed za poglobljeno učenje jezikov"
-  },
-  "v2_69ee2bd3": {
-    "description": "Auto-generated translation for: Use Neural Subtitles",
-    "message": "Uporabi nevronske podnapise"
-  },
-  "v2_04f3ee3b": {
-    "description": "Auto-generated translation for: Insufficient quota. Please upgrade your plan.",
-    "message": "Premalo kvote. Prosimo, nadgradite svoj paket."
-  },
-  "v2_1143d851": {
-    "description": "Auto-generated translation for: Please select a language to continue",
-    "message": "Prosimo, izberite jezik za nadaljevanje"
   },
   "v2_1c043be4": {
     "description": "Auto-generated translation for: Your video is",
@@ -5402,10 +5197,6 @@
     "description": "Auto-generated translation for: Rate Us",
     "message": "Oceni nas"
   },
-  "v2_568faf56": {
-    "description": "Auto-generated translation for: Completed!",
-    "message": "Dokončano!"
-  },
   "v2_6d7c277a": {
     "description": "Auto-generated translation for: Loading quota...",
     "message": "Nalaganje kvote..."
@@ -5532,101 +5323,9 @@
     "description": "Auto-generated translation for: Clear",
     "message": "Počisti"
   },
-  "v2_75cbc37c": {
-    "description": "Auto-generated translation for: Learning Word/Phrase",
-    "message": "Učenje besede/besedne zveze"
-  },
-  "v2_7da9a4a4": {
-    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
-    "message": "Odstranjenih {count} besed s seznama {list_name}",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_72e4746a": {
-    "description": "Auto-generated translation for: Removed from {list_name}",
-    "message": "Odstranjeno iz seznama »{list_name}«",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_4f84faa1": {
-    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
-    "message": "Odstrani {count} izbranih besed s seznama {list_name}",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_1d032bb2": {
-    "description": "Auto-generated translation for: Remove from {list_name}",
-    "message": "Odstrani iz {list_name}",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2e9d3423": {
-    "description": "Auto-generated translation for: Add {count} selected words to list",
-    "message": "Dodaj {count} izbranih besed na seznam",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_26ab0d7c": {
-    "description": "Auto-generated translation for: Add to list",
-    "message": "Dodaj na seznam"
-  },
-  "v2_556a740a": {
-    "description": "Auto-generated translation for: Add {count} words to list",
-    "message": "Dodaj {count} besed na seznam",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2c9c6b81": {
-    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
-    "message": "Odstrani {count} besed iz {list_name}?",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_4189672b": {
-    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
-    "message": "S tem boste izbranim besedam odstranili s tega seznama. Še vedno bodo v vašem zvezku."
-  },
-  "v2_598a626d": {
-    "description": "Auto-generated translation for: Removing...",
-    "message": "Odstranjevanje ..."
-  },
   "v2_28c8c2bf": {
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "Omogoči FluentAI"
-  },
-  "v2_496c6513": {
-    "description": "Auto-generated translation for: Upgrade Plan",
-    "message": "Načrt nadgradnje"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -5879,18 +5578,6 @@
   "v2_0e123e30": {
     "description": "Auto-generated translation for: days left",
     "message": "dni do"
-  },
-  "v2_05c52cdc": {
-    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
-    "message": "Ta videoposnetek zahteva {{videoMinutes}} minut, vendar imate na voljo le še {{remainingQuota}} minut. Nevralne podnapise boste prejeli za prvih {{remainingQuota}} minut.",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
   },
   "v2_463e7617": {
     "description": "Auto-generated translation for: Export Notebook Entries",
@@ -6592,37 +6279,9 @@
     "description": "Auto-generated translation for: Added",
     "message": "Dodano"
   },
-  "v2_22c02861": {
-    "description": "Auto-generated translation for: Panel Store Monitor",
-    "message": "Panelni monitor trgovine"
-  },
-  "v2_7d79b9aa": {
-    "description": "Auto-generated translation for: Real-time panel store state monitoring",
-    "message": "Spremljanje stanja shranjevanja plošče v realnem času"
-  },
-  "v2_00dd2fd1": {
-    "description": "Auto-generated translation for: No store data available",
-    "message": "Podatki o trgovini niso na voljo"
-  },
   "v2_04e9a151": {
     "description": "Auto-generated translation for: Value",
     "message": "Vrednost"
-  },
-  "v2_7ff0b2ad": {
-    "description": "Auto-generated translation for: Structure",
-    "message": "Struktura"
-  },
-  "v2_2b169a4d": {
-    "description": "Auto-generated translation for: Array with",
-    "message": "Polje z"
-  },
-  "v2_13d2d4e7": {
-    "description": "Auto-generated translation for: Object with",
-    "message": "Predmet z"
-  },
-  "v2_373272cd": {
-    "description": "Auto-generated translation for: properties",
-    "message": "lastnosti"
   },
   "v2_1dfd168b": {
     "description": "Auto-generated translation for: Not set",
@@ -6679,24 +6338,6 @@
   "v2_7d1ee00a": {
     "description": "Auto-generated translation for: Play audio",
     "message": "Predvajaj zvok"
-  },
-  "v2_51a73e86": {
-    "description": "Auto-generated translation for: {{limit}} min in your 7 days free trial available",
-    "message": "{{limit}} min v vaši 7-dnevni brezplačni preizkusni dobi",
-    "placeholders": {
-      "limit": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_13805c42": {
-    "description": "Auto-generated translation for: {{remaining}} min remaining",
-    "message": "{{remaining}} min preostalih",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
   },
   "v2_401f71c3": {
     "description": "Auto-generated translation for: Watch continuously without interruptions",
@@ -6854,24 +6495,6 @@
     "description": "Auto-generated translation for: User Analytics",
     "message": "Analitika uporabnikov"
   },
-  "v2_7743e7dc": {
-    "description": "Auto-generated translation for: Translating Learning Subtitle for $lang$",
-    "message": "Prevajanje učnega podnapisa za $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_53d55823": {
-    "description": "Auto-generated translation for: Translating Native Subtitle for $lang$",
-    "message": "Prevajanje domačih podnapisov za $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_456af5e4": {
     "description": "Auto-generated translation for: Highlight Word Correspondence",
     "message": "Označi ujemanje besed"
@@ -6907,5 +6530,995 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "Vidnost osnovnega obrazca"
+  },
+  "v2_0fca6ffb": {
+    "description": "Auto-generated translation for: Queued...",
+    "message": "V čakanju..."
+  },
+  "v2_39e97037": {
+    "description": "Auto-generated translation for: Extracting audio...",
+    "message": "Izdobivanje zvoka..."
+  },
+  "v2_4abdcc64": {
+    "description": "Auto-generated translation for: Transcribing...",
+    "message": "Prepisujem..."
+  },
+  "v2_25b6c807": {
+    "description": "Auto-generated translation for: Creating segments...",
+    "message": "Ustvarjanje segmentov ..."
+  },
+  "v2_39b7b941": {
+    "description": "Auto-generated translation for: Transcription ID is required for client-side upload",
+    "message": "ID transkripcije je obvezen za nalaganje na strani odjemalca"
+  },
+  "v2_0d8f2527": {
+    "description": "Auto-generated translation for: Unable to get current audio track for client-side upload",
+    "message": "Ni mogoče pridobiti trenutne zvočne sledi za nalaganje na strani odjemalca"
+  },
+  "v2_33cd69e2": {
+    "description": "Auto-generated translation for: AI List Generation",
+    "message": "Generiranje seznama z umetno inteligenco"
+  },
+  "v2_7412cfc3": {
+    "description": "Auto-generated translation for: Generate AI-powered vocabulary lists.",
+    "message": "Generiraj besedišča s pomočjo umetne inteligence."
+  },
+  "v2_14c68aa1": {
+    "description": "Auto-generated translation for: Mastered",
+    "message": "Obvladano"
+  },
+  "v2_627263fe": {
+    "description": "Auto-generated translation for: Archived",
+    "message": "Arhivirano"
+  },
+  "v2_6abe10e3": {
+    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
+    "message": "Učenje: Označite to besedo kot tisto, ki se jo trenutno učite. Prikazala se bo na vašem seznamu učenja."
+  },
+  "v2_208be9bd": {
+    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
+    "message": "Osvojeno: Označite to besedo kot popolnoma naučeno. Sledili jo bomo kot znano besedo."
+  },
+  "v2_5b8363db": {
+    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
+    "message": "Arhivirano: Skrij to besedo iz aktivnega učenja. Beseda bo arhivirana in se ne bo pojavila pri vajah."
+  },
+  "v2_718c2f58": {
+    "description": "Auto-generated translation for: Unknown status",
+    "message": "Neznano stanje"
+  },
+  "v2_239a703d": {
+    "description": "Auto-generated translation for: Bookmark this word first to change its status",
+    "message": "Najprej zaznamujte to besedo, da spremenite njen status"
+  },
+  "v2_50f9e5c8": {
+    "description": "Auto-generated translation for: Word Status",
+    "message": "Stanje besede"
+  },
+  "v2_242c8203": {
+    "description": "Auto-generated translation for: Mark your progress learning this word",
+    "message": "Označi svoj napredek pri učenju te besede"
+  },
+  "v2_1a46dde4": {
+    "description": "Auto-generated translation for: Mark as Mastered",
+    "message": "Označi kot usvojeno"
+  },
+  "v2_7b477da8": {
+    "description": "Auto-generated translation for: Move to Archived",
+    "message": "Premakni v Arhivirano"
+  },
+  "v2_311a08dc": {
+    "description": "Auto-generated translation for: No analysis available",
+    "message": "Analiza ni na voljo"
+  },
+  "v2_6e85213c": {
+    "description": "Auto-generated translation for: Added to list successfully",
+    "message": "Uspešno dodano na seznam"
+  },
+  "v2_2ba40092": {
+    "description": "Auto-generated translation for: Import bookmarks from CSV",
+    "message": "Uvozi zaznamke iz CSV"
+  },
+  "v2_05b7caa8": {
+    "description": "Auto-generated translation for: Import Bookmarks - Upload CSV",
+    "message": "Uvozi zaznamke - Naloži CSV"
+  },
+  "v2_7df09908": {
+    "description": "Auto-generated translation for: Import Bookmarks - Map Columns",
+    "message": "Uvozi zaznamke – Preslikaj stolpce"
+  },
+  "v2_5d058757": {
+    "description": "Auto-generated translation for: Import Bookmarks - Preview",
+    "message": "Uvozi zaznamke - Predogled"
+  },
+  "v2_0d7be6fe": {
+    "description": "Auto-generated translation for: Import Bookmarks - Importing...",
+    "message": "Uvozi zaznamke - Uvažanje..."
+  },
+  "v2_6bdcff8a": {
+    "description": "Auto-generated translation for: Import Bookmarks - Complete",
+    "message": "Uvoz zaznamkov – Dokončano"
+  },
+  "v2_2fa67342": {
+    "description": "Auto-generated translation for: Import Bookmarks",
+    "message": "Uvozi zaznamke"
+  },
+  "v2_670c1f6c": {
+    "description": "Auto-generated translation for: Importing bookmarks...",
+    "message": "Uvažam zaznamke..."
+  },
+  "v2_37fe0ded": {
+    "description": "Auto-generated translation for: No valid entries found. Please check your column mappings and try again.",
+    "message": "Ni najdenih veljavnih vnosov. Prosimo, preverite preslikave stolpcev in poskusite znova."
+  },
+  "v2_7e316a9f": {
+    "description": "Auto-generated translation for: Map CSV Columns",
+    "message": "Preslikaj stolpce CSV"
+  },
+  "v2_72f24b41": {
+    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
+    "message": "Povlecite stolpce CSV iz desne plošče na polja zaznamkov na levi. Vmesnik se samodejno prilagodi glede na vašo strukturo CSV."
+  },
+  "v2_05370547": {
+    "description": "Auto-generated translation for: Please select a valid CSV file",
+    "message": "Prosim, izberite veljavno CSV datoteko"
+  },
+  "v2_18b1314b": {
+    "description": "Auto-generated translation for: Upload CSV File",
+    "message": "Naloži CSV datoteko"
+  },
+  "v2_645615a5": {
+    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
+    "message": "Izberite datoteko CSV z vašimi zaznamki za uvoz"
+  },
+  "v2_0552e347": {
+    "description": "Auto-generated translation for: File drop zone",
+    "message": "Območje za spust datotek"
+  },
+  "v2_5568d9cb": {
+    "description": "Auto-generated translation for: Processing CSV file...",
+    "message": "Obdelava datoteke CSV ..."
+  },
+  "v2_5d7ef2d7": {
+    "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
+    "message": "Povlecite in spustite svojo CSV datoteko tukaj, ali kliknite za brskanje"
+  },
+  "v2_739e2d79": {
+    "description": "Auto-generated translation for: CSV Format Tips",
+    "message": "Nasveti za obliko zapisa CSV"
+  },
+  "v2_6fd2993f": {
+    "description": "Auto-generated translation for: First row should contain column headers",
+    "message": "Prva vrstica mora vsebovati glave stolpcev"
+  },
+  "v2_3d7f8c52": {
+    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
+    "message": "Za besede/fraze je potreben vsaj stolpec »value«"
+  },
+  "v2_73751084": {
+    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
+    "message": "Podprti ločilniki: vejica (,), podpičje (;), tabulator"
+  },
+  "v2_06927651": {
+    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
+    "message": "Več pomenov je lahko ločenih z vejico ali podpičjem v enem stolpcu"
+  },
+  "v2_1bca8478": {
+    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
+    "message": "Samodejno zaznane $count$ preslikave stolpcev",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2d975a89": {
+    "description": "Auto-generated translation for: Accept All",
+    "message": "Sprejmi vse"
+  },
+  "v2_3923b596": {
+    "description": "Auto-generated translation for: Dismiss",
+    "message": "Opusti"
+  },
+  "v2_001de6cd": {
+    "description": "Auto-generated translation for: This field is required",
+    "message": "To polje je obvezno"
+  },
+  "v2_7a899068": {
+    "description": "Auto-generated translation for: Drop to map",
+    "message": "Spusti na zemljevid"
+  },
+  "v2_1e46a76f": {
+    "description": "Auto-generated translation for: Drag a column here",
+    "message": "Povlecite stolpec sem"
+  },
+  "v2_13947041": {
+    "description": "Auto-generated translation for: Required",
+    "message": "Obvezno"
+  },
+  "v2_770f55ad": {
+    "description": "Auto-generated translation for: Mapped",
+    "message": "Preslikano"
+  },
+  "v2_6d5e747d": {
+    "description": "Auto-generated translation for: CSV Columns",
+    "message": "Stolpci CSV"
+  },
+  "v2_389b97dd": {
+    "description": "Auto-generated translation for: columns",
+    "message": "stolpci"
+  },
+  "v2_18389c84": {
+    "description": "Auto-generated translation for: Drag columns to bookmark fields on the left",
+    "message": "Povlecite stolpce na polja zaznamkov na levi strani"
+  },
+  "v2_4281cac9": {
+    "description": "Auto-generated translation for: Search columns...",
+    "message": "Išči stolpce..."
+  },
+  "v2_166005f9": {
+    "description": "Auto-generated translation for: High Density Columns",
+    "message": "Stolpci visoke gostote"
+  },
+  "v2_01311dda": {
+    "description": "Auto-generated translation for: Medium Density Columns",
+    "message": "Stolpci srednje gostote"
+  },
+  "v2_5651af79": {
+    "description": "Auto-generated translation for: Low Density Columns",
+    "message": "Stolpci nizke gostote"
+  },
+  "v2_4735f680": {
+    "description": "Auto-generated translation for: No columns found",
+    "message": "Ni najdenih stolpcev"
+  },
+  "v2_10b086a8": {
+    "description": "Auto-generated translation for: No columns match your search",
+    "message": "Ni stolpcev, ki bi ustrezali vašemu iskanju"
+  },
+  "v2_3cc8bce3": {
+    "description": "Auto-generated translation for: Bookmark Fields",
+    "message": "Polja zaznamkov"
+  },
+  "v2_5a89e440": {
+    "description": "Auto-generated translation for: Drag CSV columns here to map them to bookmark fields",
+    "message": "Sem povlecite stolpce CSV, da jih preslikate v polja zaznamkov"
+  },
+  "v2_51923787": {
+    "description": "Auto-generated translation for: Native Language (for translations)",
+    "message": "Materni jezik (za prevode)"
+  },
+  "v2_3dee2334": {
+    "description": "Auto-generated translation for: Import Successful!",
+    "message": "Uvoz uspešen!"
+  },
+  "v2_0bbfb7b2": {
+    "description": "Auto-generated translation for: Successfully imported {imported} of {total} bookmark(s)",
+    "message": "Uspešno uvoženih {imported} od {total} zaznamek(ov)",
+    "placeholders": {
+      "imported": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_73d4cee8": {
+    "description": "Auto-generated translation for: Import Failed",
+    "message": "Uvoz ni uspel"
+  },
+  "v2_7cda554c": {
+    "description": "Auto-generated translation for: An error occurred during import",
+    "message": "Pri uvozu je prišlo do napake"
+  },
+  "v2_0b11160f": {
+    "description": "Auto-generated translation for: Errors:",
+    "message": "Napake:"
+  },
+  "v2_4890ad10": {
+    "description": "Auto-generated translation for: Import More",
+    "message": "Uvozi Več"
+  },
+  "v2_6f7ea0c3": {
+    "description": "Auto-generated translation for: Preview Import",
+    "message": "Predogled uvoza"
+  },
+  "v2_25fd4402": {
+    "description": "Auto-generated translation for: Review the data to be imported before confirming",
+    "message": "Preden potrdite, preglejte podatke, ki jih želite uvoziti"
+  },
+  "v2_07d543d4": {
+    "description": "Auto-generated translation for: Valid Entries",
+    "message": "Veljavni vnosi"
+  },
+  "v2_7c3a5b8b": {
+    "description": "Auto-generated translation for: Errors",
+    "message": "Napake"
+  },
+  "v2_6d78ba58": {
+    "description": "Auto-generated translation for: Preview (first 5 valid entries)",
+    "message": "Predogled (prvih 5 veljavnih vnosov)"
+  },
+  "v2_040929e4": {
+    "description": "Auto-generated translation for: {count} row(s) have errors and will be skipped:",
+    "message": "{count} vrstic ima napake in bodo preskočene:",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7d08cd59": {
+    "description": "Auto-generated translation for: ... and {count} more",
+    "message": "... in še {count} več",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4e31834b": {
+    "description": "Auto-generated translation for: No valid entries found. Please go back and check your column mappings.",
+    "message": "Ni najdenih veljavnih vnosov. Vrnite se nazaj in preverite preslikave stolpcev."
+  },
+  "v2_4b26d0af": {
+    "description": "Auto-generated translation for: Importing...",
+    "message": "Uvažam..."
+  },
+  "v2_49fc9a36": {
+    "description": "Auto-generated translation for: Import {count} Bookmark(s)",
+    "message": "Uvozi {count} zaznamek(ov)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_13169590": {
+    "description": "Auto-generated translation for: No context",
+    "message": "Brez konteksta"
+  },
+  "v2_4a69f888": {
+    "description": "Auto-generated translation for: No antonyms",
+    "message": "Ni protipomenk"
+  },
+  "v2_50c9077d": {
+    "description": "Auto-generated translation for: No part of speech",
+    "message": "Brez besedne vrste"
+  },
+  "v2_0f5245a6": {
+    "description": "Auto-generated translation for: No explanation",
+    "message": "Brez pojasnila"
+  },
+  "v2_3f12a737": {
+    "description": "Auto-generated translation for: No synonyms",
+    "message": "Ni sinonimov"
+  },
+  "v2_2bff6407": {
+    "description": "Auto-generated translation for: No usage examples",
+    "message": "Ni primerov uporabe"
+  },
+  "v2_64524d83": {
+    "description": "Auto-generated translation for: View words in {list_name}",
+    "message": "Prikaži besede v {list_name}",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1d0209f3": {
+    "description": "Auto-generated translation for: Delete List",
+    "message": "Izbriši seznam"
+  },
+  "v2_4ce5d5f5": {
+    "description": "Auto-generated translation for: This action cannot be undone.",
+    "message": "Tega dejanja ni mogoče razveljaviti."
+  },
+  "v2_601b361e": {
+    "description": "Auto-generated translation for: To confirm deletion, please type the list name below:",
+    "message": "Za potrditev izbrisa, vnesite ime seznama spodaj:"
+  },
+  "v2_2af300cd": {
+    "description": "Auto-generated translation for: List Name",
+    "message": "Ime seznama"
+  },
+  "v2_647545a3": {
+    "description": "Auto-generated translation for: Type the list name to confirm",
+    "message": "Za potrditev vnesite ime seznama"
+  },
+  "v2_0709e7e6": {
+    "description": "Auto-generated translation for: The name does not match. Please type the exact name.",
+    "message": "Ime se ne ujema. Vnesite točno ime."
+  },
+  "v2_2c2835c0": {
+    "description": "Auto-generated translation for: New learning list",
+    "message": "Nov učni seznam"
+  },
+  "v2_4163696b": {
+    "description": "Auto-generated translation for: Add a short description so you remember what belongs in this list.",
+    "message": "Dodajte kratek opis, da se boste spomnili, kaj spada na ta seznam."
+  },
+  "v2_0022b099": {
+    "description": "Auto-generated translation for: Icon",
+    "message": "Ikona"
+  },
+  "v2_36f86c00": {
+    "description": "Auto-generated translation for: Generate words with AI",
+    "message": "Ustvarjanje besed z umetno inteligenco"
+  },
+  "v2_1475e0ba": {
+    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
+    "message": "Samodejno ustvari besediščne besede za ta seznam"
+  },
+  "v2_79c66209": {
+    "description": "Auto-generated translation for: Number of words",
+    "message": "Število besed"
+  },
+  "v2_5519d1dc": {
+    "description": "Auto-generated translation for: Select language",
+    "message": "Izberite jezik"
+  },
+  "v2_09329d09": {
+    "description": "Auto-generated translation for: Choose the language you want to practice with.",
+    "message": "Izberite jezik, v katerem želite vaditi."
+  },
+  "v2_27a98b23": {
+    "description": "Auto-generated translation for: This is the language you'd like explanations in.",
+    "message": "To je jezik, v katerem želite prejemati razlage."
+  },
+  "v2_1780745d": {
+    "description": "Auto-generated translation for: Choose an icon",
+    "message": "Izberite ikono"
+  },
+  "v2_3a4b606c": {
+    "description": "Auto-generated translation for: Search icons...",
+    "message": "Iskanje ikon ..."
+  },
+  "v2_767ac2fc": {
+    "description": "Auto-generated translation for: icons found",
+    "message": "ikone najdene"
+  },
+  "v2_2d146943": {
+    "description": "Auto-generated translation for: icons available",
+    "message": "ikone so na voljo"
+  },
+  "v2_56ed50c3": {
+    "description": "Auto-generated translation for: No icons found",
+    "message": "Ni najdenih ikon"
+  },
+  "v2_67dbb079": {
+    "description": "Auto-generated translation for: Try a different search term",
+    "message": "Poskusite z drugim iskalnim pojmom"
+  },
+  "v2_04466b3e": {
+    "description": "Auto-generated translation for: Choose icon",
+    "message": "Izberi ikono"
+  },
+  "v2_50e6a8db": {
+    "description": "Auto-generated translation for: Store Monitor",
+    "message": "Nadzornik trgovine"
+  },
+  "v2_2d0f17ba": {
+    "description": "Auto-generated translation for: Real-time store state monitoring",
+    "message": "Spremljanje stanja trgovine v realnem času"
+  },
+  "v2_636647f3": {
+    "description": "Auto-generated translation for: Renaming...",
+    "message": "Preimenujem..."
+  },
+  "v2_6e4fdca2": {
+    "description": "Auto-generated translation for: Rename",
+    "message": "Preimenuj"
+  },
+  "v2_4365a196": {
+    "description": "Auto-generated translation for: Netflix Download",
+    "message": "Prenos Netflix"
+  },
+  "v2_647e99b6": {
+    "description": "Auto-generated translation for: Select and download audio or video streams from Netflix",
+    "message": "Izberite in prenesite avdio ali video pretočne vsebine iz Netflixa"
+  },
+  "v2_7234e8ec": {
+    "description": "Auto-generated translation for: Stream Selection",
+    "message": "Izbira toka"
+  },
+  "v2_6b772ed6": {
+    "description": "Auto-generated translation for: Loading available streams...",
+    "message": "Nalaganje razpoložljivih tokov ..."
+  },
+  "v2_0fe585f4": {
+    "description": "Auto-generated translation for: Downloading...",
+    "message": "Prenašanje..."
+  },
+  "v2_561795e8": {
+    "description": "Auto-generated translation for: Download Stream",
+    "message": "Prenos pretoka"
+  },
+  "v2_6d97721c": {
+    "description": "Auto-generated translation for: Audio Upload Dev Panel",
+    "message": "Razvojna plošča za nalaganje zvoka"
+  },
+  "v2_74ca7966": {
+    "description": "Auto-generated translation for: Current Video Info",
+    "message": "Trenutne informacije o videu"
+  },
+  "v2_04d13238": {
+    "description": "Auto-generated translation for: Title",
+    "message": "Naslov"
+  },
+  "v2_72e14e4c": {
+    "description": "Auto-generated translation for: Duration",
+    "message": "Trajanje"
+  },
+  "v2_188d1214": {
+    "description": "Auto-generated translation for: Downloaded Audio Files",
+    "message": "Prenesene zvočne datoteke"
+  },
+  "v2_20c15877": {
+    "description": "Auto-generated translation for: Transcription ID",
+    "message": "ID transkripcije"
+  },
+  "v2_5789cd85": {
+    "description": "Auto-generated translation for: Requesting...",
+    "message": "Zahtevam..."
+  },
+  "v2_61130280": {
+    "description": "Auto-generated translation for: Uploaded",
+    "message": "Naloženo"
+  },
+  "v2_75d4a8b9": {
+    "description": "Auto-generated translation for: Uploaded successfully",
+    "message": "Uspešno naloženo"
+  },
+  "v2_4ac09327": {
+    "description": "Auto-generated translation for: No downloaded audio files. Download an audio stream above.",
+    "message": "Ni prenesenih zvočnih datotek. Prenesite zvočni tok zgoraj."
+  },
+  "v2_03caabb6": {
+    "description": "Auto-generated translation for: Audio",
+    "message": "Zvok"
+  },
+  "v2_3f1b0426": {
+    "description": "Auto-generated translation for: Stream Type",
+    "message": "Vrsta pretoka"
+  },
+  "v2_14b21d2a": {
+    "description": "Auto-generated translation for: Select stream type",
+    "message": "Izberite vrsto prenosa"
+  },
+  "v2_6bc5c460": {
+    "description": "Auto-generated translation for: Stream",
+    "message": "Pretakanje"
+  },
+  "v2_34820ca3": {
+    "description": "Auto-generated translation for: No streams available",
+    "message": "Ni na voljo nobenih prenosov v živo"
+  },
+  "v2_7935f6a3": {
+    "description": "Auto-generated translation for: Select a stream",
+    "message": "Izberite tok"
+  },
+  "v2_5aed6b2d": {
+    "description": "Auto-generated translation for: Download completed",
+    "message": "Prenos je končan"
+  },
+  "v2_0d351a03": {
+    "description": "Auto-generated translation for: Failed to send reset code. Please try again.",
+    "message": "Pošiljanje kode za ponastavitev ni uspelo. Prosimo, poskusite znova."
+  },
+  "v2_371122aa": {
+    "description": "Auto-generated translation for: Generate AI-powered subtitles from video audio",
+    "message": "Ustvarite podnapise, ki jih poganja umetna inteligenca, iz video zvoka"
+  },
+  "v2_290c5760": {
+    "description": "Auto-generated translation for: Import Subtitles",
+    "message": "Uvozi podnapise"
+  },
+  "v2_751fc669": {
+    "description": "Auto-generated translation for: Pause after repeat",
+    "message": "Premor po ponovitvi"
+  },
+  "v2_13c00d07": {
+    "description": "Auto-generated translation for: Keep playback paused after repeats finish",
+    "message": "Naj bo predvajanje začasno ustavljeno po končanih ponovitvah"
+  },
+  "v2_596712ca": {
+    "description": "Auto-generated translation for: Token Translation",
+    "message": "Prevod žetonov"
+  },
+  "v2_3e668542": {
+    "description": "Auto-generated translation for: HOW TO GET STARTED",
+    "message": "KAKO ZAČETI"
+  },
+  "v2_592b9e37": {
+    "description": "Auto-generated translation for: Thank you",
+    "message": "Hvala"
+  },
+  "v2_4e789fe2": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
+    "message": "Cenimo vaše povratne informacije in se bomo potrudili, da bo aplikacija za vas boljša. Na vaš račun je zdaj dodanih 30 dni FluentAI+."
+  },
+  "v2_2e6bca42": {
+    "description": "Auto-generated translation for: Unlimited AI Subtitles",
+    "message": "Neomejeni AI podnapisi"
+  },
+  "v2_452b7429": {
+    "description": "Auto-generated translation for: Active subscription",
+    "message": "Aktivna naročnina"
+  },
+  "v2_743316c9": {
+    "description": "Auto-generated translation for: Select Subtitles",
+    "message": "Izberi podnapise"
+  },
+  "v2_025a42c0": {
+    "description": "Auto-generated translation for: Choose how you want to add subtitles to your video",
+    "message": "Izberite, kako želite dodati podnapise v svoj video"
+  },
+  "v2_461d3fee": {
+    "description": "Auto-generated translation for: Upload a .srt or .vtt file",
+    "message": "Naložite datoteko .srt ali .vtt"
+  },
+  "v2_18d948be": {
+    "description": "Auto-generated translation for: Create neural subtitles",
+    "message": "Ustvari nevronske podnapise"
+  },
+  "v2_6bad0b0e": {
+    "description": "Auto-generated translation for: Neural subtitles are not yet available",
+    "message": "Nevronski podnapisi še niso na voljo"
+  },
+  "v2_0dae7c32": {
+    "description": "Auto-generated translation for: Generate subtitles with AI",
+    "message": "Ustvarite podnapise z umetno inteligenco"
+  },
+  "v2_0cdb031a": {
+    "description": "Auto-generated translation for: Coming soon",
+    "message": "Kmalu na voljo"
+  },
+  "v2_7c644bab": {
+    "description": "Auto-generated translation for: Transcription failed",
+    "message": "Prepisovanje ni uspelo"
+  },
+  "v2_25d7795d": {
+    "description": "Auto-generated translation for: An error occurred during transcription",
+    "message": "Prišlo je do napake med prepisovanjem"
+  },
+  "v2_6cb79c3b": {
+    "description": "Auto-generated translation for: Select Video File",
+    "message": "Izberi video datoteko"
+  },
+  "v2_3e76f194": {
+    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
+    "message": "Naložite video datoteko za generiranje podnapisov"
+  },
+  "v2_3a059b20": {
+    "description": "Auto-generated translation for: Import New Video",
+    "message": "Uvozi nov video"
+  },
+  "v2_6c53c554": {
+    "description": "Auto-generated translation for: Play local video files with FluentAI subtitles and interactive learning features.",
+    "message": "Predvajajte lokalne video datoteke s FluentAI podnapisi in interaktivnimi učnimi funkcijami."
+  },
+  "v2_7ca54576": {
+    "description": "Auto-generated translation for: Local Player",
+    "message": "Lokalni igralec"
+  },
+  "v2_53066e84": {
+    "description": "Auto-generated translation for: Import Video File",
+    "message": "Uvozi video datoteko"
+  },
+  "v2_56a0a959": {
+    "description": "Auto-generated translation for: Select a local video file to get started",
+    "message": "Izberite lokalno video datoteko za začetek"
+  },
+  "v2_4775d762": {
+    "description": "Auto-generated translation for: Failed to import subtitles",
+    "message": "Uvoz podnapisov ni uspel"
+  },
+  "v2_2eaee21e": {
+    "description": "Auto-generated translation for: Subtitles imported successfully",
+    "message": "Podnapisi so bili uspešno uvoženi"
+  },
+  "v2_7d8bd622": {
+    "description": "Auto-generated translation for: An unexpected error occurred while importing subtitles",
+    "message": "Pri uvažanju podnapisov je prišlo do nepričakovane napake"
+  },
+  "v2_69652337": {
+    "description": "Auto-generated translation for: Neural transcription is already in progress for this video",
+    "message": "Nevronska transkripcija za ta videoposnetek že poteka"
+  },
+  "v2_4f4ab581": {
+    "description": "Auto-generated translation for: Please set your learning language in settings before creating neural subtitles",
+    "message": "Prosimo, da v nastavitvah nastavite jezik učenja, preden ustvarite nevronske podnapise."
+  },
+  "v2_5034bcb9": {
+    "description": "Auto-generated translation for: Failed to upload audio",
+    "message": "Nalaganje zvočnega posnetka ni uspelo"
+  },
+  "v2_4050988e": {
+    "description": "Auto-generated translation for: Neural transcription started",
+    "message": "Nevronska transkripcija se je začela"
+  },
+  "v2_7c1bf627": {
+    "description": "Auto-generated translation for: An unexpected error occurred",
+    "message": "Prišlo je do nepričakovane napake"
+  },
+  "v2_7de3ad93": {
+    "description": "Auto-generated translation for: Please upload a valid video file",
+    "message": "Prosim, naložite veljavno video datoteko"
+  },
+  "v2_1c851385": {
+    "description": "Auto-generated translation for: Select video file",
+    "message": "Izberi video datoteko"
+  },
+  "v2_6aa78acd": {
+    "description": "Auto-generated translation for: Drop your video file here",
+    "message": "Spustite svojo video datoteko tukaj"
+  },
+  "v2_77d1db2e": {
+    "description": "Auto-generated translation for: Drag and drop your video file",
+    "message": "Povlecite in spustite video datoteko"
+  },
+  "v2_0f19d2bd": {
+    "description": "Auto-generated translation for: Upload a video file from your device to play it with FluentAI subtitles, translations, and interactive learning features.",
+    "message": "Naložite video datoteko iz vaše naprave, da jo predvajate s FluentAI podnapisi, prevodi in interaktivnimi funkcijami učenja."
+  },
+  "v2_000009e3": {
+    "description": "Auto-generated translation for: OR",
+    "message": "ALI"
+  },
+  "v2_0a7b0fb0": {
+    "description": "Auto-generated translation for: Supported formats:",
+    "message": "Podprte oblike zapisa:"
+  },
+  "v2_4a495383": {
+    "description": "Auto-generated translation for: Please upload a valid subtitle file (.srt or .vtt)",
+    "message": "Prosim, naložite veljavno datoteko s podnapisi (.srt ali .vtt)."
+  },
+  "v2_6fcb14b7": {
+    "description": "Auto-generated translation for: Please select a subtitle file",
+    "message": "Prosim, izberite datoteko s podnapisi"
+  },
+  "v2_212c1912": {
+    "description": "Auto-generated translation for: Please select the language of the subtitles",
+    "message": "Prosimo, izberite jezik podnapisov"
+  },
+  "v2_783bffd0": {
+    "description": "Auto-generated translation for: Change",
+    "message": "Sprememba"
+  },
+  "v2_68369c80": {
+    "description": "Auto-generated translation for: Select subtitle file",
+    "message": "Izberite datoteko s podnapisi"
+  },
+  "v2_5aadc93f": {
+    "description": "Auto-generated translation for: Total Subtitles",
+    "message": "Skupno Število Podnapisov"
+  },
+  "v2_50417ba8": {
+    "description": "Auto-generated translation for: Preview",
+    "message": "Predogled"
+  },
+  "v2_040be290": {
+    "description": "Auto-generated translation for: First",
+    "message": "Prvi"
+  },
+  "v2_20ba375b": {
+    "description": "Auto-generated translation for: subtitles",
+    "message": "podnapisi"
+  },
+  "v2_18b6b5b6": {
+    "description": "Auto-generated translation for: Language Detected",
+    "message": "Jezik zaznan"
+  },
+  "v2_091de2f4": {
+    "description": "Auto-generated translation for: Override language",
+    "message": "Prepiši jezik"
+  },
+  "v2_23717fec": {
+    "description": "Auto-generated translation for: Override",
+    "message": "Preklic"
+  },
+  "v2_083513ed": {
+    "description": "Auto-generated translation for: Drag and drop your subtitle file",
+    "message": "Povlecite in spustite vašo datoteko s podnapisi"
+  },
+  "v2_6386a07b": {
+    "description": "Auto-generated translation for: Supports .srt and .vtt files",
+    "message": "Podpira datoteke .srt in .vtt"
+  },
+  "v2_47ad4312": {
+    "description": "Auto-generated translation for: Select language...",
+    "message": "Izberite jezik ..."
+  },
+  "v2_0ede3a99": {
+    "description": "Auto-generated translation for: Language selection is required",
+    "message": "Izbira jezika je obvezna"
+  },
+  "v2_1df46f39": {
+    "description": "Auto-generated translation for: Continue",
+    "message": "Nadaljuj"
+  },
+  "v2_47af8214": {
+    "description": "Auto-generated translation for: Keyboard shortcuts are enabled. Use keyboard shortcuts to control video playback and subtitles.",
+    "message": "Tipkovnične bližnjice so omogočene. Uporabite tipkovnične bližnjice za upravljanje s predvajanjem videoposnetkov in podnapisi."
+  },
+  "v2_3576a0cb": {
+    "description": "Auto-generated translation for: Keyboard shortcuts enabled",
+    "message": "Tipkovnične bližnjice so omogočene"
+  },
+  "v2_5287bec0": {
+    "description": "Auto-generated translation for: You're ready to learn with FluentAI on",
+    "message": "Pripravljeni ste se učiti s FluentAI na"
+  },
+  "v2_6eff97af": {
+    "description": "Auto-generated translation for: You're ready to learn with FluentAI.",
+    "message": "Pripravljeni ste na učenje s FluentAI."
+  },
+  "v2_022e1b3d": {
+    "description": "Auto-generated translation for: Netflix, YouTube, Prime Video, and Disney+.",
+    "message": "Netflix, YouTube, Prime Video in Disney+."
+  },
+  "v2_25f0d9dc": {
+    "description": "Auto-generated translation for: Netflix, YouTube & more.",
+    "message": "Netflix, YouTube in še več."
+  },
+  "v2_7f0fc6a9": {
+    "description": "Auto-generated translation for: You’ve installed the extension—open any supported platform, choose a video,",
+    "message": "Razširitev ste namestili – odprite katero koli podprto platformo, izberite videoposnetek."
+  },
+  "v2_5744d090": {
+    "description": "Auto-generated translation for: and click the FluentAI icon in the bottom bar to turn on smart dual subtitles.",
+    "message": "in kliknite ikono FluentAI v spodnji vrstici, da vklopite pametne dvojne podnapise."
+  },
+  "v2_6f82368b": {
+    "description": "Auto-generated translation for: You’re all set. Open Netflix, YouTube, Prime Video, or Disney+ and tap the FluentAI icon.",
+    "message": "Vse je pripravljeno. Odprite Netflix, YouTube, Prime Video ali Disney+ in tapnite ikono FluentAI."
+  },
+  "v2_0024af75": {
+    "description": "Auto-generated translation for: More",
+    "message": "Več"
+  },
+  "v2_4fea6cfa": {
+    "description": "Auto-generated translation for: Training",
+    "message": "Usposabljanje"
+  },
+  "v2_33c4e0f6": {
+    "description": "Auto-generated translation for: EPUB deleted successfully",
+    "message": "EPUB uspešno izbrisan"
+  },
+  "v2_374bce31": {
+    "description": "Auto-generated translation for: Failed to delete EPUB: ",
+    "message": "Brisanje EPUB-a ni uspelo:"
+  },
+  "v2_45505288": {
+    "description": "Auto-generated translation for: Read and learn from your EPUB books",
+    "message": "Berite in se učite iz svojih EPUB knjig"
+  },
+  "v2_56305e75": {
+    "description": "Auto-generated translation for: EPUB Reader",
+    "message": "Bralnik EPUB"
+  },
+  "v2_3b0f50f1": {
+    "description": "Auto-generated translation for: Are you sure you want to delete this EPUB? This action cannot be undone.",
+    "message": "Ali ste prepričani, da želite izbrisati ta EPUB? Tega dejanja ni mogoče razveljaviti."
+  },
+  "v2_1cfe79ad": {
+    "description": "Auto-generated translation for: Delete EPUB",
+    "message": "Izbriši EPUB"
+  },
+  "v2_6657afdc": {
+    "description": "Auto-generated translation for: Sentence Explanation",
+    "message": "Pojasnilo stavka"
+  },
+  "v2_73bf162a": {
+    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
+    "message": "Podrobna razčlenitev sestavin stavka"
+  },
+  "v2_0b110f0e": {
+    "description": "Auto-generated translation for: Error: ",
+    "message": "Napaka:"
+  },
+  "v2_64dc3623": {
+    "description": "Auto-generated translation for: Meaning",
+    "message": "Pomen"
+  },
+  "v2_6fc26f4d": {
+    "description": "Auto-generated translation for: base form",
+    "message": "osnovna oblika"
+  },
+  "v2_13b93494": {
+    "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
+    "message": "Organizirajte shranjene besede in fraze v sezname po meri za lažji dostop in učenje."
+  },
+  "v2_64896e2b": {
+    "description": "Auto-generated translation for: You haven't created any lists yet.",
+    "message": "Še niste ustvarili nobenih seznamov."
+  },
+  "v2_5f364956": {
+    "description": "Auto-generated translation for: Loading list details...",
+    "message": "Nalaganje podrobnosti seznama..."
+  },
+  "v2_4bfb9f13": {
+    "description": "Auto-generated translation for: List not found",
+    "message": "Seznam ni bil najden"
+  },
+  "v2_02d40e21": {
+    "description": "Auto-generated translation for: Are you sure you want to remove these items from the list?",
+    "message": "Ali ste prepričani, da želite odstraniti te elemente s seznama?"
+  },
+  "v2_53d1bed3": {
+    "description": "Auto-generated translation for: Removed from list successfully",
+    "message": "Uspešno odstranjeno s seznama"
+  },
+  "v2_0dda1ef1": {
+    "description": "Auto-generated translation for: Moved to list successfully",
+    "message": "Uspešno premaknjeno na seznam"
+  },
+  "v2_050a9740": {
+    "description": "Auto-generated translation for: Copied to list successfully",
+    "message": "Uspešno kopirano na seznam"
+  },
+  "v2_4705f29b": {
+    "description": "Auto-generated translation for: selected",
+    "message": "izbrano"
+  },
+  "v2_1f18c2f8": {
+    "description": "Auto-generated translation for: Remove from List",
+    "message": "Odstrani s seznama"
+  },
+  "v2_53c459ec": {
+    "description": "Auto-generated translation for: Move to List",
+    "message": "Premakni na seznam"
+  },
+  "v2_3aeb35b8": {
+    "description": "Auto-generated translation for: Copy to List",
+    "message": "Kopiraj v seznam"
+  },
+  "v2_2ccd289a": {
+    "description": "Auto-generated translation for: Cancel Selection",
+    "message": "Prekliči izbrano"
+  },
+  "v2_3583dd91": {
+    "description": "Auto-generated translation for: Are you sure you want to remove this item from the list?",
+    "message": "Ste prepričani, da želite odstraniti ta element s seznama?"
+  },
+  "v2_152ebc42": {
+    "description": "Auto-generated translation for: No items in this list yet.",
+    "message": "Na tem seznamu še ni elementov."
+  },
+  "v2_7d9db6ec": {
+    "description": "Auto-generated translation for: Please select both learning and native languages",
+    "message": "Prosimo, izberite učni in materni jezik"
+  },
+  "v2_7132a412": {
+    "description": "Auto-generated translation for: Words generated and added to list",
+    "message": "Besede ustvarjene in dodane na seznam"
+  },
+  "v2_141a82da": {
+    "description": "Auto-generated translation for: Failed to generate words: $error$",
+    "message": "Generiranje besed ni uspelo: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6c576f57": {
+    "description": "Auto-generated translation for: Generate Words for List",
+    "message": "Ustvari besede za seznam"
+  },
+  "v2_613b5ada": {
+    "description": "Auto-generated translation for: Words will be generated based on the list name and description:",
+    "message": "Besede bodo ustvarjene na podlagi imena seznama in opisa:"
+  },
+  "v2_60cbc3e4": {
+    "description": "Auto-generated translation for: Generating...",
+    "message": "Ustvarjanje..."
+  },
+  "v2_12228bc2": {
+    "description": "Auto-generated translation for: Generate Words",
+    "message": "Ustvari besede"
   }
 }

@@ -399,10 +399,6 @@
     "description": "Auto-generated translation for: Hide",
     "message": "Amaga"
   },
-  "v2_2046e717": {
-    "description": "Auto-generated translation for: Enable Neural Subtitles",
-    "message": "Habilita els subtítols neuronals"
-  },
   "v2_4b5115e4": {
     "description": "Auto-generated translation for: Roadmap",
     "message": "Full de ruta"
@@ -677,14 +673,6 @@
   "v2_7d6f52c3": {
     "description": "Auto-generated translation for: Admin Dashboard",
     "message": "Taulell d'administració"
-  },
-  "v2_04549323": {
-    "description": "Auto-generated translation for: Known",
-    "message": "Conegut"
-  },
-  "v2_3453ab4e": {
-    "description": "Auto-generated translation for: Ignored",
-    "message": "Ignorat"
   },
   "v2_15ee0d06": {
     "description": "Auto-generated translation for: Voice Repeat Mode",
@@ -1614,14 +1602,6 @@
     "description": "Auto-generated translation for: Created",
     "message": "Creat"
   },
-  "v2_0c815a78": {
-    "description": "Auto-generated translation for: Mark as Known",
-    "message": "Marcar com a conegut"
-  },
-  "v2_67649e29": {
-    "description": "Auto-generated translation for: Mark as Ignored",
-    "message": "Marca com a ignorat"
-  },
   "v2_20620e90": {
     "description": "Auto-generated translation for: Your support request has been sent successfully",
     "message": "La vostra sol·licitud de suport s'ha enviat correctament"
@@ -1992,24 +1972,6 @@
     "description": "Auto-generated translation for: Upgrade now",
     "message": "Actualitza ara"
   },
-  "v2_2ac7df71": {
-    "description": "Auto-generated translation for: Extracting $lang$",
-    "message": "Extreient $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_42c70941": {
-    "description": "Auto-generated translation for: Transliterating $lang$",
-    "message": "Transliterant $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_71262ea6": {
     "description": "Auto-generated translation for: in just a word, GREAT. the UI is beautiful, it works smooth and explains every word very clearly. just love it.❤️",
     "message": "en una paraula, GENIAL. la interfície és preciosa, funciona fluidament i explica cada paraula amb molta claredat. m'encanta.❤️"
@@ -2347,10 +2309,6 @@
     "description": "Auto-generated translation for: Network error while downloading Anki deck",
     "message": "Error de xarxa en descarregar la baralla d'Anki"
   },
-  "v2_4b0f1d6e": {
-    "description": "Auto-generated translation for: Confirm Deletion",
-    "message": "Confirmació de supressió"
-  },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
     "message": "Nom"
@@ -2468,14 +2426,6 @@
     "description": "Auto-generated translation for: Changes updated successfully.",
     "message": "Canvis actualitzats correctament."
   },
-  "v2_612eb1f9": {
-    "description": "Auto-generated translation for: Adjust the size of subtitle text displayed on screen",
-    "message": "Ajusta la mida del text dels subtítols que es mostra a la pantalla"
-  },
-  "v2_075a6afe": {
-    "description": "Auto-generated translation for: Control how transparent or opaque the subtitle background appears",
-    "message": "Controla la transparència o opacitat del fons dels subtítols"
-  },
   "v2_45a3dc56": {
     "description": "Auto-generated translation for: Display phonetic pronunciation of text in Latin characters",
     "message": "Mostra la pronunciació fonètica del text en caràcters llatins"
@@ -2483,10 +2433,6 @@
   "v2_51109ea3": {
     "description": "Auto-generated translation for: Hide subtitle text until you hover over them to reveal content",
     "message": "Oculta el text dels subtítols fins que hi passis el ratolí per damunt per revelar-ne el contingut"
-  },
-  "v2_32242863": {
-    "description": "Auto-generated translation for: Choose which language to display for subtitles",
-    "message": "Tria l'idioma en què es mostraran els subtítols"
   },
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
@@ -2511,10 +2457,6 @@
   "v2_000179d7": {
     "description": "Auto-generated translation for: and",
     "message": "i"
-  },
-  "v2_54f09b77": {
-    "description": "Auto-generated translation for: Choose the color for subtitle text",
-    "message": "Trieu el color del text del subtítol"
   },
   "v2_0a6d9248": {
     "description": "Auto-generated translation for: Delete video entry",
@@ -2552,10 +2494,6 @@
     "description": "Auto-generated translation for: Search bookmarks...",
     "message": "Cerca als marcadors..."
   },
-  "v2_5b0de8c6": {
-    "description": "Auto-generated translation for: If a sentence is longer than this amount, it will be split into two subtitles. Set the maximum number of characters per subtitle line",
-    "message": "Si una frase és més llarga que aquesta quantitat, es dividirà en dos subtítols. Estableix el nombre màxim de caràcters per línia de subtítol"
-  },
   "v2_7323bd91": {
     "description": "Auto-generated translation for: Sign in to FluentAI",
     "message": "Inicia la sessió a FluentAI"
@@ -2583,27 +2521,6 @@
   "v2_0c12281d": {
     "description": "Auto-generated translation for: Success",
     "message": "Èxit"
-  },
-  "v2_2bc5597d": {
-    "description": "Auto-generated translation for: This action cannot be undone",
-    "message": "Aquesta acció no es pot desfer"
-  },
-  "v2_6c7da2b6": {
-    "description": "Auto-generated translation for: Deletion Warning",
-    "message": "Avís d'eliminació"
-  },
-  "v2_6124c60f": {
-    "description": "Auto-generated translation for: You are about to delete <span class=\"font-semibold text-red-500\">$count$</span> item(s). This action cannot be undone.",
-    "message": "Esteu a punt de suprimir $count$ element(s). Aquesta acció no es pot desfer.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_7bf0926f": {
-    "description": "Auto-generated translation for: Type \"confirm\" to proceed:",
-    "message": "Escriviu \"confirmar\" per continuar:"
   },
   "v2_628637e8": {
     "description": "Auto-generated translation for: Dual subtitles, AI-powered translations and smart flashcards that turn every movie, series or video into your personal language lesson.",
@@ -2716,10 +2633,6 @@
   "v2_474406ab": {
     "description": "Auto-generated translation for: Compare features and discover why FluentAI is the most powerful tool for language learning through video.",
     "message": "Compara les característiques i descobreix per què FluentAI és l'eina més potent per aprendre idiomes a través de vídeo."
-  },
-  "v2_25034c19": {
-    "description": "Auto-generated translation for: Error fetching explanation",
-    "message": "Error en obtenir l'explicació"
   },
   "v2_03d6328a": {
     "description": "Auto-generated translation for: Books",
@@ -2927,10 +2840,6 @@
     "description": "Auto-generated translation for: To ensure the best experience and security, please update your app to the latest version.",
     "message": "Per garantir la millor experiència i seguretat, actualitzeu la vostra aplicació a la darrera versió."
   },
-  "v2_266eed7d": {
-    "description": "Auto-generated translation for: Thank you for your feedback!",
-    "message": "Gràcies pels teus comentaris!"
-  },
   "v2_27ec3cfa": {
     "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
     "message": "Rep 1 mes gratis per les teves ressenyes! <span class=\"gradient-highlighted-text\">1 mes de franc</span>"
@@ -3006,14 +2915,6 @@
   "v2_2a48fadf": {
     "description": "Auto-generated translation for: FluentAI is temporarily unavailable on Chrome",
     "message": "FluentAI no està temporalment disponible a Chrome"
-  },
-  "v2_25b7fb91": {
-    "description": "Auto-generated translation for: We genuinely appreciate you taking the time to share your experience. We are gonna look at your feedback and address it as soon as possible.",
-    "message": "Agraïm sincerament que us prengueu el temps per compartir la vostra experiència. Analitzarem els vostres comentaris i els abordarem tan aviat com sigui possible."
-  },
-  "v2_03fddd77": {
-    "description": "Auto-generated translation for: 30 days of unlimited access to FluentAI+ have been added to your account.",
-    "message": "S'han afegit 30 dies d'accés il·limitat a FluentAI+ al vostre compte."
   },
   "v2_6d62aa18": {
     "description": "Auto-generated translation for: Download again",
@@ -3454,15 +3355,6 @@
       }
     }
   },
-  "v2_0b8d9d53": {
-    "description": "Auto-generated translation for: Tokenising $lang$",
-    "message": "Tokenitzant $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_68708e8b": {
     "description": "Auto-generated translation for: No meanings",
     "message": "Sense significat"
@@ -3647,10 +3539,6 @@
     "description": "Auto-generated translation for: Discord Community",
     "message": "Comunitat de Discord"
   },
-  "v2_3e50b3ab": {
-    "description": "Auto-generated translation for: Join our Discord community",
-    "message": "Uneix-te a la nostra comunitat de Discord"
-  },
   "v2_04d51ef6": {
     "description": "Auto-generated translation for: Trial",
     "message": "Assaig"
@@ -3731,10 +3619,6 @@
     "description": "Auto-generated translation for: Translation temporarily unavailable",
     "message": "Traducció temporalment no disponible"
   },
-  "v2_45a0dd5e": {
-    "description": "Auto-generated translation for: Merge suggested phrase",
-    "message": "Fusiona la frase suggerida"
-  },
   "v2_64103271": {
     "description": "Auto-generated translation for: Context",
     "message": "Context"
@@ -3790,22 +3674,6 @@
   "v2_2fdda2ab": {
     "description": "Auto-generated translation for: Open menu",
     "message": "Obrir menú"
-  },
-  "v2_4daf7813": {
-    "description": "Auto-generated translation for: Learning Lists",
-    "message": "Aprenent llistes"
-  },
-  "v2_5bd31a0c": {
-    "description": "Auto-generated translation for: No Learning Lists Found",
-    "message": "No s'han trobat llistes d'aprenentatge"
-  },
-  "v2_37ddb83b": {
-    "description": "Auto-generated translation for: Create your first learning list to organize your vocabulary and phrases.",
-    "message": "Creeu la vostra primera llista d'aprenentatge per organitzar el vostre vocabulari i frases."
-  },
-  "v2_2566d0c9": {
-    "description": "Auto-generated translation for: Create Your First List",
-    "message": "Creeu la vostra primera llista"
   },
   "v2_4983c5ef": {
     "description": "Auto-generated translation for: Search lists...",
@@ -3878,14 +3746,6 @@
     "description": "Auto-generated translation for: View bookmarks in this list",
     "message": "Mostra els marcadors d'aquesta llista"
   },
-  "v2_1f82cd4e": {
-    "description": "Auto-generated translation for: Create AI List",
-    "message": "Crear llista d'IA"
-  },
-  "v2_4958c303": {
-    "description": "Auto-generated translation for: Add List",
-    "message": "Afegeix llista"
-  },
   "v2_283594e1": {
     "description": "Auto-generated translation for: This list does not have any bookmarks yet.",
     "message": "Aquesta llista encara no té cap adreça d'interès."
@@ -3946,10 +3806,6 @@
   "v2_002424be": {
     "description": "Auto-generated translation for: List",
     "message": "Llista"
-  },
-  "v2_42740930": {
-    "description": "Auto-generated translation for: Create and manage your learning lists to organize your vocabulary and phrases.",
-    "message": "Creeu i gestioneu les vostres llistes d'aprenentatge per organitzar el vostre vocabulari i frases."
   },
   "v2_13855e9b": {
     "description": "Auto-generated translation for: Enter list name",
@@ -4239,10 +4095,6 @@
     "description": "Auto-generated translation for: Norwegian",
     "message": "Noruec"
   },
-  "v2_1adb1399": {
-    "description": "Auto-generated translation for: Welcome to <span class=\"gradient-highlighted-text\">FluentAI</span>",
-    "message": "Benvingut a <span class=\"gradient-highlighted-text\">FluentAI</span>"
-  },
   "v2_196f550b": {
     "description": "Auto-generated translation for: Anki Jobs",
     "message": "Feines d'Anki"
@@ -4357,10 +4209,6 @@
     "description": "Auto-generated translation for: Generate AI subtitles.",
     "message": "Genera subtítols amb IA."
   },
-  "v2_74479309": {
-    "description": "Auto-generated translation for: Queued for processing",
-    "message": "En cua per al processament"
-  },
   "v2_6d19dc5c": {
     "description": "Auto-generated translation for: Transcription completed!",
     "message": "Transcripció completada!"
@@ -4408,18 +4256,6 @@
   "v2_119fc9e4": {
     "description": "Auto-generated translation for: An error occurred while requesting transcription",
     "message": "S'ha produït un error en sol·licitar la transcripció"
-  },
-  "v2_580965ba": {
-    "description": "Auto-generated translation for: Connection Error",
-    "message": "Error de connexió"
-  },
-  "v2_220cbaeb": {
-    "description": "Auto-generated translation for: Server Error",
-    "message": "Error del servidor"
-  },
-  "v2_21fb7c5f": {
-    "description": "Auto-generated translation for: Validation Error",
-    "message": "Error de validació"
   },
   "v2_1c8b0b53": {
     "description": "Auto-generated translation for: Please share your feedback...",
@@ -4733,18 +4569,6 @@
     "description": "Auto-generated translation for: For serious language learners. Unlimited access for intensive study.",
     "message": "Per als aprenents de llengües seriosos. Accés il·limitat per a l'estudi intensiu."
   },
-  "v2_3dc3d457": {
-    "description": "Auto-generated translation for: Extracting Audio...",
-    "message": "Extrayant l'àudio..."
-  },
-  "v2_4c4e29c6": {
-    "description": "Auto-generated translation for: Transcribing Audio...",
-    "message": "Transcrivint àudio..."
-  },
-  "v2_0045f33a": {
-    "description": "Auto-generated translation for: Creating Subtitles...",
-    "message": "Creant subtítols..."
-  },
   "v2_25a296fd": {
     "description": "Auto-generated translation for: Your Free Trial has Ended",
     "message": "La teva prova gratuïta ha acabat"
@@ -4841,14 +4665,6 @@
     "description": "Auto-generated translation for: 30 minutes of AI Subtitles to try",
     "message": "30 minuts de subtítols d'IA per provar"
   },
-  "v2_61f938fb": {
-    "description": "Auto-generated translation for: 45 minutes per day of AI Subtitles",
-    "message": "45 minuts al dia de subtítols d'IA"
-  },
-  "v2_5e0d46b3": {
-    "description": "Auto-generated translation for: 120 minutes per day of AI Subtitles",
-    "message": "120 minuts al dia de subtítols d'IA"
-  },
   "v2_5fca11c5": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles per day",
     "message": "Subtítols d'IA il·limitats al dia"
@@ -4920,15 +4736,6 @@
   "v2_2743fe99": {
     "description": "Auto-generated translation for: An error occurred while checking transcription status",
     "message": "S'ha produït un error en comprovar l'estat de la transcripció"
-  },
-  "v2_16f3b323": {
-    "description": "Auto-generated translation for: Mapping tokens for $lang$",
-    "message": "Mapatge de tokens per a $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
   },
   "v2_3c750a29": {
     "description": "Auto-generated translation for: Remove sentence bookmark",
@@ -5025,18 +4832,6 @@
   "v2_607da960": {
     "description": "Auto-generated translation for: Perfect word-level timing for immersive language learning",
     "message": "Sincronització perfecta a nivell de paraula per a un aprenentatge de llenguatges immersiu"
-  },
-  "v2_69ee2bd3": {
-    "description": "Auto-generated translation for: Use Neural Subtitles",
-    "message": "Utilitza subtítols neuronals"
-  },
-  "v2_04f3ee3b": {
-    "description": "Auto-generated translation for: Insufficient quota. Please upgrade your plan.",
-    "message": "Quota insuficient. Si us plau, millora el teu pla."
-  },
-  "v2_1143d851": {
-    "description": "Auto-generated translation for: Please select a language to continue",
-    "message": "Si us plau, seleccioneu un idioma per continuar"
   },
   "v2_1c043be4": {
     "description": "Auto-generated translation for: Your video is",
@@ -5402,10 +5197,6 @@
     "description": "Auto-generated translation for: Rate Us",
     "message": "Valora'ns"
   },
-  "v2_568faf56": {
-    "description": "Auto-generated translation for: Completed!",
-    "message": "Completat!"
-  },
   "v2_6d7c277a": {
     "description": "Auto-generated translation for: Loading quota...",
     "message": "Carregant quota..."
@@ -5532,101 +5323,9 @@
     "description": "Auto-generated translation for: Clear",
     "message": "Clar"
   },
-  "v2_75cbc37c": {
-    "description": "Auto-generated translation for: Learning Word/Phrase",
-    "message": "Aprenent paraula/frase"
-  },
-  "v2_7da9a4a4": {
-    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
-    "message": "S'han eliminat $count$ paraules de $list_name$",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_72e4746a": {
-    "description": "Auto-generated translation for: Removed from {list_name}",
-    "message": "S'ha eliminat de {list_name}",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_4f84faa1": {
-    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
-    "message": "Elimina {count} paraules seleccionades de {list_name}",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_1d032bb2": {
-    "description": "Auto-generated translation for: Remove from {list_name}",
-    "message": "Elimina de {list_name}",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2e9d3423": {
-    "description": "Auto-generated translation for: Add {count} selected words to list",
-    "message": "Afegeix {count} paraules seleccionades a la llista",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_26ab0d7c": {
-    "description": "Auto-generated translation for: Add to list",
-    "message": "Afegir a la llista"
-  },
-  "v2_556a740a": {
-    "description": "Auto-generated translation for: Add {count} words to list",
-    "message": "Afegeix {count} paraules a la llista",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2c9c6b81": {
-    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
-    "message": "Suprimir {count} paraules de {list_name}?",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_4189672b": {
-    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
-    "message": "Això eliminarà les paraules seleccionades d'aquesta llista. Continuaran sent al vostre quadern."
-  },
-  "v2_598a626d": {
-    "description": "Auto-generated translation for: Removing...",
-    "message": "S'està eliminant..."
-  },
   "v2_28c8c2bf": {
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "Activa FluentAI"
-  },
-  "v2_496c6513": {
-    "description": "Auto-generated translation for: Upgrade Plan",
-    "message": "Actualitzar pla"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -5879,18 +5578,6 @@
   "v2_0e123e30": {
     "description": "Auto-generated translation for: days left",
     "message": "dies restants"
-  },
-  "v2_05c52cdc": {
-    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
-    "message": "Aquest vídeo requereix {{videoMinutes}} minuts, però només et queden {{remainingQuota}} minuts. Rebràs subtítols neuronals per als primers {{remainingQuota}} minuts.",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
   },
   "v2_463e7617": {
     "description": "Auto-generated translation for: Export Notebook Entries",
@@ -6592,37 +6279,9 @@
     "description": "Auto-generated translation for: Added",
     "message": "Afegit"
   },
-  "v2_22c02861": {
-    "description": "Auto-generated translation for: Panel Store Monitor",
-    "message": "Monitor de la Botiga de Panells"
-  },
-  "v2_7d79b9aa": {
-    "description": "Auto-generated translation for: Real-time panel store state monitoring",
-    "message": "Monitorització en temps real de l'estat del panell de la botiga"
-  },
-  "v2_00dd2fd1": {
-    "description": "Auto-generated translation for: No store data available",
-    "message": "No hi ha dades de la botiga disponibles"
-  },
   "v2_04e9a151": {
     "description": "Auto-generated translation for: Value",
     "message": "Valor"
-  },
-  "v2_7ff0b2ad": {
-    "description": "Auto-generated translation for: Structure",
-    "message": "Estructura"
-  },
-  "v2_2b169a4d": {
-    "description": "Auto-generated translation for: Array with",
-    "message": "Matriu amb"
-  },
-  "v2_13d2d4e7": {
-    "description": "Auto-generated translation for: Object with",
-    "message": "Objecte amb"
-  },
-  "v2_373272cd": {
-    "description": "Auto-generated translation for: properties",
-    "message": "propietats"
   },
   "v2_1dfd168b": {
     "description": "Auto-generated translation for: Not set",
@@ -6679,24 +6338,6 @@
   "v2_7d1ee00a": {
     "description": "Auto-generated translation for: Play audio",
     "message": "Reproduir àudio"
-  },
-  "v2_51a73e86": {
-    "description": "Auto-generated translation for: {{limit}} min in your 7 days free trial available",
-    "message": "{{limit}} minuts disponibles a la teva prova gratuïta de 7 dies",
-    "placeholders": {
-      "limit": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_13805c42": {
-    "description": "Auto-generated translation for: {{remaining}} min remaining",
-    "message": "{{remaining}} min restants",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
   },
   "v2_401f71c3": {
     "description": "Auto-generated translation for: Watch continuously without interruptions",
@@ -6854,24 +6495,6 @@
     "description": "Auto-generated translation for: User Analytics",
     "message": "Analítiques d'usuari"
   },
-  "v2_7743e7dc": {
-    "description": "Auto-generated translation for: Translating Learning Subtitle for $lang$",
-    "message": "Traducció d'un subtítol d'aprenentatge per a $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_53d55823": {
-    "description": "Auto-generated translation for: Translating Native Subtitle for $lang$",
-    "message": "Traducció de subtítols natius per a $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_456af5e4": {
     "description": "Auto-generated translation for: Highlight Word Correspondence",
     "message": "Ressaltar correspondència de paraules"
@@ -6907,5 +6530,999 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "Visibilitat del formulari base"
+  },
+  "v2_0fca6ffb": {
+    "description": "Auto-generated translation for: Queued...",
+    "message": "En cua..."
+  },
+  "v2_39e97037": {
+    "description": "Auto-generated translation for: Extracting audio...",
+    "message": "Extracció d'àudio..."
+  },
+  "v2_4abdcc64": {
+    "description": "Auto-generated translation for: Transcribing...",
+    "message": "Transcrivint..."
+  },
+  "v2_25b6c807": {
+    "description": "Auto-generated translation for: Creating segments...",
+    "message": "Creant segments..."
+  },
+  "v2_39b7b941": {
+    "description": "Auto-generated translation for: Transcription ID is required for client-side upload",
+    "message": "L'ID de transcripció és obligatori per a la pujada del costat del client"
+  },
+  "v2_0d8f2527": {
+    "description": "Auto-generated translation for: Unable to get current audio track for client-side upload",
+    "message": "No s'ha pogut obtenir la pista d'àudio actual per a la pujada del costat del client"
+  },
+  "v2_33cd69e2": {
+    "description": "Auto-generated translation for: AI List Generation",
+    "message": "Generació de llistes d'IA"
+  },
+  "v2_7412cfc3": {
+    "description": "Auto-generated translation for: Generate AI-powered vocabulary lists.",
+    "message": "Genera llistes de vocabulari amb tecnologia d'IA."
+  },
+  "v2_14c68aa1": {
+    "description": "Auto-generated translation for: Mastered",
+    "message": "Dominat"
+  },
+  "v2_627263fe": {
+    "description": "Auto-generated translation for: Archived",
+    "message": "Arxivat"
+  },
+  "v2_6abe10e3": {
+    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
+    "message": "Aprenentatge: Marca aquesta paraula com a aprenent en aquest moment. Apareixerà a la teva llista d'aprenentatge."
+  },
+  "v2_208be9bd": {
+    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
+    "message": "Assolida: Marca aquesta paraula com a completament apresa. Es farà un seguiment com a paraula coneguda."
+  },
+  "v2_5b8363db": {
+    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
+    "message": "Arxivat: Amaga aquesta paraula de l'aprenentatge actiu. S'arxivarà i no apareixerà a la pràctica."
+  },
+  "v2_718c2f58": {
+    "description": "Auto-generated translation for: Unknown status",
+    "message": "Estat desconegut"
+  },
+  "v2_239a703d": {
+    "description": "Auto-generated translation for: Bookmark this word first to change its status",
+    "message": "Marca primer aquesta paraula per canviar el seu estat"
+  },
+  "v2_50f9e5c8": {
+    "description": "Auto-generated translation for: Word Status",
+    "message": "Estat de la paraula"
+  },
+  "v2_242c8203": {
+    "description": "Auto-generated translation for: Mark your progress learning this word",
+    "message": "Marca el teu progrés aprenent aquesta paraula"
+  },
+  "v2_1a46dde4": {
+    "description": "Auto-generated translation for: Mark as Mastered",
+    "message": "Marca com a après"
+  },
+  "v2_7b477da8": {
+    "description": "Auto-generated translation for: Move to Archived",
+    "message": "Mou-te a Arxivats"
+  },
+  "v2_311a08dc": {
+    "description": "Auto-generated translation for: No analysis available",
+    "message": "No hi ha cap anàlisi disponible"
+  },
+  "v2_6e85213c": {
+    "description": "Auto-generated translation for: Added to list successfully",
+    "message": "Afegit a la llista correctament"
+  },
+  "v2_2ba40092": {
+    "description": "Auto-generated translation for: Import bookmarks from CSV",
+    "message": "Importa adreces d'interès des de CSV"
+  },
+  "v2_05b7caa8": {
+    "description": "Auto-generated translation for: Import Bookmarks - Upload CSV",
+    "message": "Importa adreces d'interès - Carrega CSV"
+  },
+  "v2_7df09908": {
+    "description": "Auto-generated translation for: Import Bookmarks - Map Columns",
+    "message": "Importa Adreces d'interès - Mapeja Columnes"
+  },
+  "v2_5d058757": {
+    "description": "Auto-generated translation for: Import Bookmarks - Preview",
+    "message": "Importa les adreces d'interès - Previsualització"
+  },
+  "v2_0d7be6fe": {
+    "description": "Auto-generated translation for: Import Bookmarks - Importing...",
+    "message": "Importar adreces d'interès - S'està important..."
+  },
+  "v2_6bdcff8a": {
+    "description": "Auto-generated translation for: Import Bookmarks - Complete",
+    "message": "Importa Adreces d'interès - Complet"
+  },
+  "v2_2fa67342": {
+    "description": "Auto-generated translation for: Import Bookmarks",
+    "message": "Importa adreces d'interès"
+  },
+  "v2_670c1f6c": {
+    "description": "Auto-generated translation for: Importing bookmarks...",
+    "message": "Important adreces d'interès..."
+  },
+  "v2_37fe0ded": {
+    "description": "Auto-generated translation for: No valid entries found. Please check your column mappings and try again.",
+    "message": "No s'han trobat entrades vàlides. Si us plau, comproveu els vostres mapatges de columnes i torneu-ho a provar."
+  },
+  "v2_7e316a9f": {
+    "description": "Auto-generated translation for: Map CSV Columns",
+    "message": "Assigna les columnes CSV"
+  },
+  "v2_72f24b41": {
+    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
+    "message": "Arrossegueu les columnes CSV del panell dret als camps de marcador a l'esquerra. La interfície s'adapta automàticament segons l'estructura del vostre CSV."
+  },
+  "v2_05370547": {
+    "description": "Auto-generated translation for: Please select a valid CSV file",
+    "message": "Si us plau, seleccioneu un fitxer CSV vàlid"
+  },
+  "v2_18b1314b": {
+    "description": "Auto-generated translation for: Upload CSV File",
+    "message": "Puja fitxer CSV"
+  },
+  "v2_645615a5": {
+    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
+    "message": "Seleccioneu un fitxer CSV que contingui els vostres marcadors per importar"
+  },
+  "v2_0552e347": {
+    "description": "Auto-generated translation for: File drop zone",
+    "message": "Zona per arrossegar fitxers"
+  },
+  "v2_5568d9cb": {
+    "description": "Auto-generated translation for: Processing CSV file...",
+    "message": "Processant fitxer CSV..."
+  },
+  "v2_5d7ef2d7": {
+    "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
+    "message": "Arrossegueu i deixeu anar el vostre fitxer CSV aquí, o feu clic per cercar-lo"
+  },
+  "v2_739e2d79": {
+    "description": "Auto-generated translation for: CSV Format Tips",
+    "message": "Consells sobre el format CSV"
+  },
+  "v2_6fd2993f": {
+    "description": "Auto-generated translation for: First row should contain column headers",
+    "message": "La primera fila ha de contenir les capçaleres de les columnes"
+  },
+  "v2_3d7f8c52": {
+    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
+    "message": "Com a mínim, es requereix una columna 'value' per a les paraules/frases"
+  },
+  "v2_73751084": {
+    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
+    "message": "Delimitadors admesos: coma (,), punt i coma (;), tabulació"
+  },
+  "v2_06927651": {
+    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
+    "message": "En una columna es poden separar múltiples significats amb comes o punt i coma"
+  },
+  "v2_1bca8478": {
+    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
+    "message": "S'han detectat automàticament $count$ assignacions de columna",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2d975a89": {
+    "description": "Auto-generated translation for: Accept All",
+    "message": "Accepta-ho tot"
+  },
+  "v2_3923b596": {
+    "description": "Auto-generated translation for: Dismiss",
+    "message": "Descartar"
+  },
+  "v2_001de6cd": {
+    "description": "Auto-generated translation for: This field is required",
+    "message": "Aquest camp és obligatori"
+  },
+  "v2_7a899068": {
+    "description": "Auto-generated translation for: Drop to map",
+    "message": "Deixa anar al mapa"
+  },
+  "v2_1e46a76f": {
+    "description": "Auto-generated translation for: Drag a column here",
+    "message": "Arrossegueu una columna aquí"
+  },
+  "v2_13947041": {
+    "description": "Auto-generated translation for: Required",
+    "message": "Obligatori"
+  },
+  "v2_770f55ad": {
+    "description": "Auto-generated translation for: Mapped",
+    "message": "Assignat"
+  },
+  "v2_6d5e747d": {
+    "description": "Auto-generated translation for: CSV Columns",
+    "message": "Columnes CSV"
+  },
+  "v2_389b97dd": {
+    "description": "Auto-generated translation for: columns",
+    "message": "columnes"
+  },
+  "v2_18389c84": {
+    "description": "Auto-generated translation for: Drag columns to bookmark fields on the left",
+    "message": "Arrossegueu les columnes per marcar els camps a l'esquerra"
+  },
+  "v2_4281cac9": {
+    "description": "Auto-generated translation for: Search columns...",
+    "message": "Cerca columnes..."
+  },
+  "v2_166005f9": {
+    "description": "Auto-generated translation for: High Density Columns",
+    "message": "Columnes d'Alta Densitat"
+  },
+  "v2_01311dda": {
+    "description": "Auto-generated translation for: Medium Density Columns",
+    "message": "Columnes de densitat mitjana"
+  },
+  "v2_5651af79": {
+    "description": "Auto-generated translation for: Low Density Columns",
+    "message": "Columnes de Baixa Densitat"
+  },
+  "v2_4735f680": {
+    "description": "Auto-generated translation for: No columns found",
+    "message": "No s'han trobat columnes"
+  },
+  "v2_10b086a8": {
+    "description": "Auto-generated translation for: No columns match your search",
+    "message": "No hi ha cap columna que coincideixi amb la vostra cerca"
+  },
+  "v2_3cc8bce3": {
+    "description": "Auto-generated translation for: Bookmark Fields",
+    "message": "Camps de llibretes d'adreces"
+  },
+  "v2_5a89e440": {
+    "description": "Auto-generated translation for: Drag CSV columns here to map them to bookmark fields",
+    "message": "Arrossegueu les columnes CSV aquí per assignar-les als camps de marcador"
+  },
+  "v2_51923787": {
+    "description": "Auto-generated translation for: Native Language (for translations)",
+    "message": "Idioma nadiu (per a traduccions)"
+  },
+  "v2_3dee2334": {
+    "description": "Auto-generated translation for: Import Successful!",
+    "message": "Importació correcta!"
+  },
+  "v2_0bbfb7b2": {
+    "description": "Auto-generated translation for: Successfully imported {imported} of {total} bookmark(s)",
+    "message": "S'han importat correctament {imported} de {total} adreça(es)",
+    "placeholders": {
+      "imported": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_73d4cee8": {
+    "description": "Auto-generated translation for: Import Failed",
+    "message": "Error en la importació"
+  },
+  "v2_7cda554c": {
+    "description": "Auto-generated translation for: An error occurred during import",
+    "message": "S'ha produït un error durant la importació"
+  },
+  "v2_0b11160f": {
+    "description": "Auto-generated translation for: Errors:",
+    "message": "Errors:"
+  },
+  "v2_4890ad10": {
+    "description": "Auto-generated translation for: Import More",
+    "message": "Importa Més"
+  },
+  "v2_6f7ea0c3": {
+    "description": "Auto-generated translation for: Preview Import",
+    "message": "Previsualització d'importació"
+  },
+  "v2_25fd4402": {
+    "description": "Auto-generated translation for: Review the data to be imported before confirming",
+    "message": "Reviseu les dades que s'importaran abans de confirmar"
+  },
+  "v2_07d543d4": {
+    "description": "Auto-generated translation for: Valid Entries",
+    "message": "Entrades vàlides"
+  },
+  "v2_7c3a5b8b": {
+    "description": "Auto-generated translation for: Errors",
+    "message": "Errors"
+  },
+  "v2_6d78ba58": {
+    "description": "Auto-generated translation for: Preview (first 5 valid entries)",
+    "message": "Previsualització (primeres 5 entrades vàlides)"
+  },
+  "v2_040929e4": {
+    "description": "Auto-generated translation for: {count} row(s) have errors and will be skipped:",
+    "message": "{count} fila(es) tenen errors i s'ometran:",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7d08cd59": {
+    "description": "Auto-generated translation for: ... and {count} more",
+    "message": "... i {count} més",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4e31834b": {
+    "description": "Auto-generated translation for: No valid entries found. Please go back and check your column mappings.",
+    "message": "No s'han trobat entrades vàlides. Si us plau, torneu enrere i reviseu els mapatges de les columnes."
+  },
+  "v2_4b26d0af": {
+    "description": "Auto-generated translation for: Importing...",
+    "message": "S'està important..."
+  },
+  "v2_49fc9a36": {
+    "description": "Auto-generated translation for: Import {count} Bookmark(s)",
+    "message": "Importa {count} adreça(es) d'interès",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_13169590": {
+    "description": "Auto-generated translation for: No context",
+    "message": "Sense context"
+  },
+  "v2_4a69f888": {
+    "description": "Auto-generated translation for: No antonyms",
+    "message": "Sense antònims"
+  },
+  "v2_50c9077d": {
+    "description": "Auto-generated translation for: No part of speech",
+    "message": "Sense categoria gramatical"
+  },
+  "v2_0f5245a6": {
+    "description": "Auto-generated translation for: No explanation",
+    "message": "Cap explicació"
+  },
+  "v2_3f12a737": {
+    "description": "Auto-generated translation for: No synonyms",
+    "message": "Sense sinònims"
+  },
+  "v2_2bff6407": {
+    "description": "Auto-generated translation for: No usage examples",
+    "message": "Sense exemples d'ús"
+  },
+  "v2_64524d83": {
+    "description": "Auto-generated translation for: View words in {list_name}",
+    "message": "Veure paraules a {list_name}",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1d0209f3": {
+    "description": "Auto-generated translation for: Delete List",
+    "message": "Eliminar llista"
+  },
+  "v2_4ce5d5f5": {
+    "description": "Auto-generated translation for: This action cannot be undone.",
+    "message": "Aquesta acció no es pot desfer."
+  },
+  "v2_601b361e": {
+    "description": "Auto-generated translation for: To confirm deletion, please type the list name below:",
+    "message": "Per confirmar la supressió, si us plau, escriviu el nom de la llista a continuació:"
+  },
+  "v2_2af300cd": {
+    "description": "Auto-generated translation for: List Name",
+    "message": "Nom de la llista"
+  },
+  "v2_647545a3": {
+    "description": "Auto-generated translation for: Type the list name to confirm",
+    "message": "Escriu el nom de la llista per confirmar"
+  },
+  "v2_0709e7e6": {
+    "description": "Auto-generated translation for: The name does not match. Please type the exact name.",
+    "message": "El nom no coincideix. Si us plau, escriviu el nom exacte."
+  },
+  "v2_2c2835c0": {
+    "description": "Auto-generated translation for: New learning list",
+    "message": "Nova llista d'aprenentatge"
+  },
+  "v2_4163696b": {
+    "description": "Auto-generated translation for: Add a short description so you remember what belongs in this list.",
+    "message": "Afegeix una breu descripció per recordar què pertany a aquesta llista."
+  },
+  "v2_0022b099": {
+    "description": "Auto-generated translation for: Icon",
+    "message": "Icona"
+  },
+  "v2_36f86c00": {
+    "description": "Auto-generated translation for: Generate words with AI",
+    "message": "Genera paraules amb IA"
+  },
+  "v2_1475e0ba": {
+    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
+    "message": "Genera automàticament paraules de vocabulari per a aquesta llista"
+  },
+  "v2_79c66209": {
+    "description": "Auto-generated translation for: Number of words",
+    "message": "Nombre de paraules"
+  },
+  "v2_5519d1dc": {
+    "description": "Auto-generated translation for: Select language",
+    "message": "Selecciona l'idioma"
+  },
+  "v2_09329d09": {
+    "description": "Auto-generated translation for: Choose the language you want to practice with.",
+    "message": "Trieu l'idioma amb què voleu practicar."
+  },
+  "v2_27a98b23": {
+    "description": "Auto-generated translation for: This is the language you'd like explanations in.",
+    "message": "Aquest és l'idioma en què vols rebre les explicacions."
+  },
+  "v2_1780745d": {
+    "description": "Auto-generated translation for: Choose an icon",
+    "message": "Trieu una icona"
+  },
+  "v2_3a4b606c": {
+    "description": "Auto-generated translation for: Search icons...",
+    "message": "Cerca icones..."
+  },
+  "v2_767ac2fc": {
+    "description": "Auto-generated translation for: icons found",
+    "message": "icones trobades"
+  },
+  "v2_2d146943": {
+    "description": "Auto-generated translation for: icons available",
+    "message": "icones disponibles"
+  },
+  "v2_56ed50c3": {
+    "description": "Auto-generated translation for: No icons found",
+    "message": "No s'han trobat icones"
+  },
+  "v2_67dbb079": {
+    "description": "Auto-generated translation for: Try a different search term",
+    "message": "Prova amb un terme de cerca diferent"
+  },
+  "v2_04466b3e": {
+    "description": "Auto-generated translation for: Choose icon",
+    "message": "Trieu una icona"
+  },
+  "v2_50e6a8db": {
+    "description": "Auto-generated translation for: Store Monitor",
+    "message": "Monitor de botiga"
+  },
+  "v2_2d0f17ba": {
+    "description": "Auto-generated translation for: Real-time store state monitoring",
+    "message": "Monitoratge de l'estat de la botiga en temps real"
+  },
+  "v2_583c5c40": {
+    "description": "Auto-generated translation for: Rename List",
+    "message": "Canvia el nom de la llista"
+  },
+  "v2_636647f3": {
+    "description": "Auto-generated translation for: Renaming...",
+    "message": "S'està canviant el nom..."
+  },
+  "v2_6e4fdca2": {
+    "description": "Auto-generated translation for: Rename",
+    "message": "Canvia el nom"
+  },
+  "v2_4365a196": {
+    "description": "Auto-generated translation for: Netflix Download",
+    "message": "Descàrrega de Netflix"
+  },
+  "v2_647e99b6": {
+    "description": "Auto-generated translation for: Select and download audio or video streams from Netflix",
+    "message": "Selecciona i descarrega fluxos d'àudio o vídeo de Netflix"
+  },
+  "v2_7234e8ec": {
+    "description": "Auto-generated translation for: Stream Selection",
+    "message": "Selecció de flux"
+  },
+  "v2_6b772ed6": {
+    "description": "Auto-generated translation for: Loading available streams...",
+    "message": "S'estan carregant els fluxos disponibles..."
+  },
+  "v2_0fe585f4": {
+    "description": "Auto-generated translation for: Downloading...",
+    "message": "S'està baixant..."
+  },
+  "v2_561795e8": {
+    "description": "Auto-generated translation for: Download Stream",
+    "message": "Descarregar reproducció en temps real"
+  },
+  "v2_6d97721c": {
+    "description": "Auto-generated translation for: Audio Upload Dev Panel",
+    "message": "Panell de desenvolupament de càrrega d'àudio"
+  },
+  "v2_74ca7966": {
+    "description": "Auto-generated translation for: Current Video Info",
+    "message": "Informació del vídeo actual"
+  },
+  "v2_04d13238": {
+    "description": "Auto-generated translation for: Title",
+    "message": "Títol"
+  },
+  "v2_72e14e4c": {
+    "description": "Auto-generated translation for: Duration",
+    "message": "Durada"
+  },
+  "v2_188d1214": {
+    "description": "Auto-generated translation for: Downloaded Audio Files",
+    "message": "Fitxers d'àudio descarregats"
+  },
+  "v2_20c15877": {
+    "description": "Auto-generated translation for: Transcription ID",
+    "message": "ID de transcripció"
+  },
+  "v2_5789cd85": {
+    "description": "Auto-generated translation for: Requesting...",
+    "message": "S'està sol·licitant..."
+  },
+  "v2_61130280": {
+    "description": "Auto-generated translation for: Uploaded",
+    "message": "Pujat"
+  },
+  "v2_75d4a8b9": {
+    "description": "Auto-generated translation for: Uploaded successfully",
+    "message": "S'ha pujat correctament"
+  },
+  "v2_4ac09327": {
+    "description": "Auto-generated translation for: No downloaded audio files. Download an audio stream above.",
+    "message": "No s'han descarregat fitxers d'àudio. Descarregueu un flux d'àudio a dalt."
+  },
+  "v2_03caabb6": {
+    "description": "Auto-generated translation for: Audio",
+    "message": "Àudio"
+  },
+  "v2_3f1b0426": {
+    "description": "Auto-generated translation for: Stream Type",
+    "message": "Tipus de flux"
+  },
+  "v2_14b21d2a": {
+    "description": "Auto-generated translation for: Select stream type",
+    "message": "Selecciona el tipus de flux"
+  },
+  "v2_6bc5c460": {
+    "description": "Auto-generated translation for: Stream",
+    "message": "Flux"
+  },
+  "v2_34820ca3": {
+    "description": "Auto-generated translation for: No streams available",
+    "message": "No hi ha reproduccions disponibles"
+  },
+  "v2_7935f6a3": {
+    "description": "Auto-generated translation for: Select a stream",
+    "message": "Selecciona un flux"
+  },
+  "v2_5aed6b2d": {
+    "description": "Auto-generated translation for: Download completed",
+    "message": "Descàrrega completa"
+  },
+  "v2_0d351a03": {
+    "description": "Auto-generated translation for: Failed to send reset code. Please try again.",
+    "message": "No s'ha pogut enviar el codi de restabliment. Torneu-ho a provar."
+  },
+  "v2_371122aa": {
+    "description": "Auto-generated translation for: Generate AI-powered subtitles from video audio",
+    "message": "Genera subtítols amb tecnologia d'IA a partir d'àudio de vídeo"
+  },
+  "v2_290c5760": {
+    "description": "Auto-generated translation for: Import Subtitles",
+    "message": "Importa subtítols"
+  },
+  "v2_751fc669": {
+    "description": "Auto-generated translation for: Pause after repeat",
+    "message": "Pausa després de la repetició"
+  },
+  "v2_13c00d07": {
+    "description": "Auto-generated translation for: Keep playback paused after repeats finish",
+    "message": "Mantén la reproducció en pausa quan acabin les repeticions"
+  },
+  "v2_596712ca": {
+    "description": "Auto-generated translation for: Token Translation",
+    "message": "Traducció de Token"
+  },
+  "v2_3e668542": {
+    "description": "Auto-generated translation for: HOW TO GET STARTED",
+    "message": "COM COMENÇAR"
+  },
+  "v2_592b9e37": {
+    "description": "Auto-generated translation for: Thank you",
+    "message": "Gràcies"
+  },
+  "v2_4e789fe2": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
+    "message": "Agraïm els teus comentaris i farem tot el possible per millorar l'aplicació per a tu. S'han afegit 30 dies de FluentAI+ al teu compte."
+  },
+  "v2_2e6bca42": {
+    "description": "Auto-generated translation for: Unlimited AI Subtitles",
+    "message": "Subtítols d'IA il·limitats"
+  },
+  "v2_452b7429": {
+    "description": "Auto-generated translation for: Active subscription",
+    "message": "Subscripció activa"
+  },
+  "v2_743316c9": {
+    "description": "Auto-generated translation for: Select Subtitles",
+    "message": "Selecciona subtítols"
+  },
+  "v2_025a42c0": {
+    "description": "Auto-generated translation for: Choose how you want to add subtitles to your video",
+    "message": "Trieu com voleu afegir subtítols al vostre vídeo"
+  },
+  "v2_461d3fee": {
+    "description": "Auto-generated translation for: Upload a .srt or .vtt file",
+    "message": "Puja un fitxer .srt o .vtt"
+  },
+  "v2_18d948be": {
+    "description": "Auto-generated translation for: Create neural subtitles",
+    "message": "Crea subtítols neuronals"
+  },
+  "v2_6bad0b0e": {
+    "description": "Auto-generated translation for: Neural subtitles are not yet available",
+    "message": "Les subtítols neurals encara no estan disponibles"
+  },
+  "v2_0dae7c32": {
+    "description": "Auto-generated translation for: Generate subtitles with AI",
+    "message": "Genera subtítols amb IA"
+  },
+  "v2_0cdb031a": {
+    "description": "Auto-generated translation for: Coming soon",
+    "message": "Properament"
+  },
+  "v2_7c644bab": {
+    "description": "Auto-generated translation for: Transcription failed",
+    "message": "La transcripció ha fallat"
+  },
+  "v2_25d7795d": {
+    "description": "Auto-generated translation for: An error occurred during transcription",
+    "message": "S'ha produït un error durant la transcripció"
+  },
+  "v2_6cb79c3b": {
+    "description": "Auto-generated translation for: Select Video File",
+    "message": "Selecciona un fitxer de vídeo"
+  },
+  "v2_3e76f194": {
+    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
+    "message": "Puja un fitxer de vídeo per generar subtítols"
+  },
+  "v2_3a059b20": {
+    "description": "Auto-generated translation for: Import New Video",
+    "message": "Importa un vídeo nou"
+  },
+  "v2_6c53c554": {
+    "description": "Auto-generated translation for: Play local video files with FluentAI subtitles and interactive learning features.",
+    "message": "Reprodueix fitxers de vídeo locals amb subtítols de FluentAI i funcions d'aprenentatge interactives."
+  },
+  "v2_7ca54576": {
+    "description": "Auto-generated translation for: Local Player",
+    "message": "Jugador local"
+  },
+  "v2_53066e84": {
+    "description": "Auto-generated translation for: Import Video File",
+    "message": "Importa un fitxer de vídeo"
+  },
+  "v2_56a0a959": {
+    "description": "Auto-generated translation for: Select a local video file to get started",
+    "message": "Selecciona un fitxer de vídeo local per començar"
+  },
+  "v2_4775d762": {
+    "description": "Auto-generated translation for: Failed to import subtitles",
+    "message": "Error en importar els subtítols"
+  },
+  "v2_2eaee21e": {
+    "description": "Auto-generated translation for: Subtitles imported successfully",
+    "message": "Subtítols importats correctament"
+  },
+  "v2_7d8bd622": {
+    "description": "Auto-generated translation for: An unexpected error occurred while importing subtitles",
+    "message": "S'ha produït un error inesperat en importar els subtítols"
+  },
+  "v2_69652337": {
+    "description": "Auto-generated translation for: Neural transcription is already in progress for this video",
+    "message": "La transcripció neuronal ja està en curs per a aquest vídeo"
+  },
+  "v2_4f4ab581": {
+    "description": "Auto-generated translation for: Please set your learning language in settings before creating neural subtitles",
+    "message": "Si us plau, configura l'idioma d'aprenentatge a la configuració abans de crear subtítols neuronals"
+  },
+  "v2_5034bcb9": {
+    "description": "Auto-generated translation for: Failed to upload audio",
+    "message": "No s'ha pogut pujar l'àudio"
+  },
+  "v2_4050988e": {
+    "description": "Auto-generated translation for: Neural transcription started",
+    "message": "S'ha iniciat la transcripció neuronal"
+  },
+  "v2_7c1bf627": {
+    "description": "Auto-generated translation for: An unexpected error occurred",
+    "message": "S'ha produït un error inesperat"
+  },
+  "v2_7de3ad93": {
+    "description": "Auto-generated translation for: Please upload a valid video file",
+    "message": "Si us plau, pengeu un fitxer de vídeo vàlid"
+  },
+  "v2_1c851385": {
+    "description": "Auto-generated translation for: Select video file",
+    "message": "Selecciona un fitxer de vídeo"
+  },
+  "v2_6aa78acd": {
+    "description": "Auto-generated translation for: Drop your video file here",
+    "message": "Arrossega el teu fitxer de vídeo aquí"
+  },
+  "v2_77d1db2e": {
+    "description": "Auto-generated translation for: Drag and drop your video file",
+    "message": "Arrossega i deixa anar el teu fitxer de vídeo"
+  },
+  "v2_0f19d2bd": {
+    "description": "Auto-generated translation for: Upload a video file from your device to play it with FluentAI subtitles, translations, and interactive learning features.",
+    "message": "Puja un fitxer de vídeo des del teu dispositiu per reproduir-lo amb els subtítols, les traduccions i les funcions d'aprenentatge interactiu de FluentAI."
+  },
+  "v2_000009e3": {
+    "description": "Auto-generated translation for: OR",
+    "message": "O"
+  },
+  "v2_0a7b0fb0": {
+    "description": "Auto-generated translation for: Supported formats:",
+    "message": "Formats admesos:"
+  },
+  "v2_4a495383": {
+    "description": "Auto-generated translation for: Please upload a valid subtitle file (.srt or .vtt)",
+    "message": "Si us plau, pengeu un fitxer de subtítols vàlid (.srt o .vtt)"
+  },
+  "v2_6fcb14b7": {
+    "description": "Auto-generated translation for: Please select a subtitle file",
+    "message": "Si us plau, seleccioneu un fitxer de subtítols"
+  },
+  "v2_212c1912": {
+    "description": "Auto-generated translation for: Please select the language of the subtitles",
+    "message": "Si us plau, seleccioneu l'idioma dels subtítols"
+  },
+  "v2_783bffd0": {
+    "description": "Auto-generated translation for: Change",
+    "message": "Canvi"
+  },
+  "v2_68369c80": {
+    "description": "Auto-generated translation for: Select subtitle file",
+    "message": "Selecciona el fitxer de subtítols"
+  },
+  "v2_5aadc93f": {
+    "description": "Auto-generated translation for: Total Subtitles",
+    "message": "Subtítols totals"
+  },
+  "v2_50417ba8": {
+    "description": "Auto-generated translation for: Preview",
+    "message": "Previsualització"
+  },
+  "v2_040be290": {
+    "description": "Auto-generated translation for: First",
+    "message": "Primer"
+  },
+  "v2_20ba375b": {
+    "description": "Auto-generated translation for: subtitles",
+    "message": "subtítols"
+  },
+  "v2_18b6b5b6": {
+    "description": "Auto-generated translation for: Language Detected",
+    "message": "Idioma detectat"
+  },
+  "v2_091de2f4": {
+    "description": "Auto-generated translation for: Override language",
+    "message": "Idioma de substitució"
+  },
+  "v2_23717fec": {
+    "description": "Auto-generated translation for: Override",
+    "message": "Anul·lar"
+  },
+  "v2_083513ed": {
+    "description": "Auto-generated translation for: Drag and drop your subtitle file",
+    "message": "Arrossegueu i deixeu anar el fitxer de subtítols"
+  },
+  "v2_6386a07b": {
+    "description": "Auto-generated translation for: Supports .srt and .vtt files",
+    "message": "Admet fitxers .srt i .vtt"
+  },
+  "v2_47ad4312": {
+    "description": "Auto-generated translation for: Select language...",
+    "message": "Selecciona un idioma..."
+  },
+  "v2_0ede3a99": {
+    "description": "Auto-generated translation for: Language selection is required",
+    "message": "Cal seleccionar un idioma"
+  },
+  "v2_1df46f39": {
+    "description": "Auto-generated translation for: Continue",
+    "message": "Continua"
+  },
+  "v2_47af8214": {
+    "description": "Auto-generated translation for: Keyboard shortcuts are enabled. Use keyboard shortcuts to control video playback and subtitles.",
+    "message": "Les dreceres de teclat estan activades. Utilitzeu les dreceres de teclat per controlar la reproducció de vídeo i els subtítols."
+  },
+  "v2_3576a0cb": {
+    "description": "Auto-generated translation for: Keyboard shortcuts enabled",
+    "message": "Dreceres de teclat activades"
+  },
+  "v2_5287bec0": {
+    "description": "Auto-generated translation for: You're ready to learn with FluentAI on",
+    "message": "Estàs a punt per aprendre amb FluentAI a"
+  },
+  "v2_6eff97af": {
+    "description": "Auto-generated translation for: You're ready to learn with FluentAI.",
+    "message": "Estàs a punt per aprendre amb FluentAI."
+  },
+  "v2_022e1b3d": {
+    "description": "Auto-generated translation for: Netflix, YouTube, Prime Video, and Disney+.",
+    "message": "Netflix, YouTube, Prime Video i Disney+."
+  },
+  "v2_25f0d9dc": {
+    "description": "Auto-generated translation for: Netflix, YouTube & more.",
+    "message": "Netflix, YouTube i més."
+  },
+  "v2_7f0fc6a9": {
+    "description": "Auto-generated translation for: You’ve installed the extension—open any supported platform, choose a video,",
+    "message": "Has instal·lat l'extensió, obre qualsevol plataforma compatible, tria un vídeo,"
+  },
+  "v2_5744d090": {
+    "description": "Auto-generated translation for: and click the FluentAI icon in the bottom bar to turn on smart dual subtitles.",
+    "message": "i feu clic a la icona de FluentAI a la barra inferior per activar els subtítols duals intel·ligents."
+  },
+  "v2_6f82368b": {
+    "description": "Auto-generated translation for: You’re all set. Open Netflix, YouTube, Prime Video, or Disney+ and tap the FluentAI icon.",
+    "message": "Ja està tot a punt. Obre Netflix, YouTube, Prime Video o Disney+ i toca la icona de FluentAI."
+  },
+  "v2_0024af75": {
+    "description": "Auto-generated translation for: More",
+    "message": "Més"
+  },
+  "v2_4fea6cfa": {
+    "description": "Auto-generated translation for: Training",
+    "message": "Formació"
+  },
+  "v2_33c4e0f6": {
+    "description": "Auto-generated translation for: EPUB deleted successfully",
+    "message": "EPUB eliminat correctament"
+  },
+  "v2_374bce31": {
+    "description": "Auto-generated translation for: Failed to delete EPUB: ",
+    "message": "Error en suprimir l'EPUB:"
+  },
+  "v2_45505288": {
+    "description": "Auto-generated translation for: Read and learn from your EPUB books",
+    "message": "Llegeix i aprèn dels teus llibres EPUB"
+  },
+  "v2_56305e75": {
+    "description": "Auto-generated translation for: EPUB Reader",
+    "message": "Lector EPUB"
+  },
+  "v2_3b0f50f1": {
+    "description": "Auto-generated translation for: Are you sure you want to delete this EPUB? This action cannot be undone.",
+    "message": "Estàs segur que vols suprimir aquest EPUB? Aquesta acció no es pot desfer."
+  },
+  "v2_1cfe79ad": {
+    "description": "Auto-generated translation for: Delete EPUB",
+    "message": "Elimina EPUB"
+  },
+  "v2_6657afdc": {
+    "description": "Auto-generated translation for: Sentence Explanation",
+    "message": "Explicació de la frase"
+  },
+  "v2_73bf162a": {
+    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
+    "message": "Desglossament detallat dels components de la frase"
+  },
+  "v2_0b110f0e": {
+    "description": "Auto-generated translation for: Error: ",
+    "message": "Error: \""
+  },
+  "v2_64dc3623": {
+    "description": "Auto-generated translation for: Meaning",
+    "message": "Significat"
+  },
+  "v2_6fc26f4d": {
+    "description": "Auto-generated translation for: base form",
+    "message": "forma bàsica"
+  },
+  "v2_13b93494": {
+    "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
+    "message": "Organitza les teves paraules i frases desades en llistes personalitzades per accedir-hi i estudiar-les fàcilment."
+  },
+  "v2_64896e2b": {
+    "description": "Auto-generated translation for: You haven't created any lists yet.",
+    "message": "Encara no has creat cap llista."
+  },
+  "v2_5f364956": {
+    "description": "Auto-generated translation for: Loading list details...",
+    "message": "S'estan carregant els detalls de la llista..."
+  },
+  "v2_4bfb9f13": {
+    "description": "Auto-generated translation for: List not found",
+    "message": "Llista no trobada"
+  },
+  "v2_02d40e21": {
+    "description": "Auto-generated translation for: Are you sure you want to remove these items from the list?",
+    "message": "Estàs segur que vols eliminar aquests elements de la llista?"
+  },
+  "v2_53d1bed3": {
+    "description": "Auto-generated translation for: Removed from list successfully",
+    "message": "Eliminat de la llista correctament"
+  },
+  "v2_0dda1ef1": {
+    "description": "Auto-generated translation for: Moved to list successfully",
+    "message": "S'ha mogut a la llista correctament"
+  },
+  "v2_050a9740": {
+    "description": "Auto-generated translation for: Copied to list successfully",
+    "message": "S'ha copiat a la llista correctament"
+  },
+  "v2_4705f29b": {
+    "description": "Auto-generated translation for: selected",
+    "message": "seleccionat"
+  },
+  "v2_1f18c2f8": {
+    "description": "Auto-generated translation for: Remove from List",
+    "message": "Eliminar de la llista"
+  },
+  "v2_53c459ec": {
+    "description": "Auto-generated translation for: Move to List",
+    "message": "Mou a la llista"
+  },
+  "v2_3aeb35b8": {
+    "description": "Auto-generated translation for: Copy to List",
+    "message": "Copia a la llista"
+  },
+  "v2_2ccd289a": {
+    "description": "Auto-generated translation for: Cancel Selection",
+    "message": "Cancel·la la selecció"
+  },
+  "v2_3583dd91": {
+    "description": "Auto-generated translation for: Are you sure you want to remove this item from the list?",
+    "message": "Estàs segur que vols eliminar aquest element de la llista?"
+  },
+  "v2_152ebc42": {
+    "description": "Auto-generated translation for: No items in this list yet.",
+    "message": "Encara no hi ha elements en aquesta llista."
+  },
+  "v2_7d9db6ec": {
+    "description": "Auto-generated translation for: Please select both learning and native languages",
+    "message": "Si us plau, seleccioneu l'idioma d'aprenentatge i l'idioma matern"
+  },
+  "v2_7132a412": {
+    "description": "Auto-generated translation for: Words generated and added to list",
+    "message": "Paraules generades i afegides a la llista"
+  },
+  "v2_141a82da": {
+    "description": "Auto-generated translation for: Failed to generate words: $error$",
+    "message": "Error en generar les paraules: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6c576f57": {
+    "description": "Auto-generated translation for: Generate Words for List",
+    "message": "Genera paraules per a la llista"
+  },
+  "v2_613b5ada": {
+    "description": "Auto-generated translation for: Words will be generated based on the list name and description:",
+    "message": "Les paraules es generaran basant-se en el nom i la descripció de la llista:"
+  },
+  "v2_60cbc3e4": {
+    "description": "Auto-generated translation for: Generating...",
+    "message": "Generant..."
+  },
+  "v2_12228bc2": {
+    "description": "Auto-generated translation for: Generate Words",
+    "message": "Genera Paraules"
   }
 }

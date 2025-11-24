@@ -399,10 +399,6 @@
     "description": "Auto-generated translation for: Hide",
     "message": "Skjul"
   },
-  "v2_2046e717": {
-    "description": "Auto-generated translation for: Enable Neural Subtitles",
-    "message": "Aktivér neurale undertekster"
-  },
   "v2_4b5115e4": {
     "description": "Auto-generated translation for: Roadmap",
     "message": "Køreplan"
@@ -677,14 +673,6 @@
   "v2_7d6f52c3": {
     "description": "Auto-generated translation for: Admin Dashboard",
     "message": "Admin Kontrolpanel"
-  },
-  "v2_04549323": {
-    "description": "Auto-generated translation for: Known",
-    "message": "Kendt"
-  },
-  "v2_3453ab4e": {
-    "description": "Auto-generated translation for: Ignored",
-    "message": "Ignoreret"
   },
   "v2_15ee0d06": {
     "description": "Auto-generated translation for: Voice Repeat Mode",
@@ -1614,14 +1602,6 @@
     "description": "Auto-generated translation for: Created",
     "message": "Oprettet"
   },
-  "v2_0c815a78": {
-    "description": "Auto-generated translation for: Mark as Known",
-    "message": "Marker som kendt"
-  },
-  "v2_67649e29": {
-    "description": "Auto-generated translation for: Mark as Ignored",
-    "message": "Marker som ignoreret"
-  },
   "v2_20620e90": {
     "description": "Auto-generated translation for: Your support request has been sent successfully",
     "message": "Din supportanmodning er blevet sendt succesfuldt"
@@ -1992,24 +1972,6 @@
     "description": "Auto-generated translation for: Upgrade now",
     "message": "Opgrader nu"
   },
-  "v2_2ac7df71": {
-    "description": "Auto-generated translation for: Extracting $lang$",
-    "message": "Udpakker $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_42c70941": {
-    "description": "Auto-generated translation for: Transliterating $lang$",
-    "message": "Translitterer $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_71262ea6": {
     "description": "Auto-generated translation for: in just a word, GREAT. the UI is beautiful, it works smooth and explains every word very clearly. just love it.❤️",
     "message": "med et enkelt ord, FANTASTISK. brugerfladen er smuk, den fungerer problemfrit og forklarer hvert ord meget tydeligt. simpelthen elsker det.❤️"
@@ -2347,10 +2309,6 @@
     "description": "Auto-generated translation for: Network error while downloading Anki deck",
     "message": "Netværksfejl under download af Anki-deck"
   },
-  "v2_4b0f1d6e": {
-    "description": "Auto-generated translation for: Confirm Deletion",
-    "message": "Bekræft sletning"
-  },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
     "message": "Fornavn"
@@ -2468,14 +2426,6 @@
     "description": "Auto-generated translation for: Changes updated successfully.",
     "message": "Ændringer opdateret med succes."
   },
-  "v2_612eb1f9": {
-    "description": "Auto-generated translation for: Adjust the size of subtitle text displayed on screen",
-    "message": "Juster størrelsen på undertekstteksten, der vises på skærmen"
-  },
-  "v2_075a6afe": {
-    "description": "Auto-generated translation for: Control how transparent or opaque the subtitle background appears",
-    "message": "Styr, hvor gennemsigtig undertekstens baggrund skal være"
-  },
   "v2_45a3dc56": {
     "description": "Auto-generated translation for: Display phonetic pronunciation of text in Latin characters",
     "message": "Vis fonetisk udtale af tekst med latinske bogstaver"
@@ -2483,10 +2433,6 @@
   "v2_51109ea3": {
     "description": "Auto-generated translation for: Hide subtitle text until you hover over them to reveal content",
     "message": "Skjul underteksttekst, indtil du holder musen over dem for at afsløre indhold"
-  },
-  "v2_32242863": {
-    "description": "Auto-generated translation for: Choose which language to display for subtitles",
-    "message": "Vælg hvilket sprog undertekster skal vises på"
   },
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
@@ -2511,10 +2457,6 @@
   "v2_000179d7": {
     "description": "Auto-generated translation for: and",
     "message": "og"
-  },
-  "v2_54f09b77": {
-    "description": "Auto-generated translation for: Choose the color for subtitle text",
-    "message": "Vælg farven for underteksttekst"
   },
   "v2_0a6d9248": {
     "description": "Auto-generated translation for: Delete video entry",
@@ -2552,10 +2494,6 @@
     "description": "Auto-generated translation for: Search bookmarks...",
     "message": "Søg i bogmærker..."
   },
-  "v2_5b0de8c6": {
-    "description": "Auto-generated translation for: If a sentence is longer than this amount, it will be split into two subtitles. Set the maximum number of characters per subtitle line",
-    "message": "Hvis en sætning er længere end dette beløb, vil den blive delt op i to undertekster. Indstil det maksimale antal tegn pr. undertekstlinje"
-  },
   "v2_7323bd91": {
     "description": "Auto-generated translation for: Sign in to FluentAI",
     "message": "Log ind på FluentAI"
@@ -2583,27 +2521,6 @@
   "v2_0c12281d": {
     "description": "Auto-generated translation for: Success",
     "message": "Succes"
-  },
-  "v2_2bc5597d": {
-    "description": "Auto-generated translation for: This action cannot be undone",
-    "message": "Denne handling kan ikke fortrydes"
-  },
-  "v2_6c7da2b6": {
-    "description": "Auto-generated translation for: Deletion Warning",
-    "message": "Advarsel om sletning"
-  },
-  "v2_6124c60f": {
-    "description": "Auto-generated translation for: You are about to delete <span class=\"font-semibold text-red-500\">$count$</span> item(s). This action cannot be undone.",
-    "message": "Du er ved at slette <span class=\"font-semibold text-red-500\">$count$</span> element(er). Denne handling kan ikke fortrydes.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_7bf0926f": {
-    "description": "Auto-generated translation for: Type \"confirm\" to proceed:",
-    "message": "Skriv \"confirm\" for at fortsætte:"
   },
   "v2_628637e8": {
     "description": "Auto-generated translation for: Dual subtitles, AI-powered translations and smart flashcards that turn every movie, series or video into your personal language lesson.",
@@ -2716,10 +2633,6 @@
   "v2_474406ab": {
     "description": "Auto-generated translation for: Compare features and discover why FluentAI is the most powerful tool for language learning through video.",
     "message": "Sammenlign funktioner og opdag, hvorfor FluentAI er det mest kraftfulde værktøj til sprogindlæring gennem video."
-  },
-  "v2_25034c19": {
-    "description": "Auto-generated translation for: Error fetching explanation",
-    "message": "Fejl under hentning af forklaring"
   },
   "v2_03d6328a": {
     "description": "Auto-generated translation for: Books",
@@ -2927,10 +2840,6 @@
     "description": "Auto-generated translation for: To ensure the best experience and security, please update your app to the latest version.",
     "message": "For at sikre den bedste oplevelse og sikkerhed bedes du opdatere din app til den seneste version."
   },
-  "v2_266eed7d": {
-    "description": "Auto-generated translation for: Thank you for your feedback!",
-    "message": "Tak for din feedback!"
-  },
   "v2_27ec3cfa": {
     "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
     "message": "Modtag <span class=\"gradient-highlighted-text\">1 måned gratis</span> for din feedback!"
@@ -3006,14 +2915,6 @@
   "v2_2a48fadf": {
     "description": "Auto-generated translation for: FluentAI is temporarily unavailable on Chrome",
     "message": "FluentAI er midlertidigt utilgængelig på Chrome"
-  },
-  "v2_25b7fb91": {
-    "description": "Auto-generated translation for: We genuinely appreciate you taking the time to share your experience. We are gonna look at your feedback and address it as soon as possible.",
-    "message": "Vi sætter virkelig pris på, at du tager dig tid til at dele din oplevelse. Vi vil se på din feedback og adressere den så hurtigt som muligt."
-  },
-  "v2_03fddd77": {
-    "description": "Auto-generated translation for: 30 days of unlimited access to FluentAI+ have been added to your account.",
-    "message": "30 dages ubegrænset adgang til FluentAI+ er blevet tilføjet din konto."
   },
   "v2_6d62aa18": {
     "description": "Auto-generated translation for: Download again",
@@ -3454,15 +3355,6 @@
       }
     }
   },
-  "v2_0b8d9d53": {
-    "description": "Auto-generated translation for: Tokenising $lang$",
-    "message": "Tokeniserer $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_68708e8b": {
     "description": "Auto-generated translation for: No meanings",
     "message": "Ingen betydninger"
@@ -3647,10 +3539,6 @@
     "description": "Auto-generated translation for: Discord Community",
     "message": "Discordfællesskab"
   },
-  "v2_3e50b3ab": {
-    "description": "Auto-generated translation for: Join our Discord community",
-    "message": "Tilmeld dig vores Discord-fællesskab"
-  },
   "v2_04d51ef6": {
     "description": "Auto-generated translation for: Trial",
     "message": "Prøve"
@@ -3731,10 +3619,6 @@
     "description": "Auto-generated translation for: Translation temporarily unavailable",
     "message": "Oversættelse er midlertidigt utilgængelig"
   },
-  "v2_45a0dd5e": {
-    "description": "Auto-generated translation for: Merge suggested phrase",
-    "message": "Flet foreslået udtryk"
-  },
   "v2_64103271": {
     "description": "Auto-generated translation for: Context",
     "message": "Kontekst"
@@ -3790,22 +3674,6 @@
   "v2_2fdda2ab": {
     "description": "Auto-generated translation for: Open menu",
     "message": "Åbn menu"
-  },
-  "v2_4daf7813": {
-    "description": "Auto-generated translation for: Learning Lists",
-    "message": "Huskelister & indlæring"
-  },
-  "v2_5bd31a0c": {
-    "description": "Auto-generated translation for: No Learning Lists Found",
-    "message": "Ingen læringsliste fundet"
-  },
-  "v2_37ddb83b": {
-    "description": "Auto-generated translation for: Create your first learning list to organize your vocabulary and phrases.",
-    "message": "Opret din første læringsliste for at organisere dit ordforråd og dine sætninger."
-  },
-  "v2_2566d0c9": {
-    "description": "Auto-generated translation for: Create Your First List",
-    "message": "Opret din første liste"
   },
   "v2_4983c5ef": {
     "description": "Auto-generated translation for: Search lists...",
@@ -3878,14 +3746,6 @@
     "description": "Auto-generated translation for: View bookmarks in this list",
     "message": "Vis bogmærker på denne liste"
   },
-  "v2_1f82cd4e": {
-    "description": "Auto-generated translation for: Create AI List",
-    "message": "Opret AI-liste"
-  },
-  "v2_4958c303": {
-    "description": "Auto-generated translation for: Add List",
-    "message": "Tilføj liste"
-  },
   "v2_283594e1": {
     "description": "Auto-generated translation for: This list does not have any bookmarks yet.",
     "message": "Denne liste har endnu ingen bogmærker."
@@ -3946,10 +3806,6 @@
   "v2_002424be": {
     "description": "Auto-generated translation for: List",
     "message": "Liste"
-  },
-  "v2_42740930": {
-    "description": "Auto-generated translation for: Create and manage your learning lists to organize your vocabulary and phrases.",
-    "message": "Opret og administrer dine læringslister for at organisere dit ordforråd og dine sætninger."
   },
   "v2_13855e9b": {
     "description": "Auto-generated translation for: Enter list name",
@@ -4239,10 +4095,6 @@
     "description": "Auto-generated translation for: Norwegian",
     "message": "Norsk"
   },
-  "v2_1adb1399": {
-    "description": "Auto-generated translation for: Welcome to <span class=\"gradient-highlighted-text\">FluentAI</span>",
-    "message": "Velkommen til <span class=\"gradient-highlighted-text\">FluentAI</span>"
-  },
   "v2_196f550b": {
     "description": "Auto-generated translation for: Anki Jobs",
     "message": "Anki Jobs"
@@ -4357,10 +4209,6 @@
     "description": "Auto-generated translation for: Generate AI subtitles.",
     "message": "Generér AI-undertekster."
   },
-  "v2_74479309": {
-    "description": "Auto-generated translation for: Queued for processing",
-    "message": "I kø til behandling"
-  },
   "v2_6d19dc5c": {
     "description": "Auto-generated translation for: Transcription completed!",
     "message": "Transkriptionen er fuldført!"
@@ -4408,18 +4256,6 @@
   "v2_119fc9e4": {
     "description": "Auto-generated translation for: An error occurred while requesting transcription",
     "message": "Der opstod en fejl under anmodning om transkription"
-  },
-  "v2_580965ba": {
-    "description": "Auto-generated translation for: Connection Error",
-    "message": "Forbindelsesfejl"
-  },
-  "v2_220cbaeb": {
-    "description": "Auto-generated translation for: Server Error",
-    "message": "Serverfejl"
-  },
-  "v2_21fb7c5f": {
-    "description": "Auto-generated translation for: Validation Error",
-    "message": "Valideringsfejl"
   },
   "v2_1c8b0b53": {
     "description": "Auto-generated translation for: Please share your feedback...",
@@ -4733,18 +4569,6 @@
     "description": "Auto-generated translation for: For serious language learners. Unlimited access for intensive study.",
     "message": "Til seriøse sproglærere. Ubegrænset adgang til intensivt studie."
   },
-  "v2_3dc3d457": {
-    "description": "Auto-generated translation for: Extracting Audio...",
-    "message": "Ekstraherer lyd..."
-  },
-  "v2_4c4e29c6": {
-    "description": "Auto-generated translation for: Transcribing Audio...",
-    "message": "Transkriberer lyd..."
-  },
-  "v2_0045f33a": {
-    "description": "Auto-generated translation for: Creating Subtitles...",
-    "message": "Opretter undertekster..."
-  },
   "v2_25a296fd": {
     "description": "Auto-generated translation for: Your Free Trial has Ended",
     "message": "Din gratis prøveperiode er udløbet"
@@ -4837,14 +4661,6 @@
     "description": "Auto-generated translation for: 30 minutes of AI Subtitles to try",
     "message": "30 minutter med AI-undertekster at prøve"
   },
-  "v2_61f938fb": {
-    "description": "Auto-generated translation for: 45 minutes per day of AI Subtitles",
-    "message": "45 minutter om dagen med AI-undertekster"
-  },
-  "v2_5e0d46b3": {
-    "description": "Auto-generated translation for: 120 minutes per day of AI Subtitles",
-    "message": "120 minutter om dagen med AI-undertekster"
-  },
   "v2_5fca11c5": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles per day",
     "message": "Ubegrænset AI-undertekster pr. dag"
@@ -4920,15 +4736,6 @@
   "v2_2743fe99": {
     "description": "Auto-generated translation for: An error occurred while checking transcription status",
     "message": "Der opstod en fejl under kontrol af transskriptionsstatus"
-  },
-  "v2_16f3b323": {
-    "description": "Auto-generated translation for: Mapping tokens for $lang$",
-    "message": "Kortlægning af tokens for $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
   },
   "v2_3c750a29": {
     "description": "Auto-generated translation for: Remove sentence bookmark",
@@ -5025,18 +4832,6 @@
   "v2_607da960": {
     "description": "Auto-generated translation for: Perfect word-level timing for immersive language learning",
     "message": "Perfekt timing på ordniveau for immersiv sprogindlæring"
-  },
-  "v2_69ee2bd3": {
-    "description": "Auto-generated translation for: Use Neural Subtitles",
-    "message": "Brug Neurale Undertekster"
-  },
-  "v2_04f3ee3b": {
-    "description": "Auto-generated translation for: Insufficient quota. Please upgrade your plan.",
-    "message": "Ikke tilstrækkelig kvote. Opgrader venligst din plan."
-  },
-  "v2_1143d851": {
-    "description": "Auto-generated translation for: Please select a language to continue",
-    "message": "Vælg et sprog for at fortsætte"
   },
   "v2_1c043be4": {
     "description": "Auto-generated translation for: Your video is",
@@ -5402,10 +5197,6 @@
     "description": "Auto-generated translation for: Rate Us",
     "message": "Bedøm os"
   },
-  "v2_568faf56": {
-    "description": "Auto-generated translation for: Completed!",
-    "message": "Fuldført!"
-  },
   "v2_6d7c277a": {
     "description": "Auto-generated translation for: Loading quota...",
     "message": "Indlæser kvote..."
@@ -5532,101 +5323,9 @@
     "description": "Auto-generated translation for: Clear",
     "message": "Ryd"
   },
-  "v2_75cbc37c": {
-    "description": "Auto-generated translation for: Learning Word/Phrase",
-    "message": "Læring af ord/frase"
-  },
-  "v2_7da9a4a4": {
-    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
-    "message": "Fjernede {count} ord fra {list_name}",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_72e4746a": {
-    "description": "Auto-generated translation for: Removed from {list_name}",
-    "message": "Fjernet fra {list_name}",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_4f84faa1": {
-    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
-    "message": "Fjern {count} valgte ord fra {list_name}",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_1d032bb2": {
-    "description": "Auto-generated translation for: Remove from {list_name}",
-    "message": "Fjern fra {list_name}",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2e9d3423": {
-    "description": "Auto-generated translation for: Add {count} selected words to list",
-    "message": "Føj $count$ valgte ord til listen",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_26ab0d7c": {
-    "description": "Auto-generated translation for: Add to list",
-    "message": "Føj til listen"
-  },
-  "v2_556a740a": {
-    "description": "Auto-generated translation for: Add {count} words to list",
-    "message": "Føj {count} ord til liste",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2c9c6b81": {
-    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
-    "message": "Fjern {count} ord fra {list_name}?",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_4189672b": {
-    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
-    "message": "Dette vil fjerne de valgte ord fra denne liste. De vil stadig være i din notesbog."
-  },
-  "v2_598a626d": {
-    "description": "Auto-generated translation for: Removing...",
-    "message": "Fjerner..."
-  },
   "v2_28c8c2bf": {
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "Aktiver FluentAI"
-  },
-  "v2_496c6513": {
-    "description": "Auto-generated translation for: Upgrade Plan",
-    "message": "Opgraderingsplan"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -5879,18 +5578,6 @@
   "v2_0e123e30": {
     "description": "Auto-generated translation for: days left",
     "message": "dage tilbage"
-  },
-  "v2_05c52cdc": {
-    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
-    "message": "Denne video kræver {{videoMinutes}} minutter, men du har kun {{remainingQuota}} minutter tilbage. Du vil modtage neurale undertekster for de første {{remainingQuota}} minutter.",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
   },
   "v2_463e7617": {
     "description": "Auto-generated translation for: Export Notebook Entries",
@@ -6592,37 +6279,9 @@
     "description": "Auto-generated translation for: Added",
     "message": "Tilføjet"
   },
-  "v2_22c02861": {
-    "description": "Auto-generated translation for: Panel Store Monitor",
-    "message": "Panelbutiksmonitor"
-  },
-  "v2_7d79b9aa": {
-    "description": "Auto-generated translation for: Real-time panel store state monitoring",
-    "message": "Overvågning af panelbutikkens tilstand i realtid"
-  },
-  "v2_00dd2fd1": {
-    "description": "Auto-generated translation for: No store data available",
-    "message": "Ingen butiksdata tilgængelige"
-  },
   "v2_04e9a151": {
     "description": "Auto-generated translation for: Value",
     "message": "Værdi"
-  },
-  "v2_7ff0b2ad": {
-    "description": "Auto-generated translation for: Structure",
-    "message": "Struktur"
-  },
-  "v2_2b169a4d": {
-    "description": "Auto-generated translation for: Array with",
-    "message": "Array med"
-  },
-  "v2_13d2d4e7": {
-    "description": "Auto-generated translation for: Object with",
-    "message": "Objekt med"
-  },
-  "v2_373272cd": {
-    "description": "Auto-generated translation for: properties",
-    "message": "egenskaber"
   },
   "v2_1dfd168b": {
     "description": "Auto-generated translation for: Not set",
@@ -6679,24 +6338,6 @@
   "v2_7d1ee00a": {
     "description": "Auto-generated translation for: Play audio",
     "message": "Afspil lyd"
-  },
-  "v2_51a73e86": {
-    "description": "Auto-generated translation for: {{limit}} min in your 7 days free trial available",
-    "message": "$limit$ minutter tilbage af din 7-dages gratis prøveperiode",
-    "placeholders": {
-      "limit": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_13805c42": {
-    "description": "Auto-generated translation for: {{remaining}} min remaining",
-    "message": "{{remaining}} min tilbage",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
   },
   "v2_401f71c3": {
     "description": "Auto-generated translation for: Watch continuously without interruptions",
@@ -6854,24 +6495,6 @@
     "description": "Auto-generated translation for: User Analytics",
     "message": "Brugeranalyse"
   },
-  "v2_7743e7dc": {
-    "description": "Auto-generated translation for: Translating Learning Subtitle for $lang$",
-    "message": "Oversættelse af undertekster til $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_53d55823": {
-    "description": "Auto-generated translation for: Translating Native Subtitle for $lang$",
-    "message": "Oversætter indfødt undertekst for $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_456af5e4": {
     "description": "Auto-generated translation for: Highlight Word Correspondence",
     "message": "Fremhæv ordkorrespondance"
@@ -6907,5 +6530,999 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "Grundform synlighed"
+  },
+  "v2_0fca6ffb": {
+    "description": "Auto-generated translation for: Queued...",
+    "message": "Sat i kø..."
+  },
+  "v2_39e97037": {
+    "description": "Auto-generated translation for: Extracting audio...",
+    "message": "Udtrækker lyd..."
+  },
+  "v2_4abdcc64": {
+    "description": "Auto-generated translation for: Transcribing...",
+    "message": "Transskriberer..."
+  },
+  "v2_25b6c807": {
+    "description": "Auto-generated translation for: Creating segments...",
+    "message": "Opretter segmenter..."
+  },
+  "v2_39b7b941": {
+    "description": "Auto-generated translation for: Transcription ID is required for client-side upload",
+    "message": "Transskriptions-ID er påkrævet for upload på klient-siden"
+  },
+  "v2_0d8f2527": {
+    "description": "Auto-generated translation for: Unable to get current audio track for client-side upload",
+    "message": "Kunne ikke hente nuværende lydspor til upload på klientsiden"
+  },
+  "v2_33cd69e2": {
+    "description": "Auto-generated translation for: AI List Generation",
+    "message": "AI Listegenerering"
+  },
+  "v2_7412cfc3": {
+    "description": "Auto-generated translation for: Generate AI-powered vocabulary lists.",
+    "message": "Generér AI-drevne ordforrådslister."
+  },
+  "v2_14c68aa1": {
+    "description": "Auto-generated translation for: Mastered",
+    "message": "Behersket"
+  },
+  "v2_627263fe": {
+    "description": "Auto-generated translation for: Archived",
+    "message": "Arkiveret"
+  },
+  "v2_6abe10e3": {
+    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
+    "message": "Læring: Markér dette ord som værende under indlæring. Det vil blive vist på din læringsliste."
+  },
+  "v2_208be9bd": {
+    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
+    "message": "Behersket: Markér dette ord som fuldt ud lært. Det vil blive sporet som et kendt ord."
+  },
+  "v2_5b8363db": {
+    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
+    "message": "Arkiveret: Skjul dette ord fra aktiv læring. Det vil blive arkiveret og vil ikke forekomme i øvelser."
+  },
+  "v2_718c2f58": {
+    "description": "Auto-generated translation for: Unknown status",
+    "message": "Ukendt status"
+  },
+  "v2_239a703d": {
+    "description": "Auto-generated translation for: Bookmark this word first to change its status",
+    "message": "Bogmærk dette ord først for at ændre dets status"
+  },
+  "v2_50f9e5c8": {
+    "description": "Auto-generated translation for: Word Status",
+    "message": "Ordstatus"
+  },
+  "v2_242c8203": {
+    "description": "Auto-generated translation for: Mark your progress learning this word",
+    "message": "Markér din fremgang med at lære dette ord"
+  },
+  "v2_1a46dde4": {
+    "description": "Auto-generated translation for: Mark as Mastered",
+    "message": "Markér som behersket"
+  },
+  "v2_7b477da8": {
+    "description": "Auto-generated translation for: Move to Archived",
+    "message": "Flyt til Arkiveret"
+  },
+  "v2_311a08dc": {
+    "description": "Auto-generated translation for: No analysis available",
+    "message": "Ingen analyse tilgængelig"
+  },
+  "v2_6e85213c": {
+    "description": "Auto-generated translation for: Added to list successfully",
+    "message": "Tilføjet til listen med succes"
+  },
+  "v2_2ba40092": {
+    "description": "Auto-generated translation for: Import bookmarks from CSV",
+    "message": "Importer bogmærker fra CSV"
+  },
+  "v2_05b7caa8": {
+    "description": "Auto-generated translation for: Import Bookmarks - Upload CSV",
+    "message": "Importer bogmærker - Upload CSV"
+  },
+  "v2_7df09908": {
+    "description": "Auto-generated translation for: Import Bookmarks - Map Columns",
+    "message": "Importer bogmærker - Kortlæg kolonner"
+  },
+  "v2_5d058757": {
+    "description": "Auto-generated translation for: Import Bookmarks - Preview",
+    "message": "Importer bogmærker - Eksempel"
+  },
+  "v2_0d7be6fe": {
+    "description": "Auto-generated translation for: Import Bookmarks - Importing...",
+    "message": "Importer bogmærker - Importerer..."
+  },
+  "v2_6bdcff8a": {
+    "description": "Auto-generated translation for: Import Bookmarks - Complete",
+    "message": "Importér bogmærker - Fuldført"
+  },
+  "v2_2fa67342": {
+    "description": "Auto-generated translation for: Import Bookmarks",
+    "message": "Importer bogmærker"
+  },
+  "v2_670c1f6c": {
+    "description": "Auto-generated translation for: Importing bookmarks...",
+    "message": "Importerer bogmærker..."
+  },
+  "v2_37fe0ded": {
+    "description": "Auto-generated translation for: No valid entries found. Please check your column mappings and try again.",
+    "message": "Ingen gyldige poster fundet. Kontroller dine kolonne-tilordninger og prøv igen."
+  },
+  "v2_7e316a9f": {
+    "description": "Auto-generated translation for: Map CSV Columns",
+    "message": "Kortlæg CSV-kolonner"
+  },
+  "v2_72f24b41": {
+    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
+    "message": "Træk CSV-kolonner fra højre panel til bogmærkefelter til venstre. Grænsefladen tilpasser sig automatisk baseret på din CSV-struktur."
+  },
+  "v2_05370547": {
+    "description": "Auto-generated translation for: Please select a valid CSV file",
+    "message": "Vælg venligst en gyldig CSV-fil"
+  },
+  "v2_18b1314b": {
+    "description": "Auto-generated translation for: Upload CSV File",
+    "message": "Upload CSV-fil"
+  },
+  "v2_645615a5": {
+    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
+    "message": "Vælg en CSV-fil, der indeholder dine bogmærker, for at importere"
+  },
+  "v2_0552e347": {
+    "description": "Auto-generated translation for: File drop zone",
+    "message": "Fil-dropzone"
+  },
+  "v2_5568d9cb": {
+    "description": "Auto-generated translation for: Processing CSV file...",
+    "message": "Behandler CSV-fil..."
+  },
+  "v2_5d7ef2d7": {
+    "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
+    "message": "Træk og slip din CSV-fil her, eller klik for at browse"
+  },
+  "v2_739e2d79": {
+    "description": "Auto-generated translation for: CSV Format Tips",
+    "message": "\"CSV Format Tips\""
+  },
+  "v2_6fd2993f": {
+    "description": "Auto-generated translation for: First row should contain column headers",
+    "message": "Første række skal indeholde kolonneoverskrifter"
+  },
+  "v2_3d7f8c52": {
+    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
+    "message": "Mindst en 'value'-kolonne er påkrævet for ord/fraser"
+  },
+  "v2_73751084": {
+    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
+    "message": "Understøttede afgrænsere: komma (,), semikolon (;), tab"
+  },
+  "v2_06927651": {
+    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
+    "message": "Flere betydninger kan adskilles med komma eller semikolon i én kolonne"
+  },
+  "v2_1bca8478": {
+    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
+    "message": "Automatisk registrerede $count$ kolonne-tilknytninger",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2d975a89": {
+    "description": "Auto-generated translation for: Accept All",
+    "message": "Accepter alle"
+  },
+  "v2_3923b596": {
+    "description": "Auto-generated translation for: Dismiss",
+    "message": "Afvis"
+  },
+  "v2_001de6cd": {
+    "description": "Auto-generated translation for: This field is required",
+    "message": "Dette felt er påkrævet"
+  },
+  "v2_7a899068": {
+    "description": "Auto-generated translation for: Drop to map",
+    "message": "Gå til kort"
+  },
+  "v2_1e46a76f": {
+    "description": "Auto-generated translation for: Drag a column here",
+    "message": "Træk en kolonne her"
+  },
+  "v2_13947041": {
+    "description": "Auto-generated translation for: Required",
+    "message": "Krævet"
+  },
+  "v2_770f55ad": {
+    "description": "Auto-generated translation for: Mapped",
+    "message": "Kortlagt"
+  },
+  "v2_6d5e747d": {
+    "description": "Auto-generated translation for: CSV Columns",
+    "message": "CSV Kolonner"
+  },
+  "v2_389b97dd": {
+    "description": "Auto-generated translation for: columns",
+    "message": "kolonner"
+  },
+  "v2_18389c84": {
+    "description": "Auto-generated translation for: Drag columns to bookmark fields on the left",
+    "message": "Træk kolonner til bogmærkefelter til venstre"
+  },
+  "v2_4281cac9": {
+    "description": "Auto-generated translation for: Search columns...",
+    "message": "Søg kolonner..."
+  },
+  "v2_166005f9": {
+    "description": "Auto-generated translation for: High Density Columns",
+    "message": "Højdensitetskolonner"
+  },
+  "v2_01311dda": {
+    "description": "Auto-generated translation for: Medium Density Columns",
+    "message": "Kolonner med medium densitet"
+  },
+  "v2_5651af79": {
+    "description": "Auto-generated translation for: Low Density Columns",
+    "message": "Kolonner med lav densitet"
+  },
+  "v2_4735f680": {
+    "description": "Auto-generated translation for: No columns found",
+    "message": "Ingen kolonner fundet"
+  },
+  "v2_10b086a8": {
+    "description": "Auto-generated translation for: No columns match your search",
+    "message": "Ingen kolonner matcher din søgning"
+  },
+  "v2_3cc8bce3": {
+    "description": "Auto-generated translation for: Bookmark Fields",
+    "message": "Bogmærkefelter"
+  },
+  "v2_5a89e440": {
+    "description": "Auto-generated translation for: Drag CSV columns here to map them to bookmark fields",
+    "message": "Træk CSV-kolonner her for at tilknytte dem til bogmærkefelter"
+  },
+  "v2_51923787": {
+    "description": "Auto-generated translation for: Native Language (for translations)",
+    "message": "Modersmål (for oversættelser)"
+  },
+  "v2_3dee2334": {
+    "description": "Auto-generated translation for: Import Successful!",
+    "message": "Import lykkedes!"
+  },
+  "v2_0bbfb7b2": {
+    "description": "Auto-generated translation for: Successfully imported {imported} of {total} bookmark(s)",
+    "message": "Importerede {imported} af {total} bogmærke(r)",
+    "placeholders": {
+      "imported": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_73d4cee8": {
+    "description": "Auto-generated translation for: Import Failed",
+    "message": "Import mislykkedes"
+  },
+  "v2_7cda554c": {
+    "description": "Auto-generated translation for: An error occurred during import",
+    "message": "Der opstod en fejl under import"
+  },
+  "v2_0b11160f": {
+    "description": "Auto-generated translation for: Errors:",
+    "message": "Fejl:"
+  },
+  "v2_4890ad10": {
+    "description": "Auto-generated translation for: Import More",
+    "message": "Importér Mere"
+  },
+  "v2_6f7ea0c3": {
+    "description": "Auto-generated translation for: Preview Import",
+    "message": "Vis Import"
+  },
+  "v2_25fd4402": {
+    "description": "Auto-generated translation for: Review the data to be imported before confirming",
+    "message": "Gennemgå de data, der skal importeres, før du bekræfter"
+  },
+  "v2_07d543d4": {
+    "description": "Auto-generated translation for: Valid Entries",
+    "message": "Gyldige Indtastninger"
+  },
+  "v2_7c3a5b8b": {
+    "description": "Auto-generated translation for: Errors",
+    "message": "Fejl"
+  },
+  "v2_6d78ba58": {
+    "description": "Auto-generated translation for: Preview (first 5 valid entries)",
+    "message": "Vis (første 5 gyldige poster)"
+  },
+  "v2_040929e4": {
+    "description": "Auto-generated translation for: {count} row(s) have errors and will be skipped:",
+    "message": "{count} række(r) har fejl og vil blive sprunget over:",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7d08cd59": {
+    "description": "Auto-generated translation for: ... and {count} more",
+    "message": "… og {count} mere",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4e31834b": {
+    "description": "Auto-generated translation for: No valid entries found. Please go back and check your column mappings.",
+    "message": "Ingen gyldige poster fundet. Gå venligst tilbage og tjek dine kolonne-mappinger."
+  },
+  "v2_4b26d0af": {
+    "description": "Auto-generated translation for: Importing...",
+    "message": "Importerer..."
+  },
+  "v2_49fc9a36": {
+    "description": "Auto-generated translation for: Import {count} Bookmark(s)",
+    "message": "Importer {count} bogmærke(r)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_13169590": {
+    "description": "Auto-generated translation for: No context",
+    "message": "Ingen kontekst"
+  },
+  "v2_4a69f888": {
+    "description": "Auto-generated translation for: No antonyms",
+    "message": "Ingen antonymer"
+  },
+  "v2_50c9077d": {
+    "description": "Auto-generated translation for: No part of speech",
+    "message": "Ingen ordklasse"
+  },
+  "v2_0f5245a6": {
+    "description": "Auto-generated translation for: No explanation",
+    "message": "Ingen forklaring"
+  },
+  "v2_3f12a737": {
+    "description": "Auto-generated translation for: No synonyms",
+    "message": "Ingen synonymer"
+  },
+  "v2_2bff6407": {
+    "description": "Auto-generated translation for: No usage examples",
+    "message": "Ingen brugseksempler"
+  },
+  "v2_64524d83": {
+    "description": "Auto-generated translation for: View words in {list_name}",
+    "message": "Vis ord i {list_name}",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1d0209f3": {
+    "description": "Auto-generated translation for: Delete List",
+    "message": "Slet liste"
+  },
+  "v2_4ce5d5f5": {
+    "description": "Auto-generated translation for: This action cannot be undone.",
+    "message": "Denne handling kan ikke fortrydes."
+  },
+  "v2_601b361e": {
+    "description": "Auto-generated translation for: To confirm deletion, please type the list name below:",
+    "message": "For at bekræfte sletningen, bedes du indtaste listenavnet nedenfor:"
+  },
+  "v2_2af300cd": {
+    "description": "Auto-generated translation for: List Name",
+    "message": "Listenavn"
+  },
+  "v2_647545a3": {
+    "description": "Auto-generated translation for: Type the list name to confirm",
+    "message": "Indtast listenavnet for at bekræfte"
+  },
+  "v2_0709e7e6": {
+    "description": "Auto-generated translation for: The name does not match. Please type the exact name.",
+    "message": "Navnet stemmer ikke overens. Indtast venligst det nøjagtige navn."
+  },
+  "v2_2c2835c0": {
+    "description": "Auto-generated translation for: New learning list",
+    "message": "Ny læringsliste"
+  },
+  "v2_4163696b": {
+    "description": "Auto-generated translation for: Add a short description so you remember what belongs in this list.",
+    "message": "Tilføj en kort beskrivelse, så du kan huske, hvad der hører til på denne liste."
+  },
+  "v2_0022b099": {
+    "description": "Auto-generated translation for: Icon",
+    "message": "Ikon"
+  },
+  "v2_36f86c00": {
+    "description": "Auto-generated translation for: Generate words with AI",
+    "message": "Generér ord med AI"
+  },
+  "v2_1475e0ba": {
+    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
+    "message": "Generér automatisk ordforråd for denne liste"
+  },
+  "v2_79c66209": {
+    "description": "Auto-generated translation for: Number of words",
+    "message": "Antal ord"
+  },
+  "v2_5519d1dc": {
+    "description": "Auto-generated translation for: Select language",
+    "message": "Vælg sprog"
+  },
+  "v2_09329d09": {
+    "description": "Auto-generated translation for: Choose the language you want to practice with.",
+    "message": "Vælg det sprog, du vil øve dig med."
+  },
+  "v2_27a98b23": {
+    "description": "Auto-generated translation for: This is the language you'd like explanations in.",
+    "message": "Dette er det sprog, du ønsker forklaringer på undervejs."
+  },
+  "v2_1780745d": {
+    "description": "Auto-generated translation for: Choose an icon",
+    "message": "Vælg et ikon"
+  },
+  "v2_3a4b606c": {
+    "description": "Auto-generated translation for: Search icons...",
+    "message": "Søg efter ikoner..."
+  },
+  "v2_767ac2fc": {
+    "description": "Auto-generated translation for: icons found",
+    "message": "ikoner fundet"
+  },
+  "v2_2d146943": {
+    "description": "Auto-generated translation for: icons available",
+    "message": "tilgængelige ikoner"
+  },
+  "v2_56ed50c3": {
+    "description": "Auto-generated translation for: No icons found",
+    "message": "Ingen ikoner fundet"
+  },
+  "v2_67dbb079": {
+    "description": "Auto-generated translation for: Try a different search term",
+    "message": "Prøv en anden søgeterm"
+  },
+  "v2_04466b3e": {
+    "description": "Auto-generated translation for: Choose icon",
+    "message": "Vælg ikon"
+  },
+  "v2_50e6a8db": {
+    "description": "Auto-generated translation for: Store Monitor",
+    "message": "Stor skærm"
+  },
+  "v2_2d0f17ba": {
+    "description": "Auto-generated translation for: Real-time store state monitoring",
+    "message": "Real-tids overvågning af butiksstatus"
+  },
+  "v2_583c5c40": {
+    "description": "Auto-generated translation for: Rename List",
+    "message": "Omdøb Liste"
+  },
+  "v2_636647f3": {
+    "description": "Auto-generated translation for: Renaming...",
+    "message": "Omdøber..."
+  },
+  "v2_6e4fdca2": {
+    "description": "Auto-generated translation for: Rename",
+    "message": "Omdøb"
+  },
+  "v2_4365a196": {
+    "description": "Auto-generated translation for: Netflix Download",
+    "message": "Netflix-download"
+  },
+  "v2_647e99b6": {
+    "description": "Auto-generated translation for: Select and download audio or video streams from Netflix",
+    "message": "Vælg og download lyd- eller videostreams fra Netflix"
+  },
+  "v2_7234e8ec": {
+    "description": "Auto-generated translation for: Stream Selection",
+    "message": "Streamvalg"
+  },
+  "v2_6b772ed6": {
+    "description": "Auto-generated translation for: Loading available streams...",
+    "message": "Indlæser tilgængelige streams..."
+  },
+  "v2_0fe585f4": {
+    "description": "Auto-generated translation for: Downloading...",
+    "message": "Downloader..."
+  },
+  "v2_561795e8": {
+    "description": "Auto-generated translation for: Download Stream",
+    "message": "Download Stream"
+  },
+  "v2_6d97721c": {
+    "description": "Auto-generated translation for: Audio Upload Dev Panel",
+    "message": "Audio Upload Udviklerpanel"
+  },
+  "v2_74ca7966": {
+    "description": "Auto-generated translation for: Current Video Info",
+    "message": "Nuværende Video Info"
+  },
+  "v2_04d13238": {
+    "description": "Auto-generated translation for: Title",
+    "message": "Titel"
+  },
+  "v2_72e14e4c": {
+    "description": "Auto-generated translation for: Duration",
+    "message": "Varighed"
+  },
+  "v2_188d1214": {
+    "description": "Auto-generated translation for: Downloaded Audio Files",
+    "message": "Downloadede lydfiler"
+  },
+  "v2_20c15877": {
+    "description": "Auto-generated translation for: Transcription ID",
+    "message": "Transskriptions-ID"
+  },
+  "v2_5789cd85": {
+    "description": "Auto-generated translation for: Requesting...",
+    "message": "Anmoder..."
+  },
+  "v2_61130280": {
+    "description": "Auto-generated translation for: Uploaded",
+    "message": "Uploadet"
+  },
+  "v2_75d4a8b9": {
+    "description": "Auto-generated translation for: Uploaded successfully",
+    "message": "Uploadet korrekt"
+  },
+  "v2_4ac09327": {
+    "description": "Auto-generated translation for: No downloaded audio files. Download an audio stream above.",
+    "message": "Ingen downloadede lydfiler. Download en lydstrøm ovenfor."
+  },
+  "v2_03caabb6": {
+    "description": "Auto-generated translation for: Audio",
+    "message": "Lyd"
+  },
+  "v2_3f1b0426": {
+    "description": "Auto-generated translation for: Stream Type",
+    "message": "Streamtype"
+  },
+  "v2_14b21d2a": {
+    "description": "Auto-generated translation for: Select stream type",
+    "message": "Vælg streamtype"
+  },
+  "v2_6bc5c460": {
+    "description": "Auto-generated translation for: Stream",
+    "message": "Stream"
+  },
+  "v2_34820ca3": {
+    "description": "Auto-generated translation for: No streams available",
+    "message": "Ingen streams tilgængelige"
+  },
+  "v2_7935f6a3": {
+    "description": "Auto-generated translation for: Select a stream",
+    "message": "Vælg en stream"
+  },
+  "v2_5aed6b2d": {
+    "description": "Auto-generated translation for: Download completed",
+    "message": "Download fuldført"
+  },
+  "v2_0d351a03": {
+    "description": "Auto-generated translation for: Failed to send reset code. Please try again.",
+    "message": "Kunne ikke sende nulstillingskoden. Prøv venligst igen."
+  },
+  "v2_371122aa": {
+    "description": "Auto-generated translation for: Generate AI-powered subtitles from video audio",
+    "message": "Generér AI-drevne undertekster fra video-lyd"
+  },
+  "v2_290c5760": {
+    "description": "Auto-generated translation for: Import Subtitles",
+    "message": "Importer undertekster"
+  },
+  "v2_751fc669": {
+    "description": "Auto-generated translation for: Pause after repeat",
+    "message": "Pause efter gentagelse"
+  },
+  "v2_13c00d07": {
+    "description": "Auto-generated translation for: Keep playback paused after repeats finish",
+    "message": "Behold afspilningen pauset efter gentagelser afsluttes"
+  },
+  "v2_596712ca": {
+    "description": "Auto-generated translation for: Token Translation",
+    "message": "Token Oversættelse"
+  },
+  "v2_3e668542": {
+    "description": "Auto-generated translation for: HOW TO GET STARTED",
+    "message": "SÅDAN KOMMER DU I GANG"
+  },
+  "v2_592b9e37": {
+    "description": "Auto-generated translation for: Thank you",
+    "message": "Tak"
+  },
+  "v2_4e789fe2": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
+    "message": "Vi sætter pris på din feedback og vil gøre vores bedste for at gøre appen bedre for dig. 30 dages FluentAI+ er nu blevet tilføjet til din konto."
+  },
+  "v2_2e6bca42": {
+    "description": "Auto-generated translation for: Unlimited AI Subtitles",
+    "message": "Ubegrænsede AI undertekster"
+  },
+  "v2_452b7429": {
+    "description": "Auto-generated translation for: Active subscription",
+    "message": "Aktivt abonnement"
+  },
+  "v2_743316c9": {
+    "description": "Auto-generated translation for: Select Subtitles",
+    "message": "Vælg undertekster"
+  },
+  "v2_025a42c0": {
+    "description": "Auto-generated translation for: Choose how you want to add subtitles to your video",
+    "message": "Vælg, hvordan du vil tilføje undertekster til din video"
+  },
+  "v2_461d3fee": {
+    "description": "Auto-generated translation for: Upload a .srt or .vtt file",
+    "message": "Upload en .srt- eller .vtt-fil"
+  },
+  "v2_18d948be": {
+    "description": "Auto-generated translation for: Create neural subtitles",
+    "message": "Opret neurale undertekster"
+  },
+  "v2_6bad0b0e": {
+    "description": "Auto-generated translation for: Neural subtitles are not yet available",
+    "message": "Neurale undertekster er endnu ikke tilgængelige"
+  },
+  "v2_0dae7c32": {
+    "description": "Auto-generated translation for: Generate subtitles with AI",
+    "message": "Generér undertekster med AI"
+  },
+  "v2_0cdb031a": {
+    "description": "Auto-generated translation for: Coming soon",
+    "message": "Kommer snart"
+  },
+  "v2_7c644bab": {
+    "description": "Auto-generated translation for: Transcription failed",
+    "message": "Transskription mislykkedes"
+  },
+  "v2_25d7795d": {
+    "description": "Auto-generated translation for: An error occurred during transcription",
+    "message": "Der opstod en fejl under transskriptionen"
+  },
+  "v2_6cb79c3b": {
+    "description": "Auto-generated translation for: Select Video File",
+    "message": "Vælg Videofil"
+  },
+  "v2_3e76f194": {
+    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
+    "message": "Upload en videofil for at generere undertekster"
+  },
+  "v2_3a059b20": {
+    "description": "Auto-generated translation for: Import New Video",
+    "message": "Importer ny video"
+  },
+  "v2_6c53c554": {
+    "description": "Auto-generated translation for: Play local video files with FluentAI subtitles and interactive learning features.",
+    "message": "Afspil lokale videofiler med FluentAI-undertekster og interaktive læringsfunktioner."
+  },
+  "v2_7ca54576": {
+    "description": "Auto-generated translation for: Local Player",
+    "message": "Lokal spiller"
+  },
+  "v2_53066e84": {
+    "description": "Auto-generated translation for: Import Video File",
+    "message": "Importer videofil"
+  },
+  "v2_56a0a959": {
+    "description": "Auto-generated translation for: Select a local video file to get started",
+    "message": "Vælg en lokal videofil for at komme i gang"
+  },
+  "v2_4775d762": {
+    "description": "Auto-generated translation for: Failed to import subtitles",
+    "message": "Kunne ikke importere undertekster"
+  },
+  "v2_2eaee21e": {
+    "description": "Auto-generated translation for: Subtitles imported successfully",
+    "message": "Undertekster blev importeret succesfuldt"
+  },
+  "v2_7d8bd622": {
+    "description": "Auto-generated translation for: An unexpected error occurred while importing subtitles",
+    "message": "Der opstod en uventet fejl under import af undertekster"
+  },
+  "v2_69652337": {
+    "description": "Auto-generated translation for: Neural transcription is already in progress for this video",
+    "message": "Neural transskription er allerede i gang for denne video"
+  },
+  "v2_4f4ab581": {
+    "description": "Auto-generated translation for: Please set your learning language in settings before creating neural subtitles",
+    "message": "Indstil venligst dit sprog til læring i indstillingerne, før du opretter neurale undertekster"
+  },
+  "v2_5034bcb9": {
+    "description": "Auto-generated translation for: Failed to upload audio",
+    "message": "Kunne ikke uploade lyd"
+  },
+  "v2_4050988e": {
+    "description": "Auto-generated translation for: Neural transcription started",
+    "message": "Neural transskription startet"
+  },
+  "v2_7c1bf627": {
+    "description": "Auto-generated translation for: An unexpected error occurred",
+    "message": "Der opstod en uventet fejl"
+  },
+  "v2_7de3ad93": {
+    "description": "Auto-generated translation for: Please upload a valid video file",
+    "message": "Upload venligst en gyldig videofil"
+  },
+  "v2_1c851385": {
+    "description": "Auto-generated translation for: Select video file",
+    "message": "Vælg videofil"
+  },
+  "v2_6aa78acd": {
+    "description": "Auto-generated translation for: Drop your video file here",
+    "message": "Slip din videofil her"
+  },
+  "v2_77d1db2e": {
+    "description": "Auto-generated translation for: Drag and drop your video file",
+    "message": "Træk og slip din videofil"
+  },
+  "v2_0f19d2bd": {
+    "description": "Auto-generated translation for: Upload a video file from your device to play it with FluentAI subtitles, translations, and interactive learning features.",
+    "message": "Upload en videofil fra din enhed for at afspille den med FluentAI undertekster, oversættelser og interaktive læringsfunktioner."
+  },
+  "v2_000009e3": {
+    "description": "Auto-generated translation for: OR",
+    "message": "ELLER"
+  },
+  "v2_0a7b0fb0": {
+    "description": "Auto-generated translation for: Supported formats:",
+    "message": "Understøttede formater:"
+  },
+  "v2_4a495383": {
+    "description": "Auto-generated translation for: Please upload a valid subtitle file (.srt or .vtt)",
+    "message": "Venligst upload en gyldig undertekstfil (.srt eller .vtt)"
+  },
+  "v2_6fcb14b7": {
+    "description": "Auto-generated translation for: Please select a subtitle file",
+    "message": "Vælg venligst en undertekstfil"
+  },
+  "v2_212c1912": {
+    "description": "Auto-generated translation for: Please select the language of the subtitles",
+    "message": "Vælg venligst sproget for underteksterne"
+  },
+  "v2_783bffd0": {
+    "description": "Auto-generated translation for: Change",
+    "message": "Ændring"
+  },
+  "v2_68369c80": {
+    "description": "Auto-generated translation for: Select subtitle file",
+    "message": "Vælg undertekstfil"
+  },
+  "v2_5aadc93f": {
+    "description": "Auto-generated translation for: Total Subtitles",
+    "message": "Antal undertekster"
+  },
+  "v2_50417ba8": {
+    "description": "Auto-generated translation for: Preview",
+    "message": "Eksempel"
+  },
+  "v2_040be290": {
+    "description": "Auto-generated translation for: First",
+    "message": "Først"
+  },
+  "v2_20ba375b": {
+    "description": "Auto-generated translation for: subtitles",
+    "message": "undertekster"
+  },
+  "v2_18b6b5b6": {
+    "description": "Auto-generated translation for: Language Detected",
+    "message": "Sprog registreret"
+  },
+  "v2_091de2f4": {
+    "description": "Auto-generated translation for: Override language",
+    "message": "Tilsidesæt sprog"
+  },
+  "v2_23717fec": {
+    "description": "Auto-generated translation for: Override",
+    "message": "Tilsidesæt"
+  },
+  "v2_083513ed": {
+    "description": "Auto-generated translation for: Drag and drop your subtitle file",
+    "message": "Træk og slip din undertekstfil"
+  },
+  "v2_6386a07b": {
+    "description": "Auto-generated translation for: Supports .srt and .vtt files",
+    "message": "Understøtter .srt- og .vtt-filer"
+  },
+  "v2_47ad4312": {
+    "description": "Auto-generated translation for: Select language...",
+    "message": "Vælg sprog..."
+  },
+  "v2_0ede3a99": {
+    "description": "Auto-generated translation for: Language selection is required",
+    "message": "Valg af sprog er påkrævet"
+  },
+  "v2_1df46f39": {
+    "description": "Auto-generated translation for: Continue",
+    "message": "Fortsæt"
+  },
+  "v2_47af8214": {
+    "description": "Auto-generated translation for: Keyboard shortcuts are enabled. Use keyboard shortcuts to control video playback and subtitles.",
+    "message": "Tastaturgenveje er aktiveret. Brug tastaturgenveje til at styre videoafspilning og undertekster."
+  },
+  "v2_3576a0cb": {
+    "description": "Auto-generated translation for: Keyboard shortcuts enabled",
+    "message": "Tastaturgenveje aktiveret"
+  },
+  "v2_5287bec0": {
+    "description": "Auto-generated translation for: You're ready to learn with FluentAI on",
+    "message": "Du er klar til at lære med FluentAI på"
+  },
+  "v2_6eff97af": {
+    "description": "Auto-generated translation for: You're ready to learn with FluentAI.",
+    "message": "Du er klar til at lære med FluentAI."
+  },
+  "v2_022e1b3d": {
+    "description": "Auto-generated translation for: Netflix, YouTube, Prime Video, and Disney+.",
+    "message": "Netflix, YouTube, Prime Video og Disney+."
+  },
+  "v2_25f0d9dc": {
+    "description": "Auto-generated translation for: Netflix, YouTube & more.",
+    "message": "Netflix, YouTube & mere."
+  },
+  "v2_7f0fc6a9": {
+    "description": "Auto-generated translation for: You’ve installed the extension—open any supported platform, choose a video,",
+    "message": "Du har installeret udvidelsen – åbn en understøttet platform, vælg en video,"
+  },
+  "v2_5744d090": {
+    "description": "Auto-generated translation for: and click the FluentAI icon in the bottom bar to turn on smart dual subtitles.",
+    "message": "og klik på FluentAI-ikonet i den nederste bjælke for at slå smarte dobbelte undertekster til."
+  },
+  "v2_6f82368b": {
+    "description": "Auto-generated translation for: You’re all set. Open Netflix, YouTube, Prime Video, or Disney+ and tap the FluentAI icon.",
+    "message": "Du er klar. Åbn Netflix, YouTube, Prime Video eller Disney+, og tryk på FluentAI-ikonet."
+  },
+  "v2_0024af75": {
+    "description": "Auto-generated translation for: More",
+    "message": "Mere"
+  },
+  "v2_4fea6cfa": {
+    "description": "Auto-generated translation for: Training",
+    "message": "Træning"
+  },
+  "v2_33c4e0f6": {
+    "description": "Auto-generated translation for: EPUB deleted successfully",
+    "message": "EPUB slettet succesfuldt"
+  },
+  "v2_374bce31": {
+    "description": "Auto-generated translation for: Failed to delete EPUB: ",
+    "message": "Kunne ikke slette EPUB:"
+  },
+  "v2_45505288": {
+    "description": "Auto-generated translation for: Read and learn from your EPUB books",
+    "message": "Læs og lær af dine EPUB-bøger"
+  },
+  "v2_56305e75": {
+    "description": "Auto-generated translation for: EPUB Reader",
+    "message": "EPUB-læser"
+  },
+  "v2_3b0f50f1": {
+    "description": "Auto-generated translation for: Are you sure you want to delete this EPUB? This action cannot be undone.",
+    "message": "Er du sikker på, at du vil slette denne EPUB?handlingen kan ikke fortrydes."
+  },
+  "v2_1cfe79ad": {
+    "description": "Auto-generated translation for: Delete EPUB",
+    "message": "Slet EPUB"
+  },
+  "v2_6657afdc": {
+    "description": "Auto-generated translation for: Sentence Explanation",
+    "message": "Sætningsforklaring"
+  },
+  "v2_73bf162a": {
+    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
+    "message": "Detaljeret opdeling af sætningskomponenterne"
+  },
+  "v2_0b110f0e": {
+    "description": "Auto-generated translation for: Error: ",
+    "message": "Fejl:"
+  },
+  "v2_64dc3623": {
+    "description": "Auto-generated translation for: Meaning",
+    "message": "Betydning"
+  },
+  "v2_6fc26f4d": {
+    "description": "Auto-generated translation for: base form",
+    "message": "stamform"
+  },
+  "v2_13b93494": {
+    "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
+    "message": "Organiser dine gemte ord og fraser i brugerdefinerede lister for nem adgang og studier."
+  },
+  "v2_64896e2b": {
+    "description": "Auto-generated translation for: You haven't created any lists yet.",
+    "message": "Du har ikke oprettet nogen lister endnu."
+  },
+  "v2_5f364956": {
+    "description": "Auto-generated translation for: Loading list details...",
+    "message": "Indlæser liste detaljer..."
+  },
+  "v2_4bfb9f13": {
+    "description": "Auto-generated translation for: List not found",
+    "message": "Listen blev ikke fundet"
+  },
+  "v2_02d40e21": {
+    "description": "Auto-generated translation for: Are you sure you want to remove these items from the list?",
+    "message": "Er du sikker på, at du vil fjerne disse elementer fra listen?"
+  },
+  "v2_53d1bed3": {
+    "description": "Auto-generated translation for: Removed from list successfully",
+    "message": "Fjernet fra listen med succes"
+  },
+  "v2_0dda1ef1": {
+    "description": "Auto-generated translation for: Moved to list successfully",
+    "message": "Flyttet til liste succesfuldt"
+  },
+  "v2_050a9740": {
+    "description": "Auto-generated translation for: Copied to list successfully",
+    "message": "Kopieret til listen med succes"
+  },
+  "v2_4705f29b": {
+    "description": "Auto-generated translation for: selected",
+    "message": "valgt"
+  },
+  "v2_1f18c2f8": {
+    "description": "Auto-generated translation for: Remove from List",
+    "message": "Fjern fra liste"
+  },
+  "v2_53c459ec": {
+    "description": "Auto-generated translation for: Move to List",
+    "message": "Flyt til liste"
+  },
+  "v2_3aeb35b8": {
+    "description": "Auto-generated translation for: Copy to List",
+    "message": "Kopiér til liste"
+  },
+  "v2_2ccd289a": {
+    "description": "Auto-generated translation for: Cancel Selection",
+    "message": "Annuller valg"
+  },
+  "v2_3583dd91": {
+    "description": "Auto-generated translation for: Are you sure you want to remove this item from the list?",
+    "message": "Er du sikker på, at du vil fjerne dette element fra listen?"
+  },
+  "v2_152ebc42": {
+    "description": "Auto-generated translation for: No items in this list yet.",
+    "message": "Ingen elementer på denne liste endnu."
+  },
+  "v2_7d9db6ec": {
+    "description": "Auto-generated translation for: Please select both learning and native languages",
+    "message": "Vælg venligst både læringssprog og modersmål"
+  },
+  "v2_7132a412": {
+    "description": "Auto-generated translation for: Words generated and added to list",
+    "message": "Ord genereret og tilføjet til listen"
+  },
+  "v2_141a82da": {
+    "description": "Auto-generated translation for: Failed to generate words: $error$",
+    "message": "Kunne ikke generere ord: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6c576f57": {
+    "description": "Auto-generated translation for: Generate Words for List",
+    "message": "Generér Ord til Liste"
+  },
+  "v2_613b5ada": {
+    "description": "Auto-generated translation for: Words will be generated based on the list name and description:",
+    "message": "Ord vil blive genereret baseret på listenavnet og beskrivelsen:"
+  },
+  "v2_60cbc3e4": {
+    "description": "Auto-generated translation for: Generating...",
+    "message": "Genererer..."
+  },
+  "v2_12228bc2": {
+    "description": "Auto-generated translation for: Generate Words",
+    "message": "Generer ord"
   }
 }

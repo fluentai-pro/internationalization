@@ -399,10 +399,6 @@
     "description": "Auto-generated translation for: Hide",
     "message": "ደብቅ"
   },
-  "v2_2046e717": {
-    "description": "Auto-generated translation for: Enable Neural Subtitles",
-    "message": "ነውራል ንዑርን ንደት አጫውት"
-  },
   "v2_4b5115e4": {
     "description": "Auto-generated translation for: Roadmap",
     "message": "መንገድ ካርታ"
@@ -677,14 +673,6 @@
   "v2_7d6f52c3": {
     "description": "Auto-generated translation for: Admin Dashboard",
     "message": "አስተዳደር ማህደር"
-  },
-  "v2_04549323": {
-    "description": "Auto-generated translation for: Known",
-    "message": "ታወቀ"
-  },
-  "v2_3453ab4e": {
-    "description": "Auto-generated translation for: Ignored",
-    "message": "እምነት ተወው"
   },
   "v2_15ee0d06": {
     "description": "Auto-generated translation for: Voice Repeat Mode",
@@ -1614,14 +1602,6 @@
     "description": "Auto-generated translation for: Created",
     "message": "ፈጠረ"
   },
-  "v2_0c815a78": {
-    "description": "Auto-generated translation for: Mark as Known",
-    "message": "በሚታወቅ ዝርዝር ምዝግብ"
-  },
-  "v2_67649e29": {
-    "description": "Auto-generated translation for: Mark as Ignored",
-    "message": "እንደ ተዘለለ ምልክት አድርግ"
-  },
   "v2_20620e90": {
     "description": "Auto-generated translation for: Your support request has been sent successfully",
     "message": "የድጋፍ ጥያቄዎ በተሳካ ሁኔታ ተልኳል"
@@ -1992,24 +1972,6 @@
     "description": "Auto-generated translation for: Upgrade now",
     "message": "አሁን ያሻሽሉ።"
   },
-  "v2_2ac7df71": {
-    "description": "Auto-generated translation for: Extracting $lang$",
-    "message": "$lang$ በመውሰድ ላይ",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_42c70941": {
-    "description": "Auto-generated translation for: Transliterating $lang$",
-    "message": "ማስተርጎም $lang$",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_71262ea6": {
     "description": "Auto-generated translation for: in just a word, GREAT. the UI is beautiful, it works smooth and explains every word very clearly. just love it.❤️",
     "message": "በአንድ ቃል፣ ምርጥ። UIው ውብ ነው፣ በቅልጥፍና ይሠራል እንዲሁም እያንዳንዱን ቃል በሚገባ ያብራራል። በጣም ወደድኩት።❤️"
@@ -2347,10 +2309,6 @@
     "description": "Auto-generated translation for: Network error while downloading Anki deck",
     "message": "የአንኪ ደርብ ሲወርድ የአውታረ መረብ ስህተት ተፈጥሯል"
   },
-  "v2_4b0f1d6e": {
-    "description": "Auto-generated translation for: Confirm Deletion",
-    "message": "መሰረዙን ያረጋግጡ"
-  },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
     "message": "የመጀመሪያ ስም"
@@ -2468,14 +2426,6 @@
     "description": "Auto-generated translation for: Changes updated successfully.",
     "message": "ለውጦች በተሳካ ሁኔታ ተዘምነዋል።"
   },
-  "v2_612eb1f9": {
-    "description": "Auto-generated translation for: Adjust the size of subtitle text displayed on screen",
-    "message": "በስክሪኑ ላይ የሚታየውን የግርጌ ፅሁፍ መጠን አስተካክል"
-  },
-  "v2_075a6afe": {
-    "description": "Auto-generated translation for: Control how transparent or opaque the subtitle background appears",
-    "message": "የትርጉም ጽሑፍ ከበስተጀርባ ያለው ግልጽነት ወይም ደብዛዛነት የሚቆጣጠር"
-  },
   "v2_45a3dc56": {
     "description": "Auto-generated translation for: Display phonetic pronunciation of text in Latin characters",
     "message": "የጽሑፍ ፎነቲክ አነባበብ በላቲን ፊደላት አሳይ"
@@ -2483,10 +2433,6 @@
   "v2_51109ea3": {
     "description": "Auto-generated translation for: Hide subtitle text until you hover over them to reveal content",
     "message": "ይዘቱን ለማሳየት እስኪያንዣብቡ ድረስ የትርጉም ጽሑፍ ደብቅ"
-  },
-  "v2_32242863": {
-    "description": "Auto-generated translation for: Choose which language to display for subtitles",
-    "message": "የግርጌ ጽሑፎችን የትኛው ቋንቋ እንዲያሳየ ይምረጡ"
   },
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
@@ -2511,10 +2457,6 @@
   "v2_000179d7": {
     "description": "Auto-generated translation for: and",
     "message": "እና"
-  },
-  "v2_54f09b77": {
-    "description": "Auto-generated translation for: Choose the color for subtitle text",
-    "message": "ለግርጌ ጽሑፍ የሚሆን ቀለም ይምረጡ"
   },
   "v2_0a6d9248": {
     "description": "Auto-generated translation for: Delete video entry",
@@ -2552,10 +2494,6 @@
     "description": "Auto-generated translation for: Search bookmarks...",
     "message": "ዕልባቶችን ፈልግ..."
   },
-  "v2_5b0de8c6": {
-    "description": "Auto-generated translation for: If a sentence is longer than this amount, it will be split into two subtitles. Set the maximum number of characters per subtitle line",
-    "message": "አንድ ዓረፍተ ነገር ከዚህ መጠን ካረዘመ ወደ ሁለት ንኡስ ጽሁፎች ይከፈላል። በአንድ ንኡስ ጽሁፍ መስመር ላይ የሚፈቀደውን ከፍተኛውን የቁምፊዎች ብዛት አስምር"
-  },
   "v2_7323bd91": {
     "description": "Auto-generated translation for: Sign in to FluentAI",
     "message": "ወደ ፍሉዌንትኤአይ ይግቡ"
@@ -2583,27 +2521,6 @@
   "v2_0c12281d": {
     "description": "Auto-generated translation for: Success",
     "message": "ስኬት"
-  },
-  "v2_2bc5597d": {
-    "description": "Auto-generated translation for: This action cannot be undone",
-    "message": "ይህ እርምጃ ሊቀለበስ አይችልም"
-  },
-  "v2_6c7da2b6": {
-    "description": "Auto-generated translation for: Deletion Warning",
-    "message": "የመሰረዝ ማስጠንቀቂያ"
-  },
-  "v2_6124c60f": {
-    "description": "Auto-generated translation for: You are about to delete <span class=\"font-semibold text-red-500\">$count$</span> item(s). This action cannot be undone.",
-    "message": "<span class=\"font-semibold text-red-500\">$count$</span> ንጥል(ዎችን) ሊሰርዙ ነው። ይህ ድርጊት ሊቀለበስ አይችልም።",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_7bf0926f": {
-    "description": "Auto-generated translation for: Type \"confirm\" to proceed:",
-    "message": "ለመቀጠል \"confirm\" ብለው ይተይቡ፦"
   },
   "v2_628637e8": {
     "description": "Auto-generated translation for: Dual subtitles, AI-powered translations and smart flashcards that turn every movie, series or video into your personal language lesson.",
@@ -2716,10 +2633,6 @@
   "v2_474406ab": {
     "description": "Auto-generated translation for: Compare features and discover why FluentAI is the most powerful tool for language learning through video.",
     "message": "የFluentAI በቪዲዮ አማካኝነት ቋንቋ ለመማር እጅግ በጣም ኃይለኛ መሣሪያ የሆነበትን ምክንያት ለማወቅ ባህሪያትን ያነጻጽሩ።"
-  },
-  "v2_25034c19": {
-    "description": "Auto-generated translation for: Error fetching explanation",
-    "message": "ማብራሪያ ለማግኘት ስህተት"
   },
   "v2_03d6328a": {
     "description": "Auto-generated translation for: Books",
@@ -2927,10 +2840,6 @@
     "description": "Auto-generated translation for: To ensure the best experience and security, please update your app to the latest version.",
     "message": "ምርጥ ተሞክሮ እና ደህንነትን ለማረጋገጥ፣ እባክዎ መተግበሪያዎን ወደ የቅርብ ጊዜው ስሪት ያዘምኑ።"
   },
-  "v2_266eed7d": {
-    "description": "Auto-generated translation for: Thank you for your feedback!",
-    "message": "ለግምገማዎ እናመሰግናለን!"
-  },
   "v2_27ec3cfa": {
     "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
     "message": "የእርስዎን ግብረ መልስ ያቅርቡና <span class=\"gradient-highlighted-text\">1 ወር በነጻ</span> ያግኙ!"
@@ -3006,14 +2915,6 @@
   "v2_2a48fadf": {
     "description": "Auto-generated translation for: FluentAI is temporarily unavailable on Chrome",
     "message": "FluentAI በክРоም ላይ በጊዜያዊነት አይገኝም።"
-  },
-  "v2_25b7fb91": {
-    "description": "Auto-generated translation for: We genuinely appreciate you taking the time to share your experience. We are gonna look at your feedback and address it as soon as possible.",
-    "message": "ልምድዎን በማካፈል ጊዜ ስለወሰዱልን በእውነት እናደንቃለን። ግብረመልስዎን እንመለከታለን እና በተቻለ ፍጥነት እንፈታዋለን።"
-  },
-  "v2_03fddd77": {
-    "description": "Auto-generated translation for: 30 days of unlimited access to FluentAI+ have been added to your account.",
-    "message": "የFluentAI+ ላልተወሰነ ጊዜ 30 ቀናት ወደ መለያዎ ገብቷል።"
   },
   "v2_6d62aa18": {
     "description": "Auto-generated translation for: Download again",
@@ -3454,15 +3355,6 @@
       }
     }
   },
-  "v2_0b8d9d53": {
-    "description": "Auto-generated translation for: Tokenising $lang$",
-    "message": "$lang$ ን ምልክት በማድረግ ላይ",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_68708e8b": {
     "description": "Auto-generated translation for: No meanings",
     "message": "ምንም ትርጉሞች የሉም"
@@ -3647,10 +3539,6 @@
     "description": "Auto-generated translation for: Discord Community",
     "message": "የዲስኮርድ ማህበረሰብ"
   },
-  "v2_3e50b3ab": {
-    "description": "Auto-generated translation for: Join our Discord community",
-    "message": "የእኛን ዲስኮርድ ማህበረሰብ ይቀላቀሉ"
-  },
   "v2_04d51ef6": {
     "description": "Auto-generated translation for: Trial",
     "message": "ሙከራ"
@@ -3731,10 +3619,6 @@
     "description": "Auto-generated translation for: Translation temporarily unavailable",
     "message": "ትርጉም ለጊዜው አይገኝም።"
   },
-  "v2_45a0dd5e": {
-    "description": "Auto-generated translation for: Merge suggested phrase",
-    "message": "የቀረበውን ሐረግ አዋህድ"
-  },
   "v2_64103271": {
     "description": "Auto-generated translation for: Context",
     "message": "አውድ"
@@ -3790,22 +3674,6 @@
   "v2_2fdda2ab": {
     "description": "Auto-generated translation for: Open menu",
     "message": "ምናሌ ክፈት"
-  },
-  "v2_4daf7813": {
-    "description": "Auto-generated translation for: Learning Lists",
-    "message": "የመማሪያ ዝርዝሮች"
-  },
-  "v2_5bd31a0c": {
-    "description": "Auto-generated translation for: No Learning Lists Found",
-    "message": "ምንም የመማሪያ ዝርዝሮች አልተገኙም"
-  },
-  "v2_37ddb83b": {
-    "description": "Auto-generated translation for: Create your first learning list to organize your vocabulary and phrases.",
-    "message": "የቃላት እና ሀረጎች ስብስብዎን ለማደራጀት የመጀመሪያ የጥናት ዝርዝርዎን ይፍጠሩ።"
-  },
-  "v2_2566d0c9": {
-    "description": "Auto-generated translation for: Create Your First List",
-    "message": "የመጀመሪያ ዝርዝርዎን ይፍጠሩ"
   },
   "v2_4983c5ef": {
     "description": "Auto-generated translation for: Search lists...",
@@ -3878,14 +3746,6 @@
     "description": "Auto-generated translation for: View bookmarks in this list",
     "message": "በዚህ ዝርዝር ውስጥ ዕልባቶችን ይመልከቱ"
   },
-  "v2_1f82cd4e": {
-    "description": "Auto-generated translation for: Create AI List",
-    "message": "የአይአይ ዝርዝር ፍጠር"
-  },
-  "v2_4958c303": {
-    "description": "Auto-generated translation for: Add List",
-    "message": "ዝርዝር አክል"
-  },
   "v2_283594e1": {
     "description": "Auto-generated translation for: This list does not have any bookmarks yet.",
     "message": "ይህ ዝርዝር ገና ምንም ዕልባቶች የሉትም።"
@@ -3946,10 +3806,6 @@
   "v2_002424be": {
     "description": "Auto-generated translation for: List",
     "message": "ዝርዝር"
-  },
-  "v2_42740930": {
-    "description": "Auto-generated translation for: Create and manage your learning lists to organize your vocabulary and phrases.",
-    "message": "የቃላት እና ሀረጎች ስብስብዎን ለማደራጀት የመማሪያ ዝርዝሮችዎን ይፍጠሩ እና ያስተዳድሩ።"
   },
   "v2_13855e9b": {
     "description": "Auto-generated translation for: Enter list name",
@@ -4239,10 +4095,6 @@
     "description": "Auto-generated translation for: Norwegian",
     "message": "ኖርዌጂያን"
   },
-  "v2_1adb1399": {
-    "description": "Auto-generated translation for: Welcome to <span class=\"gradient-highlighted-text\">FluentAI</span>",
-    "message": "ወደ <span class=\"gradient-highlighted-text\">FluentAI</span> እንኳን ደህና መጡ"
-  },
   "v2_196f550b": {
     "description": "Auto-generated translation for: Anki Jobs",
     "message": "አንኪ ስራዎች"
@@ -4357,10 +4209,6 @@
     "description": "Auto-generated translation for: Generate AI subtitles.",
     "message": "AI ተርጉሞችን ይፈጠር።"
   },
-  "v2_74479309": {
-    "description": "Auto-generated translation for: Queued for processing",
-    "message": "ለማወጣት በቀጠል"
-  },
   "v2_6d19dc5c": {
     "description": "Auto-generated translation for: Transcription completed!",
     "message": "ትራንስክሪፕሽኑ ተጠናቀቀ!"
@@ -4408,18 +4256,6 @@
   "v2_119fc9e4": {
     "description": "Auto-generated translation for: An error occurred while requesting transcription",
     "message": "ትራንስክሪፕሽን በማጠየቅ ጊዜ ስህተት ተከሰተ"
-  },
-  "v2_580965ba": {
-    "description": "Auto-generated translation for: Connection Error",
-    "message": "ግንኙነት ስህተት"
-  },
-  "v2_220cbaeb": {
-    "description": "Auto-generated translation for: Server Error",
-    "message": "የሰርቨር ስህተት"
-  },
-  "v2_21fb7c5f": {
-    "description": "Auto-generated translation for: Validation Error",
-    "message": "አረጋገጥ ስህተት"
   },
   "v2_1c8b0b53": {
     "description": "Auto-generated translation for: Please share your feedback...",
@@ -4729,18 +4565,6 @@
     "description": "Auto-generated translation for: For serious language learners. Unlimited access for intensive study.",
     "message": "ለቁም ነገር ቋንቋ ተማሪዎች። ለበጅ ጥናት ያልተቀነቀ መዳረሻ።"
   },
-  "v2_3dc3d457": {
-    "description": "Auto-generated translation for: Extracting Audio...",
-    "message": "ድምፅ በማውጣት..."
-  },
-  "v2_4c4e29c6": {
-    "description": "Auto-generated translation for: Transcribing Audio...",
-    "message": "ድምፅ እየተጽፎ ነው..."
-  },
-  "v2_0045f33a": {
-    "description": "Auto-generated translation for: Creating Subtitles...",
-    "message": "ተረት እየተፈጠሩ..."
-  },
   "v2_25a296fd": {
     "description": "Auto-generated translation for: Your Free Trial has Ended",
     "message": "የእርስዎ በልጎ ሙከራ  ተጠናቅቷል"
@@ -4837,14 +4661,6 @@
     "description": "Auto-generated translation for: 30 minutes of AI Subtitles to try",
     "message": "ለመሞከር 30 ደቂቃ የAI ሳተላይቶች"
   },
-  "v2_61f938fb": {
-    "description": "Auto-generated translation for: 45 minutes per day of AI Subtitles",
-    "message": "በቀን 45 ደቂቃ የ AI ተርጉሞች"
-  },
-  "v2_5e0d46b3": {
-    "description": "Auto-generated translation for: 120 minutes per day of AI Subtitles",
-    "message": "በቀን 120 ማኒውት የ AI ሳብቲታይትስ"
-  },
   "v2_5fca11c5": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles per day",
     "message": "በቀን ያለ ወለል የኤአይ ሳቢታይትሎች"
@@ -4920,15 +4736,6 @@
   "v2_2743fe99": {
     "description": "Auto-generated translation for: An error occurred while checking transcription status",
     "message": "የትየባ ሁኔታን ሲፈተሽ ስህተት ተፈጥሯል"
-  },
-  "v2_16f3b323": {
-    "description": "Auto-generated translation for: Mapping tokens for $lang$",
-    "message": "ቶከኖችን ለ$lang$ ካርታ ማድረግ",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
   },
   "v2_3c750a29": {
     "description": "Auto-generated translation for: Remove sentence bookmark",
@@ -5025,18 +4832,6 @@
   "v2_607da960": {
     "description": "Auto-generated translation for: Perfect word-level timing for immersive language learning",
     "message": "ለአጠቃላይ ቋንቋ ትምህርት ፍጹም የሆነ የቃላት ደረጃ ጊዜ"
-  },
-  "v2_69ee2bd3": {
-    "description": "Auto-generated translation for: Use Neural Subtitles",
-    "message": "ኒዩራል ንዑስ ርዕሶችን ተጠቀም"
-  },
-  "v2_04f3ee3b": {
-    "description": "Auto-generated translation for: Insufficient quota. Please upgrade your plan.",
-    "message": "በቂ ኮታ የለም። እባክዎ ዕቅድዎን ያሻሽሉ።"
-  },
-  "v2_1143d851": {
-    "description": "Auto-generated translation for: Please select a language to continue",
-    "message": "ለመቀጠል እባክዎ ቋንቋ ይምረጡ።"
   },
   "v2_1c043be4": {
     "description": "Auto-generated translation for: Your video is",
@@ -5402,10 +5197,6 @@
     "description": "Auto-generated translation for: Rate Us",
     "message": "ደረጃ ይስጡን"
   },
-  "v2_568faf56": {
-    "description": "Auto-generated translation for: Completed!",
-    "message": "ተጠናቋል!"
-  },
   "v2_6d7c277a": {
     "description": "Auto-generated translation for: Loading quota...",
     "message": "የተፈቀደውን የዳታ መጠን በመጫን ላይ..."
@@ -5532,101 +5323,9 @@
     "description": "Auto-generated translation for: Clear",
     "message": "ንፁህ"
   },
-  "v2_75cbc37c": {
-    "description": "Auto-generated translation for: Learning Word/Phrase",
-    "message": "ቃል/ሐረግ መማር"
-  },
-  "v2_7da9a4a4": {
-    "description": "Auto-generated translation for: Removed {count} words from {list_name}",
-    "message": "ከ{list_name} $count$ ቃላት ተወግደዋል",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_72e4746a": {
-    "description": "Auto-generated translation for: Removed from {list_name}",
-    "message": "ከ {list_name} ተወግዷል",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_4f84faa1": {
-    "description": "Auto-generated translation for: Remove {count} selected words from {list_name}",
-    "message": "ከተመረጡት {count} ቃላት ውስጥ ከ{list_name} አስወግድ",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_1d032bb2": {
-    "description": "Auto-generated translation for: Remove from {list_name}",
-    "message": "ከ$list_name$ አስወግድ",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2e9d3423": {
-    "description": "Auto-generated translation for: Add {count} selected words to list",
-    "message": "$count$ የተመረጡ ቃላትን ወደ ዝርዝር አክል",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_26ab0d7c": {
-    "description": "Auto-generated translation for: Add to list",
-    "message": "ወደ ዝርዝር አክል"
-  },
-  "v2_556a740a": {
-    "description": "Auto-generated translation for: Add {count} words to list",
-    "message": "$count$ ቃላትን ወደ ዝርዝር አክል",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2c9c6b81": {
-    "description": "Auto-generated translation for: Remove {count} words from {list_name}?",
-    "message": "ከ$list_name$ ውስጥ $count$ ቃላትን ያስወግዱ?",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "list_name": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_4189672b": {
-    "description": "Auto-generated translation for: This will remove the selected words from this list. They will still be in your notebook.",
-    "message": "ይህ የተመረጡትን ቃላት ከዚህ ዝርዝር ውስጥ ያስወግዳቸዋል። ነገር ግን በማስታወሻ ደብተርዎ ውስጥ ይቆያሉ።"
-  },
-  "v2_598a626d": {
-    "description": "Auto-generated translation for: Removing...",
-    "message": "በማስወገድ ላይ..."
-  },
   "v2_28c8c2bf": {
     "description": "Auto-generated translation for: Enable FluentAI",
     "message": "FluentAI አንቃ"
-  },
-  "v2_496c6513": {
-    "description": "Auto-generated translation for: Upgrade Plan",
-    "message": "የዕቅድ ማሻሻያ"
   },
   "v2_03482321": {
     "description": "Auto-generated translation for: Enabled",
@@ -5879,18 +5578,6 @@
   "v2_0e123e30": {
     "description": "Auto-generated translation for: days left",
     "message": "ቀናት ቀርተዋል"
-  },
-  "v2_05c52cdc": {
-    "description": "Auto-generated translation for: This video requires {{videoMinutes}} minutes but you only have {{remainingQuota}} minutes remaining. You will receive neural subtitles for the first {{remainingQuota}} minutes.",
-    "message": "ይህ ቪዲዮ {{videoMinutes}} ደቂቃ ይወስዳል ነገር ግን የቀረው {{remainingQuota}} ደቂቃ ብቻ ነው። ለመጀመሪያዎቹ {{remainingQuota}} ደቂቃዎች የነርቭ ንዑስ ርዕሶችን ይቀበላሉ።",
-    "placeholders": {
-      "videoMinutes": {
-        "content": "$1"
-      },
-      "remainingQuota": {
-        "content": "$2"
-      }
-    }
   },
   "v2_463e7617": {
     "description": "Auto-generated translation for: Export Notebook Entries",
@@ -6592,37 +6279,9 @@
     "description": "Auto-generated translation for: Added",
     "message": "ታክሏል"
   },
-  "v2_22c02861": {
-    "description": "Auto-generated translation for: Panel Store Monitor",
-    "message": "የፓነል መደብር መቆጣጠሪያ"
-  },
-  "v2_7d79b9aa": {
-    "description": "Auto-generated translation for: Real-time panel store state monitoring",
-    "message": "የእውነተኛ ጊዜ ፓነል ማከማቻ ሁኔታ ክትትል"
-  },
-  "v2_00dd2fd1": {
-    "description": "Auto-generated translation for: No store data available",
-    "message": "የመደብር ውሂብ የለም"
-  },
   "v2_04e9a151": {
     "description": "Auto-generated translation for: Value",
     "message": "እሴት"
-  },
-  "v2_7ff0b2ad": {
-    "description": "Auto-generated translation for: Structure",
-    "message": "አወቃቀር"
-  },
-  "v2_2b169a4d": {
-    "description": "Auto-generated translation for: Array with",
-    "message": "ጋር ድርድር"
-  },
-  "v2_13d2d4e7": {
-    "description": "Auto-generated translation for: Object with",
-    "message": "ነገር በ"
-  },
-  "v2_373272cd": {
-    "description": "Auto-generated translation for: properties",
-    "message": "ባህሪያት"
   },
   "v2_1dfd168b": {
     "description": "Auto-generated translation for: Not set",
@@ -6679,24 +6338,6 @@
   "v2_7d1ee00a": {
     "description": "Auto-generated translation for: Play audio",
     "message": "ድምጽ ያጫውቱ"
-  },
-  "v2_51a73e86": {
-    "description": "Auto-generated translation for: {{limit}} min in your 7 days free trial available",
-    "message": "{{limit}} ደቂቃ ከ7 ቀን ነጻ ሙከራዎ ውስጥ አለ",
-    "placeholders": {
-      "limit": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_13805c42": {
-    "description": "Auto-generated translation for: {{remaining}} min remaining",
-    "message": "{{remaining}} ደቂቃ ቀርቷል",
-    "placeholders": {
-      "remaining": {
-        "content": "$1"
-      }
-    }
   },
   "v2_401f71c3": {
     "description": "Auto-generated translation for: Watch continuously without interruptions",
@@ -6854,24 +6495,6 @@
     "description": "Auto-generated translation for: User Analytics",
     "message": "የተጠቃሚ ትንታኔዎች"
   },
-  "v2_7743e7dc": {
-    "description": "Auto-generated translation for: Translating Learning Subtitle for $lang$",
-    "message": "የትምህርት ንዑስ ርዕስ ወደ $lang$ በመተርጎም ላይ",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_53d55823": {
-    "description": "Auto-generated translation for: Translating Native Subtitle for $lang$",
-    "message": "ለ$lang$ የአፍ መፍቻ የትርጉም ጽሁፍ መተርጎም",
-    "placeholders": {
-      "lang": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_456af5e4": {
     "description": "Auto-generated translation for: Highlight Word Correspondence",
     "message": "የቃል ግንኙነትን አድምቅ"
@@ -6907,5 +6530,987 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "የመነሻ ቅጽ ታይነት"
+  },
+  "v2_0fca6ffb": {
+    "description": "Auto-generated translation for: Queued...",
+    "message": "ተራ በመጠበቅ ላይ..."
+  },
+  "v2_39e97037": {
+    "description": "Auto-generated translation for: Extracting audio...",
+    "message": "ድምፅን በማውጣት ላይ..."
+  },
+  "v2_4abdcc64": {
+    "description": "Auto-generated translation for: Transcribing...",
+    "message": "በመገልበጥ ላይ...\""
+  },
+  "v2_25b6c807": {
+    "description": "Auto-generated translation for: Creating segments...",
+    "message": "ክፍሎችን በመፍጠር ላይ..."
+  },
+  "v2_39b7b941": {
+    "description": "Auto-generated translation for: Transcription ID is required for client-side upload",
+    "message": "የትራንስክሪፕሽን መለያ ለደንበኛ-ጎን ጭነት ያስፈልጋል።"
+  },
+  "v2_0d8f2527": {
+    "description": "Auto-generated translation for: Unable to get current audio track for client-side upload",
+    "message": "ለደንበኛ-ጎን ጭነት የአሁኑን የድምጽ ትራክ ማግኘት አልተቻለም"
+  },
+  "v2_33cd69e2": {
+    "description": "Auto-generated translation for: AI List Generation",
+    "message": "የ AI ዝርዝር ማመንጨት"
+  },
+  "v2_7412cfc3": {
+    "description": "Auto-generated translation for: Generate AI-powered vocabulary lists.",
+    "message": "በ AI የሚጎለብት የቃላት ዝርዝሮችን ይፍጠሩ።"
+  },
+  "v2_14c68aa1": {
+    "description": "Auto-generated translation for: Mastered",
+    "message": "የተካነ"
+  },
+  "v2_627263fe": {
+    "description": "Auto-generated translation for: Archived",
+    "message": "የተመዘገበ"
+  },
+  "v2_6abe10e3": {
+    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
+    "message": "በመማር ላይ ያለ፡ ይህን ቃል በአሁኑ ጊዜ እየተማርክበት እንደሆነ ምልክት አድርግበት። በመማር ዝርዝርህ ውስጥ ይታያል።"
+  },
+  "v2_208be9bd": {
+    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
+    "message": "ተካኗል: ይህን ቃል ሙሉ በሙሉ እንደተማሩበት ምልክት ያድርጉበት። እንደታወቀ ቃል ተደርጎ ይከታተላል።"
+  },
+  "v2_5b8363db": {
+    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
+    "message": "ተቀምጧል: ይህንን ቃል ከቀጥታ ትምህርት ደብቅ። ይቀመጣል እንዲሁም በተግባር ላይ አይታይም።"
+  },
+  "v2_718c2f58": {
+    "description": "Auto-generated translation for: Unknown status",
+    "message": "ያልታወቀ ሁኔታ"
+  },
+  "v2_239a703d": {
+    "description": "Auto-generated translation for: Bookmark this word first to change its status",
+    "message": "ይህን ቃል ደረጃውን ለመቀየር መጀመሪያ ዕልባት ያድርጉበት"
+  },
+  "v2_50f9e5c8": {
+    "description": "Auto-generated translation for: Word Status",
+    "message": "የቃል ሁኔታ"
+  },
+  "v2_242c8203": {
+    "description": "Auto-generated translation for: Mark your progress learning this word",
+    "message": "ይህን ቃል በመማር ላይ ያለዎትን እድገት ያስመዝግቡ"
+  },
+  "v2_1a46dde4": {
+    "description": "Auto-generated translation for: Mark as Mastered",
+    "message": "\"እንደተካነ ምልክት አድርግ\""
+  },
+  "v2_7b477da8": {
+    "description": "Auto-generated translation for: Move to Archived",
+    "message": "\"ወደ ተቀመጠው አንቀሳቅስ\""
+  },
+  "v2_311a08dc": {
+    "description": "Auto-generated translation for: No analysis available",
+    "message": "ምንም ትንታኔ የለም"
+  },
+  "v2_6e85213c": {
+    "description": "Auto-generated translation for: Added to list successfully",
+    "message": "በተሳካ ሁኔታ ወደ ዝርዝሩ ተጨምሯል"
+  },
+  "v2_2ba40092": {
+    "description": "Auto-generated translation for: Import bookmarks from CSV",
+    "message": "ዕልባቶችን ከCSV አስመጣ"
+  },
+  "v2_05b7caa8": {
+    "description": "Auto-generated translation for: Import Bookmarks - Upload CSV",
+    "message": "ዕልባቶችን አስመጣ - CSV ስቀል"
+  },
+  "v2_7df09908": {
+    "description": "Auto-generated translation for: Import Bookmarks - Map Columns",
+    "message": "ዕልባቶችን አስመጣ - አምዶችን ካርታ"
+  },
+  "v2_5d058757": {
+    "description": "Auto-generated translation for: Import Bookmarks - Preview",
+    "message": "ዕልባቶችን አስመጣ - ቅድመ እይታ"
+  },
+  "v2_0d7be6fe": {
+    "description": "Auto-generated translation for: Import Bookmarks - Importing...",
+    "message": "ዕልባቶችን አስመጣ - በማስመጣት ላይ..."
+  },
+  "v2_6bdcff8a": {
+    "description": "Auto-generated translation for: Import Bookmarks - Complete",
+    "message": "ዕልባቶችን አስመጣ - ተጠናቋል"
+  },
+  "v2_2fa67342": {
+    "description": "Auto-generated translation for: Import Bookmarks",
+    "message": "ዕልባቶችን አስመጣ"
+  },
+  "v2_670c1f6c": {
+    "description": "Auto-generated translation for: Importing bookmarks...",
+    "message": "ዕልባቶችን በማስመጣት ላይ..."
+  },
+  "v2_37fe0ded": {
+    "description": "Auto-generated translation for: No valid entries found. Please check your column mappings and try again.",
+    "message": "ምንም ትክክለኛ መዝገቦች አልተገኙም። እባክዎ የዓምድ ካርታዎችዎን ያረጋግጡ እና እንደገና ይሞክሩ።"
+  },
+  "v2_7e316a9f": {
+    "description": "Auto-generated translation for: Map CSV Columns",
+    "message": "\"የ CSV አምዶችን ካርታ\""
+  },
+  "v2_72f24b41": {
+    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
+    "message": "የ CSV አምዶችን ከቀኝ ፓነል ወደ ግራ ላይ ወዳለው ዕልባት መስኮች ይጎትቱ። በይነገጹ በራስ-ሰር በ CSV አወቃቀርዎ ላይ በመመስረት ይስተካከላል።"
+  },
+  "v2_05370547": {
+    "description": "Auto-generated translation for: Please select a valid CSV file",
+    "message": "እባክዎ ትክክለኛ የ CSV ፋይል ይምረጡ"
+  },
+  "v2_18b1314b": {
+    "description": "Auto-generated translation for: Upload CSV File",
+    "message": "የCSV ፋይል ስቀል"
+  },
+  "v2_645615a5": {
+    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
+    "message": "ዕልባቶችዎን ለማስመጣት የያዘ CSV ፋይል ይምረጡ"
+  },
+  "v2_0552e347": {
+    "description": "Auto-generated translation for: File drop zone",
+    "message": "የፋይል መጣል ዞን"
+  },
+  "v2_5568d9cb": {
+    "description": "Auto-generated translation for: Processing CSV file...",
+    "message": "የ CSV ፋይል በመካሄድ ላይ ነው..."
+  },
+  "v2_5d7ef2d7": {
+    "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
+    "message": "የCSV ፋይልዎን እዚህ ጎትተው ይጣሉ ወይም ለማሰስ ይጫኑ"
+  },
+  "v2_739e2d79": {
+    "description": "Auto-generated translation for: CSV Format Tips",
+    "message": "\"CSV ቅርጸት ጠቃሚ ምክሮች\""
+  },
+  "v2_6fd2993f": {
+    "description": "Auto-generated translation for: First row should contain column headers",
+    "message": "የመጀመሪያው ረድፍ የዓምድ ርዕሶችን መያዝ አለበት"
+  },
+  "v2_3d7f8c52": {
+    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
+    "message": "ቢያንስ ለቃላት/ሐረጎች የ'value' አምድ ያስፈልጋል።"
+  },
+  "v2_73751084": {
+    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
+    "message": "የሚደገፉ መለያያ ነጥቦች: ኮማ (,), ሴሚኮሎን (;), ታብ"
+  },
+  "v2_06927651": {
+    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
+    "message": "ብዙ ትርጉሞች በአንድ አምድ ውስጥ በነጠላ ሰረዝ ወይም በግማሽ ነጥብ ሊለያዩ ይችላሉ።"
+  },
+  "v2_1bca8478": {
+    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
+    "message": "$count$ የአምድ ማመሳሰል በራሱ ተገኝቷል",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2d975a89": {
+    "description": "Auto-generated translation for: Accept All",
+    "message": "ሁሉንም ተቀበል"
+  },
+  "v2_3923b596": {
+    "description": "Auto-generated translation for: Dismiss",
+    "message": "አሰናብት"
+  },
+  "v2_001de6cd": {
+    "description": "Auto-generated translation for: This field is required",
+    "message": "ይህ መስክ ያስፈልጋል።"
+  },
+  "v2_7a899068": {
+    "description": "Auto-generated translation for: Drop to map",
+    "message": "ወደ ካርታ ጣል"
+  },
+  "v2_1e46a76f": {
+    "description": "Auto-generated translation for: Drag a column here",
+    "message": "አንድ አምድ እዚህ ጎትት"
+  },
+  "v2_13947041": {
+    "description": "Auto-generated translation for: Required",
+    "message": "የሚፈለግ"
+  },
+  "v2_770f55ad": {
+    "description": "Auto-generated translation for: Mapped",
+    "message": "ተዘጋጅቷል"
+  },
+  "v2_6d5e747d": {
+    "description": "Auto-generated translation for: CSV Columns",
+    "message": "CSV ኣምዶች"
+  },
+  "v2_389b97dd": {
+    "description": "Auto-generated translation for: columns",
+    "message": "አምዶች"
+  },
+  "v2_18389c84": {
+    "description": "Auto-generated translation for: Drag columns to bookmark fields on the left",
+    "message": "አምዶችን ወደ ግራ በሚገኙት ዕልባት መስኮች ይጎትቱ"
+  },
+  "v2_4281cac9": {
+    "description": "Auto-generated translation for: Search columns...",
+    "message": "አምዶችን ፈልግ..."
+  },
+  "v2_166005f9": {
+    "description": "Auto-generated translation for: High Density Columns",
+    "message": "ከፍተኛ እፍጋት ያላቸው አምዶች"
+  },
+  "v2_01311dda": {
+    "description": "Auto-generated translation for: Medium Density Columns",
+    "message": "መካከለኛ መጠጋጋት ያላቸው አምዶች"
+  },
+  "v2_5651af79": {
+    "description": "Auto-generated translation for: Low Density Columns",
+    "message": "ዝቅተኛ መጠጋጋት ያላቸው አምዶች"
+  },
+  "v2_4735f680": {
+    "description": "Auto-generated translation for: No columns found",
+    "message": "ምንም አምዶች አልተገኙም"
+  },
+  "v2_10b086a8": {
+    "description": "Auto-generated translation for: No columns match your search",
+    "message": "ምንም አምዶች ከፍለጋዎ ጋር አይዛመዱም"
+  },
+  "v2_3cc8bce3": {
+    "description": "Auto-generated translation for: Bookmark Fields",
+    "message": "የዕልባት መስኮች"
+  },
+  "v2_5a89e440": {
+    "description": "Auto-generated translation for: Drag CSV columns here to map them to bookmark fields",
+    "message": "የCSV አምዶችን እዚህ ጎትተው ዕልባት መስኮች ላይ ይመድቧቸው"
+  },
+  "v2_51923787": {
+    "description": "Auto-generated translation for: Native Language (for translations)",
+    "message": "ቤተኛ ቋንቋ (ለ ትርጉሞች)"
+  },
+  "v2_3dee2334": {
+    "description": "Auto-generated translation for: Import Successful!",
+    "message": "ማስመጣት ተሳክቷል!"
+  },
+  "v2_73d4cee8": {
+    "description": "Auto-generated translation for: Import Failed",
+    "message": "ማስመጣት አልተሳካም"
+  },
+  "v2_7cda554c": {
+    "description": "Auto-generated translation for: An error occurred during import",
+    "message": "በማስገባት ወቅት ስህተት ተከስቷል"
+  },
+  "v2_0b11160f": {
+    "description": "Auto-generated translation for: Errors:",
+    "message": "ስህተቶች:"
+  },
+  "v2_4890ad10": {
+    "description": "Auto-generated translation for: Import More",
+    "message": "በብዛት አስመጣ"
+  },
+  "v2_6f7ea0c3": {
+    "description": "Auto-generated translation for: Preview Import",
+    "message": "ቅድመ እይታ አስመጣ"
+  },
+  "v2_25fd4402": {
+    "description": "Auto-generated translation for: Review the data to be imported before confirming",
+    "message": "ከማረጋገጥዎ በፊት የሚገባውን መረጃ ይገምግሙ።"
+  },
+  "v2_07d543d4": {
+    "description": "Auto-generated translation for: Valid Entries",
+    "message": "የተፈቀዱ ግቤቶች"
+  },
+  "v2_7c3a5b8b": {
+    "description": "Auto-generated translation for: Errors",
+    "message": "ስህተቶች"
+  },
+  "v2_6d78ba58": {
+    "description": "Auto-generated translation for: Preview (first 5 valid entries)",
+    "message": "ቅድመ እይታ (የመጀመሪያዎቹ 5 ትክክለኛ ግቤቶች)"
+  },
+  "v2_040929e4": {
+    "description": "Auto-generated translation for: {count} row(s) have errors and will be skipped:",
+    "message": "{count} ረድፍ(ች) ስህተት አለባቸው ስለዚህም ይዘለላሉ:",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7d08cd59": {
+    "description": "Auto-generated translation for: ... and {count} more",
+    "message": "...እና {count} ተጨማሪ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_4e31834b": {
+    "description": "Auto-generated translation for: No valid entries found. Please go back and check your column mappings.",
+    "message": "ምንም ትክክለኛ ግቤቶች አልተገኙም። እባክዎ ወደኋላ ተመልሰው የአምድ ካርታዎችዎን ያረጋግጡ።"
+  },
+  "v2_4b26d0af": {
+    "description": "Auto-generated translation for: Importing...",
+    "message": "እያስመጣ..."
+  },
+  "v2_49fc9a36": {
+    "description": "Auto-generated translation for: Import {count} Bookmark(s)",
+    "message": "{count} ዕልባት(ዎች) አስመጣ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_13169590": {
+    "description": "Auto-generated translation for: No context",
+    "message": "ምንም አውድ የለም"
+  },
+  "v2_4a69f888": {
+    "description": "Auto-generated translation for: No antonyms",
+    "message": "ተቃራኒ ቃላት የሉም"
+  },
+  "v2_50c9077d": {
+    "description": "Auto-generated translation for: No part of speech",
+    "message": "የንግግር ክፍል የለም"
+  },
+  "v2_0f5245a6": {
+    "description": "Auto-generated translation for: No explanation",
+    "message": "ምንም ማብራሪያ የለም"
+  },
+  "v2_3f12a737": {
+    "description": "Auto-generated translation for: No synonyms",
+    "message": "ምንም ተመሳሳይ ቃላት የሉም"
+  },
+  "v2_2bff6407": {
+    "description": "Auto-generated translation for: No usage examples",
+    "message": "የአጠቃቀም ምሳሌዎች የሉም"
+  },
+  "v2_64524d83": {
+    "description": "Auto-generated translation for: View words in {list_name}",
+    "message": "{list_name} ውስጥ ያሉ ቃላትን ይመልከቱ",
+    "placeholders": {
+      "list_name": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1d0209f3": {
+    "description": "Auto-generated translation for: Delete List",
+    "message": "ዝርዝሩን አስወግድ"
+  },
+  "v2_4ce5d5f5": {
+    "description": "Auto-generated translation for: This action cannot be undone.",
+    "message": "ይህ እርምጃ ሊቀለበስ አይችልም።"
+  },
+  "v2_601b361e": {
+    "description": "Auto-generated translation for: To confirm deletion, please type the list name below:",
+    "message": "ለመሰረዝ ማረጋገጫ፣ እባክዎ ከዚህ በታች የዝርዝሩን ስም ይተይቡ።"
+  },
+  "v2_2af300cd": {
+    "description": "Auto-generated translation for: List Name",
+    "message": "የዝርዝር ስም"
+  },
+  "v2_647545a3": {
+    "description": "Auto-generated translation for: Type the list name to confirm",
+    "message": "ለማረጋገጥ የዝርዝሩን ስም ይተይቡ"
+  },
+  "v2_0709e7e6": {
+    "description": "Auto-generated translation for: The name does not match. Please type the exact name.",
+    "message": "ስሙ አይመሳሰልም። እባክዎ ትክክለኛውን ስም ይጻፉ።"
+  },
+  "v2_2c2835c0": {
+    "description": "Auto-generated translation for: New learning list",
+    "message": "አዲስ የመማሪያ ዝርዝር"
+  },
+  "v2_4163696b": {
+    "description": "Auto-generated translation for: Add a short description so you remember what belongs in this list.",
+    "message": "በዚህ ዝርዝር ውስጥ ምን እንዳለ ለማስታወስ እንዲረዳህ አጭር መግለጫ ጨምር።"
+  },
+  "v2_0022b099": {
+    "description": "Auto-generated translation for: Icon",
+    "message": "አዶ"
+  },
+  "v2_36f86c00": {
+    "description": "Auto-generated translation for: Generate words with AI",
+    "message": "ቃላትን በ AI መፍጠር"
+  },
+  "v2_1475e0ba": {
+    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
+    "message": "ለዚህ ዝርዝር የቃላት ቃላትን በራስ-ሰር ይፍጠሩ"
+  },
+  "v2_79c66209": {
+    "description": "Auto-generated translation for: Number of words",
+    "message": "የቃላት ብዛት"
+  },
+  "v2_5519d1dc": {
+    "description": "Auto-generated translation for: Select language",
+    "message": "ቋንቋ ምረጥ"
+  },
+  "v2_09329d09": {
+    "description": "Auto-generated translation for: Choose the language you want to practice with.",
+    "message": "ለመለማመድ የሚፈልጉትን ቋንቋ ይምረጡ።"
+  },
+  "v2_27a98b23": {
+    "description": "Auto-generated translation for: This is the language you'd like explanations in.",
+    "message": "ይህ ማብራሪያዎችን ማግኘት የምትፈልጉበት ቋንቋ ነው።"
+  },
+  "v2_1780745d": {
+    "description": "Auto-generated translation for: Choose an icon",
+    "message": "አንድ አዶ ይምረጡ"
+  },
+  "v2_3a4b606c": {
+    "description": "Auto-generated translation for: Search icons...",
+    "message": "\"የፍለጋ አዶዎችን...\""
+  },
+  "v2_767ac2fc": {
+    "description": "Auto-generated translation for: icons found",
+    "message": "አዶዎች ተገኝተዋል"
+  },
+  "v2_2d146943": {
+    "description": "Auto-generated translation for: icons available",
+    "message": "አዶዎች ይገኛሉ"
+  },
+  "v2_56ed50c3": {
+    "description": "Auto-generated translation for: No icons found",
+    "message": "ምንም አዶዎች አልተገኙም"
+  },
+  "v2_67dbb079": {
+    "description": "Auto-generated translation for: Try a different search term",
+    "message": "የተለየ የፍለጋ ቃል ይሞክሩ"
+  },
+  "v2_04466b3e": {
+    "description": "Auto-generated translation for: Choose icon",
+    "message": "አዶ ምረጥ"
+  },
+  "v2_50e6a8db": {
+    "description": "Auto-generated translation for: Store Monitor",
+    "message": "የመደብር ክትትል"
+  },
+  "v2_2d0f17ba": {
+    "description": "Auto-generated translation for: Real-time store state monitoring",
+    "message": "በቅጽበት የሱቅ ሁኔታ ክትትል"
+  },
+  "v2_583c5c40": {
+    "description": "Auto-generated translation for: Rename List",
+    "message": "ዝርዝሩን እንደገና ይሰይሙ"
+  },
+  "v2_636647f3": {
+    "description": "Auto-generated translation for: Renaming...",
+    "message": "እየተቀየረ ነው..."
+  },
+  "v2_6e4fdca2": {
+    "description": "Auto-generated translation for: Rename",
+    "message": "ዳግም ይሰይሙ"
+  },
+  "v2_4365a196": {
+    "description": "Auto-generated translation for: Netflix Download",
+    "message": "የኔትፍሊክስ ማውረድ"
+  },
+  "v2_647e99b6": {
+    "description": "Auto-generated translation for: Select and download audio or video streams from Netflix",
+    "message": "ከNetflix የድምፅ ወይም የቪዲዮ ዥረቶችን ይምረጡ እና ያውርዱ"
+  },
+  "v2_7234e8ec": {
+    "description": "Auto-generated translation for: Stream Selection",
+    "message": "የዥረት ምርጫ"
+  },
+  "v2_6b772ed6": {
+    "description": "Auto-generated translation for: Loading available streams...",
+    "message": "የሚገኙ ዥረቶች በመጫን ላይ..."
+  },
+  "v2_0fe585f4": {
+    "description": "Auto-generated translation for: Downloading...",
+    "message": "እየወረደ ነው..."
+  },
+  "v2_561795e8": {
+    "description": "Auto-generated translation for: Download Stream",
+    "message": "ዥረት አውርድ"
+  },
+  "v2_6d97721c": {
+    "description": "Auto-generated translation for: Audio Upload Dev Panel",
+    "message": "የድምጽ መጫኛ የልማት ፓነል"
+  },
+  "v2_74ca7966": {
+    "description": "Auto-generated translation for: Current Video Info",
+    "message": "የአሁኑ ቪዲዮ መረጃ"
+  },
+  "v2_04d13238": {
+    "description": "Auto-generated translation for: Title",
+    "message": "ርዕስ"
+  },
+  "v2_72e14e4c": {
+    "description": "Auto-generated translation for: Duration",
+    "message": "የቆይታ ጊዜ"
+  },
+  "v2_188d1214": {
+    "description": "Auto-generated translation for: Downloaded Audio Files",
+    "message": "የተወረዱ የድምፅ ፋይሎች"
+  },
+  "v2_20c15877": {
+    "description": "Auto-generated translation for: Transcription ID",
+    "message": "የጽሑፍ ግልባጭ መለያ ቁጥር"
+  },
+  "v2_5789cd85": {
+    "description": "Auto-generated translation for: Requesting...",
+    "message": "እየተደረገ ነው..."
+  },
+  "v2_61130280": {
+    "description": "Auto-generated translation for: Uploaded",
+    "message": "ተጭኗል"
+  },
+  "v2_75d4a8b9": {
+    "description": "Auto-generated translation for: Uploaded successfully",
+    "message": "በተሳካ ሁኔታ ተጭኗል"
+  },
+  "v2_4ac09327": {
+    "description": "Auto-generated translation for: No downloaded audio files. Download an audio stream above.",
+    "message": "የተወረዱ የድምጽ ፋይሎች የሉም። ከላይ የድምጽ ዥረት ያውርዱ።"
+  },
+  "v2_03caabb6": {
+    "description": "Auto-generated translation for: Audio",
+    "message": "ድምጽ"
+  },
+  "v2_3f1b0426": {
+    "description": "Auto-generated translation for: Stream Type",
+    "message": "የዥረት አይነት"
+  },
+  "v2_14b21d2a": {
+    "description": "Auto-generated translation for: Select stream type",
+    "message": "የዥረት አይነት ይምረጡ"
+  },
+  "v2_6bc5c460": {
+    "description": "Auto-generated translation for: Stream",
+    "message": "ዥረት"
+  },
+  "v2_34820ca3": {
+    "description": "Auto-generated translation for: No streams available",
+    "message": "ምንም ዥረቶች የሉም"
+  },
+  "v2_7935f6a3": {
+    "description": "Auto-generated translation for: Select a stream",
+    "message": "ዥረት ምረጥ"
+  },
+  "v2_5aed6b2d": {
+    "description": "Auto-generated translation for: Download completed",
+    "message": "ማውረድ ተጠናቋል"
+  },
+  "v2_0d351a03": {
+    "description": "Auto-generated translation for: Failed to send reset code. Please try again.",
+    "message": "የዳግም ማስጀመሪያ ኮድ ለመላክ አልተሳካም። እባክዎን እንደገና ይሞክሩ።"
+  },
+  "v2_371122aa": {
+    "description": "Auto-generated translation for: Generate AI-powered subtitles from video audio",
+    "message": "በቪዲዮ ድምጽ ላይ ተመስርተው AI የሚጠቀም የትርጉም ጽሑፎችን ይፍጠሩ"
+  },
+  "v2_290c5760": {
+    "description": "Auto-generated translation for: Import Subtitles",
+    "message": "ትርጉም ጽሑፎችን አስገባ"
+  },
+  "v2_751fc669": {
+    "description": "Auto-generated translation for: Pause after repeat",
+    "message": "ከተደጋጋሚ በኋላ ለአፍታ አቁም"
+  },
+  "v2_13c00d07": {
+    "description": "Auto-generated translation for: Keep playback paused after repeats finish",
+    "message": "ድግግሞሾች ከተጠናቀቁ በኋላ መልሶ ማጫወትን ለአፍታ አቁም"
+  },
+  "v2_596712ca": {
+    "description": "Auto-generated translation for: Token Translation",
+    "message": "የቶከን ትርጉም"
+  },
+  "v2_3e668542": {
+    "description": "Auto-generated translation for: HOW TO GET STARTED",
+    "message": "እንዴት እንደሚጀመር"
+  },
+  "v2_592b9e37": {
+    "description": "Auto-generated translation for: Thank you",
+    "message": "አመሰግናለሁ"
+  },
+  "v2_4e789fe2": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
+    "message": "የሰጡንን ግብረ መልስ እናደንቃለን፣ እና መተግበሪያውን ለእርስዎ የተሻለ ለማድረግ የተቻለንን ሁሉ እናደርጋለን። የ30 ቀናት FluentAI+ አሁን ወደ መለያዎ ታክሏል።"
+  },
+  "v2_2e6bca42": {
+    "description": "Auto-generated translation for: Unlimited AI Subtitles",
+    "message": "ያልተገደበ የ AI የትርጉም ጽሑፎች"
+  },
+  "v2_452b7429": {
+    "description": "Auto-generated translation for: Active subscription",
+    "message": "የነቃ የደንበኝነት ምዝገባ"
+  },
+  "v2_743316c9": {
+    "description": "Auto-generated translation for: Select Subtitles",
+    "message": "ትርጉም ጽሑፍ ምረጥ"
+  },
+  "v2_025a42c0": {
+    "description": "Auto-generated translation for: Choose how you want to add subtitles to your video",
+    "message": "ቪዲዮዎን የትርጉም ጽሑፎችን እንዴት ማከል እንደሚፈልጉ ይምረጡ"
+  },
+  "v2_461d3fee": {
+    "description": "Auto-generated translation for: Upload a .srt or .vtt file",
+    "message": ".srt ወይም .vtt ፋይል ስቀል"
+  },
+  "v2_18d948be": {
+    "description": "Auto-generated translation for: Create neural subtitles",
+    "message": "የነርቭ ንዑስ ርዕሶችን ፍጠር"
+  },
+  "v2_6bad0b0e": {
+    "description": "Auto-generated translation for: Neural subtitles are not yet available",
+    "message": "የነርቭ የትርጉም ጽሑፎች ገና አይገኙም"
+  },
+  "v2_0dae7c32": {
+    "description": "Auto-generated translation for: Generate subtitles with AI",
+    "message": "በ AI የትርጉም ጽሑፎችን ይፍጠሩ"
+  },
+  "v2_0cdb031a": {
+    "description": "Auto-generated translation for: Coming soon",
+    "message": "በቅርቡ ይመጣል"
+  },
+  "v2_7c644bab": {
+    "description": "Auto-generated translation for: Transcription failed",
+    "message": "ቅጂው አልተሳካም"
+  },
+  "v2_25d7795d": {
+    "description": "Auto-generated translation for: An error occurred during transcription",
+    "message": "በጽሑፍ ግልባጭ ወቅት ስህተት ተከስቷል።"
+  },
+  "v2_6cb79c3b": {
+    "description": "Auto-generated translation for: Select Video File",
+    "message": "የቪዲዮ ፋይል ይምረጡ"
+  },
+  "v2_3e76f194": {
+    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
+    "message": "የቪዲዮ ፋይል በመጫን የትርጉም ጽሑፎችን ይፍጠሩ"
+  },
+  "v2_3a059b20": {
+    "description": "Auto-generated translation for: Import New Video",
+    "message": "አዲስ ቪዲዮ አስመጣ"
+  },
+  "v2_6c53c554": {
+    "description": "Auto-generated translation for: Play local video files with FluentAI subtitles and interactive learning features.",
+    "message": "የአካባቢ ቪዲዮ ፋይሎችን በፍሉይንትAI የትርጉም ጽሑፎች እና በይነተገናኝ የመማሪያ ባህሪዎች ያጫውቱ።"
+  },
+  "v2_7ca54576": {
+    "description": "Auto-generated translation for: Local Player",
+    "message": "የአካባቢው ተጫዋች"
+  },
+  "v2_53066e84": {
+    "description": "Auto-generated translation for: Import Video File",
+    "message": "የቪዲዮ ፋይል አስመጣ"
+  },
+  "v2_56a0a959": {
+    "description": "Auto-generated translation for: Select a local video file to get started",
+    "message": "ለመጀመር የአካባቢ ቪዲዮ ፋይል ይምረጡ"
+  },
+  "v2_4775d762": {
+    "description": "Auto-generated translation for: Failed to import subtitles",
+    "message": "ትርጉም ጽሑፍ ማስመጣት አልተሳካም"
+  },
+  "v2_2eaee21e": {
+    "description": "Auto-generated translation for: Subtitles imported successfully",
+    "message": "የትርጉም ጽሑፎች በተሳካ ሁኔታ ገብተዋል"
+  },
+  "v2_7d8bd622": {
+    "description": "Auto-generated translation for: An unexpected error occurred while importing subtitles",
+    "message": "የሚጠበቅ ያልተሳካ ስህተት የትርጉም ጽሑፎችን በሚያስገቡበት ጊዜ ተከስቷል።"
+  },
+  "v2_69652337": {
+    "description": "Auto-generated translation for: Neural transcription is already in progress for this video",
+    "message": "ለዚህ ቪዲዮ የነርቭ ግልባጭ አስቀድሞ በመካሄድ ላይ ነው"
+  },
+  "v2_4f4ab581": {
+    "description": "Auto-generated translation for: Please set your learning language in settings before creating neural subtitles",
+    "message": "ነርቭ ሰርቲፊኬቶችን ከመፍጠርዎ በፊት እባክዎ የመማሪያ ቋንቋዎን በቅንብሮች ውስጥ ያስቀምጡ"
+  },
+  "v2_5034bcb9": {
+    "description": "Auto-generated translation for: Failed to upload audio",
+    "message": "ድምፅ መስቀል አልተሳካም"
+  },
+  "v2_4050988e": {
+    "description": "Auto-generated translation for: Neural transcription started",
+    "message": "የነርቭ ግልባጭ ተጀምሯል"
+  },
+  "v2_7c1bf627": {
+    "description": "Auto-generated translation for: An unexpected error occurred",
+    "message": "ያልተጠበቀ ስህተት ተከስቷል"
+  },
+  "v2_7de3ad93": {
+    "description": "Auto-generated translation for: Please upload a valid video file",
+    "message": "እባክዎ ትክክለኛ የቪዲዮ ፋይል ይጫኑ"
+  },
+  "v2_1c851385": {
+    "description": "Auto-generated translation for: Select video file",
+    "message": "የቪዲዮ ፋይል ይምረጡ"
+  },
+  "v2_6aa78acd": {
+    "description": "Auto-generated translation for: Drop your video file here",
+    "message": "የቪዲዮ ፋይልዎን እዚህ ይጣሉ"
+  },
+  "v2_77d1db2e": {
+    "description": "Auto-generated translation for: Drag and drop your video file",
+    "message": "የቪዲዮ ፋይልዎን ይጎትቱና ይጣሉ።"
+  },
+  "v2_0f19d2bd": {
+    "description": "Auto-generated translation for: Upload a video file from your device to play it with FluentAI subtitles, translations, and interactive learning features.",
+    "message": "የቪዲዮ ፋይልን ከ መሣሪያዎ ወደ FluentAI የትርጉም ጽሑፎች፣ ትርጉሞች እና መስተጋብራዊ የትምህርት ባህሪያት ለማጫወት ይጫኑ።"
+  },
+  "v2_000009e3": {
+    "description": "Auto-generated translation for: OR",
+    "message": "ወይም"
+  },
+  "v2_0a7b0fb0": {
+    "description": "Auto-generated translation for: Supported formats:",
+    "message": "የሚደገፉ ቅርጸቶች:"
+  },
+  "v2_4a495383": {
+    "description": "Auto-generated translation for: Please upload a valid subtitle file (.srt or .vtt)",
+    "message": "እባክዎ ትክክለኛ የትርጉም ጽሑፍ ፋይል (.srt ወይም .vtt) ይጫኑ"
+  },
+  "v2_6fcb14b7": {
+    "description": "Auto-generated translation for: Please select a subtitle file",
+    "message": "እባክዎን የትርጉም ጽሑፍ ፋይል ይምረጡ"
+  },
+  "v2_212c1912": {
+    "description": "Auto-generated translation for: Please select the language of the subtitles",
+    "message": "እባክዎ የትርጉም ጽሑፎች ቋንቋ ይምረጡ"
+  },
+  "v2_783bffd0": {
+    "description": "Auto-generated translation for: Change",
+    "message": "ለውጥ"
+  },
+  "v2_68369c80": {
+    "description": "Auto-generated translation for: Select subtitle file",
+    "message": "\"የትርጉም ጽሑፍ ፋይል ይምረጡ\""
+  },
+  "v2_5aadc93f": {
+    "description": "Auto-generated translation for: Total Subtitles",
+    "message": "ጠቅላላ የትርጉም ጽሑፎች"
+  },
+  "v2_50417ba8": {
+    "description": "Auto-generated translation for: Preview",
+    "message": "ቅድመ እይታ"
+  },
+  "v2_040be290": {
+    "description": "Auto-generated translation for: First",
+    "message": "መጀመሪያ"
+  },
+  "v2_20ba375b": {
+    "description": "Auto-generated translation for: subtitles",
+    "message": "የግርጌ ጽሑፎች"
+  },
+  "v2_18b6b5b6": {
+    "description": "Auto-generated translation for: Language Detected",
+    "message": "ቋንቋ ተገኝቷል"
+  },
+  "v2_091de2f4": {
+    "description": "Auto-generated translation for: Override language",
+    "message": "ቋንቋን መሻር"
+  },
+  "v2_23717fec": {
+    "description": "Auto-generated translation for: Override",
+    "message": "መሻር"
+  },
+  "v2_083513ed": {
+    "description": "Auto-generated translation for: Drag and drop your subtitle file",
+    "message": "የትርጉም ጽሑፍ ፋይልዎን ይጎትቱ እና ይጣሉ።"
+  },
+  "v2_6386a07b": {
+    "description": "Auto-generated translation for: Supports .srt and .vtt files",
+    "message": ".srt እና .vtt ፋይሎችን ይደግፋል"
+  },
+  "v2_47ad4312": {
+    "description": "Auto-generated translation for: Select language...",
+    "message": "ቋንቋ ምረጥ..."
+  },
+  "v2_0ede3a99": {
+    "description": "Auto-generated translation for: Language selection is required",
+    "message": "ቋንቋ መምረጥ ያስፈልጋል"
+  },
+  "v2_1df46f39": {
+    "description": "Auto-generated translation for: Continue",
+    "message": "ይቀጥሉ"
+  },
+  "v2_47af8214": {
+    "description": "Auto-generated translation for: Keyboard shortcuts are enabled. Use keyboard shortcuts to control video playback and subtitles.",
+    "message": "የቁልፍ ሰሌዳ አቋራጮች ነቅተዋል። ቪዲዮ መልሶ ማጫወትን እና የትርጉም ጽሑፎችን ለመቆጣጠር የቁልፍ ሰሌዳ አቋራጮችን ይጠቀሙ።"
+  },
+  "v2_3576a0cb": {
+    "description": "Auto-generated translation for: Keyboard shortcuts enabled",
+    "message": "የቁልፍ ሰሌዳ አቋራጮች ነቅተዋል።"
+  },
+  "v2_5287bec0": {
+    "description": "Auto-generated translation for: You're ready to learn with FluentAI on",
+    "message": "በFluentAI ለመማር ዝግጁ ነዎት"
+  },
+  "v2_6eff97af": {
+    "description": "Auto-generated translation for: You're ready to learn with FluentAI.",
+    "message": "በFluentAI ለመማር ዝግጁ ሆነዋል።"
+  },
+  "v2_022e1b3d": {
+    "description": "Auto-generated translation for: Netflix, YouTube, Prime Video, and Disney+.",
+    "message": "ኔትፍሊክስ፣ ዩቲዩብ፣ ፕራይም ቪዲዮ እና ዲስኒ+።"
+  },
+  "v2_25f0d9dc": {
+    "description": "Auto-generated translation for: Netflix, YouTube & more.",
+    "message": "Netflix, YouTube እና ሌሎችም።"
+  },
+  "v2_7f0fc6a9": {
+    "description": "Auto-generated translation for: You’ve installed the extension—open any supported platform, choose a video,",
+    "message": "ኤክስቴንሽን ጭነዋል — ማንኛውንም የሚደገፍ ፕላትፎርም ይክፈቱ፣ ቪዲዮ ይምረጡ።"
+  },
+  "v2_5744d090": {
+    "description": "Auto-generated translation for: and click the FluentAI icon in the bottom bar to turn on smart dual subtitles.",
+    "message": "እና በታችኛው መቃን ላይ ያለውን የFluentAI አዶን በመጫን ብልጥ ድርብ የትርጉም ጽሑፎችን ያብሩ።"
+  },
+  "v2_6f82368b": {
+    "description": "Auto-generated translation for: You’re all set. Open Netflix, YouTube, Prime Video, or Disney+ and tap the FluentAI icon.",
+    "message": "ሁሉም ነገር ተስተካክሏል። Netflix, YouTube, Prime Video, ወይም Disney+ ን ይክፈቱ እና የFluentAI አዶውን ይጫኑ።"
+  },
+  "v2_0024af75": {
+    "description": "Auto-generated translation for: More",
+    "message": "ተጨማሪ"
+  },
+  "v2_4fea6cfa": {
+    "description": "Auto-generated translation for: Training",
+    "message": "ስልጠና"
+  },
+  "v2_33c4e0f6": {
+    "description": "Auto-generated translation for: EPUB deleted successfully",
+    "message": "EPUB በተሳካ ሁኔታ ተሰርዟል"
+  },
+  "v2_374bce31": {
+    "description": "Auto-generated translation for: Failed to delete EPUB: ",
+    "message": "EPUBን መሰረዝ አልተሳካም:"
+  },
+  "v2_45505288": {
+    "description": "Auto-generated translation for: Read and learn from your EPUB books",
+    "message": "ከ EPUB መጽሐፍትዎ ያንብቡ እና ይማሩ"
+  },
+  "v2_56305e75": {
+    "description": "Auto-generated translation for: EPUB Reader",
+    "message": "ኢፒዩቢ አንባቢ"
+  },
+  "v2_3b0f50f1": {
+    "description": "Auto-generated translation for: Are you sure you want to delete this EPUB? This action cannot be undone.",
+    "message": "ይህን ኢፒዩቢ(EPUB) መሰረዝ እንደሚፈልጉ እርግጠኛ ነዎት? ይህን እርምጃ መቀልበስ አይቻልም።"
+  },
+  "v2_1cfe79ad": {
+    "description": "Auto-generated translation for: Delete EPUB",
+    "message": "EPUBን ሰርዝ"
+  },
+  "v2_6657afdc": {
+    "description": "Auto-generated translation for: Sentence Explanation",
+    "message": "የዓረፍተ ነገር ማብራሪያ"
+  },
+  "v2_73bf162a": {
+    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
+    "message": "የአረፍተ ነገሩን ክፍሎች ዝርዝር ትንታኔ"
+  },
+  "v2_0b110f0e": {
+    "description": "Auto-generated translation for: Error: ",
+    "message": "ስህተት:"
+  },
+  "v2_64dc3623": {
+    "description": "Auto-generated translation for: Meaning",
+    "message": "ትርጉም"
+  },
+  "v2_6fc26f4d": {
+    "description": "Auto-generated translation for: base form",
+    "message": "መሠረታዊ ቅጽ"
+  },
+  "v2_13b93494": {
+    "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
+    "message": "የተቀመጡ ቃላትን እና ሀረጎችን በቀላሉ ለማግኘት እና ለማጥናት በሚያመች መልኩ በልዩ ዝርዝሮች ያደራጁ።"
+  },
+  "v2_64896e2b": {
+    "description": "Auto-generated translation for: You haven't created any lists yet.",
+    "message": "እስካሁን ምንም ዝርዝሮችን አልፈጠሩም።"
+  },
+  "v2_5f364956": {
+    "description": "Auto-generated translation for: Loading list details...",
+    "message": "የዝርዝር መረጃዎችን በመጫን ላይ..."
+  },
+  "v2_4bfb9f13": {
+    "description": "Auto-generated translation for: List not found",
+    "message": "ዝርዝሩ አልተገኘም"
+  },
+  "v2_02d40e21": {
+    "description": "Auto-generated translation for: Are you sure you want to remove these items from the list?",
+    "message": "እነዚህን ነገሮች ከዝርዝሩ ውስጥ ማስወገድ እንደሚፈልጉ እርግጠኛ ነዎት?"
+  },
+  "v2_53d1bed3": {
+    "description": "Auto-generated translation for: Removed from list successfully",
+    "message": "ከዝርዝሩ በተሳካ ሁኔታ ተወግዷል"
+  },
+  "v2_0dda1ef1": {
+    "description": "Auto-generated translation for: Moved to list successfully",
+    "message": "ወደ ዝርዝሩ በተሳካ ሁኔታ ተወስዷል"
+  },
+  "v2_050a9740": {
+    "description": "Auto-generated translation for: Copied to list successfully",
+    "message": "ወደ ዝርዝሩ በተሳካ ሁኔታ ተገልብጧል"
+  },
+  "v2_4705f29b": {
+    "description": "Auto-generated translation for: selected",
+    "message": "የተመረጠ"
+  },
+  "v2_1f18c2f8": {
+    "description": "Auto-generated translation for: Remove from List",
+    "message": "ከዝርዝር አስወግድ"
+  },
+  "v2_53c459ec": {
+    "description": "Auto-generated translation for: Move to List",
+    "message": "ወደ ዝርዝር አንቀሳቅስ"
+  },
+  "v2_3aeb35b8": {
+    "description": "Auto-generated translation for: Copy to List",
+    "message": "ወደ ዝርዝር ቅዳ"
+  },
+  "v2_2ccd289a": {
+    "description": "Auto-generated translation for: Cancel Selection",
+    "message": "ምርጫን ሰርዝ"
+  },
+  "v2_3583dd91": {
+    "description": "Auto-generated translation for: Are you sure you want to remove this item from the list?",
+    "message": "ይህን ንጥል ከዝርዝሩ ውስጥ ማስወገድ እንደሚፈልጉ እርግጠኛ ነዎት?"
+  },
+  "v2_152ebc42": {
+    "description": "Auto-generated translation for: No items in this list yet.",
+    "message": "በዚህ ዝርዝር ውስጥ እስካሁን ምንም ንጥሎች የሉም።"
+  },
+  "v2_7d9db6ec": {
+    "description": "Auto-generated translation for: Please select both learning and native languages",
+    "message": "እባክዎን የመማሪያ እና የአፍ መፍቻ ቋንቋዎችን ይምረጡ"
+  },
+  "v2_7132a412": {
+    "description": "Auto-generated translation for: Words generated and added to list",
+    "message": "ቃላቶች ተፈጥረው ወደ ዝርዝሩ ተጨምረዋል"
+  },
+  "v2_141a82da": {
+    "description": "Auto-generated translation for: Failed to generate words: $error$",
+    "message": "ቃላትን ማመንጨት አልተሳካም: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6c576f57": {
+    "description": "Auto-generated translation for: Generate Words for List",
+    "message": "ለዝርዝር ቃላትን ፍጠር::"
+  },
+  "v2_613b5ada": {
+    "description": "Auto-generated translation for: Words will be generated based on the list name and description:",
+    "message": "ቃላቶች በዝርዝሩ ስም እና ገለጻ ላይ ተመስርተው ይፈጠራሉ።"
+  },
+  "v2_60cbc3e4": {
+    "description": "Auto-generated translation for: Generating...",
+    "message": "እየተፈጠረ..."
+  },
+  "v2_12228bc2": {
+    "description": "Auto-generated translation for: Generate Words",
+    "message": "ቃላትን ፍጠር"
   }
 }
