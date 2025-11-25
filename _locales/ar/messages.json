@@ -2840,14 +2840,6 @@
     "description": "Auto-generated translation for: To ensure the best experience and security, please update your app to the latest version.",
     "message": "لضمان أفضل تجربة وأمان، يرجى تحديث تطبيقك إلى أحدث إصدار."
   },
-  "v2_27ec3cfa": {
-    "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
-    "message": "احصل على <span class=\"gradient-highlighted-text\">شهر مجاني واحد</span> مقابل ملاحظاتك!"
-  },
-  "v2_36d5d02e": {
-    "description": "Auto-generated translation for: Your detailed feedback will unlock 1 month of premium features at no cost, so we get to fix your issue and you get to enjoy our tool :)",
-    "message": "ملاحظاتك التفصيلية ستفتح لك شهرًا مجانيًا من الميزات المميزة، حتى نتمكن من إصلاح مشكلتك وتستمتع بأداتنا :)"
-  },
   "v2_5a89a2c7": {
     "description": "Auto-generated translation for: Tell us your issue - we can fix it and make the app perfect for you!",
     "message": "أخبرنا بمشكلتك - يمكننا إصلاحها وجعل التطبيق مثالياً لك!"
@@ -6567,45 +6559,9 @@
     "description": "Auto-generated translation for: Mastered",
     "message": "مُتَقَن"
   },
-  "v2_627263fe": {
-    "description": "Auto-generated translation for: Archived",
-    "message": "مؤرشف"
-  },
-  "v2_6abe10e3": {
-    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
-    "message": "تعلّم: ضع علامة على هذه الكلمة بأنك تتعلمها حاليًا. ستظهر في قائمة تعلمك."
-  },
-  "v2_208be9bd": {
-    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
-    "message": "مُتْقَن: ضع علامة على هذه الكلمة باعتبارها مُتعلَّمة بالكامل. سيتم تتبعها ككلمة معروفة."
-  },
-  "v2_5b8363db": {
-    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
-    "message": "مؤرشف: لإخفاء هذه الكلمة من التعلم النشط. سيتم أرشفتها ولن تظهر في التدريب."
-  },
-  "v2_718c2f58": {
-    "description": "Auto-generated translation for: Unknown status",
-    "message": "حالة غير معروفة"
-  },
-  "v2_239a703d": {
-    "description": "Auto-generated translation for: Bookmark this word first to change its status",
-    "message": "ضع إشارة مرجعية لهذه الكلمة أولاً لتغيير حالتها"
-  },
-  "v2_50f9e5c8": {
-    "description": "Auto-generated translation for: Word Status",
-    "message": "حالة الكلمة"
-  },
-  "v2_242c8203": {
-    "description": "Auto-generated translation for: Mark your progress learning this word",
-    "message": "سجل تقدمك في تعلم هذه الكلمة"
-  },
   "v2_1a46dde4": {
     "description": "Auto-generated translation for: Mark as Mastered",
     "message": "وضع علامة كمتقن"
-  },
-  "v2_7b477da8": {
-    "description": "Auto-generated translation for: Move to Archived",
-    "message": "نقل إلى الأرشيف"
   },
   "v2_311a08dc": {
     "description": "Auto-generated translation for: No analysis available",
@@ -6655,10 +6611,6 @@
     "description": "Auto-generated translation for: Map CSV Columns",
     "message": "تعيين أعمدة CSV"
   },
-  "v2_72f24b41": {
-    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
-    "message": "اسحب أعمدة CSV من اللوحة اليمنى إلى حقول الإشارة المرجعية على اليسار. تتكيف الواجهة تلقائيًا بناءً على هيكل CSV الخاص بك."
-  },
   "v2_05370547": {
     "description": "Auto-generated translation for: Please select a valid CSV file",
     "message": "الرجاء تحديد ملف CSV صالح"
@@ -6666,10 +6618,6 @@
   "v2_18b1314b": {
     "description": "Auto-generated translation for: Upload CSV File",
     "message": "رفع ملف CSV"
-  },
-  "v2_645615a5": {
-    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
-    "message": "اختر ملف CSV يحتوي على علاماتك المرجعية لاستيرادها"
   },
   "v2_0552e347": {
     "description": "Auto-generated translation for: File drop zone",
@@ -6683,42 +6631,9 @@
     "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
     "message": "اسحب وأفلت ملف CSV الخاص بك هنا، أو انقر للتصفح"
   },
-  "v2_739e2d79": {
-    "description": "Auto-generated translation for: CSV Format Tips",
-    "message": "نصائح حول تنسيق CSV"
-  },
   "v2_6fd2993f": {
     "description": "Auto-generated translation for: First row should contain column headers",
     "message": "يجب أن يحتوي الصف الأول على رؤوس الأعمدة"
-  },
-  "v2_3d7f8c52": {
-    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
-    "message": "عمود 'value' مطلوب على الأقل للكلمات/العبارات"
-  },
-  "v2_73751084": {
-    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
-    "message": "علامات الفصل المدعومة: فاصلة (,)، فاصلة منقوطة (;)، علامة تبويب"
-  },
-  "v2_06927651": {
-    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
-    "message": "يمكن فصل المعاني المتعددة بفاصلة أو فاصلة منقوطة في عمود واحد"
-  },
-  "v2_1bca8478": {
-    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
-    "message": "تم الكشف التلقائي عن $count$ من تعيينات الأعمدة",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2d975a89": {
-    "description": "Auto-generated translation for: Accept All",
-    "message": "قبول الكل"
-  },
-  "v2_3923b596": {
-    "description": "Auto-generated translation for: Dismiss",
-    "message": "رفض"
   },
   "v2_001de6cd": {
     "description": "Auto-generated translation for: This field is required",
@@ -7140,10 +7055,6 @@
     "description": "Auto-generated translation for: Thank you",
     "message": "شكراً"
   },
-  "v2_4e789fe2": {
-    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
-    "message": "نحن نقدر ملاحظاتك وسنبذل قصارى جهدنا لجعل التطبيق أفضل لك. تمت إضافة 30 يومًا من FluentAI+ إلى حسابك الآن."
-  },
   "v2_2e6bca42": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles",
     "message": "ترجمة غير محدودة بالذكاء الاصطناعي"
@@ -7187,14 +7098,6 @@
   "v2_25d7795d": {
     "description": "Auto-generated translation for: An error occurred during transcription",
     "message": "حدث خطأ أثناء النسخ"
-  },
-  "v2_6cb79c3b": {
-    "description": "Auto-generated translation for: Select Video File",
-    "message": "اختر ملف الفيديو"
-  },
-  "v2_3e76f194": {
-    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
-    "message": "قم بتحميل ملف فيديو لإنشاء ترجمات"
   },
   "v2_3a059b20": {
     "description": "Auto-generated translation for: Import New Video",
@@ -7436,10 +7339,6 @@
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
     "message": "نظّم كلماتك وعباراتك المحفوظة في قوائم مخصصة لسهولة الوصول إليها ودراستها."
   },
-  "v2_64896e2b": {
-    "description": "Auto-generated translation for: You haven't created any lists yet.",
-    "message": "لم تقم بإنشاء أي قوائم حتى الآن."
-  },
   "v2_5f364956": {
     "description": "Auto-generated translation for: Loading list details...",
     "message": "جاري تحميل تفاصيل القائمة..."
@@ -7524,5 +7423,127 @@
   "v2_12228bc2": {
     "description": "Auto-generated translation for: Generate Words",
     "message": "توليد كلمات"
+  },
+  "v2_4f004b9c": {
+    "description": "Auto-generated translation for: Move to Ignored",
+    "message": "نقل إلى مُتجاهَل"
+  },
+  "v2_3453ab4e": {
+    "description": "Auto-generated translation for: Ignored",
+    "message": "تم تجاهله"
+  },
+  "v2_287cd431": {
+    "description": "Auto-generated translation for: Detecting...",
+    "message": "جاري الكشف..."
+  },
+  "v2_040bb0da": {
+    "description": "Auto-generated translation for: Field",
+    "message": "حقل"
+  },
+  "v2_03872d10": {
+    "description": "Auto-generated translation for: CSV Column",
+    "message": "عمود CSV"
+  },
+  "v2_0ee8feec": {
+    "description": "Auto-generated translation for: Auto-detected $count$ mappings",
+    "message": "تم الكشف التلقائي عن $count$ من عمليات الربط",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_00014d67": {
+    "description": "Auto-generated translation for: Use",
+    "message": "استخدام"
+  },
+  "v2_1a353919": {
+    "description": "Auto-generated translation for: Available Colors",
+    "message": "الألوان المتاحة"
+  },
+  "v2_529b3712": {
+    "description": "Auto-generated translation for: Colors used for column mapping",
+    "message": "الألوان المستخدمة لتعيين الأعمدة"
+  },
+  "v2_370b4cf6": {
+    "description": "Auto-generated translation for: Tag Colors",
+    "message": "ألوان العلامات"
+  },
+  "v2_47f61e42": {
+    "description": "Auto-generated translation for: Tag Border Colors",
+    "message": "ألوان حدود العلامات"
+  },
+  "v2_64cb5c0b": {
+    "description": "Auto-generated translation for: Logo Gradient Colors",
+    "message": "ألوان تدرج الشعار"
+  },
+  "v2_2c6d0590": {
+    "description": "Auto-generated translation for: Set status",
+    "message": "تحديد الحالة"
+  },
+  "v2_04549323": {
+    "description": "Auto-generated translation for: Known",
+    "message": "معروف"
+  },
+  "v2_0eda9b29": {
+    "description": "Auto-generated translation for: Switch to {status}",
+    "message": "التبديل إلى {status}",
+    "placeholders": {
+      "status": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_41ef59a9": {
+    "description": "Auto-generated translation for: No results.",
+    "message": "لا توجد نتائج."
+  },
+  "v2_669ecfde": {
+    "description": "Auto-generated translation for: Deselect all",
+    "message": "إلغاء تحديد الكل"
+  },
+  "v2_1cfcf432": {
+    "description": "Auto-generated translation for: Select all page",
+    "message": "تحديد الصفحة بأكملها"
+  },
+  "v2_10e4b2b9": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you.",
+    "message": "نحن نقدر ملاحظاتك وسنبذل قصارى جهدنا لجعل التطبيق أفضل لك."
+  },
+  "v2_390abc68": {
+    "description": "Auto-generated translation for: Billing Settings",
+    "message": "إعدادات الفوترة"
+  },
+  "v2_5b100f35": {
+    "description": "Auto-generated translation for: We'd love to hear your feedback!",
+    "message": "يسعدنا أن نسمع ملاحظاتك!"
+  },
+  "v2_0cb49284": {
+    "description": "Auto-generated translation for: Your feedback helps us improve FluentAI and fix issues. Please share what didn't work for you.",
+    "message": "تساعدنا ملاحظاتك في تحسين FluentAI وإصلاح المشكلات. يرجى مشاركة ما لم ينجح معك."
+  },
+  "v2_59837c49": {
+    "description": "Auto-generated translation for: Try FluentAI",
+    "message": "جرّب FluentAI"
+  },
+  "v2_13a366e5": {
+    "description": "Auto-generated translation for: Analyzing...",
+    "message": "تحليل..."
+  },
+  "v2_5e72c7dc": {
+    "description": "Auto-generated translation for: Close analysis",
+    "message": "تحليل دقيق"
+  },
+  "v2_1c9f2d29": {
+    "description": "Auto-generated translation for: Analyze sentence",
+    "message": "تحليل الجملة"
+  },
+  "v2_2b051875": {
+    "description": "Auto-generated translation for: Bookmarked",
+    "message": "تمت إضافته إلى الإشارات المرجعية"
+  },
+  "v2_355cc324": {
+    "description": "Auto-generated translation for: Bookmark paragraph",
+    "message": "إشارة مرجعية للفقرة"
   }
 }

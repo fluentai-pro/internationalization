@@ -4784,14 +4784,6 @@
     "description": "Auto-generated translation for: Mobile app coming soon!",
     "message": "Aplicativo móvel em breve!"
   },
-  "v2_27ec3cfa": {
-    "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
-    "message": "Receba <span class=\"gradient-highlighted-text\">1 mês grátis</span> pelo seu feedback!"
-  },
-  "v2_36d5d02e": {
-    "description": "Auto-generated translation for: Your detailed feedback will unlock 1 month of premium features at no cost, so we get to fix your issue and you get to enjoy our tool :)",
-    "message": "Seu feedback detalhado irá liberar 1 mês de recursos premium sem custo, assim conseguiremos resolver seu problema e você poderá aproveitar nossa ferramenta :)"
-  },
   "v2_1c8b0b53": {
     "description": "Auto-generated translation for: Please share your feedback...",
     "message": "Por favor, compartilhe seu feedback..."
@@ -6415,45 +6407,9 @@
     "description": "Auto-generated translation for: Mastered",
     "message": "Dominado"
   },
-  "v2_627263fe": {
-    "description": "Auto-generated translation for: Archived",
-    "message": "Arquivado"
-  },
-  "v2_6abe10e3": {
-    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
-    "message": "Aprendizado: Marque esta palavra como estando atualmente em aprendizado. Ela aparecerá na sua lista de aprendizado."
-  },
-  "v2_208be9bd": {
-    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
-    "message": "Dominado: Marque esta palavra como totalmente aprendida. Ela será rastreada como uma palavra conhecida."
-  },
-  "v2_5b8363db": {
-    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
-    "message": "Arquivado: Oculte esta palavra do aprendizado ativo. Ela será arquivada e não aparecerá na prática."
-  },
-  "v2_718c2f58": {
-    "description": "Auto-generated translation for: Unknown status",
-    "message": "Status desconhecido"
-  },
-  "v2_239a703d": {
-    "description": "Auto-generated translation for: Bookmark this word first to change its status",
-    "message": "Marque esta palavra primeiro para alterar o status dela"
-  },
-  "v2_50f9e5c8": {
-    "description": "Auto-generated translation for: Word Status",
-    "message": "Status da Palavra"
-  },
-  "v2_242c8203": {
-    "description": "Auto-generated translation for: Mark your progress learning this word",
-    "message": "Marque seu progresso ao aprender esta palavra"
-  },
   "v2_1a46dde4": {
     "description": "Auto-generated translation for: Mark as Mastered",
     "message": "Marcar como Dominado"
-  },
-  "v2_7b477da8": {
-    "description": "Auto-generated translation for: Move to Archived",
-    "message": "Mover para Arquivado"
   },
   "v2_311a08dc": {
     "description": "Auto-generated translation for: No analysis available",
@@ -6503,10 +6459,6 @@
     "description": "Auto-generated translation for: Map CSV Columns",
     "message": "Mapear Colunas CSV"
   },
-  "v2_72f24b41": {
-    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
-    "message": "Arraste as colunas CSV do painel direito para os campos de marcador no painel esquerdo. A interface se adapta automaticamente com base na sua estrutura CSV."
-  },
   "v2_05370547": {
     "description": "Auto-generated translation for: Please select a valid CSV file",
     "message": "Por favor, selecione um arquivo CSV válido"
@@ -6514,10 +6466,6 @@
   "v2_18b1314b": {
     "description": "Auto-generated translation for: Upload CSV File",
     "message": "Carregar Arquivo CSV"
-  },
-  "v2_645615a5": {
-    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
-    "message": "Selecione um arquivo CSV contendo seus favoritos para importar"
   },
   "v2_0552e347": {
     "description": "Auto-generated translation for: File drop zone",
@@ -6531,42 +6479,9 @@
     "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
     "message": "Arraste e solte seu arquivo CSV aqui ou clique para procurar"
   },
-  "v2_739e2d79": {
-    "description": "Auto-generated translation for: CSV Format Tips",
-    "message": "Dicas sobre o Formato CSV"
-  },
   "v2_6fd2993f": {
     "description": "Auto-generated translation for: First row should contain column headers",
     "message": "A primeira linha deve conter os cabeçalhos das colunas"
-  },
-  "v2_3d7f8c52": {
-    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
-    "message": "Pelo menos uma coluna 'value' é necessária para palavras/frases"
-  },
-  "v2_73751084": {
-    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
-    "message": "Delimitadores suportados: vírgula (,), ponto e vírgula (;), tabulação"
-  },
-  "v2_06927651": {
-    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
-    "message": "Múltiplos significados podem ser separados por vírgula ou ponto e vírgula em uma coluna"
-  },
-  "v2_1bca8478": {
-    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
-    "message": "$count$ mapeamentos de coluna detectados automaticamente",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2d975a89": {
-    "description": "Auto-generated translation for: Accept All",
-    "message": "Aceitar Todos"
-  },
-  "v2_3923b596": {
-    "description": "Auto-generated translation for: Dismiss",
-    "message": "Dispensar"
   },
   "v2_001de6cd": {
     "description": "Auto-generated translation for: This field is required",
@@ -6988,10 +6903,6 @@
     "description": "Auto-generated translation for: Thank you",
     "message": "Obrigado"
   },
-  "v2_4e789fe2": {
-    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
-    "message": "Agradecemos seu feedback e faremos o possível para tornar o aplicativo melhor para você. 30 dias de FluentAI+ foram adicionados à sua conta."
-  },
   "v2_2e6bca42": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles",
     "message": "Legendas ilimitadas com IA"
@@ -7035,14 +6946,6 @@
   "v2_25d7795d": {
     "description": "Auto-generated translation for: An error occurred during transcription",
     "message": "Ocorreu um erro durante a transcrição"
-  },
-  "v2_6cb79c3b": {
-    "description": "Auto-generated translation for: Select Video File",
-    "message": "Selecionar Arquivo de Vídeo"
-  },
-  "v2_3e76f194": {
-    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
-    "message": "Envie um arquivo de vídeo para gerar legendas"
   },
   "v2_3a059b20": {
     "description": "Auto-generated translation for: Import New Video",
@@ -7284,10 +7187,6 @@
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
     "message": "Organize suas palavras e frases salvas em listas personalizadas para fácil acesso e estudo."
   },
-  "v2_64896e2b": {
-    "description": "Auto-generated translation for: You haven't created any lists yet.",
-    "message": "Você ainda não criou nenhuma lista."
-  },
   "v2_5f364956": {
     "description": "Auto-generated translation for: Loading list details...",
     "message": "Carregando detalhes da lista..."
@@ -7372,5 +7271,127 @@
   "v2_12228bc2": {
     "description": "Auto-generated translation for: Generate Words",
     "message": "Gerar Palavras"
+  },
+  "v2_4f004b9c": {
+    "description": "Auto-generated translation for: Move to Ignored",
+    "message": "Mover para Ignorados"
+  },
+  "v2_3453ab4e": {
+    "description": "Auto-generated translation for: Ignored",
+    "message": "Ignorado"
+  },
+  "v2_287cd431": {
+    "description": "Auto-generated translation for: Detecting...",
+    "message": "Detectando..."
+  },
+  "v2_040bb0da": {
+    "description": "Auto-generated translation for: Field",
+    "message": "Campo"
+  },
+  "v2_03872d10": {
+    "description": "Auto-generated translation for: CSV Column",
+    "message": "Coluna CSV"
+  },
+  "v2_0ee8feec": {
+    "description": "Auto-generated translation for: Auto-detected $count$ mappings",
+    "message": "$count$ mapeamentos detectados automaticamente",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_00014d67": {
+    "description": "Auto-generated translation for: Use",
+    "message": "Usar"
+  },
+  "v2_1a353919": {
+    "description": "Auto-generated translation for: Available Colors",
+    "message": "Cores Disponíveis"
+  },
+  "v2_529b3712": {
+    "description": "Auto-generated translation for: Colors used for column mapping",
+    "message": "Cores usadas para mapeamento de colunas"
+  },
+  "v2_370b4cf6": {
+    "description": "Auto-generated translation for: Tag Colors",
+    "message": "Cores das Etiquetas"
+  },
+  "v2_47f61e42": {
+    "description": "Auto-generated translation for: Tag Border Colors",
+    "message": "Cores da Borda da Etiqueta"
+  },
+  "v2_64cb5c0b": {
+    "description": "Auto-generated translation for: Logo Gradient Colors",
+    "message": "Cores Gradientes do Logotipo"
+  },
+  "v2_2c6d0590": {
+    "description": "Auto-generated translation for: Set status",
+    "message": "Definir status"
+  },
+  "v2_04549323": {
+    "description": "Auto-generated translation for: Known",
+    "message": "Conhecido"
+  },
+  "v2_0eda9b29": {
+    "description": "Auto-generated translation for: Switch to {status}",
+    "message": "Mudar para {status}",
+    "placeholders": {
+      "status": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_41ef59a9": {
+    "description": "Auto-generated translation for: No results.",
+    "message": "Nenhum resultado."
+  },
+  "v2_669ecfde": {
+    "description": "Auto-generated translation for: Deselect all",
+    "message": "Desmarcar todos"
+  },
+  "v2_1cfcf432": {
+    "description": "Auto-generated translation for: Select all page",
+    "message": "Selecionar todas as páginas"
+  },
+  "v2_10e4b2b9": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you.",
+    "message": "Agradecemos o seu feedback e faremos o possível para tornar o aplicativo melhor para você."
+  },
+  "v2_390abc68": {
+    "description": "Auto-generated translation for: Billing Settings",
+    "message": "Configurações de faturamento"
+  },
+  "v2_5b100f35": {
+    "description": "Auto-generated translation for: We'd love to hear your feedback!",
+    "message": "Gostaríamos muito de ouvir seu feedback!"
+  },
+  "v2_0cb49284": {
+    "description": "Auto-generated translation for: Your feedback helps us improve FluentAI and fix issues. Please share what didn't work for you.",
+    "message": "Seu feedback nos ajuda a melhorar o FluentAI e corrigir problemas. Por favor, compartilhe o que não funcionou para você."
+  },
+  "v2_59837c49": {
+    "description": "Auto-generated translation for: Try FluentAI",
+    "message": "Experimente o FluentAI"
+  },
+  "v2_13a366e5": {
+    "description": "Auto-generated translation for: Analyzing...",
+    "message": "Analisando..."
+  },
+  "v2_5e72c7dc": {
+    "description": "Auto-generated translation for: Close analysis",
+    "message": "Análise detalhada"
+  },
+  "v2_1c9f2d29": {
+    "description": "Auto-generated translation for: Analyze sentence",
+    "message": "Analisar frase"
+  },
+  "v2_2b051875": {
+    "description": "Auto-generated translation for: Bookmarked",
+    "message": "Adicionado aos favoritos"
+  },
+  "v2_355cc324": {
+    "description": "Auto-generated translation for: Bookmark paragraph",
+    "message": "Adicionar parágrafo aos favoritos"
   }
 }

@@ -2840,14 +2840,6 @@
     "description": "Auto-generated translation for: To ensure the best experience and security, please update your app to the latest version.",
     "message": "Da bismo osigurali najbolje iskustvo i sigurnost, molimo vas da ažurirate aplikaciju na najnoviju verziju."
   },
-  "v2_27ec3cfa": {
-    "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
-    "message": "Preuzmite <span class=\"gradient-highlighted-text\">1 mesec besplatno</span> za vaše povratne informacije!"
-  },
-  "v2_36d5d02e": {
-    "description": "Auto-generated translation for: Your detailed feedback will unlock 1 month of premium features at no cost, so we get to fix your issue and you get to enjoy our tool :)",
-    "message": "Vaše detaljne povratne informacije otključaće 1 mesec premium funkcija bez naknade, tako da ćemo mi moći da rešimo vaš problem, a vi ćete uživati u našem alatu :)"
-  },
   "v2_5a89a2c7": {
     "description": "Auto-generated translation for: Tell us your issue - we can fix it and make the app perfect for you!",
     "message": "Recite nam vaš problem - možemo ga rešiti i učiniti aplikaciju savršenom za vas!"
@@ -6567,45 +6559,9 @@
     "description": "Auto-generated translation for: Mastered",
     "message": "Овладано"
   },
-  "v2_627263fe": {
-    "description": "Auto-generated translation for: Archived",
-    "message": "Arhivirano"
-  },
-  "v2_6abe10e3": {
-    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
-    "message": "Učenje: Označi ovu reč kao da se trenutno uči. Pojaviće se na tvojoj listi za učenje."
-  },
-  "v2_208be9bd": {
-    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
-    "message": "Savladano: Označite ovu reč kao potpuno naučenu. Biće praćena kao poznata reč."
-  },
-  "v2_5b8363db": {
-    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
-    "message": "Arhivirano: Sakrij ovu reč iz aktivnog učenja. Biće arhivirana i neće se pojavljivati u vežbanju."
-  },
-  "v2_718c2f58": {
-    "description": "Auto-generated translation for: Unknown status",
-    "message": "Nepoznato stanje"
-  },
-  "v2_239a703d": {
-    "description": "Auto-generated translation for: Bookmark this word first to change its status",
-    "message": "Prvo obeležite ovu reč da biste promenili njen status"
-  },
-  "v2_50f9e5c8": {
-    "description": "Auto-generated translation for: Word Status",
-    "message": "Status reči"
-  },
-  "v2_242c8203": {
-    "description": "Auto-generated translation for: Mark your progress learning this word",
-    "message": "Obeležite svoj napredak u učenju ove reči"
-  },
   "v2_1a46dde4": {
     "description": "Auto-generated translation for: Mark as Mastered",
     "message": "Označi kao savladano"
-  },
-  "v2_7b477da8": {
-    "description": "Auto-generated translation for: Move to Archived",
-    "message": "Премести у архиву"
   },
   "v2_311a08dc": {
     "description": "Auto-generated translation for: No analysis available",
@@ -6655,10 +6611,6 @@
     "description": "Auto-generated translation for: Map CSV Columns",
     "message": "Mapiraj CSV Kolone"
   },
-  "v2_72f24b41": {
-    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
-    "message": "Prevucite CSV kolone iz desnog panela na polja za obeležavanje sa leve strane. Interfejs se automatski prilagođava na osnovu vaše CSV strukture."
-  },
   "v2_05370547": {
     "description": "Auto-generated translation for: Please select a valid CSV file",
     "message": "Molimo, izaberite validnu CSV datoteku"
@@ -6666,10 +6618,6 @@
   "v2_18b1314b": {
     "description": "Auto-generated translation for: Upload CSV File",
     "message": "Učitajte CSV datoteku"
-  },
-  "v2_645615a5": {
-    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
-    "message": "Izaberite CSV datoteku sa vašim obeleživačima za uvoz"
   },
   "v2_0552e347": {
     "description": "Auto-generated translation for: File drop zone",
@@ -6683,42 +6631,9 @@
     "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
     "message": "Prevucite i otpustite svoju CSV datoteku ovde, ili kliknite da biste pretražili"
   },
-  "v2_739e2d79": {
-    "description": "Auto-generated translation for: CSV Format Tips",
-    "message": "Saveti za CSV Format"
-  },
   "v2_6fd2993f": {
     "description": "Auto-generated translation for: First row should contain column headers",
     "message": "Prvi red treba da sadrži naslove kolona."
-  },
-  "v2_3d7f8c52": {
-    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
-    "message": "Za reči/fraze je neophodna barem kolona 'value'."
-  },
-  "v2_73751084": {
-    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
-    "message": "Podržani separatori: zarez (,), tačka-zarez (;), tabulator"
-  },
-  "v2_06927651": {
-    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
-    "message": "Višestruka značenja mogu biti razdvojena zarezom ili tačka-zarezom u jednoj koloni"
-  },
-  "v2_1bca8478": {
-    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
-    "message": "Automatski detektovano $count$ mapiranja kolona",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2d975a89": {
-    "description": "Auto-generated translation for: Accept All",
-    "message": "Prihvati sve"
-  },
-  "v2_3923b596": {
-    "description": "Auto-generated translation for: Dismiss",
-    "message": "Odbaci"
   },
   "v2_001de6cd": {
     "description": "Auto-generated translation for: This field is required",
@@ -7140,10 +7055,6 @@
     "description": "Auto-generated translation for: Thank you",
     "message": "Hvala vam"
   },
-  "v2_4e789fe2": {
-    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
-    "message": "Cenimo vaše povratne informacije i daćemo sve od sebe da aplikaciju učinimo boljom za vas. Na vaš nalog je dodato 30 dana FluentAI+."
-  },
   "v2_2e6bca42": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles",
     "message": "Neograničeni AI Titlovi"
@@ -7187,14 +7098,6 @@
   "v2_25d7795d": {
     "description": "Auto-generated translation for: An error occurred during transcription",
     "message": "Došlo je do greške tokom transkripcije."
-  },
-  "v2_6cb79c3b": {
-    "description": "Auto-generated translation for: Select Video File",
-    "message": "Izaberite Video Fajl"
-  },
-  "v2_3e76f194": {
-    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
-    "message": "Otpremite video datoteku da biste generisali titlove"
   },
   "v2_3a059b20": {
     "description": "Auto-generated translation for: Import New Video",
@@ -7436,10 +7339,6 @@
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
     "message": "Organizujte sačuvane reči i fraze u prilagođene liste za lakši pristup i učenje."
   },
-  "v2_64896e2b": {
-    "description": "Auto-generated translation for: You haven't created any lists yet.",
-    "message": "Još uvek niste kreirali nijednu listu."
-  },
   "v2_5f364956": {
     "description": "Auto-generated translation for: Loading list details...",
     "message": "Učitavanje detalja liste..."
@@ -7524,5 +7423,127 @@
   "v2_12228bc2": {
     "description": "Auto-generated translation for: Generate Words",
     "message": "Generiši Reči"
+  },
+  "v2_4f004b9c": {
+    "description": "Auto-generated translation for: Move to Ignored",
+    "message": "Премести у Игнорисане"
+  },
+  "v2_3453ab4e": {
+    "description": "Auto-generated translation for: Ignored",
+    "message": "Игнорисано"
+  },
+  "v2_287cd431": {
+    "description": "Auto-generated translation for: Detecting...",
+    "message": "Detektovanje..."
+  },
+  "v2_040bb0da": {
+    "description": "Auto-generated translation for: Field",
+    "message": "Polje"
+  },
+  "v2_03872d10": {
+    "description": "Auto-generated translation for: CSV Column",
+    "message": "CSV Kolona"
+  },
+  "v2_0ee8feec": {
+    "description": "Auto-generated translation for: Auto-detected $count$ mappings",
+    "message": "Automatski je detektovano $count$ mapiranja",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_00014d67": {
+    "description": "Auto-generated translation for: Use",
+    "message": "Koristi"
+  },
+  "v2_1a353919": {
+    "description": "Auto-generated translation for: Available Colors",
+    "message": "Dostupne Boje"
+  },
+  "v2_529b3712": {
+    "description": "Auto-generated translation for: Colors used for column mapping",
+    "message": "Boje koje se koriste za mapiranje kolona"
+  },
+  "v2_370b4cf6": {
+    "description": "Auto-generated translation for: Tag Colors",
+    "message": "Boje oznaka"
+  },
+  "v2_47f61e42": {
+    "description": "Auto-generated translation for: Tag Border Colors",
+    "message": "Boje okvira oznake"
+  },
+  "v2_64cb5c0b": {
+    "description": "Auto-generated translation for: Logo Gradient Colors",
+    "message": "Градијентне боје логотипа"
+  },
+  "v2_2c6d0590": {
+    "description": "Auto-generated translation for: Set status",
+    "message": "Postavi status"
+  },
+  "v2_04549323": {
+    "description": "Auto-generated translation for: Known",
+    "message": "Poznato"
+  },
+  "v2_0eda9b29": {
+    "description": "Auto-generated translation for: Switch to {status}",
+    "message": "Prebaci na {status}",
+    "placeholders": {
+      "status": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_41ef59a9": {
+    "description": "Auto-generated translation for: No results.",
+    "message": "Нема резултата."
+  },
+  "v2_669ecfde": {
+    "description": "Auto-generated translation for: Deselect all",
+    "message": "Poništi izbor svih"
+  },
+  "v2_1cfcf432": {
+    "description": "Auto-generated translation for: Select all page",
+    "message": "Izaberi sve stranice"
+  },
+  "v2_10e4b2b9": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you.",
+    "message": "Cenimo Vaše povratne informacije i daćemo sve od sebe da aplikaciju učinimo boljom za Vas."
+  },
+  "v2_390abc68": {
+    "description": "Auto-generated translation for: Billing Settings",
+    "message": "Подешавања наплате"
+  },
+  "v2_5b100f35": {
+    "description": "Auto-generated translation for: We'd love to hear your feedback!",
+    "message": "Želeli bismo da čujemo vaše mišljenje!"
+  },
+  "v2_0cb49284": {
+    "description": "Auto-generated translation for: Your feedback helps us improve FluentAI and fix issues. Please share what didn't work for you.",
+    "message": "Vaše povratne informacije nam pomažu da poboljšamo FluentAI i ispravimo greške. Molimo vas, podelite šta nije funkcionisalo za vas."
+  },
+  "v2_59837c49": {
+    "description": "Auto-generated translation for: Try FluentAI",
+    "message": "Probajte FluentAI"
+  },
+  "v2_13a366e5": {
+    "description": "Auto-generated translation for: Analyzing...",
+    "message": "Analiziram..."
+  },
+  "v2_5e72c7dc": {
+    "description": "Auto-generated translation for: Close analysis",
+    "message": "Detaljna analiza"
+  },
+  "v2_1c9f2d29": {
+    "description": "Auto-generated translation for: Analyze sentence",
+    "message": "Analiziraj rečenicu"
+  },
+  "v2_2b051875": {
+    "description": "Auto-generated translation for: Bookmarked",
+    "message": "Sačuvano u obeleživačima"
+  },
+  "v2_355cc324": {
+    "description": "Auto-generated translation for: Bookmark paragraph",
+    "message": "Obeleži pasus"
   }
 }

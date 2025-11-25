@@ -2840,14 +2840,6 @@
     "description": "Auto-generated translation for: To ensure the best experience and security, please update your app to the latest version.",
     "message": "Siekdami užtikrinti geriausią patirtį ir saugumą, atnaujinkite savo programėlę į naujausią versiją."
   },
-  "v2_27ec3cfa": {
-    "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
-    "message": "Gaukite <span class=\"gradient-highlighted-text\">1 mėnesį nemokamai</span> už Jūsų atsiliepimą!"
-  },
-  "v2_36d5d02e": {
-    "description": "Auto-generated translation for: Your detailed feedback will unlock 1 month of premium features at no cost, so we get to fix your issue and you get to enjoy our tool :)",
-    "message": "Jūsų išsamus atsiliepimas atrakins 1 mėnesį nemokamų „Premium“ funkcijų, todėl mes galėsime išspręsti jūsų problemą, o jūs galėsite naudotis mūsų įrankiu :)"
-  },
   "v2_5a89a2c7": {
     "description": "Auto-generated translation for: Tell us your issue - we can fix it and make the app perfect for you!",
     "message": "Praneškite mums apie savo problemą – mes galime ją išspręsti ir pritaikyti programėlę tobulai jūsų poreikiams!"
@@ -6567,45 +6559,9 @@
     "description": "Auto-generated translation for: Mastered",
     "message": "Įvaldytas"
   },
-  "v2_627263fe": {
-    "description": "Auto-generated translation for: Archived",
-    "message": "Archyvuota"
-  },
-  "v2_6abe10e3": {
-    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
-    "message": "Mokymasis: pažymėkite šį žodį kaip šiuo metu mokomą. Jis atsiras jūsų mokymosi sąraše."
-  },
-  "v2_208be9bd": {
-    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
-    "message": "Įsisavinta: pažymėkite šį žodį kaip visiškai išmoktą. Jis bus stebimas kaip žinomas žodis."
-  },
-  "v2_5b8363db": {
-    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
-    "message": "Archyvuota: Paslėpti šį žodį nuo aktyvaus mokymosi. Jis bus archyvuotas ir nepasirodys praktikoje."
-  },
-  "v2_718c2f58": {
-    "description": "Auto-generated translation for: Unknown status",
-    "message": "Nežinoma būsena"
-  },
-  "v2_239a703d": {
-    "description": "Auto-generated translation for: Bookmark this word first to change its status",
-    "message": "Pirmiausia pažymėkite šį žodį, kad pakeistumėte jo būseną"
-  },
-  "v2_50f9e5c8": {
-    "description": "Auto-generated translation for: Word Status",
-    "message": "Žodžio būsena"
-  },
-  "v2_242c8203": {
-    "description": "Auto-generated translation for: Mark your progress learning this word",
-    "message": "Pažymėkite savo pažangą mokantis šio žodžio"
-  },
   "v2_1a46dde4": {
     "description": "Auto-generated translation for: Mark as Mastered",
     "message": "Pažymėti kaip įvaldytą"
-  },
-  "v2_7b477da8": {
-    "description": "Auto-generated translation for: Move to Archived",
-    "message": "Perkelti į archyvą"
   },
   "v2_311a08dc": {
     "description": "Auto-generated translation for: No analysis available",
@@ -6655,10 +6611,6 @@
     "description": "Auto-generated translation for: Map CSV Columns",
     "message": "Susieti CSV stulpelius"
   },
-  "v2_72f24b41": {
-    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
-    "message": "Vilkite CSV stulpelius iš dešiniojo skydelio į žymių laukus kairėje. Sąsaja automatiškai prisitaiko pagal jūsų CSV struktūrą."
-  },
   "v2_05370547": {
     "description": "Auto-generated translation for: Please select a valid CSV file",
     "message": "Prašome pasirinkti tinkamą CSV failą"
@@ -6666,10 +6618,6 @@
   "v2_18b1314b": {
     "description": "Auto-generated translation for: Upload CSV File",
     "message": "Įkelti CSV failą"
-  },
-  "v2_645615a5": {
-    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
-    "message": "Pasirinkite CSV failą su žymėmis, kurį norite importuoti"
   },
   "v2_0552e347": {
     "description": "Auto-generated translation for: File drop zone",
@@ -6683,42 +6631,9 @@
     "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
     "message": "Nutempkite CSV failą čia arba spustelėkite, kad naršytumėte"
   },
-  "v2_739e2d79": {
-    "description": "Auto-generated translation for: CSV Format Tips",
-    "message": "CSV formato patarimai"
-  },
   "v2_6fd2993f": {
     "description": "Auto-generated translation for: First row should contain column headers",
     "message": "Pirmoje eilutėje turi būti stulpelių antraštės"
-  },
-  "v2_3d7f8c52": {
-    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
-    "message": "Žodžiams/frazėms būtinas bent jau stulpelis 'value'"
-  },
-  "v2_73751084": {
-    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
-    "message": "Palaikomi skirtukai: kablelis (,), kabliataškis (;), tabuliavimo simbolis"
-  },
-  "v2_06927651": {
-    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
-    "message": "Kelios reikšmės viename stulpelyje gali būti atskirtos kableliais arba kabliataškiais."
-  },
-  "v2_1bca8478": {
-    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
-    "message": "Automatiškai aptikta $count$ stulpelių atitikmenų",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2d975a89": {
-    "description": "Auto-generated translation for: Accept All",
-    "message": "Priimti viską"
-  },
-  "v2_3923b596": {
-    "description": "Auto-generated translation for: Dismiss",
-    "message": "Atmesti"
   },
   "v2_001de6cd": {
     "description": "Auto-generated translation for: This field is required",
@@ -7140,10 +7055,6 @@
     "description": "Auto-generated translation for: Thank you",
     "message": "Ačiū"
   },
-  "v2_4e789fe2": {
-    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
-    "message": "Mes vertiname jūsų atsiliepimus ir padarysime viską, kad programėlė būtų jums geresnė. Prie jūsų paskyros pridėta 30 dienų FluentAI+."
-  },
   "v2_2e6bca42": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles",
     "message": "Neriboti AI subtitrai"
@@ -7187,14 +7098,6 @@
   "v2_25d7795d": {
     "description": "Auto-generated translation for: An error occurred during transcription",
     "message": "Transkribuojant įvyko klaida"
-  },
-  "v2_6cb79c3b": {
-    "description": "Auto-generated translation for: Select Video File",
-    "message": "Pasirinkite vaizdo failą"
-  },
-  "v2_3e76f194": {
-    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
-    "message": "Įkelkite vaizdo įrašo failą, kad sugeneruotumėte subtitrus"
   },
   "v2_3a059b20": {
     "description": "Auto-generated translation for: Import New Video",
@@ -7436,10 +7339,6 @@
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
     "message": "Tvarkykite išsaugotus žodžius ir frazes į pasirinktinius sąrašus, kad galėtumėte lengvai juos pasiekti ir studijuoti."
   },
-  "v2_64896e2b": {
-    "description": "Auto-generated translation for: You haven't created any lists yet.",
-    "message": "Jūs dar nesukūrėte jokių sąrašų."
-  },
   "v2_5f364956": {
     "description": "Auto-generated translation for: Loading list details...",
     "message": "Įkeliami sąrašo duomenys..."
@@ -7524,5 +7423,127 @@
   "v2_12228bc2": {
     "description": "Auto-generated translation for: Generate Words",
     "message": "Generuoti Žodžius"
+  },
+  "v2_4f004b9c": {
+    "description": "Auto-generated translation for: Move to Ignored",
+    "message": "Perkelti į Ignoruojamus"
+  },
+  "v2_3453ab4e": {
+    "description": "Auto-generated translation for: Ignored",
+    "message": "Nepaisoma"
+  },
+  "v2_287cd431": {
+    "description": "Auto-generated translation for: Detecting...",
+    "message": "Aptikimas..."
+  },
+  "v2_040bb0da": {
+    "description": "Auto-generated translation for: Field",
+    "message": "Laukas"
+  },
+  "v2_03872d10": {
+    "description": "Auto-generated translation for: CSV Column",
+    "message": "CSV Stulpelis"
+  },
+  "v2_0ee8feec": {
+    "description": "Auto-generated translation for: Auto-detected $count$ mappings",
+    "message": "Automatiškai aptikta $count$ susiejimų",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_00014d67": {
+    "description": "Auto-generated translation for: Use",
+    "message": "Naudoti"
+  },
+  "v2_1a353919": {
+    "description": "Auto-generated translation for: Available Colors",
+    "message": "Galimos Spalvos"
+  },
+  "v2_529b3712": {
+    "description": "Auto-generated translation for: Colors used for column mapping",
+    "message": "Spalvos, naudojamos stulpelių susiejimui"
+  },
+  "v2_370b4cf6": {
+    "description": "Auto-generated translation for: Tag Colors",
+    "message": "Žymių spalvos"
+  },
+  "v2_47f61e42": {
+    "description": "Auto-generated translation for: Tag Border Colors",
+    "message": "Žymių kraštinių spalvos"
+  },
+  "v2_64cb5c0b": {
+    "description": "Auto-generated translation for: Logo Gradient Colors",
+    "message": "Logotipo gradientų spalvos"
+  },
+  "v2_2c6d0590": {
+    "description": "Auto-generated translation for: Set status",
+    "message": "Nustatyti būseną"
+  },
+  "v2_04549323": {
+    "description": "Auto-generated translation for: Known",
+    "message": "Žinomas"
+  },
+  "v2_0eda9b29": {
+    "description": "Auto-generated translation for: Switch to {status}",
+    "message": "Perjungti į {status}",
+    "placeholders": {
+      "status": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_41ef59a9": {
+    "description": "Auto-generated translation for: No results.",
+    "message": "Rezultatų nerasta."
+  },
+  "v2_669ecfde": {
+    "description": "Auto-generated translation for: Deselect all",
+    "message": "Atšaukti visų pasirinkimą"
+  },
+  "v2_1cfcf432": {
+    "description": "Auto-generated translation for: Select all page",
+    "message": "Pasirinkti visą puslapį"
+  },
+  "v2_10e4b2b9": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you.",
+    "message": "Mes vertiname jūsų atsiliepimus ir padarysime viską, kad programa jums būtų geresnė."
+  },
+  "v2_390abc68": {
+    "description": "Auto-generated translation for: Billing Settings",
+    "message": "Atsiskaitymo nustatymai"
+  },
+  "v2_5b100f35": {
+    "description": "Auto-generated translation for: We'd love to hear your feedback!",
+    "message": "Mums būtų malonu išgirsti jūsų atsiliepimus!"
+  },
+  "v2_0cb49284": {
+    "description": "Auto-generated translation for: Your feedback helps us improve FluentAI and fix issues. Please share what didn't work for you.",
+    "message": "Jūsų atsiliepimai padeda mums patobulinti \"FluentAI\" ir ištaisyti klaidas. Prašome pasidalinti, kas neveikė."
+  },
+  "v2_59837c49": {
+    "description": "Auto-generated translation for: Try FluentAI",
+    "message": "Išbandykite FluentAI"
+  },
+  "v2_13a366e5": {
+    "description": "Auto-generated translation for: Analyzing...",
+    "message": "Analizuojama..."
+  },
+  "v2_5e72c7dc": {
+    "description": "Auto-generated translation for: Close analysis",
+    "message": "Glaudi analizė"
+  },
+  "v2_1c9f2d29": {
+    "description": "Auto-generated translation for: Analyze sentence",
+    "message": "Analizuoti sakinį"
+  },
+  "v2_2b051875": {
+    "description": "Auto-generated translation for: Bookmarked",
+    "message": "Įtraukta į adresyną"
+  },
+  "v2_355cc324": {
+    "description": "Auto-generated translation for: Bookmark paragraph",
+    "message": "Įtraukti pastraipą į žymes"
   }
 }

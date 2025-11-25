@@ -2840,14 +2840,6 @@
     "description": "Auto-generated translation for: To ensure the best experience and security, please update your app to the latest version.",
     "message": "সেরা অভিজ্ঞতা এবং নিরাপত্তা নিশ্চিত করতে, অনুগ্রহ করে আপনার অ্যাপটি সর্বশেষ সংস্করণে আপডেট করুন।"
   },
-  "v2_27ec3cfa": {
-    "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
-    "message": "আপনার মতামতের জন্য <span class=\"gradient-highlighted-text\">১ মাস বিনামূল্যে</span> পান!"
-  },
-  "v2_36d5d02e": {
-    "description": "Auto-generated translation for: Your detailed feedback will unlock 1 month of premium features at no cost, so we get to fix your issue and you get to enjoy our tool :)",
-    "message": "আপনার বিস্তারিত মতামত আমাদের ১ মাসের প্রিমিয়াম ফিচার বিনামূল্যে আনলক করে দেবে, তাই এতে আমরা আপনার সমস্যার সমাধান করতে পারব এবং আপনি আমাদের টুলটি উপভোগ করতে পারবেন :)"
-  },
   "v2_5a89a2c7": {
     "description": "Auto-generated translation for: Tell us your issue - we can fix it and make the app perfect for you!",
     "message": "আপনার সমস্যাটি বলুন - আমরা এটি ঠিক করতে পারি এবং আপনার জন্য অ্যাপটিকে নিখুঁত করে তুলতে পারি!"
@@ -6714,45 +6706,9 @@
     "description": "Auto-generated translation for: Mastered",
     "message": "দক্ষতা অর্জন করেছে"
   },
-  "v2_627263fe": {
-    "description": "Auto-generated translation for: Archived",
-    "message": "সংরক্ষিত"
-  },
-  "v2_6abe10e3": {
-    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
-    "message": "শেখা: এই শব্দটিকে বর্তমানে শেখা হচ্ছে হিসেবে চিহ্নিত করুন। এটি আপনার শেখার তালিকায় প্রদর্শিত হবে।"
-  },
-  "v2_208be9bd": {
-    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
-    "message": "দক্ষ: এই শব্দটি সম্পূর্ণরূপে শেখা হয়েছে হিসেবে চিহ্নিত করুন। এটি একটি পরিচিত শব্দ হিসাবে ট্র্যাক করা হবে।"
-  },
-  "v2_5b8363db": {
-    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
-    "message": "আর্কাইভ করা হয়েছে: সক্রিয় শিক্ষা থেকে এই শব্দটি লুকান। এটি আর্কাইভ করা হবে এবং অনুশীলনে প্রদর্শিত হবে না।"
-  },
-  "v2_718c2f58": {
-    "description": "Auto-generated translation for: Unknown status",
-    "message": "অজানা অবস্থা"
-  },
-  "v2_239a703d": {
-    "description": "Auto-generated translation for: Bookmark this word first to change its status",
-    "message": "এই শব্দটির অবস্থা পরিবর্তন করতে প্রথমে এটি বুকমার্ক করুন"
-  },
-  "v2_50f9e5c8": {
-    "description": "Auto-generated translation for: Word Status",
-    "message": "শব্দের স্থিতি"
-  },
-  "v2_242c8203": {
-    "description": "Auto-generated translation for: Mark your progress learning this word",
-    "message": "এই শব্দটি শেখার পথে আপনার অগ্রগতি চিহ্নিত করুন"
-  },
   "v2_1a46dde4": {
     "description": "Auto-generated translation for: Mark as Mastered",
     "message": "মাস্টার করা হয়েছে হিসেবে চিহ্নিত করুন"
-  },
-  "v2_7b477da8": {
-    "description": "Auto-generated translation for: Move to Archived",
-    "message": "আর্কাইভ করা স্থানে সরান"
   },
   "v2_311a08dc": {
     "description": "Auto-generated translation for: No analysis available",
@@ -6802,10 +6758,6 @@
     "description": "Auto-generated translation for: Map CSV Columns",
     "message": "\"CSV কলামগুলি ম্যাপ করুন\""
   },
-  "v2_72f24b41": {
-    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
-    "message": "ডানদিকের প্যানেল থেকে CSV কলামগুলি টেনে এনে বাম দিকের বুকমার্ক ফিল্ডগুলিতে রাখুন। আপনার CSV কাঠামোর উপর ভিত্তি করে ইন্টারফেসটি স্বয়ংক্রিয়ভাবে মানিয়ে নেবে।"
-  },
   "v2_05370547": {
     "description": "Auto-generated translation for: Please select a valid CSV file",
     "message": "অনুগ্রহ করে একটি বৈধ CSV ফাইল নির্বাচন করুন"
@@ -6813,10 +6765,6 @@
   "v2_18b1314b": {
     "description": "Auto-generated translation for: Upload CSV File",
     "message": "সিএসভি ফাইল আপলোড করুন"
-  },
-  "v2_645615a5": {
-    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
-    "message": "আমদানি করার জন্য আপনার বুকমার্কগুলি রয়েছে এমন একটি CSV ফাইল নির্বাচন করুন"
   },
   "v2_0552e347": {
     "description": "Auto-generated translation for: File drop zone",
@@ -6830,42 +6778,9 @@
     "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
     "message": "আপনার CSV ফাইলটি এখানে টেনে আনুন এবং ছেড়ে দিন, অথবা ব্রাউজ করতে ক্লিক করুন"
   },
-  "v2_739e2d79": {
-    "description": "Auto-generated translation for: CSV Format Tips",
-    "message": "CSV ফরম্যাট বিষয়ক টিপস"
-  },
   "v2_6fd2993f": {
     "description": "Auto-generated translation for: First row should contain column headers",
     "message": "প্রথম সারিটিতে কলাম শিরোনাম থাকা উচিত"
-  },
-  "v2_3d7f8c52": {
-    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
-    "message": "শব্দ/শব্দগুচ্ছের জন্য কমপক্ষে একটি 'value' কলাম প্রয়োজন।"
-  },
-  "v2_73751084": {
-    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
-    "message": "সমর্থিত বিভাজকসমূহ: কমা (,), সেমিকোলন (;), ট্যাব"
-  },
-  "v2_06927651": {
-    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
-    "message": "একটি কলামে একাধিক অর্থ কমা বা সেমিকোলন দ্বারা পৃথক করা যেতে পারে"
-  },
-  "v2_1bca8478": {
-    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
-    "message": "স্বয়ংক্রিয়ভাবে $count$ কলাম ম্যাপিং সনাক্ত করা হয়েছে",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2d975a89": {
-    "description": "Auto-generated translation for: Accept All",
-    "message": "সবগুলো গ্রহণ করুন"
-  },
-  "v2_3923b596": {
-    "description": "Auto-generated translation for: Dismiss",
-    "message": "বরখাস্ত করা"
   },
   "v2_001de6cd": {
     "description": "Auto-generated translation for: This field is required",
@@ -7287,10 +7202,6 @@
     "description": "Auto-generated translation for: Thank you",
     "message": "ধন্যবাদ"
   },
-  "v2_4e789fe2": {
-    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
-    "message": "আমরা আপনার মতামতের জন্য কৃতজ্ঞ এবং আপনার জন্য অ্যাপটিকে আরও উন্নত করতে যথাসাধ্য চেষ্টা করব। আপনার অ্যাকাউন্টে এখন FluentAI+-এর ৩০ দিন যোগ করা হয়েছে।"
-  },
   "v2_2e6bca42": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles",
     "message": "আনলিমিটেড এআই সাবটাইটেল"
@@ -7334,14 +7245,6 @@
   "v2_25d7795d": {
     "description": "Auto-generated translation for: An error occurred during transcription",
     "message": "ট্রান্সক্রিপশনের সময় একটি ত্রুটি ঘটেছে"
-  },
-  "v2_6cb79c3b": {
-    "description": "Auto-generated translation for: Select Video File",
-    "message": "ভিডিও ফাইল নির্বাচন করুন"
-  },
-  "v2_3e76f194": {
-    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
-    "message": "সাবটাইটেল তৈরি করতে একটি ভিডিও ফাইল আপলোড করুন"
   },
   "v2_3a059b20": {
     "description": "Auto-generated translation for: Import New Video",
@@ -7583,10 +7486,6 @@
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
     "message": "সহজ অ্যাক্সেস এবং অধ্যয়নের জন্য আপনার সংরক্ষিত শব্দ এবং শব্দগুচ্ছগুলিকে কাস্টম তালিকায় সংগঠিত করুন।"
   },
-  "v2_64896e2b": {
-    "description": "Auto-generated translation for: You haven't created any lists yet.",
-    "message": "আপনি এখনও পর্যন্ত কোনো তালিকা তৈরি করেননি।"
-  },
   "v2_5f364956": {
     "description": "Auto-generated translation for: Loading list details...",
     "message": "তালিকা বিবরণ লোড হচ্ছে..."
@@ -7671,5 +7570,127 @@
   "v2_12228bc2": {
     "description": "Auto-generated translation for: Generate Words",
     "message": "শব্দ তৈরি করুন"
+  },
+  "v2_4f004b9c": {
+    "description": "Auto-generated translation for: Move to Ignored",
+    "message": "উপেক্ষিত তালিকায় সরান"
+  },
+  "v2_3453ab4e": {
+    "description": "Auto-generated translation for: Ignored",
+    "message": "উপেক্ষিত"
+  },
+  "v2_287cd431": {
+    "description": "Auto-generated translation for: Detecting...",
+    "message": "সনাক্ত করা হচ্ছে..."
+  },
+  "v2_040bb0da": {
+    "description": "Auto-generated translation for: Field",
+    "message": "ক্ষেত্র"
+  },
+  "v2_03872d10": {
+    "description": "Auto-generated translation for: CSV Column",
+    "message": "\"CSV কলাম\""
+  },
+  "v2_0ee8feec": {
+    "description": "Auto-generated translation for: Auto-detected $count$ mappings",
+    "message": "স্বয়ংক্রিয়ভাবে $count$ ম্যাপিং সনাক্ত করা হয়েছে",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_00014d67": {
+    "description": "Auto-generated translation for: Use",
+    "message": "ব্যবহার"
+  },
+  "v2_1a353919": {
+    "description": "Auto-generated translation for: Available Colors",
+    "message": "উপলব্ধ রং"
+  },
+  "v2_529b3712": {
+    "description": "Auto-generated translation for: Colors used for column mapping",
+    "message": "কলাম ম্যাপিংয়ের জন্য ব্যবহৃত রং"
+  },
+  "v2_370b4cf6": {
+    "description": "Auto-generated translation for: Tag Colors",
+    "message": "ট্যাগ রং"
+  },
+  "v2_47f61e42": {
+    "description": "Auto-generated translation for: Tag Border Colors",
+    "message": "ট্যাগ বর্ডার রং"
+  },
+  "v2_64cb5c0b": {
+    "description": "Auto-generated translation for: Logo Gradient Colors",
+    "message": "লোগো গ্রেডিয়েন্ট রং"
+  },
+  "v2_2c6d0590": {
+    "description": "Auto-generated translation for: Set status",
+    "message": "স্ট্যাটাস সেট করুন"
+  },
+  "v2_04549323": {
+    "description": "Auto-generated translation for: Known",
+    "message": "পরিচিত"
+  },
+  "v2_0eda9b29": {
+    "description": "Auto-generated translation for: Switch to {status}",
+    "message": "{status}-তে স্যুইচ করুন",
+    "placeholders": {
+      "status": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_41ef59a9": {
+    "description": "Auto-generated translation for: No results.",
+    "message": "কোনো ফলাফল নেই।"
+  },
+  "v2_669ecfde": {
+    "description": "Auto-generated translation for: Deselect all",
+    "message": "সব নির্বাচন বাতিল করুন"
+  },
+  "v2_1cfcf432": {
+    "description": "Auto-generated translation for: Select all page",
+    "message": "সমস্ত পৃষ্ঠা নির্বাচন করুন"
+  },
+  "v2_10e4b2b9": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you.",
+    "message": "আমরা আপনার মতামতের জন্য কৃতজ্ঞ এবং আপনার জন্য অ্যাপটিকে আরও উন্নত করতে আমরা যথাসাধ্য চেষ্টা করব।"
+  },
+  "v2_390abc68": {
+    "description": "Auto-generated translation for: Billing Settings",
+    "message": "বিলিং সেটিংস"
+  },
+  "v2_5b100f35": {
+    "description": "Auto-generated translation for: We'd love to hear your feedback!",
+    "message": "আমরা আপনার মতামত জানতে আগ্রহী!"
+  },
+  "v2_0cb49284": {
+    "description": "Auto-generated translation for: Your feedback helps us improve FluentAI and fix issues. Please share what didn't work for you.",
+    "message": "আপনার মতামত FluentAI উন্নত করতে এবং সমস্যাগুলি সমাধান করতে আমাদের সাহায্য করে। আপনার জন্য কী কাজ করেনি তা অনুগ্রহ করে জানান।"
+  },
+  "v2_59837c49": {
+    "description": "Auto-generated translation for: Try FluentAI",
+    "message": "FluentAI চেষ্টা করুন"
+  },
+  "v2_13a366e5": {
+    "description": "Auto-generated translation for: Analyzing...",
+    "message": "বিশ্লেষণ করা হচ্ছে..."
+  },
+  "v2_5e72c7dc": {
+    "description": "Auto-generated translation for: Close analysis",
+    "message": "গভীর বিশ্লেষণ"
+  },
+  "v2_1c9f2d29": {
+    "description": "Auto-generated translation for: Analyze sentence",
+    "message": "বাক্য বিশ্লেষণ করুন"
+  },
+  "v2_2b051875": {
+    "description": "Auto-generated translation for: Bookmarked",
+    "message": "বুকমার্ক করা হয়েছে"
+  },
+  "v2_355cc324": {
+    "description": "Auto-generated translation for: Bookmark paragraph",
+    "message": "অনুচ্ছেদ বুকমার্ক করুন"
   }
 }

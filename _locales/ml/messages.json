@@ -2840,14 +2840,6 @@
     "description": "Auto-generated translation for: To ensure the best experience and security, please update your app to the latest version.",
     "message": "മികച്ച അനുഭവത്തിനും സുരക്ഷയ്ക്കും വേണ്ടി, ദയവായി നിങ്ങളുടെ ആപ്പ് ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്യുക."
   },
-  "v2_27ec3cfa": {
-    "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
-    "message": "നിങ്ങളുടെ ഫീഡ്‌ബാക്കിന് <span class=\"gradient-highlighted-text\">1 മാസം സൗജന്യം</span> നേടൂ!"
-  },
-  "v2_36d5d02e": {
-    "description": "Auto-generated translation for: Your detailed feedback will unlock 1 month of premium features at no cost, so we get to fix your issue and you get to enjoy our tool :)",
-    "message": "നിങ്ങളുടെ വിശദമായ ഫീഡ്‌ബാക്ക് ഒരു മാസത്തെ പ്രീമിയം ഫീച്ചറുകൾ സൗജന്യമായി നൽകും, അതുവഴി ഞങ്ങൾക്ക് നിങ്ങളുടെ പ്രശ്നം പരിഹരിക്കാനും നിങ്ങൾ ഞങ്ങളുടെ ടൂൾ സൗജന്യമായി ഉപയോഗിക്കാനും കഴിയും :)"
-  },
   "v2_5a89a2c7": {
     "description": "Auto-generated translation for: Tell us your issue - we can fix it and make the app perfect for you!",
     "message": "നിങ്ങളുടെ പ്രശ്നം പറയൂ - ഞങ്ങൾക്ക് അത് പരിഹരിക്കാനും നിങ്ങൾക്കായി ആപ്പ് മികച്ചതാക്കാനും കഴിയും!"
@@ -6567,45 +6559,9 @@
     "description": "Auto-generated translation for: Mastered",
     "message": "പരിചയം നേടിയ"
   },
-  "v2_627263fe": {
-    "description": "Auto-generated translation for: Archived",
-    "message": "സംരക്ഷിച്ചത്"
-  },
-  "v2_6abe10e3": {
-    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
-    "message": "പഠനം: ഈ വാക്ക് നിലവിൽ പഠിച്ചുകൊണ്ടിരിക്കുന്നതായി അടയാളപ്പെടുത്തുക. ഇത് നിങ്ങളുടെ പഠന ലിസ്റ്റിൽ ദൃശ്യമാകും."
-  },
-  "v2_208be9bd": {
-    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
-    "message": "പരിചയിച്ചു: ഈ വാക്ക് പൂർണ്ണമായി പഠിച്ചതായി രേഖപ്പെടുത്തുക. ഇത് അറിയാവുന്ന വാക്കായി ട്രാക്ക് ചെയ്യപ്പെടും."
-  },
-  "v2_5b8363db": {
-    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
-    "message": "ശേഖരിച്ചത്: സജീവമായ പഠനത്തിൽ നിന്ന് ഈ വാക്ക് മറയ്ക്കുക. ഇത് ആർക്കൈവ് ചെയ്യപ്പെടും, കൂടാതെ പരിശീലനത്തിൽ ദൃശ്യമാകില്ല."
-  },
-  "v2_718c2f58": {
-    "description": "Auto-generated translation for: Unknown status",
-    "message": "സ്ഥിതി ലഭ്യമല്ല"
-  },
-  "v2_239a703d": {
-    "description": "Auto-generated translation for: Bookmark this word first to change its status",
-    "message": "ഈ വാക്കിന്റെ നില മാറ്റുവാനായി ആദ്യം ഇത് ബുക്ക്മാർക്ക് ചെയ്യുക"
-  },
-  "v2_50f9e5c8": {
-    "description": "Auto-generated translation for: Word Status",
-    "message": "വാക്കിന്റെ സ്ഥിതി"
-  },
-  "v2_242c8203": {
-    "description": "Auto-generated translation for: Mark your progress learning this word",
-    "message": "ഈ വാക്ക് പഠിക്കുന്നതിലെ നിങ്ങളുടെ പുരോഗതി രേഖപ്പെടുത്തുക"
-  },
   "v2_1a46dde4": {
     "description": "Auto-generated translation for: Mark as Mastered",
     "message": "പരിചയമുള്ളതായി അടയാളപ്പെടുത്തുക"
-  },
-  "v2_7b477da8": {
-    "description": "Auto-generated translation for: Move to Archived",
-    "message": "ആർക്കൈവ് ചെയ്തതിലേക്ക് മാറ്റുക"
   },
   "v2_311a08dc": {
     "description": "Auto-generated translation for: No analysis available",
@@ -6655,10 +6611,6 @@
     "description": "Auto-generated translation for: Map CSV Columns",
     "message": "CSV കോളം മാപ്പ് ചെയ്യുക"
   },
-  "v2_72f24b41": {
-    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
-    "message": "CSV കോളം വലത് പാനലിൽ നിന്ന് ഇടത് വശത്തുള്ള ബുക്ക്മാർക്ക് ഫീൽഡുകളിലേക്ക് വലിച്ചിടുക. നിങ്ങളുടെ CSV ഘടനയെ അടിസ്ഥാനമാക്കി ഇൻ്റർഫേസ് സ്വയമേവ ക്രമീകരിക്കും."
-  },
   "v2_05370547": {
     "description": "Auto-generated translation for: Please select a valid CSV file",
     "message": "ദയവായി സാധുവായ ഒരു CSV ഫയൽ തിരഞ്ഞെടുക്കുക"
@@ -6666,10 +6618,6 @@
   "v2_18b1314b": {
     "description": "Auto-generated translation for: Upload CSV File",
     "message": "CSV ഫയൽ അപ്‌ലോഡ് ചെയ്യുക"
-  },
-  "v2_645615a5": {
-    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
-    "message": "ഇറക്കുമതി ചെയ്യാൻ നിങ്ങളുടെ ബുക്ക്മാർക്കുകൾ അടങ്ങിയ ഒരു CSV ഫയൽ തിരഞ്ഞെടുക്കുക"
   },
   "v2_0552e347": {
     "description": "Auto-generated translation for: File drop zone",
@@ -6683,42 +6631,9 @@
     "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
     "message": "നിങ്ങളുടെ CSV ഫയൽ ഇവിടെ വലിച്ചിട്ട് ഇടുക, അല്ലെങ്കിൽ ബ്രൗസ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക"
   },
-  "v2_739e2d79": {
-    "description": "Auto-generated translation for: CSV Format Tips",
-    "message": "CSV ഫോർമാറ്റ് ടിപ്പുകൾ"
-  },
   "v2_6fd2993f": {
     "description": "Auto-generated translation for: First row should contain column headers",
     "message": "ആദ്യത്തെ വരിയിൽ കോളം ഹെഡറുകൾ ഉണ്ടായിരിക്കണം"
-  },
-  "v2_3d7f8c52": {
-    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
-    "message": "വാക്കുകൾക്കും/ശൈലികൾക്കും കുറഞ്ഞത് ഒരു 'value' കോളം ആവശ്യമാണ്"
-  },
-  "v2_73751084": {
-    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
-    "message": "പിന്തുണയ്ക്കുന്ന ഡിലിമിറ്ററുകൾ: കോമ (,), സെമികോളൺ (;), ടാബ്"
-  },
-  "v2_06927651": {
-    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
-    "message": "ഒരേ കോളത്തിൽ ഒന്നിലധികം അർത്ഥങ്ങൾ കോമ (,) അല്ലെങ്കിൽ സെമികോളൻ (;) ഉപയോഗിച്ച് വേർതിരിക്കാവുന്നതാണ്."
-  },
-  "v2_1bca8478": {
-    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
-    "message": "സ്വയം കണ്ടെത്തിയ $count$ കോളം മാപ്പിംഗുകൾ",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2d975a89": {
-    "description": "Auto-generated translation for: Accept All",
-    "message": "എല്ലാം സ്വീകരിക്കുക"
-  },
-  "v2_3923b596": {
-    "description": "Auto-generated translation for: Dismiss",
-    "message": "ഒഴിവാക്കുക"
   },
   "v2_001de6cd": {
     "description": "Auto-generated translation for: This field is required",
@@ -7140,10 +7055,6 @@
     "description": "Auto-generated translation for: Thank you",
     "message": "നന്ദി"
   },
-  "v2_4e789fe2": {
-    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
-    "message": "നിങ്ങളുടെ പ്രതികരണത്തിന് ഞങ്ങൾ വിലമതിക്കുന്നു, നിങ്ങൾക്കായി ആപ്പ് കൂടുതൽ മികച്ചതാക്കാൻ ഞങ്ങൾ പരമാവധി ശ്രമിക്കും. 30 ദിവസത്തെ FluentAI+ ഇപ്പോൾ നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് ചേർത്തിട്ടുണ്ട്."
-  },
   "v2_2e6bca42": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles",
     "message": "പരിധിയില്ലാത്ത AI സബ്‌ടൈറ്റിലുകൾ"
@@ -7187,14 +7098,6 @@
   "v2_25d7795d": {
     "description": "Auto-generated translation for: An error occurred during transcription",
     "message": "ട്രാൻസ്ക്രിപ്ഷനിൽ ഒരു പിശക് സംഭവിച്ചു"
-  },
-  "v2_6cb79c3b": {
-    "description": "Auto-generated translation for: Select Video File",
-    "message": "വീഡിയോ ഫയല്‍ തിരഞ്ഞെടുക്കുക"
-  },
-  "v2_3e76f194": {
-    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
-    "message": "സബ്‌ടൈറ്റിലുകൾ നിർമ്മിക്കുന്നതിനായി ഒരു വീഡിയോ ഫയൽ അപ്‌ലോഡ് ചെയ്യുക"
   },
   "v2_3a059b20": {
     "description": "Auto-generated translation for: Import New Video",
@@ -7436,10 +7339,6 @@
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
     "message": "എളുപ്പത്തിൽ എടുക്കുന്നതിനും പഠിക്കുന്നതിനും വേണ്ടി നിങ്ങളുടെ സംരക്ഷിച്ച വാക്കുകളും ശൈലികളും ഇഷ്ടമുള്ള ലിസ്റ്റുകളായി ക്രമീകരിക്കുക."
   },
-  "v2_64896e2b": {
-    "description": "Auto-generated translation for: You haven't created any lists yet.",
-    "message": "നിങ്ങൾ ഇതുവരെ ലിസ്റ്റുകളൊന്നും ഉണ്ടാക്കിയിട്ടില്ല."
-  },
   "v2_5f364956": {
     "description": "Auto-generated translation for: Loading list details...",
     "message": "ലിസ്റ്റ് വിശദാംശങ്ങൾ ലോഡ് ചെയ്യുന്നു..."
@@ -7524,5 +7423,127 @@
   "v2_12228bc2": {
     "description": "Auto-generated translation for: Generate Words",
     "message": "വാക്കുകൾ സൃഷ്ടിക്കുക"
+  },
+  "v2_4f004b9c": {
+    "description": "Auto-generated translation for: Move to Ignored",
+    "message": "അവഗണിച്ചതിലേക്ക് മാറ്റുക"
+  },
+  "v2_3453ab4e": {
+    "description": "Auto-generated translation for: Ignored",
+    "message": "അവഗണിച്ചു"
+  },
+  "v2_287cd431": {
+    "description": "Auto-generated translation for: Detecting...",
+    "message": "കണ്ടെത്തുന്നു..."
+  },
+  "v2_040bb0da": {
+    "description": "Auto-generated translation for: Field",
+    "message": "ഫീൽഡ്"
+  },
+  "v2_03872d10": {
+    "description": "Auto-generated translation for: CSV Column",
+    "message": "CSV കോളം"
+  },
+  "v2_0ee8feec": {
+    "description": "Auto-generated translation for: Auto-detected $count$ mappings",
+    "message": "സ്വയം കണ്ടുപിടിച്ച $count$ മാപ്പിംഗുകൾ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_00014d67": {
+    "description": "Auto-generated translation for: Use",
+    "message": "ഉപയോഗിക്കുക"
+  },
+  "v2_1a353919": {
+    "description": "Auto-generated translation for: Available Colors",
+    "message": "ലഭ്യമായ നിറങ്ങൾ"
+  },
+  "v2_529b3712": {
+    "description": "Auto-generated translation for: Colors used for column mapping",
+    "message": "കോളം മാപ്പിംഗിനായി ഉപയോഗിക്കുന്ന നിറങ്ങൾ"
+  },
+  "v2_370b4cf6": {
+    "description": "Auto-generated translation for: Tag Colors",
+    "message": "ടാഗ് നിറങ്ങൾ"
+  },
+  "v2_47f61e42": {
+    "description": "Auto-generated translation for: Tag Border Colors",
+    "message": "ടാഗ് ബോർഡർ നിറങ്ങൾ"
+  },
+  "v2_64cb5c0b": {
+    "description": "Auto-generated translation for: Logo Gradient Colors",
+    "message": "ലോഗോ ഗ്രേഡിയന്റ് നിറങ്ങൾ"
+  },
+  "v2_2c6d0590": {
+    "description": "Auto-generated translation for: Set status",
+    "message": "സ്ഥിതി സജ്ജമാക്കുക"
+  },
+  "v2_04549323": {
+    "description": "Auto-generated translation for: Known",
+    "message": "അറിയപ്പെടുന്ന"
+  },
+  "v2_0eda9b29": {
+    "description": "Auto-generated translation for: Switch to {status}",
+    "message": "{status}-ലേക്ക് മാറുക",
+    "placeholders": {
+      "status": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_41ef59a9": {
+    "description": "Auto-generated translation for: No results.",
+    "message": "ഫലമൊന്നുമില്ല."
+  },
+  "v2_669ecfde": {
+    "description": "Auto-generated translation for: Deselect all",
+    "message": "എല്ലാം തിരഞ്ഞെടുക്കാതിരിക്കുക"
+  },
+  "v2_1cfcf432": {
+    "description": "Auto-generated translation for: Select all page",
+    "message": "എല്ലാ പേജും തിരഞ്ഞെടുക്കുക"
+  },
+  "v2_10e4b2b9": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you.",
+    "message": "നിങ്ങളുടെ പ്രതികരണത്തെ ഞങ്ങൾ അഭിനന്ദിക്കുന്നു, നിങ്ങൾക്കായി ആപ്പ് കൂടുതൽ മികച്ചതാക്കാൻ ഞങ്ങൾ പരമാവധി ശ്രമിക്കുന്നതാണ്."
+  },
+  "v2_390abc68": {
+    "description": "Auto-generated translation for: Billing Settings",
+    "message": "ബില്ലിംഗ് ക്രമീകരണങ്ങൾ"
+  },
+  "v2_5b100f35": {
+    "description": "Auto-generated translation for: We'd love to hear your feedback!",
+    "message": "നിങ്ങളുടെ പ്രതികരണം കേൾക്കാൻ ഞങ്ങൾ ആഗ്രഹിക്കുന്നു!"
+  },
+  "v2_0cb49284": {
+    "description": "Auto-generated translation for: Your feedback helps us improve FluentAI and fix issues. Please share what didn't work for you.",
+    "message": "നിങ്ങളുടെ പ്രതികരണം FluentAI മെച്ചപ്പെടുത്താനും പ്രശ്നങ്ങൾ പരിഹരിക്കാനും ഞങ്ങളെ സഹായിക്കുന്നു. നിങ്ങൾക്കെന്താണ് പ്രശ്നമായതെന്ന് ദയവായി പങ്കുവെക്കുക."
+  },
+  "v2_59837c49": {
+    "description": "Auto-generated translation for: Try FluentAI",
+    "message": "\"FluentAI പരീക്ഷിക്കൂ\""
+  },
+  "v2_13a366e5": {
+    "description": "Auto-generated translation for: Analyzing...",
+    "message": "विश्लेഷണം ചെയ്യുന്നു..."
+  },
+  "v2_5e72c7dc": {
+    "description": "Auto-generated translation for: Close analysis",
+    "message": "\"സൂക്ഷ്മമായ വിശകലനം\""
+  },
+  "v2_1c9f2d29": {
+    "description": "Auto-generated translation for: Analyze sentence",
+    "message": "വാക്യം വിശകലനം ചെയ്യുക"
+  },
+  "v2_2b051875": {
+    "description": "Auto-generated translation for: Bookmarked",
+    "message": "ബുക്ക്മാർക്ക് ചെയ്തു"
+  },
+  "v2_355cc324": {
+    "description": "Auto-generated translation for: Bookmark paragraph",
+    "message": "ഖണ്ഡിക അടയാളപ്പെടുത്തുക"
   }
 }

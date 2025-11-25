@@ -2840,14 +2840,6 @@
     "description": "Auto-generated translation for: To ensure the best experience and security, please update your app to the latest version.",
     "message": "برای اطمینان از بهترین تجربه و امنیت، لطفاً برنامه خود را به آخرین نسخه به‌روزرسانی کنید."
   },
-  "v2_27ec3cfa": {
-    "description": "Auto-generated translation for: Receive <span class=\"gradient-highlighted-text\">1 month free</span> for your feedback!",
-    "message": "با بازخورد خود <span class=\"gradient-highlighted-text\">۱ ماه رایگان</span> دریافت کنید!"
-  },
-  "v2_36d5d02e": {
-    "description": "Auto-generated translation for: Your detailed feedback will unlock 1 month of premium features at no cost, so we get to fix your issue and you get to enjoy our tool :)",
-    "message": "بازخورد دقیق شما، یک ماه امکانات ویژه را به صورت رایگان برایتان فعال می‌کند، بنابراین ما می‌توانیم مشکل شما را رفع کنیم و شما از ابزار ما لذت ببرید :)"
-  },
   "v2_5a89a2c7": {
     "description": "Auto-generated translation for: Tell us your issue - we can fix it and make the app perfect for you!",
     "message": "مشکلتان را به ما بگویید - ما می‌توانیم آن را حل کنیم و اپلیکیشن را برای شما بی‌نقص کنیم!"
@@ -6567,45 +6559,9 @@
     "description": "Auto-generated translation for: Mastered",
     "message": "مسلط شد"
   },
-  "v2_627263fe": {
-    "description": "Auto-generated translation for: Archived",
-    "message": "بایگانی‌شده"
-  },
-  "v2_6abe10e3": {
-    "description": "Auto-generated translation for: Learning: Mark this word as currently being learned. It will appear in your learning list.",
-    "message": "یادگیری: این واژه را به عنوان در حال یادگیری علامت بزنید. این واژه در لیست یادگیری شما ظاهر خواهد شد."
-  },
-  "v2_208be9bd": {
-    "description": "Auto-generated translation for: Mastered: Mark this word as fully learned. It will be tracked as a known word.",
-    "message": "مسلط شده: این کلمه را به عنوان کاملاً آموخته شده علامت بزنید. این کلمه به عنوان یک کلمه شناخته شده ردیابی خواهد شد."
-  },
-  "v2_5b8363db": {
-    "description": "Auto-generated translation for: Archived: Hide this word from active learning. It will be archived and won't appear in practice.",
-    "message": "بایگانی‌شده: این کلمه را از یادگیری فعال پنهان کن. این کلمه بایگانی خواهد شد و در تمرین ظاهر نخواهد شد."
-  },
-  "v2_718c2f58": {
-    "description": "Auto-generated translation for: Unknown status",
-    "message": "وضعیت نامشخص"
-  },
-  "v2_239a703d": {
-    "description": "Auto-generated translation for: Bookmark this word first to change its status",
-    "message": "برای تغییر وضعیت این واژه، ابتدا آن را نشانه‌گذاری کنید."
-  },
-  "v2_50f9e5c8": {
-    "description": "Auto-generated translation for: Word Status",
-    "message": "وضعیت کلمه"
-  },
-  "v2_242c8203": {
-    "description": "Auto-generated translation for: Mark your progress learning this word",
-    "message": "پیشرفت خود را در یادگیری این واژه علامت بزنید"
-  },
   "v2_1a46dde4": {
     "description": "Auto-generated translation for: Mark as Mastered",
     "message": "به عنوان مسلط علامت بزن"
-  },
-  "v2_7b477da8": {
-    "description": "Auto-generated translation for: Move to Archived",
-    "message": "انتقال به بایگانی"
   },
   "v2_311a08dc": {
     "description": "Auto-generated translation for: No analysis available",
@@ -6655,10 +6611,6 @@
     "description": "Auto-generated translation for: Map CSV Columns",
     "message": "نگاشت ستون‌های CSV"
   },
-  "v2_72f24b41": {
-    "description": "Auto-generated translation for: Drag CSV columns from the right panel to bookmark fields on the left. The interface adapts automatically based on your CSV structure.",
-    "message": "ستون‌های CSV را از پنل سمت راست به فیلدهای نشانک در سمت چپ بکشید. رابط کاربری به طور خودکار بر اساس ساختار CSV شما تطبیق می‌یابد."
-  },
   "v2_05370547": {
     "description": "Auto-generated translation for: Please select a valid CSV file",
     "message": "لطفاً یک فایل CSV معتبر انتخاب کنید."
@@ -6666,10 +6618,6 @@
   "v2_18b1314b": {
     "description": "Auto-generated translation for: Upload CSV File",
     "message": "بارگذاری فایل CSV"
-  },
-  "v2_645615a5": {
-    "description": "Auto-generated translation for: Select a CSV file containing your bookmarks to import",
-    "message": "یک فایل CSV حاوی نشانک‌های خود را برای وارد کردن انتخاب کنید"
   },
   "v2_0552e347": {
     "description": "Auto-generated translation for: File drop zone",
@@ -6683,42 +6631,9 @@
     "description": "Auto-generated translation for: Drag and drop your CSV file here, or click to browse",
     "message": "فایل CSV خود را اینجا بکشید و رها کنید، یا برای مرور کلیک کنید"
   },
-  "v2_739e2d79": {
-    "description": "Auto-generated translation for: CSV Format Tips",
-    "message": "نکاتی درباره فرمت CSV"
-  },
   "v2_6fd2993f": {
     "description": "Auto-generated translation for: First row should contain column headers",
     "message": "سطر اول باید شامل سر загоیندهای ستون باشد."
-  },
-  "v2_3d7f8c52": {
-    "description": "Auto-generated translation for: At least a 'value' column is required for words/phrases",
-    "message": "حداقل یک ستون 'value' برای واژه‌ها/عبارت‌ها مورد نیاز است."
-  },
-  "v2_73751084": {
-    "description": "Auto-generated translation for: Supported delimiters: comma (,), semicolon (;), tab",
-    "message": "جداکننده‌های پشتیبانی‌شده: کاما (,)، نقطه‌ویرگول (;)، تب"
-  },
-  "v2_06927651": {
-    "description": "Auto-generated translation for: Multiple meanings can be comma or semicolon-separated in one column",
-    "message": "معانی متعدد می توانند با کاما یا نقطه ویرگول از هم جدا شده و در یک ستون قرار گیرند"
-  },
-  "v2_1bca8478": {
-    "description": "Auto-generated translation for: Auto-detected $count$ column mappings",
-    "message": "تطابق‌های ستونی $count$ به‌طور خودکار شناسایی شدند.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_2d975a89": {
-    "description": "Auto-generated translation for: Accept All",
-    "message": "پذیرفتن همه"
-  },
-  "v2_3923b596": {
-    "description": "Auto-generated translation for: Dismiss",
-    "message": "رد کردن"
   },
   "v2_001de6cd": {
     "description": "Auto-generated translation for: This field is required",
@@ -7140,10 +7055,6 @@
     "description": "Auto-generated translation for: Thank you",
     "message": "متشکرم"
   },
-  "v2_4e789fe2": {
-    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you. 30 days of FluentAI+ are now added to your account.",
-    "message": "ما از بازخورد شما قدردانی می کنیم و تمام تلاش خود را خواهیم کرد تا برنامه را برای شما بهتر کنیم. ۳۰ روز از FluentAI+ اکنون به حساب شما اضافه شده است."
-  },
   "v2_2e6bca42": {
     "description": "Auto-generated translation for: Unlimited AI Subtitles",
     "message": "زیرنویس نامحدود هوش مصنوعی"
@@ -7187,14 +7098,6 @@
   "v2_25d7795d": {
     "description": "Auto-generated translation for: An error occurred during transcription",
     "message": "خطایی در حین رونویسی رخ داد."
-  },
-  "v2_6cb79c3b": {
-    "description": "Auto-generated translation for: Select Video File",
-    "message": "انتخاب فایل ویدئویی"
-  },
-  "v2_3e76f194": {
-    "description": "Auto-generated translation for: Upload a video file to generate subtitles",
-    "message": "یک فایل ویدیویی را بارگذاری کنید تا زیرنویس تولید شود."
   },
   "v2_3a059b20": {
     "description": "Auto-generated translation for: Import New Video",
@@ -7436,10 +7339,6 @@
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
     "message": "کلمات و عبارات ذخیره شده خود را در لیست‌های سفارشی سازماندهی کنید تا به راحتی به آن‌ها دسترسی داشته باشید و آن‌ها را مطالعه کنید."
   },
-  "v2_64896e2b": {
-    "description": "Auto-generated translation for: You haven't created any lists yet.",
-    "message": "هنوز هیچ لیستی ایجاد نکرده‌اید."
-  },
   "v2_5f364956": {
     "description": "Auto-generated translation for: Loading list details...",
     "message": "در حال بارگیری جزئیات فهرست..."
@@ -7524,5 +7423,127 @@
   "v2_12228bc2": {
     "description": "Auto-generated translation for: Generate Words",
     "message": "تولید واژگان"
+  },
+  "v2_4f004b9c": {
+    "description": "Auto-generated translation for: Move to Ignored",
+    "message": "انتقال به نادیده گرفته شده"
+  },
+  "v2_3453ab4e": {
+    "description": "Auto-generated translation for: Ignored",
+    "message": "نادیده گرفته شده"
+  },
+  "v2_287cd431": {
+    "description": "Auto-generated translation for: Detecting...",
+    "message": "در حال شناسایی..."
+  },
+  "v2_040bb0da": {
+    "description": "Auto-generated translation for: Field",
+    "message": "فیلد"
+  },
+  "v2_03872d10": {
+    "description": "Auto-generated translation for: CSV Column",
+    "message": "ستون CSV"
+  },
+  "v2_0ee8feec": {
+    "description": "Auto-generated translation for: Auto-detected $count$ mappings",
+    "message": "$count$ نگاشت به طور خودکار شناسایی شد",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_00014d67": {
+    "description": "Auto-generated translation for: Use",
+    "message": "استفاده"
+  },
+  "v2_1a353919": {
+    "description": "Auto-generated translation for: Available Colors",
+    "message": "رنگ‌های موجود"
+  },
+  "v2_529b3712": {
+    "description": "Auto-generated translation for: Colors used for column mapping",
+    "message": "رنگ‌های استفاده شده برای نگاشت ستون‌ها"
+  },
+  "v2_370b4cf6": {
+    "description": "Auto-generated translation for: Tag Colors",
+    "message": "رنگ‌های برچسب"
+  },
+  "v2_47f61e42": {
+    "description": "Auto-generated translation for: Tag Border Colors",
+    "message": "رنگ حاشیه برچسب"
+  },
+  "v2_64cb5c0b": {
+    "description": "Auto-generated translation for: Logo Gradient Colors",
+    "message": "رنگ‌های گرادیان لوگو"
+  },
+  "v2_2c6d0590": {
+    "description": "Auto-generated translation for: Set status",
+    "message": "تنظیم وضعیت"
+  },
+  "v2_04549323": {
+    "description": "Auto-generated translation for: Known",
+    "message": "شناخته شده"
+  },
+  "v2_0eda9b29": {
+    "description": "Auto-generated translation for: Switch to {status}",
+    "message": "تغییر وضعیت به {status}",
+    "placeholders": {
+      "status": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_41ef59a9": {
+    "description": "Auto-generated translation for: No results.",
+    "message": "هیچ نتیجه‌ای یافت نشد."
+  },
+  "v2_669ecfde": {
+    "description": "Auto-generated translation for: Deselect all",
+    "message": "لغو انتخاب همه"
+  },
+  "v2_1cfcf432": {
+    "description": "Auto-generated translation for: Select all page",
+    "message": "انتخاب همه صفحات"
+  },
+  "v2_10e4b2b9": {
+    "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you.",
+    "message": "ما از بازخورد شما قدردانی می‌کنیم و تمام تلاش خود را خواهیم کرد تا برنامه را برای شما بهتر کنیم."
+  },
+  "v2_390abc68": {
+    "description": "Auto-generated translation for: Billing Settings",
+    "message": "تنظیمات پرداخت"
+  },
+  "v2_5b100f35": {
+    "description": "Auto-generated translation for: We'd love to hear your feedback!",
+    "message": "خوشحال می‌شویم بازخورد شما را بشنویم!"
+  },
+  "v2_0cb49284": {
+    "description": "Auto-generated translation for: Your feedback helps us improve FluentAI and fix issues. Please share what didn't work for you.",
+    "message": "بازخورد شما به ما کمک می‌کند FluentAI را بهبود بخشیم و مشکلات را برطرف کنیم. لطفاً به اشتراک بگذارید چه چیزی برای شما کار نکرد."
+  },
+  "v2_59837c49": {
+    "description": "Auto-generated translation for: Try FluentAI",
+    "message": "FluentAI را امتحان کنید"
+  },
+  "v2_13a366e5": {
+    "description": "Auto-generated translation for: Analyzing...",
+    "message": "در حال تجزیه و تحلیل..."
+  },
+  "v2_5e72c7dc": {
+    "description": "Auto-generated translation for: Close analysis",
+    "message": "تحلیل دقیق"
+  },
+  "v2_1c9f2d29": {
+    "description": "Auto-generated translation for: Analyze sentence",
+    "message": "تحلیل جمله"
+  },
+  "v2_2b051875": {
+    "description": "Auto-generated translation for: Bookmarked",
+    "message": "نشانک‌گذاری شد"
+  },
+  "v2_355cc324": {
+    "description": "Auto-generated translation for: Bookmark paragraph",
+    "message": "نشانک پاراگراف"
   }
 }
