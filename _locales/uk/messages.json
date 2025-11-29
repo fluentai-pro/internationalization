@@ -634,10 +634,6 @@
     "description": "Auto-generated translation for: Download",
     "message": "Завантажити"
   },
-  "v2_4785f01e": {
-    "description": "Auto-generated translation for: App Management",
-    "message": "Керування додатками"
-  },
   "v2_7cfb805d": {
     "description": "Auto-generated translation for: Failed",
     "message": "Не вдалося"
@@ -661,10 +657,6 @@
   "v2_50c72189": {
     "description": "Auto-generated translation for: Profile",
     "message": "Профіль"
-  },
-  "v2_3eb4f971": {
-    "description": "Auto-generated translation for: Social Media",
-    "message": "Соціальні мережі"
   },
   "v2_002063ce": {
     "description": "Auto-generated translation for: Date",
@@ -1808,10 +1800,6 @@
     "description": "Auto-generated translation for: Feature Request",
     "message": "Запит на функціональність"
   },
-  "v2_52c6292d": {
-    "description": "Auto-generated translation for: No status set",
-    "message": "Статус не задано"
-  },
   "v2_7ade1e3a": {
     "description": "Auto-generated translation for: Neural Subtitles",
     "message": "Нейронні субтитри"
@@ -1851,10 +1839,6 @@
   "v2_4c47a99f": {
     "description": "Auto-generated translation for: Processing Status",
     "message": "Статус обробки"
-  },
-  "v2_43d2dd5e": {
-    "description": "Auto-generated translation for: Neural Transcriptions",
-    "message": "Нейронні транскрипції"
   },
   "v2_7d39a03b": {
     "description": "Auto-generated translation for: Import",
@@ -2076,10 +2060,6 @@
     "description": "Auto-generated translation for: Text to Speech Voice Selection",
     "message": "Вибір голосу для озвучування тексту"
   },
-  "v2_280ac135": {
-    "description": "Auto-generated translation for: Support Requests",
-    "message": "Запити на підтримку"
-  },
   "v2_63dc6819": {
     "description": "Auto-generated translation for: Message",
     "message": "Повідомлення"
@@ -2253,10 +2233,6 @@
     "description": "Auto-generated translation for: Updated",
     "message": "Оновлено"
   },
-  "v2_090660f3": {
-    "description": "Auto-generated translation for: Anki Export Jobs",
-    "message": "Завдання експорту в Anki"
-  },
   "v2_31b83218": {
     "description": "Auto-generated translation for: Failed to download Anki deck",
     "message": "Не вдалося завантажити колоду Anki"
@@ -2401,10 +2377,6 @@
     "description": "Auto-generated translation for: Show Learning Subtitles",
     "message": "Показувати освітні субтитри"
   },
-  "v2_72458491": {
-    "description": "Auto-generated translation for: Toggle Settings",
-    "message": "Перемкнути налаштування"
-  },
   "v2_39004e1d": {
     "description": "Auto-generated translation for: Set Language to $language$",
     "message": "Задати мову як $language$",
@@ -2437,10 +2409,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "Швидкість відео"
-  },
-  "v2_0fa166e0": {
-    "description": "Auto-generated translation for: Influencer Campaigns",
-    "message": "Інфлюенсерські кампанії"
   },
   "v2_2a09d4ce": {
     "description": "Auto-generated translation for: AI Neural Subtitles",
@@ -3243,10 +3211,6 @@
     "description": "Auto-generated translation for: Manage your account preferences and billing settings.",
     "message": "Керуйте налаштуваннями облікового запису та платіжними даними."
   },
-  "v2_3cf47f34": {
-    "description": "Auto-generated translation for: Text to Speech",
-    "message": "Текст у мовлення"
-  },
   "v2_28a3cf54": {
     "description": "Auto-generated translation for: Casual Usage",
     "message": "Повсякденне використання"
@@ -3407,10 +3371,6 @@
     "description": "Auto-generated translation for: Refresh Page",
     "message": "Оновити сторінку"
   },
-  "v2_31f114e0": {
-    "description": "Auto-generated translation for: Error Details (Development)",
-    "message": "Деталі помилки (розробка)"
-  },
   "v2_6c5bc7fd": {
     "description": "Auto-generated translation for: Remove from bookmarks",
     "message": "Видалити із закладок"
@@ -3514,14 +3474,6 @@
   "v2_3df0dbb4": {
     "description": "Auto-generated translation for: Loved by language learners worldwide",
     "message": "Улюблений серед тих, хто вивчає мови в усьому світі"
-  },
-  "v2_13c28849": {
-    "description": "Auto-generated translation for: Download for Chrome",
-    "message": "Завантажити для Chrome"
-  },
-  "v2_04f166ea": {
-    "description": "Auto-generated translation for: Download for Firefox",
-    "message": "Завантажити для Firefox"
   },
   "v2_2a214ea2": {
     "description": "Auto-generated translation for: Support & Community",
@@ -4087,22 +4039,9 @@
     "description": "Auto-generated translation for: Norwegian",
     "message": "Норвезька"
   },
-  "v2_196f550b": {
-    "description": "Auto-generated translation for: Anki Jobs",
-    "message": "Вакансії в Anki"
-  },
   "v2_21f28d5c": {
     "description": "Auto-generated translation for: Start Learning",
     "message": "Розпочати навчання"
-  },
-  "v2_562aca9e": {
-    "description": "Auto-generated translation for: $word$ added to bookmarks",
-    "message": "$word$ додано до закладок",
-    "placeholders": {
-      "word": {
-        "content": "$1"
-      }
-    }
   },
   "v2_2cafbf71": {
     "description": "Auto-generated translation for: $word$ removed from bookmarks",
@@ -4221,10 +4160,6 @@
     "description": "Auto-generated translation for: Display a side panel with all subtitles for easy navigation and review.",
     "message": "Відобразити бічну панель з усіма субтитрами для легкої навігації та перегляду."
   },
-  "v2_078d43ee": {
-    "description": "Auto-generated translation for: Generate Subtitles with AI",
-    "message": "Генерувати субтитри з ШІ"
-  },
   "v2_2b26d5bf": {
     "description": "Auto-generated translation for: Above the bar",
     "message": "Над баром"
@@ -4241,10 +4176,6 @@
     "description": "Auto-generated translation for: Playback Controls Settings",
     "message": "Налаштування керування відтворенням"
   },
-  "v2_7a43cfc2": {
-    "description": "Auto-generated translation for: Unable to process this video",
-    "message": "Не вдалося обробити це відео"
-  },
   "v2_119fc9e4": {
     "description": "Auto-generated translation for: An error occurred while requesting transcription",
     "message": "Виникла помилка під час запиту транскрипції"
@@ -4256,14 +4187,6 @@
   "v2_70349739": {
     "description": "Auto-generated translation for: Feedback details",
     "message": "Деталі зворотного зв'язку"
-  },
-  "v2_6195a0ba": {
-    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated. Please try again.",
-    "message": "Нейронна транскрипція завершена, але субтитри не були згенеровані. Будь ласка, спробуйте ще раз."
-  },
-  "v2_74392975": {
-    "description": "Auto-generated translation for: Neural transcription failed. Please try again.",
-    "message": "Нейронна транскрипція не вдалася. Будь ласка, спробуйте ще раз."
   },
   "v2_487a3b00": {
     "description": "Auto-generated translation for: Video ID",
@@ -4501,10 +4424,6 @@
     "description": "Auto-generated translation for: Simple translated text display component",
     "message": "Простий компонент відображення перекладеного тексту"
   },
-  "v2_642277f3": {
-    "description": "Auto-generated translation for: Dev Store Inspector",
-    "message": "Інспектор магазину розробників"
-  },
   "v2_4bb25c41": {
     "description": "Auto-generated translation for: No data available for selected store",
     "message": "Дані недоступні для вибраного магазину"
@@ -4541,10 +4460,6 @@
     "description": "Auto-generated translation for: Choose a store to inspect",
     "message": "Оберіть магазин для перевірки"
   },
-  "v2_20daf9f2": {
-    "description": "Auto-generated translation for: Refresh store data",
-    "message": "Оновити дані магазину"
-  },
   "v2_12dd5a41": {
     "description": "Auto-generated translation for: Loading store data...",
     "message": "Завантаження даних магазину..."
@@ -4564,10 +4479,6 @@
   "v2_25a296fd": {
     "description": "Auto-generated translation for: Your Free Trial has Ended",
     "message": "Ваш безкоштовний пробний період закінчився"
-  },
-  "v2_4c891c43": {
-    "description": "Auto-generated translation for: Please subscribe to get access to all premium features for just $0.15 per day.",
-    "message": "Будь ласка, підпишіться, щоб отримати доступ до всіх преміум-функцій лише за $0.15 на день."
   },
   "v2_3884bce6": {
     "description": "Auto-generated translation for: Add Subtitles to Any Video",
@@ -4865,14 +4776,6 @@
     "description": "Auto-generated translation for: Applying video settings",
     "message": "Застосування налаштувань відео"
   },
-  "v2_2473aba8": {
-    "description": "Auto-generated translation for: Try AI Subtitles",
-    "message": "Спробуйте субтитри зі ШІ"
-  },
-  "v2_23ea242e": {
-    "description": "Auto-generated translation for: No subtitles found. Use AI to generate accurate subtitles from audio.",
-    "message": "Субтитрів не знайдено. Використовуйте ШІ для створення точних субтитрів з аудіо."
-  },
   "v2_60edc1ee": {
     "description": "Auto-generated translation for: Generate AI Subtitles",
     "message": "Створити субтитри за допомогою ШІ"
@@ -4993,14 +4896,6 @@
     "description": "Auto-generated translation for: Feedback",
     "message": "Відгук"
   },
-  "v2_28932aa7": {
-    "description": "Auto-generated translation for: Dual subtitles for Netflix, YouTube, Amazon Prime, and Disney Plus.",
-    "message": "Подвійні субтитри для Netflix, YouTube, Amazon Prime і Disney Plus."
-  },
-  "v2_76068a05": {
-    "description": "Auto-generated translation for: Netflix & YouTube",
-    "message": "Netflix і YouTube"
-  },
   "v2_123785cf": {
     "description": "Auto-generated translation for: Open on Desktop",
     "message": "Відкрити на комп'ютері"
@@ -5028,14 +4923,6 @@
   "v2_640403e3": {
     "description": "Auto-generated translation for: Learn languages with smart subtitles while watching your favorite content on Netflix, YouTube, Prime Video, and Disney+.",
     "message": "Вивчайте мови за допомогою розумних субтитрів, переглядаючи улюблений контент на Netflix, YouTube, Prime Video та Disney+."
-  },
-  "v2_6313ed38": {
-    "description": "Auto-generated translation for: With our smart subtitles and cool features, learn any language by watching your favorite content. Finally, fun and easy.",
-    "message": "Завдяки нашим розумним субтитрам і крутим функціям, вивчайте будь-яку мову, переглядаючи улюблений контент. Нарешті, це весело та легко."
-  },
-  "v2_03044907": {
-    "description": "Auto-generated translation for: Learn languages with smart subtitles on YouTube, Netflix, Prime, and Disney.",
-    "message": "Вивчайте мови за допомогою розумних субтитрів на YouTube, Netflix, Prime та Disney."
   },
   "v2_672803b1": {
     "description": "Auto-generated translation for: Best experienced on desktop.",
@@ -5168,22 +5055,6 @@
   "v2_4e5a5812": {
     "description": "Auto-generated translation for: User Overrides",
     "message": "Перевизначення користувача"
-  },
-  "v2_557fd065": {
-    "description": "Auto-generated translation for: Neural transcription processing failed",
-    "message": "Обробка нейронної транскрипції не вдалася"
-  },
-  "v2_2662de51": {
-    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated",
-    "message": "Нейронну транскрипцію завершено, але субтитри не згенеровано"
-  },
-  "v2_7be6e727": {
-    "description": "Auto-generated translation for: No transcription ID returned",
-    "message": "Не повернено ідентифікатор транскрипції"
-  },
-  "v2_3846b5ed": {
-    "description": "Auto-generated translation for: Failed to request neural transcription. Please try again.",
-    "message": "Не вдалося отримати нейронну транскрипцію. Будь ласка, спробуйте ще раз."
   },
   "v2_6229de22": {
     "description": "Auto-generated translation for: Rate Us",
@@ -5658,10 +5529,6 @@
     "description": "Auto-generated translation for: Translations of the word",
     "message": "Переклади слова"
   },
-  "v2_565159f2": {
-    "description": "Auto-generated translation for: Dictionary Form",
-    "message": "Словникова форма"
-  },
   "v2_143527b0": {
     "description": "Auto-generated translation for: Base/canonical form of the word",
     "message": "Базова/канонічна форма слова"
@@ -5806,14 +5673,6 @@
   "v2_6cb2cf8d": {
     "description": "Auto-generated translation for: Select Book",
     "message": "Вибрати книгу"
-  },
-  "v2_67b52e74": {
-    "description": "Auto-generated translation for: No books in your library",
-    "message": "У вашій бібліотеці немає книг"
-  },
-  "v2_408d6104": {
-    "description": "Auto-generated translation for: Upload your first EPUB to get started",
-    "message": "Завантажте свій перший EPUB, щоб розпочати"
   },
   "v2_09ecadf3": {
     "description": "Auto-generated translation for: No book selected",
@@ -6095,10 +5954,6 @@
   "v2_6b49a911": {
     "description": "Auto-generated translation for: Native Subtitle Styling",
     "message": "Вбудоване оформлення субтитрів"
-  },
-  "v2_7c1626a0": {
-    "description": "Auto-generated translation for: Choose theme",
-    "message": "Вибрати тему"
   },
   "v2_2e0e0805": {
     "description": "Auto-generated translation for: Languages",
@@ -6539,14 +6394,6 @@
     "description": "Auto-generated translation for: Creating segments...",
     "message": "Створення сегментів..."
   },
-  "v2_39b7b941": {
-    "description": "Auto-generated translation for: Transcription ID is required for client-side upload",
-    "message": "ID транскрипції обов'язковий для завантаження на стороні клієнта"
-  },
-  "v2_0d8f2527": {
-    "description": "Auto-generated translation for: Unable to get current audio track for client-side upload",
-    "message": "Не вдалося отримати поточний аудіотрек для завантаження на стороні клієнта"
-  },
   "v2_33cd69e2": {
     "description": "Auto-generated translation for: AI List Generation",
     "message": "Генерація списків ШІ"
@@ -6574,30 +6421,6 @@
   "v2_2ba40092": {
     "description": "Auto-generated translation for: Import bookmarks from CSV",
     "message": "Імпорт закладок з CSV"
-  },
-  "v2_05b7caa8": {
-    "description": "Auto-generated translation for: Import Bookmarks - Upload CSV",
-    "message": "Імпорт закладок - Завантажити CSV"
-  },
-  "v2_7df09908": {
-    "description": "Auto-generated translation for: Import Bookmarks - Map Columns",
-    "message": "Імпорт закладок - Зіставлення стовпців"
-  },
-  "v2_5d058757": {
-    "description": "Auto-generated translation for: Import Bookmarks - Preview",
-    "message": "Імпорт закладок - Перегляд"
-  },
-  "v2_0d7be6fe": {
-    "description": "Auto-generated translation for: Import Bookmarks - Importing...",
-    "message": "Імпорт закладок - Імпортування..."
-  },
-  "v2_6bdcff8a": {
-    "description": "Auto-generated translation for: Import Bookmarks - Complete",
-    "message": "Імпорт закладок - Завершено"
-  },
-  "v2_2fa67342": {
-    "description": "Auto-generated translation for: Import Bookmarks",
-    "message": "Імпорт закладок"
   },
   "v2_670c1f6c": {
     "description": "Auto-generated translation for: Importing bookmarks...",
@@ -6814,15 +6637,6 @@
     "description": "Auto-generated translation for: No usage examples",
     "message": "Немає прикладів використання"
   },
-  "v2_64524d83": {
-    "description": "Auto-generated translation for: View words in {list_name}",
-    "message": "Переглянути слова у {list_name}",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1d0209f3": {
     "description": "Auto-generated translation for: Delete List",
     "message": "Видалити Список"
@@ -6851,10 +6665,6 @@
     "description": "Auto-generated translation for: New learning list",
     "message": "Новий список навчання"
   },
-  "v2_4163696b": {
-    "description": "Auto-generated translation for: Add a short description so you remember what belongs in this list.",
-    "message": "Додайте короткий опис, щоб пам'ятати, що належить до цього списку."
-  },
   "v2_0022b099": {
     "description": "Auto-generated translation for: Icon",
     "message": "Іконка"
@@ -6866,10 +6676,6 @@
   "v2_1475e0ba": {
     "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
     "message": "Автоматично згенерувати словникові слова для цього списку"
-  },
-  "v2_79c66209": {
-    "description": "Auto-generated translation for: Number of words",
-    "message": "Кількість слів"
   },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
@@ -6950,10 +6756,6 @@
   "v2_0fe585f4": {
     "description": "Auto-generated translation for: Downloading...",
     "message": "Завантаження..."
-  },
-  "v2_561795e8": {
-    "description": "Auto-generated translation for: Download Stream",
-    "message": "Завантажити потік"
   },
   "v2_6d97721c": {
     "description": "Auto-generated translation for: Audio Upload Dev Panel",
@@ -7083,10 +6885,6 @@
     "description": "Auto-generated translation for: Neural subtitles are not yet available",
     "message": "Нейронні субтитри ще недоступні"
   },
-  "v2_0dae7c32": {
-    "description": "Auto-generated translation for: Generate subtitles with AI",
-    "message": "Згенерувати субтитри за допомогою ШІ"
-  },
   "v2_0cdb031a": {
     "description": "Auto-generated translation for: Coming soon",
     "message": "Незабаром"
@@ -7127,10 +6925,6 @@
     "description": "Auto-generated translation for: Subtitles imported successfully",
     "message": "Субтитри успішно імпортовано"
   },
-  "v2_7d8bd622": {
-    "description": "Auto-generated translation for: An unexpected error occurred while importing subtitles",
-    "message": "Під час імпорту субтитрів сталася неочікувана помилка"
-  },
   "v2_69652337": {
     "description": "Auto-generated translation for: Neural transcription is already in progress for this video",
     "message": "Нейронна транскрипція для цього відео вже триває"
@@ -7139,10 +6933,6 @@
     "description": "Auto-generated translation for: Please set your learning language in settings before creating neural subtitles",
     "message": "Будь ласка, встановіть мову навчання в налаштуваннях, перш ніж створювати нейронні субтитри"
   },
-  "v2_5034bcb9": {
-    "description": "Auto-generated translation for: Failed to upload audio",
-    "message": "Не вдалося завантажити аудіо"
-  },
   "v2_4050988e": {
     "description": "Auto-generated translation for: Neural transcription started",
     "message": "Нейронна транскрипція розпочалася"
@@ -7150,26 +6940,6 @@
   "v2_7c1bf627": {
     "description": "Auto-generated translation for: An unexpected error occurred",
     "message": "Сталася непередбачувана помилка"
-  },
-  "v2_7de3ad93": {
-    "description": "Auto-generated translation for: Please upload a valid video file",
-    "message": "Будь ласка, завантажте дійсний відеофайл"
-  },
-  "v2_1c851385": {
-    "description": "Auto-generated translation for: Select video file",
-    "message": "Виберіть відеофайл"
-  },
-  "v2_6aa78acd": {
-    "description": "Auto-generated translation for: Drop your video file here",
-    "message": "Перетягніть свій відеофайл сюди"
-  },
-  "v2_77d1db2e": {
-    "description": "Auto-generated translation for: Drag and drop your video file",
-    "message": "Перетягніть і вставте свій відеофайл"
-  },
-  "v2_0f19d2bd": {
-    "description": "Auto-generated translation for: Upload a video file from your device to play it with FluentAI subtitles, translations, and interactive learning features.",
-    "message": "Завантажте відеофайл зі свого пристрою, щоб відтворити його з субтитрами FluentAI, перекладами та інтерактивними функціями навчання."
   },
   "v2_000009e3": {
     "description": "Auto-generated translation for: OR",
@@ -7383,17 +7153,9 @@
     "description": "Auto-generated translation for: Cancel Selection",
     "message": "Скасувати вибір"
   },
-  "v2_3583dd91": {
-    "description": "Auto-generated translation for: Are you sure you want to remove this item from the list?",
-    "message": "Ви впевнені, що хочете видалити цей елемент зі списку?"
-  },
   "v2_152ebc42": {
     "description": "Auto-generated translation for: No items in this list yet.",
     "message": "У цьому списку ще немає елементів."
-  },
-  "v2_7d9db6ec": {
-    "description": "Auto-generated translation for: Please select both learning and native languages",
-    "message": "Будь ласка, оберіть мову навчання та рідну мову"
   },
   "v2_7132a412": {
     "description": "Auto-generated translation for: Words generated and added to list",
@@ -7411,10 +7173,6 @@
   "v2_6c576f57": {
     "description": "Auto-generated translation for: Generate Words for List",
     "message": "Згенерувати слова для списку"
-  },
-  "v2_613b5ada": {
-    "description": "Auto-generated translation for: Words will be generated based on the list name and description:",
-    "message": "Слова будуть згенеровані на основі назви списку та опису:"
   },
   "v2_60cbc3e4": {
     "description": "Auto-generated translation for: Generating...",
@@ -7477,10 +7235,6 @@
     "description": "Auto-generated translation for: Logo Gradient Colors",
     "message": "Кольори градієнта логотипу"
   },
-  "v2_2c6d0590": {
-    "description": "Auto-generated translation for: Set status",
-    "message": "Встановити статус"
-  },
   "v2_04549323": {
     "description": "Auto-generated translation for: Known",
     "message": "Відомо"
@@ -7497,14 +7251,6 @@
   "v2_41ef59a9": {
     "description": "Auto-generated translation for: No results.",
     "message": "Немає результатів."
-  },
-  "v2_669ecfde": {
-    "description": "Auto-generated translation for: Deselect all",
-    "message": "Зняти вибір з усіх"
-  },
-  "v2_1cfcf432": {
-    "description": "Auto-generated translation for: Select all page",
-    "message": "Вибрати всі сторінки"
   },
   "v2_10e4b2b9": {
     "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you.",
@@ -7545,5 +7291,885 @@
   "v2_355cc324": {
     "description": "Auto-generated translation for: Bookmark paragraph",
     "message": "Закладка для параграфа"
+  },
+  "v2_0c86a976": {
+    "description": "Auto-generated translation for: Bookmark updated successfully",
+    "message": "Закладку успішно оновлено"
+  },
+  "v2_07e72bab": {
+    "description": "Auto-generated translation for: Failed to update bookmark",
+    "message": "Не вдалося оновити закладку"
+  },
+  "v2_5dce8b1c": {
+    "description": "Auto-generated translation for: Upload failed",
+    "message": "Завантаження не вдалося"
+  },
+  "v2_4cda3d4e": {
+    "description": "Auto-generated translation for: Neural transcription is already running for this video.",
+    "message": "Нейронна транскрипція вже запущена для цього відео."
+  },
+  "v2_2cc15054": {
+    "description": "Auto-generated translation for: Please configure your learning language before continuing.",
+    "message": "Будь ласка, налаштуйте мову навчання, перш ніж продовжити."
+  },
+  "v2_07ddf321": {
+    "description": "Auto-generated translation for: AI subtitles are currently unavailable.",
+    "message": "Зараз AI субтитри недоступні."
+  },
+  "v2_47531d14": {
+    "description": "Auto-generated translation for: AI subtitles are ready.",
+    "message": "AI субтитри готові."
+  },
+  "v2_73da36c5": {
+    "description": "Auto-generated translation for: AI subtitle generation started.",
+    "message": "Розпочато створення AI субтитрів."
+  },
+  "v2_0b50491d": {
+    "description": "Auto-generated translation for: Failed to start neural transcription.",
+    "message": "Не вдалося запустити нейронну транскрипцію."
+  },
+  "v2_2e29759b": {
+    "description": "Auto-generated translation for: Learning language is required to build AI subtitles.",
+    "message": "Вивчення мови необхідне для створення AI субтитрів."
+  },
+  "v2_7b769a63": {
+    "description": "Auto-generated translation for: No timed segments were returned for this transcription.",
+    "message": "Для цієї транскрипції не було повернуто жодного сегменту з часовими мітками."
+  },
+  "v2_183981f8": {
+    "description": "Auto-generated translation for: Failed to complete neural transcription.",
+    "message": "Не вдалося завершити нейронну транскрипцію."
+  },
+  "v2_06abed02": {
+    "description": "Auto-generated translation for: Failed to generate AI subtitles.",
+    "message": "Не вдалося створити AI субтитри."
+  },
+  "v2_6f270a6d": {
+    "description": "Auto-generated translation for: Queued",
+    "message": "В черзі"
+  },
+  "v2_5e70a46c": {
+    "description": "Auto-generated translation for: Preparing audio...",
+    "message": "Підготовка аудіо..."
+  },
+  "v2_601aac2a": {
+    "description": "Auto-generated translation for: Current audio language is not supported for AI subtitles.",
+    "message": "Поточна аудіо мова не підтримується для AI субтитрів."
+  },
+  "v2_34bf789b": {
+    "description": "Auto-generated translation for: Unable to access the current audio track for AI subtitles.",
+    "message": "Не вдалося отримати доступ до поточної аудіодоріжки для AI субтитрів."
+  },
+  "v2_5433b40f": {
+    "description": "Auto-generated translation for: Switch the audio track to match your learning language before generating AI subtitles.",
+    "message": "Перш ніж генерувати AI субтитри, перемкніть аудіодоріжку відповідно до вашої мови навчання."
+  },
+  "v2_6cfa0493": {
+    "description": "Auto-generated translation for: This video already contains high-quality subtitles.",
+    "message": "Це відео вже містить високоякісні субтитри."
+  },
+  "v2_1645ab12": {
+    "description": "Auto-generated translation for: Subtitles are already available for this video.",
+    "message": "Субтитри вже доступні для цього відео."
+  },
+  "v2_63bef93b": {
+    "description": "Auto-generated translation for: AI subtitles are not available on this platform yet.",
+    "message": "Автоматичні субтитри на основі AI ще недоступні на цій платформі."
+  },
+  "v2_63f90643": {
+    "description": "Auto-generated translation for: Copied!",
+    "message": "Скопійовано!"
+  },
+  "v2_1928aa63": {
+    "description": "Auto-generated translation for: Copy Error",
+    "message": "Помилка копіювання"
+  },
+  "v2_4d336016": {
+    "description": "Auto-generated translation for: Error Details",
+    "message": "Деталі помилки"
+  },
+  "v2_25d83c16": {
+    "description": "Auto-generated translation for: An error occurred: $error$",
+    "message": "Виникла помилка: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7b467d2b": {
+    "description": "Auto-generated translation for: Please select words first",
+    "message": "Будь ласка, спочатку виберіть слова"
+  },
+  "v2_76da7906": {
+    "description": "Auto-generated translation for: Unselect Page",
+    "message": "Зняти виділення зі сторінки"
+  },
+  "v2_6cb8f733": {
+    "description": "Auto-generated translation for: Select Page",
+    "message": "Вибрати сторінку"
+  },
+  "v2_63c7485a": {
+    "description": "Auto-generated translation for: Choose what to export",
+    "message": "Виберіть, що експортувати"
+  },
+  "v2_29e46fe6": {
+    "description": "Auto-generated translation for: Choose What to Export",
+    "message": "Виберіть, що експортувати"
+  },
+  "v2_4d63ef79": {
+    "description": "Auto-generated translation for: Select whether to export all words or only selected words",
+    "message": "Виберіть, чи експортувати всі слова, чи лише вибрані слова"
+  },
+  "v2_7dd732e8": {
+    "description": "Auto-generated translation for: Export Scope",
+    "message": "Область експорту"
+  },
+  "v2_2457961e": {
+    "description": "Auto-generated translation for: Export all words",
+    "message": "Експортувати всі слова"
+  },
+  "v2_3c52f674": {
+    "description": "Auto-generated translation for: Export all words from your notebook",
+    "message": "Експортувати всі слова з вашого блокнота"
+  },
+  "v2_5be85950": {
+    "description": "Auto-generated translation for: Export selected words",
+    "message": "Експортувати вибрані слова"
+  },
+  "v2_3855bcf2": {
+    "description": "Auto-generated translation for: Export {count} selected word(s)",
+    "message": "Експортувати {count} вибране(их) слово(а)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2959c651": {
+    "description": "Auto-generated translation for: No words selected",
+    "message": "Немає вибраних слів"
+  },
+  "v2_7c82a4d3": {
+    "description": "Auto-generated translation for: Filter by Lists (Optional)",
+    "message": "Фільтрувати за списками (Необов'язково)"
+  },
+  "v2_2b99ed2e": {
+    "description": "Auto-generated translation for: Clear all",
+    "message": "Очистити все"
+  },
+  "v2_3eec2b1d": {
+    "description": "Auto-generated translation for: Select specific lists to filter the export. Leave empty to export all.",
+    "message": "Виберіть конкретні списки для фільтрування експорту. Залиште поле пустим, щоб експортувати все."
+  },
+  "v2_0dd8eec3": {
+    "description": "Auto-generated translation for: Loading lists...",
+    "message": "Завантаження списків..."
+  },
+  "v2_7e653fbf": {
+    "description": "Auto-generated translation for: No lists available",
+    "message": "Немає доступних списків"
+  },
+  "v2_30f2ee79": {
+    "description": "Auto-generated translation for: Example sentence or context",
+    "message": "Приклад речення або контекст"
+  },
+  "v2_40bd3580": {
+    "description": "Auto-generated translation for: Context Translation",
+    "message": "Контекстний переклад"
+  },
+  "v2_636cd79d": {
+    "description": "Auto-generated translation for: Translation of the context sentence",
+    "message": "Переклад контекстного речення"
+  },
+  "v2_345ed98d": {
+    "description": "Auto-generated translation for: Video timestamp in seconds",
+    "message": "Мітка часу відео в секундах"
+  },
+  "v2_687d0f08": {
+    "description": "Auto-generated translation for: Bookmark type (WORD, PHRASE, etc.)",
+    "message": "Тип закладки (WORD, PHRASE, тощо)"
+  },
+  "v2_439a68d4": {
+    "description": "Auto-generated translation for: Additional notes or explanation",
+    "message": "Додаткові примітки або пояснення"
+  },
+  "v2_04f1a9b4": {
+    "description": "Auto-generated translation for: Lists this entry belongs to",
+    "message": "До яких списків належить цей запис"
+  },
+  "v2_58feea8a": {
+    "description": "Auto-generated translation for: Example sentences with translations",
+    "message": "Приклади речень з перекладами"
+  },
+  "v2_7672b15b": {
+    "description": "Auto-generated translation for: Words with similar meaning",
+    "message": "Слова зі схожим значенням"
+  },
+  "v2_01e3dc79": {
+    "description": "Auto-generated translation for: Words with opposite meaning",
+    "message": "Слова з протилежним значенням"
+  },
+  "v2_491a8f76": {
+    "description": "Auto-generated translation for: Grammatical category (noun, verb, etc.)",
+    "message": "Граматична категорія (іменник, дієслово, тощо)"
+  },
+  "v2_096e8b46": {
+    "description": "Auto-generated translation for: Preview unavailable. Please check your column mappings and language settings.",
+    "message": "Попередній перегляд недоступний. Будь ласка, перевірте відповідність стовпців і налаштування мови."
+  },
+  "v2_13d1c010": {
+    "description": "Auto-generated translation for: No preview available. Please map at least one column.",
+    "message": "Попередній перегляд недоступний. Будь ласка, зіставте принаймні один стовпець."
+  },
+  "v2_653e3c0b": {
+    "description": "Auto-generated translation for: Add Column",
+    "message": "Додати стовпець"
+  },
+  "v2_03ff952d": {
+    "description": "Auto-generated translation for: Empty",
+    "message": "Порожній"
+  },
+  "v2_00012ac0": {
+    "description": "Auto-generated translation for: N/A",
+    "message": "N/A"
+  },
+  "v2_11b9d68c": {
+    "description": "Auto-generated translation for: Edit Bookmark",
+    "message": "Редагувати закладку"
+  },
+  "v2_10f2cadc": {
+    "description": "Auto-generated translation for: Update bookmark details and learning information",
+    "message": "Оновити деталі закладки та навчальну інформацію"
+  },
+  "v2_513907fa": {
+    "description": "Auto-generated translation for: Basic Information",
+    "message": "Основна інформація"
+  },
+  "v2_1df1bafa": {
+    "description": "Auto-generated translation for: Enter word or phrase...",
+    "message": "Введіть слово або фразу..."
+  },
+  "v2_1f87e543": {
+    "description": "Auto-generated translation for: Enter base form...",
+    "message": "Введіть базову форму..."
+  },
+  "v2_7e81eacc": {
+    "description": "Auto-generated translation for: Add transliteration...",
+    "message": "Додати транслітерацію..."
+  },
+  "v2_74c44b34": {
+    "description": "Auto-generated translation for: Learning Status",
+    "message": "Статус навчання"
+  },
+  "v2_0269d8c6": {
+    "description": "Auto-generated translation for: Context & Translation",
+    "message": "Контекст & Переклад"
+  },
+  "v2_0d871183": {
+    "description": "Auto-generated translation for: Add context for this bookmark...",
+    "message": "Додати контекст для цього закладення..."
+  },
+  "v2_5f3ec4d3": {
+    "description": "Auto-generated translation for: Add context translation...",
+    "message": "Додати контекстний переклад..."
+  },
+  "v2_45343bd7": {
+    "description": "Auto-generated translation for: Add an explanation...",
+    "message": "Додайте пояснення..."
+  },
+  "v2_7f606ab3": {
+    "description": "Auto-generated translation for: Additional Information",
+    "message": "Додаткова інформація"
+  },
+  "v2_17b0b70a": {
+    "description": "Auto-generated translation for: e.g., noun, verb, adjective...",
+    "message": "напр., іменник, дієслово, прикметник..."
+  },
+  "v2_57513181": {
+    "description": "Auto-generated translation for: Comma-separated synonyms...",
+    "message": "Синоніми, розділені комами..."
+  },
+  "v2_2b0cfa9e": {
+    "description": "Auto-generated translation for: Comma-separated antonyms...",
+    "message": "Антоніми, розділені комами..."
+  },
+  "v2_360034ab": {
+    "description": "Auto-generated translation for: Add Example",
+    "message": "Додати приклад"
+  },
+  "v2_2fe8df42": {
+    "description": "Auto-generated translation for: No usage examples. Click 'Add Example' to add one.",
+    "message": "Немає прикладів використання. Натисніть \"Додати приклад\", щоб додати його."
+  },
+  "v2_1bf1557c": {
+    "description": "Auto-generated translation for: Original sentence...",
+    "message": "Оригінальне речення..."
+  },
+  "v2_704f3dc3": {
+    "description": "Auto-generated translation for: Translation...",
+    "message": "Переклад..."
+  },
+  "v2_3932abf6": {
+    "description": "Auto-generated translation for: Video URL",
+    "message": "URL відео"
+  },
+  "v2_07381ec1": {
+    "description": "Auto-generated translation for: https://...",
+    "message": "https://..."
+  },
+  "v2_4818976e": {
+    "description": "Auto-generated translation for: Video ID...",
+    "message": "ID відео..."
+  },
+  "v2_78cdc33b": {
+    "description": "Auto-generated translation for: Video title...",
+    "message": "Назва відео..."
+  },
+  "v2_63ad0005": {
+    "description": "Auto-generated translation for: Thumbnail URL",
+    "message": "URL мініатюри"
+  },
+  "v2_727c20e0": {
+    "description": "Auto-generated translation for: Save Changes",
+    "message": "Зберегти зміни"
+  },
+  "v2_2f3cda1e": {
+    "description": "Auto-generated translation for: Create New List",
+    "message": "Створити новий список"
+  },
+  "v2_4d9e44f5": {
+    "description": "Auto-generated translation for: Creating...",
+    "message": "Створення..."
+  },
+  "v2_574121c5": {
+    "description": "Auto-generated translation for: Add words from notebook",
+    "message": "Додати слова з блокноту"
+  },
+  "v2_277a0379": {
+    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
+    "message": "Виберіть існуючі слова зі свого блокнота, щоб додати до цього списку"
+  },
+  "v2_3b1e210e": {
+    "description": "Auto-generated translation for: No translation",
+    "message": "Без перекладу"
+  },
+  "v2_619377e2": {
+    "description": "Auto-generated translation for: No words found in notebook",
+    "message": "Слів не знайдено в блокноті"
+  },
+  "v2_67f83a7d": {
+    "description": "Auto-generated translation for: Search words...",
+    "message": "Пошук слів..."
+  },
+  "v2_4c07f29c": {
+    "description": "Auto-generated translation for: No words match your search",
+    "message": "Слів, які відповідають вашому пошуку, не знайдено"
+  },
+  "v2_60ee80ef": {
+    "description": "Auto-generated translation for: No status",
+    "message": "Немає статусу"
+  },
+  "v2_393559d1": {
+    "description": "Auto-generated translation for: Load more",
+    "message": "Завантажити більше"
+  },
+  "v2_63ec20d3": {
+    "description": "Auto-generated translation for: Custom Instructions (Optional)",
+    "message": "Власні інструкції (не обов'язково)"
+  },
+  "v2_69b15a13": {
+    "description": "Auto-generated translation for: Tell the AI what kind of words you want to generate...",
+    "message": "Скажіть AI, які слова ви хочете згенерувати..."
+  },
+  "v2_1874be9f": {
+    "description": "Auto-generated translation for: Add specific instructions to guide the AI in generating words that match your learning goals.",
+    "message": "Додайте конкретні інструкції, щоб скерувати ШІ на генерування слів, які відповідають вашим навчальним цілям."
+  },
+  "v2_72c50608": {
+    "description": "Auto-generated translation for: Please subscribe to get access to all premium features for just 15¢ per day!",
+    "message": "Будь ласка, підпишіться, щоб отримати доступ до всіх преміум-функцій лише за 15¢ на день!"
+  },
+  "v2_30ab5eed": {
+    "description": "Auto-generated translation for: Extracting...",
+    "message": "Видобувається..."
+  },
+  "v2_156b7461": {
+    "description": "Auto-generated translation for: Extract",
+    "message": "Витяг"
+  },
+  "v2_7ea1a202": {
+    "description": "Auto-generated translation for: No Subtitles Found",
+    "message": "Субтитрів не знайдено"
+  },
+  "v2_2924b787": {
+    "description": "Auto-generated translation for: This video doesn't have subtitles. Generate AI-powered subtitles to continue learning.",
+    "message": "Це відео не має субтитрів. Згенеруйте субтитри на основі штучного інтелекту, щоб продовжити навчання."
+  },
+  "v2_5a9ef735": {
+    "description": "Auto-generated translation for: Failed to validate code",
+    "message": "Не вдалося перевірити код"
+  },
+  "v2_2ab35be5": {
+    "description": "Auto-generated translation for: Failed to validate account",
+    "message": "Не вдалося підтвердити обліковий запис"
+  },
+  "v2_2bcd81e7": {
+    "description": "Auto-generated translation for: Failed to login",
+    "message": "Не вдалося увійти"
+  },
+  "v2_2f2595ff": {
+    "description": "Auto-generated translation for: Failed to validate registration",
+    "message": "Не вдалося підтвердити реєстрацію"
+  },
+  "v2_19e829a4": {
+    "description": "Auto-generated translation for: Validation failed",
+    "message": "Помилка перевірки"
+  },
+  "v2_4a420ef2": {
+    "description": "Auto-generated translation for: Please confirm your password",
+    "message": "Будь ласка, підтвердіть свій пароль"
+  },
+  "v2_4e64db31": {
+    "description": "Auto-generated translation for: Email is required",
+    "message": "Електронна пошта обов'язкова"
+  },
+  "v2_5841757e": {
+    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
+    "message": "Слова, які ви вивчаєте, та слова, які ви опанували у процесі вивчення мови"
+  },
+  "v2_0403cc76": {
+    "description": "Auto-generated translation for: EPUB Font Size",
+    "message": "Розмір шрифту EPUB"
+  },
+  "v2_696f8aeb": {
+    "description": "Auto-generated translation for: Track your learning progress and start review sessions",
+    "message": "Відстежуйте свій прогрес у навчанні та починайте сеанси повторення"
+  },
+  "v2_07d0c981": {
+    "description": "Auto-generated translation for: Failed to load training data. Please try again.",
+    "message": "Не вдалося завантажити навчальні дані. Будь ласка, спробуйте ще раз."
+  },
+  "v2_4e4d2f27": {
+    "description": "Auto-generated translation for: Learning Words",
+    "message": "Вивчення Слів"
+  },
+  "v2_5de0ee14": {
+    "description": "Auto-generated translation for: Learned Words",
+    "message": "Вивчені слова"
+  },
+  "v2_4ad6b4d4": {
+    "description": "Auto-generated translation for: Neural transcription failed",
+    "message": "Нейронна транскрипція не вдалася"
+  },
+  "v2_69b99a0d": {
+    "description": "Auto-generated translation for: Resources controller not available",
+    "message": "Контролер ресурсів недоступний"
+  },
+  "v2_620d4c2c": {
+    "description": "Auto-generated translation for: Failed to get video ID",
+    "message": "Не вдалося отримати ID відео"
+  },
+  "v2_59f15ff2": {
+    "description": "Auto-generated translation for: File size (${fileSizeGB}GB) exceeds the maximum limit of 2GB for AI subtitles",
+    "message": "Розмір файлу (${fileSizeGB} ГБ) перевищує максимальний ліміт у 2 ГБ для AI субтитрів",
+    "placeholders": {
+      "fileSizeGB": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_36c7c19a": {
+    "description": "Auto-generated translation for: Video Player",
+    "message": "Відеопрогравач"
+  },
+  "v2_0ff547ce": {
+    "description": "Auto-generated translation for: Generate subtitles with AI (max 2GB)",
+    "message": "Згенерувати субтитри за допомогою ШІ (макс. 2GB)"
+  },
+  "v2_12bbb012": {
+    "description": "Auto-generated translation for: Please upload a valid video or audio file",
+    "message": "Будь ласка, завантажте дійсний відео- або аудіофайл"
+  },
+  "v2_0d815606": {
+    "description": "Auto-generated translation for: Select video or audio file",
+    "message": "Виберіть відео- чи аудіофайл"
+  },
+  "v2_044d9dce": {
+    "description": "Auto-generated translation for: Drop your video or audio file here",
+    "message": "Перетягніть сюди ваш відео- або аудіофайл"
+  },
+  "v2_107040b3": {
+    "description": "Auto-generated translation for: Drag and drop your video or audio file",
+    "message": "Перетягніть і вставте свій відео- або аудіофайл"
+  },
+  "v2_593c64c2": {
+    "description": "Auto-generated translation for: Upload a video or audio file from your device to play it with FluentAI subtitles, translations, and interactive learning features.",
+    "message": "Завантажте відео- або аудіофайл зі свого пристрою, щоб відтворити його з субтитрами, перекладами та інтерактивними навчальними функціями FluentAI."
+  },
+  "v2_67d55177": {
+    "description": "Auto-generated translation for: Language learning App for Netflix, YouTube, Amazon Prime, and Disney Plus.",
+    "message": "Додаток для вивчення мов для Netflix, YouTube, Amazon Prime та Disney Plus."
+  },
+  "v2_0bccfda7": {
+    "description": "Auto-generated translation for: Language learning App",
+    "message": "Додаток для вивчення мов"
+  },
+  "v2_26330664": {
+    "description": "Auto-generated translation for: for Netflix & YouTube",
+    "message": "для Netflix і YouTube"
+  },
+  "v2_1ef0a9b9": {
+    "description": "Auto-generated translation for: Master the language you want to learn effortlessly through immersive learning with intelligent subtitles and powerful features.",
+    "message": "Опануйте мову, яку хочете вивчити, без зусиль за допомогою імерсивного навчання з інтелектуальними субтитрами та потужними функціями."
+  },
+  "v2_4979702a": {
+    "description": "Auto-generated translation for: Learn the language you want with smart subtitles on YouTube, Netflix, Prime, and Disney.",
+    "message": "Вивчайте мову, яку хочете, за допомогою розумних субтитрів на YouTube, Netflix, Prime та Disney."
+  },
+  "v2_258894c1": {
+    "description": "Auto-generated translation for: Audio Extraction Test",
+    "message": "Тест вилучення аудіо"
+  },
+  "v2_50c3add5": {
+    "description": "Auto-generated translation for: 🎉 Session Complete!",
+    "message": "🎉 Сеанс завершено!"
+  },
+  "v2_1e581741": {
+    "description": "Auto-generated translation for: Great work! Here's your progress:",
+    "message": "Чудова робота! Ось ваш прогрес:"
+  },
+  "v2_028a8e32": {
+    "description": "Auto-generated translation for: Words Reviewed",
+    "message": "Переглянуті слова"
+  },
+  "v2_4d41465b": {
+    "description": "Auto-generated translation for: Time Spent",
+    "message": "Витрачений час"
+  },
+  "v2_56f4abe0": {
+    "description": "Auto-generated translation for: Kept Learning",
+    "message": "Продовжував вчитися"
+  },
+  "v2_6c48c098": {
+    "description": "Auto-generated translation for: Review Again",
+    "message": "Переглянути ще раз"
+  },
+  "v2_7e5e3b99": {
+    "description": "Auto-generated translation for: Back to Notebook",
+    "message": "Повернутися до блокноту"
+  },
+  "v2_223aeb69": {
+    "description": "Auto-generated translation for: Flashcard Training Settings",
+    "message": "Налаштування навчання за допомогою карток"
+  },
+  "v2_48ccb12c": {
+    "description": "Auto-generated translation for: Choose which words you want to practice",
+    "message": "Виберіть, які слова ви хочете практикувати"
+  },
+  "v2_6ee2cd06": {
+    "description": "Auto-generated translation for: Reset to Defaults",
+    "message": "Відновити типові налаштування"
+  },
+  "v2_102e2318": {
+    "description": "Auto-generated translation for: Start Training",
+    "message": "Розпочати навчання"
+  },
+  "v2_43a424f7": {
+    "description": "Auto-generated translation for: Loading languages...",
+    "message": "Завантаження мов..."
+  },
+  "v2_469cbb9a": {
+    "description": "Auto-generated translation for: No learning languages found",
+    "message": "Не знайдено мов для вивчення"
+  },
+  "v2_7da02fc4": {
+    "description": "Auto-generated translation for: All languages",
+    "message": "Всі мови"
+  },
+  "v2_00010181": {
+    "description": "Auto-generated translation for: All",
+    "message": "Усі"
+  },
+  "v2_15c7bdee": {
+    "description": "Auto-generated translation for: Loading videos...",
+    "message": "Завантаження відео..."
+  },
+  "v2_46d78fa0": {
+    "description": "Auto-generated translation for: No videos available",
+    "message": "Відео недоступні"
+  },
+  "v2_4f77cc42": {
+    "description": "Auto-generated translation for: Search videos...",
+    "message": "Шукати відео..."
+  },
+  "v2_3d9a2e4b": {
+    "description": "Auto-generated translation for: Date Range",
+    "message": "Діапазон дат"
+  },
+  "v2_4d7883c1": {
+    "description": "Auto-generated translation for: Select date range...",
+    "message": "Виберіть діапазон дат..."
+  },
+  "v2_04fe2a89": {
+    "description": "Auto-generated translation for: Words",
+    "message": "Слова"
+  },
+  "v2_3fded0ba": {
+    "description": "Auto-generated translation for: Phrases",
+    "message": "Фрази"
+  },
+  "v2_06b6891a": {
+    "description": "Auto-generated translation for: All types",
+    "message": "Усі типи"
+  },
+  "v2_425902a8": {
+    "description": "Auto-generated translation for: {{count}} types",
+    "message": "{{count}} типи",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_37d9f6c1": {
+    "description": "Auto-generated translation for: Content Type",
+    "message": "Тип вмісту"
+  },
+  "v2_3df76aad": {
+    "description": "Auto-generated translation for: Search types...",
+    "message": "Типи пошуку..."
+  },
+  "v2_576e3a52": {
+    "description": "Auto-generated translation for: No types found.",
+    "message": "Типів не знайдено."
+  },
+  "v2_6ff9cdc8": {
+    "description": "Auto-generated translation for: Please upload a valid EPUB file",
+    "message": "Будь ласка, завантажте коректний EPUB-файл"
+  },
+  "v2_6374ee20": {
+    "description": "Auto-generated translation for: Select EPUB file",
+    "message": "Виберіть файл EPUB"
+  },
+  "v2_54577768": {
+    "description": "Auto-generated translation for: Drop your EPUB file here",
+    "message": "Перетягніть свій EPUB-файл сюди"
+  },
+  "v2_66edff33": {
+    "description": "Auto-generated translation for: Drag and drop your EPUB file",
+    "message": "Перетягніть та опустіть ваш EPUB файл"
+  },
+  "v2_313fc93b": {
+    "description": "Auto-generated translation for: Upload an EPUB file from your device to read it with FluentAI translations and interactive learning features.",
+    "message": "Завантажте файл EPUB зі свого пристрою, щоб читати його з перекладами FluentAI та інтерактивними функціями навчання."
+  },
+  "v2_5172de57": {
+    "description": "Auto-generated translation for: Import EPUB File",
+    "message": "Імпортувати файл EPUB"
+  },
+  "v2_05e5bc46": {
+    "description": "Auto-generated translation for: Select a local EPUB file to get started",
+    "message": "Виберіть локальний EPUB-файл, щоб розпочати"
+  },
+  "v2_51764679": {
+    "description": "Auto-generated translation for: Adjust the text size for better readability.",
+    "message": "Відрегулюйте розмір тексту для кращої читабельності."
+  },
+  "v2_43c73b5c": {
+    "description": "Auto-generated translation for: How well did you know this word?",
+    "message": "Наскільки добре ви знали це слово?"
+  },
+  "v2_03c44340": {
+    "description": "Auto-generated translation for: Again",
+    "message": "Знову"
+  },
+  "v2_0022350b": {
+    "description": "Auto-generated translation for: Hard",
+    "message": "Важкий"
+  },
+  "v2_0021f4dd": {
+    "description": "Auto-generated translation for: Good",
+    "message": "Добре"
+  },
+  "v2_0020d822": {
+    "description": "Auto-generated translation for: Easy",
+    "message": "Легко"
+  },
+  "v2_56799d3d": {
+    "description": "Auto-generated translation for: card waiting",
+    "message": "картка очікує"
+  },
+  "v2_450ff970": {
+    "description": "Auto-generated translation for: cards waiting",
+    "message": "картки очікують"
+  },
+  "v2_49d76785": {
+    "description": "Auto-generated translation for: Due for Review",
+    "message": "Підлягає перегляду"
+  },
+  "v2_5a7f6507": {
+    "description": "Auto-generated translation for: card reviewed",
+    "message": "картку переглянуто"
+  },
+  "v2_7b29d9ec": {
+    "description": "Auto-generated translation for: cards reviewed",
+    "message": "карток переглянуто"
+  },
+  "v2_3e6987d8": {
+    "description": "Auto-generated translation for: Reviewed Today",
+    "message": "Переглянуто сьогодні"
+  },
+  "v2_7801f96a": {
+    "description": "Auto-generated translation for: Longest",
+    "message": "Найдовший"
+  },
+  "v2_002ef057": {
+    "description": "Auto-generated translation for: days",
+    "message": "дні"
+  },
+  "v2_334c4845": {
+    "description": "Auto-generated translation for: Current Streak",
+    "message": "Поточна серія"
+  },
+  "v2_7942d8d0": {
+    "description": "Auto-generated translation for: Last 30 days",
+    "message": "Останні 30 днів"
+  },
+  "v2_1cd460e2": {
+    "description": "Auto-generated translation for: Retention Rate",
+    "message": "Коефіцієнт утримання"
+  },
+  "v2_10ec2681": {
+    "description": "Auto-generated translation for: mastered",
+    "message": "освоїв"
+  },
+  "v2_222ef4b9": {
+    "description": "Auto-generated translation for: Total Cards",
+    "message": "Всього карток"
+  },
+  "v2_699a8abe": {
+    "description": "Auto-generated translation for: Cards mastered",
+    "message": "Опановані картки"
+  },
+  "v2_35668b11": {
+    "description": "Auto-generated translation for: Learning Progress",
+    "message": "Прогрес у навчанні"
+  },
+  "v2_730d2a7d": {
+    "description": "Auto-generated translation for: Ready to Learn?",
+    "message": "Готові навчатися?"
+  },
+  "v2_29490317": {
+    "description": "Auto-generated translation for: You have",
+    "message": "У вас є"
+  },
+  "v2_002e7b10": {
+    "description": "Auto-generated translation for: card",
+    "message": "картка"
+  },
+  "v2_05a0e763": {
+    "description": "Auto-generated translation for: cards",
+    "message": "картки"
+  },
+  "v2_287ce03b": {
+    "description": "Auto-generated translation for: due for review",
+    "message": "підлягає перегляду"
+  },
+  "v2_0001a9a0": {
+    "description": "Auto-generated translation for: new",
+    "message": "новий"
+  },
+  "v2_3e98685f": {
+    "description": "Auto-generated translation for: to learn",
+    "message": "вчитися"
+  },
+  "v2_388f6433": {
+    "description": "Auto-generated translation for: No cards due right now. Great job staying on top of your reviews!",
+    "message": "Зараз немає карток для повторення. Чудова робота, що встигаєте вчасно повторювати!"
+  },
+  "v2_5601c96c": {
+    "description": "Auto-generated translation for: Start Review Session",
+    "message": "Почати сеанс перегляду"
+  },
+  "v2_51bced3c": {
+    "description": "Auto-generated translation for: Upcoming",
+    "message": "Майбутній"
+  },
+  "v2_00000ddf": {
+    "description": "Auto-generated translation for: on",
+    "message": "на"
+  },
+  "v2_1f52759c": {
+    "description": "Auto-generated translation for: Loading session...",
+    "message": "Завантаження сесії..."
+  },
+  "v2_09d21988": {
+    "description": "Auto-generated translation for: Back to Dashboard",
+    "message": "Повернутися до панелі керування"
+  },
+  "v2_0bb70de9": {
+    "description": "Auto-generated translation for: Reviewed",
+    "message": "Перевірено"
+  },
+  "v2_4d7b6497": {
+    "description": "Auto-generated translation for: Play Pronunciation",
+    "message": "Відтворити вимову"
+  },
+  "v2_0027599f": {
+    "description": "Auto-generated translation for: Skip",
+    "message": "Пропустити"
+  },
+  "v2_6a3ca209": {
+    "description": "Auto-generated translation for: Great Job!",
+    "message": "Чудова робота!"
+  },
+  "v2_61775da3": {
+    "description": "Auto-generated translation for: You've completed your review session",
+    "message": "Ви завершили сеанс перегляду"
+  },
+  "v2_752bd9af": {
+    "description": "Auto-generated translation for: Keep up the momentum",
+    "message": "Не втрачайте темп"
+  },
+  "v2_2296b7a1": {
+    "description": "Auto-generated translation for: Consistency is key to mastery",
+    "message": "Послідовність – запорука майстерності"
+  },
+  "v2_7fd9982a": {
+    "description": "Auto-generated translation for: New Session",
+    "message": "Нова сесія"
+  },
+  "v2_731cbad7": {
+    "description": "Auto-generated translation for: Review Activity",
+    "message": "Перегляд активності"
+  },
+  "v2_56c7e042": {
+    "description": "Auto-generated translation for: reviews in the last year",
+    "message": "відгуки за останній рік"
+  },
+  "v2_42292acf": {
+    "description": "Auto-generated translation for: active days",
+    "message": "активні дні"
+  },
+  "v2_418ff41b": {
+    "description": "Auto-generated translation for: reviews",
+    "message": "відгуки"
+  },
+  "v2_002415b9": {
+    "description": "Auto-generated translation for: Less",
+    "message": "Менше"
+  },
+  "v2_4d28d5c3": {
+    "description": "Auto-generated translation for: Please select learning and native languages before generating words.",
+    "message": "Будь ласка, виберіть мови навчання та рідні мови перед генерацією слів."
+  },
+  "v2_5141fce8": {
+    "description": "Auto-generated translation for: Tell the AI what kind of words you want to generate. For example: 'Generate beginner-level vocabulary for travel conversations' or 'Focus on business and professional terms'",
+    "message": "Скажіть ШІ, які саме слова ви хочете згенерувати. Наприклад: «Згенеруй словниковий запас початкового рівня для розмов про подорожі» або «Зосередься на ділових та професійних термінах»"
+  },
+  "v2_74974efe": {
+    "description": "Auto-generated translation for: Languages extracted from existing bookmarks in this list.",
+    "message": "Мови, витягнуті з існуючих закладок у цьому списку."
   }
 }

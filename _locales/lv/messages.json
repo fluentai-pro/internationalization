@@ -634,10 +634,6 @@
     "description": "Auto-generated translation for: Download",
     "message": "Lejupielādēt"
   },
-  "v2_4785f01e": {
-    "description": "Auto-generated translation for: App Management",
-    "message": "Lietotņu pārvaldība"
-  },
   "v2_7cfb805d": {
     "description": "Auto-generated translation for: Failed",
     "message": "Neizdevās"
@@ -661,10 +657,6 @@
   "v2_50c72189": {
     "description": "Auto-generated translation for: Profile",
     "message": "Profils"
-  },
-  "v2_3eb4f971": {
-    "description": "Auto-generated translation for: Social Media",
-    "message": "Sociālie mediji"
   },
   "v2_002063ce": {
     "description": "Auto-generated translation for: Date",
@@ -1808,10 +1800,6 @@
     "description": "Auto-generated translation for: Feature Request",
     "message": "Funkcionalitātes pieprasījums"
   },
-  "v2_52c6292d": {
-    "description": "Auto-generated translation for: No status set",
-    "message": "Nav iestatīts statuss"
-  },
   "v2_7ade1e3a": {
     "description": "Auto-generated translation for: Neural Subtitles",
     "message": "Neironu Subtitri"
@@ -1851,10 +1839,6 @@
   "v2_4c47a99f": {
     "description": "Auto-generated translation for: Processing Status",
     "message": "Apstrādes statuss"
-  },
-  "v2_43d2dd5e": {
-    "description": "Auto-generated translation for: Neural Transcriptions",
-    "message": "Neironu Transkripcijas"
   },
   "v2_7d39a03b": {
     "description": "Auto-generated translation for: Import",
@@ -2076,10 +2060,6 @@
     "description": "Auto-generated translation for: Text to Speech Voice Selection",
     "message": "Teksts–runa balss atlase"
   },
-  "v2_280ac135": {
-    "description": "Auto-generated translation for: Support Requests",
-    "message": "Atbalsta pieprasījumi"
-  },
   "v2_63dc6819": {
     "description": "Auto-generated translation for: Message",
     "message": "Ziņa"
@@ -2253,10 +2233,6 @@
     "description": "Auto-generated translation for: Updated",
     "message": "Atjaunināts"
   },
-  "v2_090660f3": {
-    "description": "Auto-generated translation for: Anki Export Jobs",
-    "message": "Anki eksportēšanas darījumi"
-  },
   "v2_31b83218": {
     "description": "Auto-generated translation for: Failed to download Anki deck",
     "message": "Neizdevās lejupielādēt Anki klāju"
@@ -2401,10 +2377,6 @@
     "description": "Auto-generated translation for: Show Learning Subtitles",
     "message": "Rādīt mācību subtitrus"
   },
-  "v2_72458491": {
-    "description": "Auto-generated translation for: Toggle Settings",
-    "message": "Iestatījumu pārslēgšana"
-  },
   "v2_39004e1d": {
     "description": "Auto-generated translation for: Set Language to $language$",
     "message": "Valodas iestatīšana — $language$",
@@ -2437,10 +2409,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "Video ātrums"
-  },
-  "v2_0fa166e0": {
-    "description": "Auto-generated translation for: Influencer Campaigns",
-    "message": "Ietekmētāju kampaņas"
   },
   "v2_2a09d4ce": {
     "description": "Auto-generated translation for: AI Neural Subtitles",
@@ -3243,10 +3211,6 @@
     "description": "Auto-generated translation for: Manage your account preferences and billing settings.",
     "message": "Pārvaldiet savas konta preferences un norēķinu iestatījumus."
   },
-  "v2_3cf47f34": {
-    "description": "Auto-generated translation for: Text to Speech",
-    "message": "Teksts uz runu"
-  },
   "v2_28a3cf54": {
     "description": "Auto-generated translation for: Casual Usage",
     "message": "Ikdienas lietošana"
@@ -3407,10 +3371,6 @@
     "description": "Auto-generated translation for: Refresh Page",
     "message": "Atsvaidzināt lapu"
   },
-  "v2_31f114e0": {
-    "description": "Auto-generated translation for: Error Details (Development)",
-    "message": "Kļūdas informācija (izstrādei)"
-  },
   "v2_6c5bc7fd": {
     "description": "Auto-generated translation for: Remove from bookmarks",
     "message": "Noņemt no grāmatzīmēm"
@@ -3514,14 +3474,6 @@
   "v2_3df0dbb4": {
     "description": "Auto-generated translation for: Loved by language learners worldwide",
     "message": "Iemīļots valodu apguvējiem visā pasaulē"
-  },
-  "v2_13c28849": {
-    "description": "Auto-generated translation for: Download for Chrome",
-    "message": "Lejupielādēt pārlūkam Chrome"
-  },
-  "v2_04f166ea": {
-    "description": "Auto-generated translation for: Download for Firefox",
-    "message": "Lejupielādēt pārlūkprogrammai Firefox"
   },
   "v2_2a214ea2": {
     "description": "Auto-generated translation for: Support & Community",
@@ -4087,22 +4039,9 @@
     "description": "Auto-generated translation for: Norwegian",
     "message": "Norvēģu"
   },
-  "v2_196f550b": {
-    "description": "Auto-generated translation for: Anki Jobs",
-    "message": "Anki darbi"
-  },
   "v2_21f28d5c": {
     "description": "Auto-generated translation for: Start Learning",
     "message": "Sākt mācīties"
-  },
-  "v2_562aca9e": {
-    "description": "Auto-generated translation for: $word$ added to bookmarks",
-    "message": "$word$ pievienots grāmatzīmēm",
-    "placeholders": {
-      "word": {
-        "content": "$1"
-      }
-    }
   },
   "v2_2cafbf71": {
     "description": "Auto-generated translation for: $word$ removed from bookmarks",
@@ -4221,10 +4160,6 @@
     "description": "Auto-generated translation for: Display a side panel with all subtitles for easy navigation and review.",
     "message": "Parādīt sānu paneli ar visiem subtitriem vieglai navigācijai un pārskatīšanai."
   },
-  "v2_078d43ee": {
-    "description": "Auto-generated translation for: Generate Subtitles with AI",
-    "message": "Ģenerē subtitrus ar AI"
-  },
   "v2_2b26d5bf": {
     "description": "Auto-generated translation for: Above the bar",
     "message": "Virz bāra"
@@ -4241,10 +4176,6 @@
     "description": "Auto-generated translation for: Playback Controls Settings",
     "message": "Atskaņošanas vadības iestatījumi"
   },
-  "v2_7a43cfc2": {
-    "description": "Auto-generated translation for: Unable to process this video",
-    "message": "Nevar apstrādāt šo video"
-  },
   "v2_119fc9e4": {
     "description": "Auto-generated translation for: An error occurred while requesting transcription",
     "message": "Radās kļūda, pieprasot transkripciju"
@@ -4256,14 +4187,6 @@
   "v2_70349739": {
     "description": "Auto-generated translation for: Feedback details",
     "message": "Atsauksmes detaļas"
-  },
-  "v2_6195a0ba": {
-    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated. Please try again.",
-    "message": "Neirālā transkripcija pabeigta, bet apakšteksti netika ģenerēti. Lūdzu, mēģiniet vēlreiz."
-  },
-  "v2_74392975": {
-    "description": "Auto-generated translation for: Neural transcription failed. Please try again.",
-    "message": "Neirālā transkripcija neizdevās. Lūdzu, mēģiniet vēlreiz."
   },
   "v2_487a3b00": {
     "description": "Auto-generated translation for: Video ID",
@@ -4501,10 +4424,6 @@
     "description": "Auto-generated translation for: Simple translated text display component",
     "message": "Vienkāršs tulkota teksta attēlošanas komponents"
   },
-  "v2_642277f3": {
-    "description": "Auto-generated translation for: Dev Store Inspector",
-    "message": "Izstrādes veikala inspektors"
-  },
   "v2_4bb25c41": {
     "description": "Auto-generated translation for: No data available for selected store",
     "message": "Nav datu izvēlētajam veikalam"
@@ -4541,10 +4460,6 @@
     "description": "Auto-generated translation for: Choose a store to inspect",
     "message": "Izvēlieties veikalu, ko pārbaudīt"
   },
-  "v2_20daf9f2": {
-    "description": "Auto-generated translation for: Refresh store data",
-    "message": "Atsvaidzināt veikala datus"
-  },
   "v2_12dd5a41": {
     "description": "Auto-generated translation for: Loading store data...",
     "message": "Ielādē veikala datus..."
@@ -4564,10 +4479,6 @@
   "v2_25a296fd": {
     "description": "Auto-generated translation for: Your Free Trial has Ended",
     "message": "Jūsu bezmaksas izmēģinājums ir beidzies"
-  },
-  "v2_4c891c43": {
-    "description": "Auto-generated translation for: Please subscribe to get access to all premium features for just $0.15 per day.",
-    "message": "Lūdzu, abonējiet, lai iegūtu piekļuvi visām premium funkcijām tikai par $0.15 dienā."
   },
   "v2_3884bce6": {
     "description": "Auto-generated translation for: Add Subtitles to Any Video",
@@ -4865,14 +4776,6 @@
     "description": "Auto-generated translation for: Applying video settings",
     "message": "Lietojot video iestatījumus"
   },
-  "v2_2473aba8": {
-    "description": "Auto-generated translation for: Try AI Subtitles",
-    "message": "Izmēģiniet AI subtitrus"
-  },
-  "v2_23ea242e": {
-    "description": "Auto-generated translation for: No subtitles found. Use AI to generate accurate subtitles from audio.",
-    "message": "Apakšvirsraksti nav atrasti. Izmantojiet AI, lai ģenerētu precīzus apakšvirsrakstus no audio."
-  },
   "v2_60edc1ee": {
     "description": "Auto-generated translation for: Generate AI Subtitles",
     "message": "Ģenerēt AI subtitrus"
@@ -4993,14 +4896,6 @@
     "description": "Auto-generated translation for: Feedback",
     "message": "Atsauksmes"
   },
-  "v2_28932aa7": {
-    "description": "Auto-generated translation for: Dual subtitles for Netflix, YouTube, Amazon Prime, and Disney Plus.",
-    "message": "Duāli subtitri pakalpojumiem Netflix, YouTube, Amazon Prime un Disney Plus."
-  },
-  "v2_76068a05": {
-    "description": "Auto-generated translation for: Netflix & YouTube",
-    "message": "Netflix un YouTube"
-  },
   "v2_123785cf": {
     "description": "Auto-generated translation for: Open on Desktop",
     "message": "Atvērt datorā"
@@ -5028,14 +4923,6 @@
   "v2_640403e3": {
     "description": "Auto-generated translation for: Learn languages with smart subtitles while watching your favorite content on Netflix, YouTube, Prime Video, and Disney+.",
     "message": "Mācieties valodas ar viedajiem subtitriem, skatoties savu iecienītāko saturu pakalpojumos Netflix, YouTube, Prime Video un Disney+."
-  },
-  "v2_6313ed38": {
-    "description": "Auto-generated translation for: With our smart subtitles and cool features, learn any language by watching your favorite content. Finally, fun and easy.",
-    "message": "Ar mūsu viedajiem subtitriem un lieliskajām funkcijām apgūsti jebkuru valodu, skatoties savu iecienītāko saturu. Beidzot jautri un vienkārši."
-  },
-  "v2_03044907": {
-    "description": "Auto-generated translation for: Learn languages with smart subtitles on YouTube, Netflix, Prime, and Disney.",
-    "message": "Mācieties valodas ar viedajiem subtitriem pakalpojumos YouTube, Netflix, Prime un Disney."
   },
   "v2_672803b1": {
     "description": "Auto-generated translation for: Best experienced on desktop.",
@@ -5168,22 +5055,6 @@
   "v2_4e5a5812": {
     "description": "Auto-generated translation for: User Overrides",
     "message": "Lietotāja ignorētie iestatījumi"
-  },
-  "v2_557fd065": {
-    "description": "Auto-generated translation for: Neural transcription processing failed",
-    "message": "Neironu transkripcijas apstrāde neizdevās"
-  },
-  "v2_2662de51": {
-    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated",
-    "message": "Neironu transkripcija pabeigta, taču subtitri netika ģenerēti."
-  },
-  "v2_7be6e727": {
-    "description": "Auto-generated translation for: No transcription ID returned",
-    "message": "Netika atgriezts transkripcijas ID"
-  },
-  "v2_3846b5ed": {
-    "description": "Auto-generated translation for: Failed to request neural transcription. Please try again.",
-    "message": "Neizdevās pieprasīt neironu transkripciju. Lūdzu, mēģiniet vēlreiz."
   },
   "v2_6229de22": {
     "description": "Auto-generated translation for: Rate Us",
@@ -5658,10 +5529,6 @@
     "description": "Auto-generated translation for: Translations of the word",
     "message": "Vārda tulkojumi"
   },
-  "v2_565159f2": {
-    "description": "Auto-generated translation for: Dictionary Form",
-    "message": "Vārdnīcas forma"
-  },
   "v2_143527b0": {
     "description": "Auto-generated translation for: Base/canonical form of the word",
     "message": "Vārda pamatforma/kanoniskā forma"
@@ -5806,14 +5673,6 @@
   "v2_6cb2cf8d": {
     "description": "Auto-generated translation for: Select Book",
     "message": "Izvēlēties grāmatu"
-  },
-  "v2_67b52e74": {
-    "description": "Auto-generated translation for: No books in your library",
-    "message": "Nav grāmatu jūsu bibliotēkā"
-  },
-  "v2_408d6104": {
-    "description": "Auto-generated translation for: Upload your first EPUB to get started",
-    "message": "Augšupielādējiet savu pirmo EPUB, lai sāktu darbu"
   },
   "v2_09ecadf3": {
     "description": "Auto-generated translation for: No book selected",
@@ -6095,10 +5954,6 @@
   "v2_6b49a911": {
     "description": "Auto-generated translation for: Native Subtitle Styling",
     "message": "Vietējo subtitru stilizēšana"
-  },
-  "v2_7c1626a0": {
-    "description": "Auto-generated translation for: Choose theme",
-    "message": "Izvēlēties tēmu"
   },
   "v2_2e0e0805": {
     "description": "Auto-generated translation for: Languages",
@@ -6539,14 +6394,6 @@
     "description": "Auto-generated translation for: Creating segments...",
     "message": "Izveido segmentus..."
   },
-  "v2_39b7b941": {
-    "description": "Auto-generated translation for: Transcription ID is required for client-side upload",
-    "message": "Transkripcijas ID ir nepieciešams, lai klients varētu augšupielādēt"
-  },
-  "v2_0d8f2527": {
-    "description": "Auto-generated translation for: Unable to get current audio track for client-side upload",
-    "message": "Nevarēja iegūt pašreizējo audio celiņu klienta puses augšupielādei"
-  },
   "v2_33cd69e2": {
     "description": "Auto-generated translation for: AI List Generation",
     "message": "AI Saraksta Ģenerēšana"
@@ -6574,30 +6421,6 @@
   "v2_2ba40092": {
     "description": "Auto-generated translation for: Import bookmarks from CSV",
     "message": "Importēt grāmatzīmes no CSV"
-  },
-  "v2_05b7caa8": {
-    "description": "Auto-generated translation for: Import Bookmarks - Upload CSV",
-    "message": "Importēt grāmatzīmes - Augšupielādēt CSV"
-  },
-  "v2_7df09908": {
-    "description": "Auto-generated translation for: Import Bookmarks - Map Columns",
-    "message": "Importēt grāmatzīmes - Kartēt kolonnas"
-  },
-  "v2_5d058757": {
-    "description": "Auto-generated translation for: Import Bookmarks - Preview",
-    "message": "Importēt grāmatzīmes - Priekšskatījums"
-  },
-  "v2_0d7be6fe": {
-    "description": "Auto-generated translation for: Import Bookmarks - Importing...",
-    "message": "Importēt grāmatzīmes - Importē..."
-  },
-  "v2_6bdcff8a": {
-    "description": "Auto-generated translation for: Import Bookmarks - Complete",
-    "message": "Grāmatzīmju importēšana - Pabeigta"
-  },
-  "v2_2fa67342": {
-    "description": "Auto-generated translation for: Import Bookmarks",
-    "message": "Importēt grāmatzīmes"
   },
   "v2_670c1f6c": {
     "description": "Auto-generated translation for: Importing bookmarks...",
@@ -6814,15 +6637,6 @@
     "description": "Auto-generated translation for: No usage examples",
     "message": "Nav lietošanas piemēru"
   },
-  "v2_64524d83": {
-    "description": "Auto-generated translation for: View words in {list_name}",
-    "message": "Skatīt vārdus {list_name}",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1d0209f3": {
     "description": "Auto-generated translation for: Delete List",
     "message": "Dzēst sarakstu"
@@ -6851,10 +6665,6 @@
     "description": "Auto-generated translation for: New learning list",
     "message": "Jauns mācību saraksts"
   },
-  "v2_4163696b": {
-    "description": "Auto-generated translation for: Add a short description so you remember what belongs in this list.",
-    "message": "Pievieno īsu aprakstu, lai atcerētos, kas pieder šim sarakstam."
-  },
   "v2_0022b099": {
     "description": "Auto-generated translation for: Icon",
     "message": "Ikona"
@@ -6866,10 +6676,6 @@
   "v2_1475e0ba": {
     "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
     "message": "Automātiski ģenerēt vārdu krājumu šim sarakstam"
-  },
-  "v2_79c66209": {
-    "description": "Auto-generated translation for: Number of words",
-    "message": "Vārdu skaits"
   },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
@@ -6950,10 +6756,6 @@
   "v2_0fe585f4": {
     "description": "Auto-generated translation for: Downloading...",
     "message": "Lejupielāde..."
-  },
-  "v2_561795e8": {
-    "description": "Auto-generated translation for: Download Stream",
-    "message": "Lejupielādēt straumi"
   },
   "v2_6d97721c": {
     "description": "Auto-generated translation for: Audio Upload Dev Panel",
@@ -7083,10 +6885,6 @@
     "description": "Auto-generated translation for: Neural subtitles are not yet available",
     "message": "Neironu subtitri vēl nav pieejami"
   },
-  "v2_0dae7c32": {
-    "description": "Auto-generated translation for: Generate subtitles with AI",
-    "message": "Ģenerēt subtitrus ar MI"
-  },
   "v2_0cdb031a": {
     "description": "Auto-generated translation for: Coming soon",
     "message": "Drīzumā"
@@ -7127,10 +6925,6 @@
     "description": "Auto-generated translation for: Subtitles imported successfully",
     "message": "Subtitri veiksmīgi importēti"
   },
-  "v2_7d8bd622": {
-    "description": "Auto-generated translation for: An unexpected error occurred while importing subtitles",
-    "message": "Importējot subtitrus, notika neparedzēta kļūda"
-  },
   "v2_69652337": {
     "description": "Auto-generated translation for: Neural transcription is already in progress for this video",
     "message": "Neironu transkripcija šim video jau notiek."
@@ -7139,10 +6933,6 @@
     "description": "Auto-generated translation for: Please set your learning language in settings before creating neural subtitles",
     "message": "Lūdzu, iestatiet savu mācību valodu iestatījumos pirms neironu subtitru izveides"
   },
-  "v2_5034bcb9": {
-    "description": "Auto-generated translation for: Failed to upload audio",
-    "message": "Neizdevās augšupielādēt audio"
-  },
   "v2_4050988e": {
     "description": "Auto-generated translation for: Neural transcription started",
     "message": "Neironu transkripcija ir sākusies"
@@ -7150,26 +6940,6 @@
   "v2_7c1bf627": {
     "description": "Auto-generated translation for: An unexpected error occurred",
     "message": "Notika neparedzēta kļūda"
-  },
-  "v2_7de3ad93": {
-    "description": "Auto-generated translation for: Please upload a valid video file",
-    "message": "Lūdzu, augšupielādējiet derīgu video failu"
-  },
-  "v2_1c851385": {
-    "description": "Auto-generated translation for: Select video file",
-    "message": "Izvēlieties video failu"
-  },
-  "v2_6aa78acd": {
-    "description": "Auto-generated translation for: Drop your video file here",
-    "message": "Ievelciet savu video failu šeit"
-  },
-  "v2_77d1db2e": {
-    "description": "Auto-generated translation for: Drag and drop your video file",
-    "message": "Ievelciet savu video failu"
-  },
-  "v2_0f19d2bd": {
-    "description": "Auto-generated translation for: Upload a video file from your device to play it with FluentAI subtitles, translations, and interactive learning features.",
-    "message": "Augšupielādējiet video failu no savas ierīces, lai to atskaņotu ar FluentAI subtitriem, tulkojumiem un interaktīvām mācību funkcijām."
   },
   "v2_000009e3": {
     "description": "Auto-generated translation for: OR",
@@ -7383,17 +7153,9 @@
     "description": "Auto-generated translation for: Cancel Selection",
     "message": "Atcelt atlasi"
   },
-  "v2_3583dd91": {
-    "description": "Auto-generated translation for: Are you sure you want to remove this item from the list?",
-    "message": "Vai tiešām vēlaties noņemt šo vienumu no saraksta?"
-  },
   "v2_152ebc42": {
     "description": "Auto-generated translation for: No items in this list yet.",
     "message": "Šajā sarakstā vēl nav neviena ieraksta."
-  },
-  "v2_7d9db6ec": {
-    "description": "Auto-generated translation for: Please select both learning and native languages",
-    "message": "Lūdzu, izvēlieties gan mācību valodu, gan dzimtās valodas"
   },
   "v2_7132a412": {
     "description": "Auto-generated translation for: Words generated and added to list",
@@ -7411,10 +7173,6 @@
   "v2_6c576f57": {
     "description": "Auto-generated translation for: Generate Words for List",
     "message": "Ģenerēt vārdus sarakstam"
-  },
-  "v2_613b5ada": {
-    "description": "Auto-generated translation for: Words will be generated based on the list name and description:",
-    "message": "Vārdi tiks ģenerēti, pamatojoties uz saraksta nosaukumu un aprakstu:"
   },
   "v2_60cbc3e4": {
     "description": "Auto-generated translation for: Generating...",
@@ -7477,10 +7235,6 @@
     "description": "Auto-generated translation for: Logo Gradient Colors",
     "message": "Logotipa gradienta krāsas"
   },
-  "v2_2c6d0590": {
-    "description": "Auto-generated translation for: Set status",
-    "message": "Iestatīt statusu"
-  },
   "v2_04549323": {
     "description": "Auto-generated translation for: Known",
     "message": "Zināms"
@@ -7497,14 +7251,6 @@
   "v2_41ef59a9": {
     "description": "Auto-generated translation for: No results.",
     "message": "Rezultātu nav."
-  },
-  "v2_669ecfde": {
-    "description": "Auto-generated translation for: Deselect all",
-    "message": "Noņemt atzīmi no visa"
-  },
-  "v2_1cfcf432": {
-    "description": "Auto-generated translation for: Select all page",
-    "message": "Atlasīt visu lapu"
   },
   "v2_10e4b2b9": {
     "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you.",
@@ -7545,5 +7291,885 @@
   "v2_355cc324": {
     "description": "Auto-generated translation for: Bookmark paragraph",
     "message": "Grāmatzīmes rindkopa"
+  },
+  "v2_0c86a976": {
+    "description": "Auto-generated translation for: Bookmark updated successfully",
+    "message": "Grāmatzīme veiksmīgi atjaunināta"
+  },
+  "v2_07e72bab": {
+    "description": "Auto-generated translation for: Failed to update bookmark",
+    "message": "Neizdevās atjaunināt grāmatzīmi"
+  },
+  "v2_5dce8b1c": {
+    "description": "Auto-generated translation for: Upload failed",
+    "message": "Augšupielāde neizdevās"
+  },
+  "v2_4cda3d4e": {
+    "description": "Auto-generated translation for: Neural transcription is already running for this video.",
+    "message": "Neironu transkripcija jau darbojas šim videoklipam."
+  },
+  "v2_2cc15054": {
+    "description": "Auto-generated translation for: Please configure your learning language before continuing.",
+    "message": "Lūdzu, pirms turpināt, iestatiet savu mācību valodu."
+  },
+  "v2_07ddf321": {
+    "description": "Auto-generated translation for: AI subtitles are currently unavailable.",
+    "message": "AI subtitri pašlaik nav pieejami."
+  },
+  "v2_47531d14": {
+    "description": "Auto-generated translation for: AI subtitles are ready.",
+    "message": "AI subtitri ir gatavi."
+  },
+  "v2_73da36c5": {
+    "description": "Auto-generated translation for: AI subtitle generation started.",
+    "message": "Sākta subtitru ģenerēšana ar mākslīgo intelektu."
+  },
+  "v2_0b50491d": {
+    "description": "Auto-generated translation for: Failed to start neural transcription.",
+    "message": "Neizdevās sākt neironu transkripciju."
+  },
+  "v2_2e29759b": {
+    "description": "Auto-generated translation for: Learning language is required to build AI subtitles.",
+    "message": "Valodas apguve ir nepieciešama, lai izveidotu MI subtitrus."
+  },
+  "v2_7b769a63": {
+    "description": "Auto-generated translation for: No timed segments were returned for this transcription.",
+    "message": "Šai transkripcijai netika atgriezti segmenti ar laika zīmēm."
+  },
+  "v2_183981f8": {
+    "description": "Auto-generated translation for: Failed to complete neural transcription.",
+    "message": "Neizdevās pabeigt neironu transkripciju."
+  },
+  "v2_06abed02": {
+    "description": "Auto-generated translation for: Failed to generate AI subtitles.",
+    "message": "Neizdevās ģenerēt MI subtitrus."
+  },
+  "v2_6f270a6d": {
+    "description": "Auto-generated translation for: Queued",
+    "message": "Ievietots rindā"
+  },
+  "v2_5e70a46c": {
+    "description": "Auto-generated translation for: Preparing audio...",
+    "message": "Sagatavo audio..."
+  },
+  "v2_601aac2a": {
+    "description": "Auto-generated translation for: Current audio language is not supported for AI subtitles.",
+    "message": "Pašreizējā audio valoda netiek atbalstīta AI subtitriem."
+  },
+  "v2_34bf789b": {
+    "description": "Auto-generated translation for: Unable to access the current audio track for AI subtitles.",
+    "message": "Nevar piekļūt pašreizējai audio celiņam AI subtitriem."
+  },
+  "v2_5433b40f": {
+    "description": "Auto-generated translation for: Switch the audio track to match your learning language before generating AI subtitles.",
+    "message": "Pirms AI subtitru ģenerēšanas pārslēdziet audio celiņu, lai tas atbilstu jūsu mācību valodai."
+  },
+  "v2_6cfa0493": {
+    "description": "Auto-generated translation for: This video already contains high-quality subtitles.",
+    "message": "Šajā video jau ir iekļauti augstas kvalitātes subtitri."
+  },
+  "v2_1645ab12": {
+    "description": "Auto-generated translation for: Subtitles are already available for this video.",
+    "message": "Šim video jau ir pieejami subtitri."
+  },
+  "v2_63bef93b": {
+    "description": "Auto-generated translation for: AI subtitles are not available on this platform yet.",
+    "message": "Šajā platformā AI subtitri vēl nav pieejami."
+  },
+  "v2_63f90643": {
+    "description": "Auto-generated translation for: Copied!",
+    "message": "Nokopēts!"
+  },
+  "v2_1928aa63": {
+    "description": "Auto-generated translation for: Copy Error",
+    "message": "Kopēšanas Kļūda"
+  },
+  "v2_4d336016": {
+    "description": "Auto-generated translation for: Error Details",
+    "message": "Kļūdas dati"
+  },
+  "v2_25d83c16": {
+    "description": "Auto-generated translation for: An error occurred: $error$",
+    "message": "Radās kļūda: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7b467d2b": {
+    "description": "Auto-generated translation for: Please select words first",
+    "message": "Lūdzu, vispirms izvēlieties vārdus"
+  },
+  "v2_76da7906": {
+    "description": "Auto-generated translation for: Unselect Page",
+    "message": "Noņemt lapas atlasi"
+  },
+  "v2_6cb8f733": {
+    "description": "Auto-generated translation for: Select Page",
+    "message": "Izvēlieties lapu"
+  },
+  "v2_63c7485a": {
+    "description": "Auto-generated translation for: Choose what to export",
+    "message": "Izvēlieties, ko eksportēt"
+  },
+  "v2_29e46fe6": {
+    "description": "Auto-generated translation for: Choose What to Export",
+    "message": "Izvēlies, ko eksportēt"
+  },
+  "v2_4d63ef79": {
+    "description": "Auto-generated translation for: Select whether to export all words or only selected words",
+    "message": "Izvēlieties, vai eksportēt visus vārdus vai tikai atlasītos vārdus"
+  },
+  "v2_7dd732e8": {
+    "description": "Auto-generated translation for: Export Scope",
+    "message": "Eksporta darbības joma"
+  },
+  "v2_2457961e": {
+    "description": "Auto-generated translation for: Export all words",
+    "message": "Eksportēt visus vārdus"
+  },
+  "v2_3c52f674": {
+    "description": "Auto-generated translation for: Export all words from your notebook",
+    "message": "Eksportēt visus vārdus no jūsu piezīmju grāmatiņas"
+  },
+  "v2_5be85950": {
+    "description": "Auto-generated translation for: Export selected words",
+    "message": "Eksportēt atlasītos vārdus"
+  },
+  "v2_3855bcf2": {
+    "description": "Auto-generated translation for: Export {count} selected word(s)",
+    "message": "Eksportēt {count} izvēlēto vārdu(-s)",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2959c651": {
+    "description": "Auto-generated translation for: No words selected",
+    "message": "Nav izvēlēts neviens vārds"
+  },
+  "v2_7c82a4d3": {
+    "description": "Auto-generated translation for: Filter by Lists (Optional)",
+    "message": "Filtrēt pēc sarakstiem (nav obligāti)"
+  },
+  "v2_2b99ed2e": {
+    "description": "Auto-generated translation for: Clear all",
+    "message": "Notīrīt visu"
+  },
+  "v2_3eec2b1d": {
+    "description": "Auto-generated translation for: Select specific lists to filter the export. Leave empty to export all.",
+    "message": "Atlasiet konkrētus sarakstus, lai filtrētu eksportu. Atstājiet tukšu, lai eksportētu visus."
+  },
+  "v2_0dd8eec3": {
+    "description": "Auto-generated translation for: Loading lists...",
+    "message": "Ielādē sarakstus..."
+  },
+  "v2_7e653fbf": {
+    "description": "Auto-generated translation for: No lists available",
+    "message": "Nav pieejamu sarakstu"
+  },
+  "v2_30f2ee79": {
+    "description": "Auto-generated translation for: Example sentence or context",
+    "message": "Piemēra teikums vai konteksts"
+  },
+  "v2_40bd3580": {
+    "description": "Auto-generated translation for: Context Translation",
+    "message": "Konteksta Tulkojums"
+  },
+  "v2_636cd79d": {
+    "description": "Auto-generated translation for: Translation of the context sentence",
+    "message": "Konteksta teikuma tulkojums"
+  },
+  "v2_345ed98d": {
+    "description": "Auto-generated translation for: Video timestamp in seconds",
+    "message": "Video laika zīmogs sekundēs"
+  },
+  "v2_687d0f08": {
+    "description": "Auto-generated translation for: Bookmark type (WORD, PHRASE, etc.)",
+    "message": "Grāmatzīmes tips (VĀRDS, FRAZE, utt.)"
+  },
+  "v2_439a68d4": {
+    "description": "Auto-generated translation for: Additional notes or explanation",
+    "message": "Papildu piezīmes vai paskaidrojums"
+  },
+  "v2_04f1a9b4": {
+    "description": "Auto-generated translation for: Lists this entry belongs to",
+    "message": "Saraksti, kuriem šis ieraksts pieder"
+  },
+  "v2_58feea8a": {
+    "description": "Auto-generated translation for: Example sentences with translations",
+    "message": "Piemēru teikumi ar tulkojumiem"
+  },
+  "v2_7672b15b": {
+    "description": "Auto-generated translation for: Words with similar meaning",
+    "message": "Vārdi ar līdzīgu nozīmi"
+  },
+  "v2_01e3dc79": {
+    "description": "Auto-generated translation for: Words with opposite meaning",
+    "message": "Vārdi ar pretēju nozīmi"
+  },
+  "v2_491a8f76": {
+    "description": "Auto-generated translation for: Grammatical category (noun, verb, etc.)",
+    "message": "Gramatiskā kategorija (lietvārds, darbības vārds u.c.)"
+  },
+  "v2_096e8b46": {
+    "description": "Auto-generated translation for: Preview unavailable. Please check your column mappings and language settings.",
+    "message": "Priekšskatījums nav pieejams. Lūdzu, pārbaudiet savus kolonnu kartējumus un valodas iestatījumus."
+  },
+  "v2_13d1c010": {
+    "description": "Auto-generated translation for: No preview available. Please map at least one column.",
+    "message": "Priekšskatījums nav pieejams. Lūdzu, kartējiet vismaz vienu kolonnu."
+  },
+  "v2_653e3c0b": {
+    "description": "Auto-generated translation for: Add Column",
+    "message": "Pievienot kolonnu"
+  },
+  "v2_03ff952d": {
+    "description": "Auto-generated translation for: Empty",
+    "message": "Tukšs"
+  },
+  "v2_00012ac0": {
+    "description": "Auto-generated translation for: N/A",
+    "message": "Nav datu"
+  },
+  "v2_11b9d68c": {
+    "description": "Auto-generated translation for: Edit Bookmark",
+    "message": "Rediģēt grāmatzīmi"
+  },
+  "v2_10f2cadc": {
+    "description": "Auto-generated translation for: Update bookmark details and learning information",
+    "message": "Atjaunināt grāmatzīmes informāciju un mācību informāciju"
+  },
+  "v2_513907fa": {
+    "description": "Auto-generated translation for: Basic Information",
+    "message": "Pamatinformācija"
+  },
+  "v2_1df1bafa": {
+    "description": "Auto-generated translation for: Enter word or phrase...",
+    "message": "Ievadiet vārdu vai frāzi..."
+  },
+  "v2_1f87e543": {
+    "description": "Auto-generated translation for: Enter base form...",
+    "message": "Ievadiet pamatformu..."
+  },
+  "v2_7e81eacc": {
+    "description": "Auto-generated translation for: Add transliteration...",
+    "message": "Pievienot transliterāciju..."
+  },
+  "v2_74c44b34": {
+    "description": "Auto-generated translation for: Learning Status",
+    "message": "Apmācību statuss"
+  },
+  "v2_0269d8c6": {
+    "description": "Auto-generated translation for: Context & Translation",
+    "message": "Konteksts & Tulkojums"
+  },
+  "v2_0d871183": {
+    "description": "Auto-generated translation for: Add context for this bookmark...",
+    "message": "Pievienot kontekstu šai grāmatzīmei..."
+  },
+  "v2_5f3ec4d3": {
+    "description": "Auto-generated translation for: Add context translation...",
+    "message": "Pievienot konteksta tulkojumu..."
+  },
+  "v2_45343bd7": {
+    "description": "Auto-generated translation for: Add an explanation...",
+    "message": "Pievienot skaidrojumu..."
+  },
+  "v2_7f606ab3": {
+    "description": "Auto-generated translation for: Additional Information",
+    "message": "Papildu informācija"
+  },
+  "v2_17b0b70a": {
+    "description": "Auto-generated translation for: e.g., noun, verb, adjective...",
+    "message": "piem., lietvārds, darbības vārds, īpašības vārds..."
+  },
+  "v2_57513181": {
+    "description": "Auto-generated translation for: Comma-separated synonyms...",
+    "message": "Ar komatiem atdalīti sinonīmi..."
+  },
+  "v2_2b0cfa9e": {
+    "description": "Auto-generated translation for: Comma-separated antonyms...",
+    "message": "Ar komatiem atdalīti antonīmi..."
+  },
+  "v2_360034ab": {
+    "description": "Auto-generated translation for: Add Example",
+    "message": "Pievienot piemēru"
+  },
+  "v2_2fe8df42": {
+    "description": "Auto-generated translation for: No usage examples. Click 'Add Example' to add one.",
+    "message": "Nav lietojuma piemēru. Klikšķiniet uz 'Pievienot piemēru', lai pievienotu."
+  },
+  "v2_1bf1557c": {
+    "description": "Auto-generated translation for: Original sentence...",
+    "message": "Oriģinālais teikums..."
+  },
+  "v2_704f3dc3": {
+    "description": "Auto-generated translation for: Translation...",
+    "message": "Tulkojums..."
+  },
+  "v2_3932abf6": {
+    "description": "Auto-generated translation for: Video URL",
+    "message": "Video URL"
+  },
+  "v2_07381ec1": {
+    "description": "Auto-generated translation for: https://...",
+    "message": "https://..."
+  },
+  "v2_4818976e": {
+    "description": "Auto-generated translation for: Video ID...",
+    "message": "Video ID..."
+  },
+  "v2_78cdc33b": {
+    "description": "Auto-generated translation for: Video title...",
+    "message": "Video nosaukums..."
+  },
+  "v2_63ad0005": {
+    "description": "Auto-generated translation for: Thumbnail URL",
+    "message": "Sīktēla URL"
+  },
+  "v2_727c20e0": {
+    "description": "Auto-generated translation for: Save Changes",
+    "message": "Saglabāt izmaiņas"
+  },
+  "v2_2f3cda1e": {
+    "description": "Auto-generated translation for: Create New List",
+    "message": "Izveidot jaunu sarakstu"
+  },
+  "v2_4d9e44f5": {
+    "description": "Auto-generated translation for: Creating...",
+    "message": "Izveido..."
+  },
+  "v2_574121c5": {
+    "description": "Auto-generated translation for: Add words from notebook",
+    "message": "Pievienot vārdus no pierakstu klades"
+  },
+  "v2_277a0379": {
+    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
+    "message": "Izvēlieties esošus vārdus no savas burtnīcas, lai pievienotu šim sarakstam"
+  },
+  "v2_3b1e210e": {
+    "description": "Auto-generated translation for: No translation",
+    "message": "Nav tulkojuma"
+  },
+  "v2_619377e2": {
+    "description": "Auto-generated translation for: No words found in notebook",
+    "message": "Burtnīcā vārdi nav atrasti"
+  },
+  "v2_67f83a7d": {
+    "description": "Auto-generated translation for: Search words...",
+    "message": "Meklēšanas vārdi..."
+  },
+  "v2_4c07f29c": {
+    "description": "Auto-generated translation for: No words match your search",
+    "message": "Atbilstoši jūsu meklēšanas nosacījumiem vārdi netika atrasti"
+  },
+  "v2_60ee80ef": {
+    "description": "Auto-generated translation for: No status",
+    "message": "Nav statusa"
+  },
+  "v2_393559d1": {
+    "description": "Auto-generated translation for: Load more",
+    "message": "Ielādēt vairāk"
+  },
+  "v2_63ec20d3": {
+    "description": "Auto-generated translation for: Custom Instructions (Optional)",
+    "message": "Pielāgoti norādījumi (pēc izvēles)"
+  },
+  "v2_69b15a13": {
+    "description": "Auto-generated translation for: Tell the AI what kind of words you want to generate...",
+    "message": "Pasaki AI, kāda veida vārdus vēlies ģenerēt..."
+  },
+  "v2_1874be9f": {
+    "description": "Auto-generated translation for: Add specific instructions to guide the AI in generating words that match your learning goals.",
+    "message": "Pievienojiet konkrētus norādījumus, lai vadītu MI, ģenerējot vārdus, kas atbilst jūsu mācību mērķiem."
+  },
+  "v2_72c50608": {
+    "description": "Auto-generated translation for: Please subscribe to get access to all premium features for just 15¢ per day!",
+    "message": "Lūdzu, abonējiet, lai iegūtu piekļuvi visām premium funkcijām tikai par 15¢ dienā!"
+  },
+  "v2_30ab5eed": {
+    "description": "Auto-generated translation for: Extracting...",
+    "message": "Izgūšana..."
+  },
+  "v2_156b7461": {
+    "description": "Auto-generated translation for: Extract",
+    "message": "Ekstrakts"
+  },
+  "v2_7ea1a202": {
+    "description": "Auto-generated translation for: No Subtitles Found",
+    "message": "Subtitri nav atrasti"
+  },
+  "v2_2924b787": {
+    "description": "Auto-generated translation for: This video doesn't have subtitles. Generate AI-powered subtitles to continue learning.",
+    "message": "Šim video nav subtitru. Ģenerējiet ar mākslīgo intelektu darbinātus subtitrus, lai turpinātu mācīties."
+  },
+  "v2_5a9ef735": {
+    "description": "Auto-generated translation for: Failed to validate code",
+    "message": "Neizdevās validēt kodu"
+  },
+  "v2_2ab35be5": {
+    "description": "Auto-generated translation for: Failed to validate account",
+    "message": "Neizdevās validēt kontu"
+  },
+  "v2_2bcd81e7": {
+    "description": "Auto-generated translation for: Failed to login",
+    "message": "Neizdevās pieteikties"
+  },
+  "v2_2f2595ff": {
+    "description": "Auto-generated translation for: Failed to validate registration",
+    "message": "Neizdevās validēt reģistrāciju"
+  },
+  "v2_19e829a4": {
+    "description": "Auto-generated translation for: Validation failed",
+    "message": "Validācija neizdevās"
+  },
+  "v2_4a420ef2": {
+    "description": "Auto-generated translation for: Please confirm your password",
+    "message": "Lūdzu, apstipriniet savu paroli"
+  },
+  "v2_4e64db31": {
+    "description": "Auto-generated translation for: Email is required",
+    "message": "E-pasts ir obligāts"
+  },
+  "v2_5841757e": {
+    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
+    "message": "Vārdi, kurus jūs mācāties, un vārdi, kurus esat apguvis savā mācību valodā"
+  },
+  "v2_0403cc76": {
+    "description": "Auto-generated translation for: EPUB Font Size",
+    "message": "EPUB fonta lielums"
+  },
+  "v2_696f8aeb": {
+    "description": "Auto-generated translation for: Track your learning progress and start review sessions",
+    "message": "Seko savam mācību progresam un sāc atkārtošanas sesijas"
+  },
+  "v2_07d0c981": {
+    "description": "Auto-generated translation for: Failed to load training data. Please try again.",
+    "message": "Neizdevās ielādēt apmācības datus. Lūdzu, mēģiniet vēlreiz."
+  },
+  "v2_4e4d2f27": {
+    "description": "Auto-generated translation for: Learning Words",
+    "message": "Vārdu mācīšanās"
+  },
+  "v2_5de0ee14": {
+    "description": "Auto-generated translation for: Learned Words",
+    "message": "Iemācītie vārdi"
+  },
+  "v2_4ad6b4d4": {
+    "description": "Auto-generated translation for: Neural transcription failed",
+    "message": "Neironu transkripcija neizdevās"
+  },
+  "v2_69b99a0d": {
+    "description": "Auto-generated translation for: Resources controller not available",
+    "message": "Resursu kontrolleris nav pieejams"
+  },
+  "v2_620d4c2c": {
+    "description": "Auto-generated translation for: Failed to get video ID",
+    "message": "Neizdevās iegūt video ID"
+  },
+  "v2_59f15ff2": {
+    "description": "Auto-generated translation for: File size (${fileSizeGB}GB) exceeds the maximum limit of 2GB for AI subtitles",
+    "message": "Faila lielums (${fileSizeGB}GB) pārsniedz maksimālo 2GB ierobežojumu AI subtitriem",
+    "placeholders": {
+      "fileSizeGB": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_36c7c19a": {
+    "description": "Auto-generated translation for: Video Player",
+    "message": "Video atskaņotājs"
+  },
+  "v2_0ff547ce": {
+    "description": "Auto-generated translation for: Generate subtitles with AI (max 2GB)",
+    "message": "Ģenerēt subtitrus ar MI (maks. 2GB)"
+  },
+  "v2_12bbb012": {
+    "description": "Auto-generated translation for: Please upload a valid video or audio file",
+    "message": "Lūdzu, augšupielādējiet derīgu video vai audio failu"
+  },
+  "v2_0d815606": {
+    "description": "Auto-generated translation for: Select video or audio file",
+    "message": "Izvēlieties video vai audio failu"
+  },
+  "v2_044d9dce": {
+    "description": "Auto-generated translation for: Drop your video or audio file here",
+    "message": "Ievelciet savu video vai audio failu šeit"
+  },
+  "v2_107040b3": {
+    "description": "Auto-generated translation for: Drag and drop your video or audio file",
+    "message": "Ievelciet savu video vai audio failu"
+  },
+  "v2_593c64c2": {
+    "description": "Auto-generated translation for: Upload a video or audio file from your device to play it with FluentAI subtitles, translations, and interactive learning features.",
+    "message": "Augšupielādējiet video vai audio failu no savas ierīces, lai atskaņotu to ar FluentAI subtitriem, tulkojumiem un interaktīvām mācību funkcijām."
+  },
+  "v2_67d55177": {
+    "description": "Auto-generated translation for: Language learning App for Netflix, YouTube, Amazon Prime, and Disney Plus.",
+    "message": "Valodu mācību lietotne Netflix, YouTube, Amazon Prime un Disney Plus skatīšanai."
+  },
+  "v2_0bccfda7": {
+    "description": "Auto-generated translation for: Language learning App",
+    "message": "Valodu mācīšanās lietotne"
+  },
+  "v2_26330664": {
+    "description": "Auto-generated translation for: for Netflix & YouTube",
+    "message": "Netflix un YouTube"
+  },
+  "v2_1ef0a9b9": {
+    "description": "Auto-generated translation for: Master the language you want to learn effortlessly through immersive learning with intelligent subtitles and powerful features.",
+    "message": "Apgūstiet valodu, kuru vēlaties apgūt bez piepūles, izmantojot iegremdējošu mācīšanos ar inteliģentiem subtitriem un jaudīgām funkcijām."
+  },
+  "v2_4979702a": {
+    "description": "Auto-generated translation for: Learn the language you want with smart subtitles on YouTube, Netflix, Prime, and Disney.",
+    "message": "Apgūstiet valodu, kuru vēlaties, izmantojot viedus subtitrus YouTube, Netflix, Prime un Disney."
+  },
+  "v2_258894c1": {
+    "description": "Auto-generated translation for: Audio Extraction Test",
+    "message": "Audio ekstrakcijas tests"
+  },
+  "v2_50c3add5": {
+    "description": "Auto-generated translation for: 🎉 Session Complete!",
+    "message": "🎉 Sesija pabeigta!"
+  },
+  "v2_1e581741": {
+    "description": "Auto-generated translation for: Great work! Here's your progress:",
+    "message": "Lielisks darbs! Šeit ir tavs progress:"
+  },
+  "v2_028a8e32": {
+    "description": "Auto-generated translation for: Words Reviewed",
+    "message": "Pārskatītie vārdi"
+  },
+  "v2_4d41465b": {
+    "description": "Auto-generated translation for: Time Spent",
+    "message": "Pavadītais laiks"
+  },
+  "v2_56f4abe0": {
+    "description": "Auto-generated translation for: Kept Learning",
+    "message": "Turpināja Mācīties"
+  },
+  "v2_6c48c098": {
+    "description": "Auto-generated translation for: Review Again",
+    "message": "Pārskatīt vēlreiz"
+  },
+  "v2_7e5e3b99": {
+    "description": "Auto-generated translation for: Back to Notebook",
+    "message": "Atpakaļ uz Kladi"
+  },
+  "v2_223aeb69": {
+    "description": "Auto-generated translation for: Flashcard Training Settings",
+    "message": "Zibatmiņas karšu apmācības iestatījumi"
+  },
+  "v2_48ccb12c": {
+    "description": "Auto-generated translation for: Choose which words you want to practice",
+    "message": "Izvēlieties, kurus vārdus vēlaties praktizēt"
+  },
+  "v2_6ee2cd06": {
+    "description": "Auto-generated translation for: Reset to Defaults",
+    "message": "Atiestatīt uz sākotnējiem iestatījumiem"
+  },
+  "v2_102e2318": {
+    "description": "Auto-generated translation for: Start Training",
+    "message": "Sākt apmācību"
+  },
+  "v2_43a424f7": {
+    "description": "Auto-generated translation for: Loading languages...",
+    "message": "Ielādē valodas..."
+  },
+  "v2_469cbb9a": {
+    "description": "Auto-generated translation for: No learning languages found",
+    "message": "Nav atrasts neviens apmācību kurss valodām"
+  },
+  "v2_7da02fc4": {
+    "description": "Auto-generated translation for: All languages",
+    "message": "Visas valodas"
+  },
+  "v2_00010181": {
+    "description": "Auto-generated translation for: All",
+    "message": "Visi"
+  },
+  "v2_15c7bdee": {
+    "description": "Auto-generated translation for: Loading videos...",
+    "message": "Ielādē video..."
+  },
+  "v2_46d78fa0": {
+    "description": "Auto-generated translation for: No videos available",
+    "message": "Nav pieejami video"
+  },
+  "v2_4f77cc42": {
+    "description": "Auto-generated translation for: Search videos...",
+    "message": "Meklēt video..."
+  },
+  "v2_3d9a2e4b": {
+    "description": "Auto-generated translation for: Date Range",
+    "message": "Datumu diapazons"
+  },
+  "v2_4d7883c1": {
+    "description": "Auto-generated translation for: Select date range...",
+    "message": "Izvēlieties datumu diapazonu..."
+  },
+  "v2_04fe2a89": {
+    "description": "Auto-generated translation for: Words",
+    "message": "Vārdi"
+  },
+  "v2_3fded0ba": {
+    "description": "Auto-generated translation for: Phrases",
+    "message": "Frāzes"
+  },
+  "v2_06b6891a": {
+    "description": "Auto-generated translation for: All types",
+    "message": "Visi tipi"
+  },
+  "v2_425902a8": {
+    "description": "Auto-generated translation for: {{count}} types",
+    "message": "{{count}} veidi",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_37d9f6c1": {
+    "description": "Auto-generated translation for: Content Type",
+    "message": "Satura tips"
+  },
+  "v2_3df76aad": {
+    "description": "Auto-generated translation for: Search types...",
+    "message": "Meklēšanas veidi..."
+  },
+  "v2_576e3a52": {
+    "description": "Auto-generated translation for: No types found.",
+    "message": "Nav atrasti tipi."
+  },
+  "v2_6ff9cdc8": {
+    "description": "Auto-generated translation for: Please upload a valid EPUB file",
+    "message": "Lūdzu, augšupielādējiet derīgu EPUB failu"
+  },
+  "v2_6374ee20": {
+    "description": "Auto-generated translation for: Select EPUB file",
+    "message": "Izvēlieties EPUB failu"
+  },
+  "v2_54577768": {
+    "description": "Auto-generated translation for: Drop your EPUB file here",
+    "message": "Ievelciet savu EPUB failu šeit"
+  },
+  "v2_66edff33": {
+    "description": "Auto-generated translation for: Drag and drop your EPUB file",
+    "message": "Ievelciet savu EPUB failu"
+  },
+  "v2_313fc93b": {
+    "description": "Auto-generated translation for: Upload an EPUB file from your device to read it with FluentAI translations and interactive learning features.",
+    "message": "Augšupielādējiet EPUB failu no savas ierīces, lai to lasītu, izmantojot FluentAI tulkojumus un interaktīvās mācību funkcijas."
+  },
+  "v2_5172de57": {
+    "description": "Auto-generated translation for: Import EPUB File",
+    "message": "Importēt EPUB failu"
+  },
+  "v2_05e5bc46": {
+    "description": "Auto-generated translation for: Select a local EPUB file to get started",
+    "message": "Izvēlieties lokālu EPUB failu, lai sāktu darbu"
+  },
+  "v2_51764679": {
+    "description": "Auto-generated translation for: Adjust the text size for better readability.",
+    "message": "Pielāgojiet teksta izmēru labākai lasāmībai."
+  },
+  "v2_43c73b5c": {
+    "description": "Auto-generated translation for: How well did you know this word?",
+    "message": "Cik labi tu zināji šo vārdu?"
+  },
+  "v2_03c44340": {
+    "description": "Auto-generated translation for: Again",
+    "message": "Atkal"
+  },
+  "v2_0022350b": {
+    "description": "Auto-generated translation for: Hard",
+    "message": "Ciets"
+  },
+  "v2_0021f4dd": {
+    "description": "Auto-generated translation for: Good",
+    "message": "Labi"
+  },
+  "v2_0020d822": {
+    "description": "Auto-generated translation for: Easy",
+    "message": "Viegli"
+  },
+  "v2_56799d3d": {
+    "description": "Auto-generated translation for: card waiting",
+    "message": "gaida karte"
+  },
+  "v2_450ff970": {
+    "description": "Auto-generated translation for: cards waiting",
+    "message": "kārtis gaida"
+  },
+  "v2_49d76785": {
+    "description": "Auto-generated translation for: Due for Review",
+    "message": "Jāpārskata"
+  },
+  "v2_5a7f6507": {
+    "description": "Auto-generated translation for: card reviewed",
+    "message": "karte pārskatīta"
+  },
+  "v2_7b29d9ec": {
+    "description": "Auto-generated translation for: cards reviewed",
+    "message": "kartītes pārskatītas"
+  },
+  "v2_3e6987d8": {
+    "description": "Auto-generated translation for: Reviewed Today",
+    "message": "Pārskatīts šodien"
+  },
+  "v2_7801f96a": {
+    "description": "Auto-generated translation for: Longest",
+    "message": "Garākais"
+  },
+  "v2_002ef057": {
+    "description": "Auto-generated translation for: days",
+    "message": "dienas"
+  },
+  "v2_334c4845": {
+    "description": "Auto-generated translation for: Current Streak",
+    "message": "Pašreizējā sērija"
+  },
+  "v2_7942d8d0": {
+    "description": "Auto-generated translation for: Last 30 days",
+    "message": "Pēdējās 30 dienas"
+  },
+  "v2_1cd460e2": {
+    "description": "Auto-generated translation for: Retention Rate",
+    "message": "Noturēšanas līmenis"
+  },
+  "v2_10ec2681": {
+    "description": "Auto-generated translation for: mastered",
+    "message": "apguvis"
+  },
+  "v2_222ef4b9": {
+    "description": "Auto-generated translation for: Total Cards",
+    "message": "Kopējais karšu skaits"
+  },
+  "v2_699a8abe": {
+    "description": "Auto-generated translation for: Cards mastered",
+    "message": "Apgūtas kārtis"
+  },
+  "v2_35668b11": {
+    "description": "Auto-generated translation for: Learning Progress",
+    "message": "Mācību progress"
+  },
+  "v2_730d2a7d": {
+    "description": "Auto-generated translation for: Ready to Learn?",
+    "message": "Vai esat gatavs mācīties?"
+  },
+  "v2_29490317": {
+    "description": "Auto-generated translation for: You have",
+    "message": "Tev ir"
+  },
+  "v2_002e7b10": {
+    "description": "Auto-generated translation for: card",
+    "message": "karte"
+  },
+  "v2_05a0e763": {
+    "description": "Auto-generated translation for: cards",
+    "message": "\"kārtis\""
+  },
+  "v2_287ce03b": {
+    "description": "Auto-generated translation for: due for review",
+    "message": "jāpārskata"
+  },
+  "v2_0001a9a0": {
+    "description": "Auto-generated translation for: new",
+    "message": "jauns"
+  },
+  "v2_3e98685f": {
+    "description": "Auto-generated translation for: to learn",
+    "message": "mācīties"
+  },
+  "v2_388f6433": {
+    "description": "Auto-generated translation for: No cards due right now. Great job staying on top of your reviews!",
+    "message": "Šobrīd nav nevienas kartītes, kas jāatkārto. Lieliski, ka seko līdzi savām atkārtošanas reizēm!"
+  },
+  "v2_5601c96c": {
+    "description": "Auto-generated translation for: Start Review Session",
+    "message": "Sākt pārskatīšanas sesiju"
+  },
+  "v2_51bced3c": {
+    "description": "Auto-generated translation for: Upcoming",
+    "message": "Gaidāms"
+  },
+  "v2_00000ddf": {
+    "description": "Auto-generated translation for: on",
+    "message": "ieslēgts"
+  },
+  "v2_1f52759c": {
+    "description": "Auto-generated translation for: Loading session...",
+    "message": "Ielādē sesiju..."
+  },
+  "v2_09d21988": {
+    "description": "Auto-generated translation for: Back to Dashboard",
+    "message": "Atpakaļ uz paneļa"
+  },
+  "v2_0bb70de9": {
+    "description": "Auto-generated translation for: Reviewed",
+    "message": "Pārskatīts"
+  },
+  "v2_4d7b6497": {
+    "description": "Auto-generated translation for: Play Pronunciation",
+    "message": "Atskaņot izrunu"
+  },
+  "v2_0027599f": {
+    "description": "Auto-generated translation for: Skip",
+    "message": "Izlaist"
+  },
+  "v2_6a3ca209": {
+    "description": "Auto-generated translation for: Great Job!",
+    "message": "Labi padarīts!"
+  },
+  "v2_61775da3": {
+    "description": "Auto-generated translation for: You've completed your review session",
+    "message": "Jūs pabeidzāt savu pārskata sesiju"
+  },
+  "v2_752bd9af": {
+    "description": "Auto-generated translation for: Keep up the momentum",
+    "message": "Saglabājiet šo tempu"
+  },
+  "v2_2296b7a1": {
+    "description": "Auto-generated translation for: Consistency is key to mastery",
+    "message": "Konsekvence ir atslēga uz meistarību"
+  },
+  "v2_7fd9982a": {
+    "description": "Auto-generated translation for: New Session",
+    "message": "Jauna sesija"
+  },
+  "v2_731cbad7": {
+    "description": "Auto-generated translation for: Review Activity",
+    "message": "Pārskatīt darbību"
+  },
+  "v2_56c7e042": {
+    "description": "Auto-generated translation for: reviews in the last year",
+    "message": "atsauksmes pēdējā gada laikā"
+  },
+  "v2_42292acf": {
+    "description": "Auto-generated translation for: active days",
+    "message": "aktīvās dienas"
+  },
+  "v2_418ff41b": {
+    "description": "Auto-generated translation for: reviews",
+    "message": "atsauksmes"
+  },
+  "v2_002415b9": {
+    "description": "Auto-generated translation for: Less",
+    "message": "Mazāk"
+  },
+  "v2_4d28d5c3": {
+    "description": "Auto-generated translation for: Please select learning and native languages before generating words.",
+    "message": "Lūdzu, pirms vārdu ģenerēšanas izvēlieties mācību un dzimtās valodas."
+  },
+  "v2_5141fce8": {
+    "description": "Auto-generated translation for: Tell the AI what kind of words you want to generate. For example: 'Generate beginner-level vocabulary for travel conversations' or 'Focus on business and professional terms'",
+    "message": "Pastāstiet MI, kāda veida vārdus vēlaties ģenerēt. Piemēram: 'Ģenerēt iesācēju līmeņa vārdu krājumu ceļojumu sarunām' vai 'Koncentrēties uz biznesa un profesionāliem terminiem'"
+  },
+  "v2_74974efe": {
+    "description": "Auto-generated translation for: Languages extracted from existing bookmarks in this list.",
+    "message": "Valodas, kas iegūtas no esošajām grāmatzīmēm šajā sarakstā."
   }
 }

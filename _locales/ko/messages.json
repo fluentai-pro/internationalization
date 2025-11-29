@@ -634,10 +634,6 @@
     "description": "Auto-generated translation for: Download",
     "message": "다운로드"
   },
-  "v2_4785f01e": {
-    "description": "Auto-generated translation for: App Management",
-    "message": "앱 관리"
-  },
   "v2_7cfb805d": {
     "description": "Auto-generated translation for: Failed",
     "message": "실패"
@@ -661,10 +657,6 @@
   "v2_50c72189": {
     "description": "Auto-generated translation for: Profile",
     "message": "프로필"
-  },
-  "v2_3eb4f971": {
-    "description": "Auto-generated translation for: Social Media",
-    "message": "소셜 미디어"
   },
   "v2_002063ce": {
     "description": "Auto-generated translation for: Date",
@@ -1808,10 +1800,6 @@
     "description": "Auto-generated translation for: Feature Request",
     "message": "기능 요청"
   },
-  "v2_52c6292d": {
-    "description": "Auto-generated translation for: No status set",
-    "message": "상태가 설정되지 않았습니다"
-  },
   "v2_7ade1e3a": {
     "description": "Auto-generated translation for: Neural Subtitles",
     "message": "신경망 자막"
@@ -1851,10 +1839,6 @@
   "v2_4c47a99f": {
     "description": "Auto-generated translation for: Processing Status",
     "message": "처리 상태"
-  },
-  "v2_43d2dd5e": {
-    "description": "Auto-generated translation for: Neural Transcriptions",
-    "message": "신경망 전사"
   },
   "v2_7d39a03b": {
     "description": "Auto-generated translation for: Import",
@@ -2076,10 +2060,6 @@
     "description": "Auto-generated translation for: Text to Speech Voice Selection",
     "message": "텍스트 음성 변환 목소리 선택"
   },
-  "v2_280ac135": {
-    "description": "Auto-generated translation for: Support Requests",
-    "message": "지원 요청"
-  },
   "v2_63dc6819": {
     "description": "Auto-generated translation for: Message",
     "message": "메시지"
@@ -2253,10 +2233,6 @@
     "description": "Auto-generated translation for: Updated",
     "message": "업데이트됨"
   },
-  "v2_090660f3": {
-    "description": "Auto-generated translation for: Anki Export Jobs",
-    "message": "Anki 내보내기 작업"
-  },
   "v2_31b83218": {
     "description": "Auto-generated translation for: Failed to download Anki deck",
     "message": "Anki 덱 다운로드에 실패했습니다."
@@ -2401,10 +2377,6 @@
     "description": "Auto-generated translation for: Show Learning Subtitles",
     "message": "학습 자막 표시"
   },
-  "v2_72458491": {
-    "description": "Auto-generated translation for: Toggle Settings",
-    "message": "설정 전환"
-  },
   "v2_39004e1d": {
     "description": "Auto-generated translation for: Set Language to $language$",
     "message": "언어를 $language$(으)로 설정",
@@ -2437,10 +2409,6 @@
   "v2_48ba5822": {
     "description": "Auto-generated translation for: Video Speed",
     "message": "영상 속도"
-  },
-  "v2_0fa166e0": {
-    "description": "Auto-generated translation for: Influencer Campaigns",
-    "message": "인플루언서 캠페인"
   },
   "v2_2a09d4ce": {
     "description": "Auto-generated translation for: AI Neural Subtitles",
@@ -3243,10 +3211,6 @@
     "description": "Auto-generated translation for: Manage your account preferences and billing settings.",
     "message": "계정 기본 설정 및 청구 설정을 관리하세요."
   },
-  "v2_3cf47f34": {
-    "description": "Auto-generated translation for: Text to Speech",
-    "message": "텍스트 음성 변환"
-  },
   "v2_28a3cf54": {
     "description": "Auto-generated translation for: Casual Usage",
     "message": "일상적인 용법"
@@ -3407,10 +3371,6 @@
     "description": "Auto-generated translation for: Refresh Page",
     "message": "페이지 새로고침"
   },
-  "v2_31f114e0": {
-    "description": "Auto-generated translation for: Error Details (Development)",
-    "message": "오류 세부 정보 (개발)"
-  },
   "v2_6c5bc7fd": {
     "description": "Auto-generated translation for: Remove from bookmarks",
     "message": "즐겨찾기에서 제거"
@@ -3514,14 +3474,6 @@
   "v2_3df0dbb4": {
     "description": "Auto-generated translation for: Loved by language learners worldwide",
     "message": "전 세계 언어 학습자들의 사랑을 받습니다"
-  },
-  "v2_13c28849": {
-    "description": "Auto-generated translation for: Download for Chrome",
-    "message": "Chrome용 다운로드"
-  },
-  "v2_04f166ea": {
-    "description": "Auto-generated translation for: Download for Firefox",
-    "message": "Firefox용 다운로드"
   },
   "v2_2a214ea2": {
     "description": "Auto-generated translation for: Support & Community",
@@ -4087,22 +4039,9 @@
     "description": "Auto-generated translation for: Norwegian",
     "message": "노르웨이어"
   },
-  "v2_196f550b": {
-    "description": "Auto-generated translation for: Anki Jobs",
-    "message": "Anki 채용 정보"
-  },
   "v2_21f28d5c": {
     "description": "Auto-generated translation for: Start Learning",
     "message": "학습 시작"
-  },
-  "v2_562aca9e": {
-    "description": "Auto-generated translation for: $word$ added to bookmarks",
-    "message": "$word$을(를) 즐겨찾기에 추가했습니다",
-    "placeholders": {
-      "word": {
-        "content": "$1"
-      }
-    }
   },
   "v2_2cafbf71": {
     "description": "Auto-generated translation for: $word$ removed from bookmarks",
@@ -4221,10 +4160,6 @@
     "description": "Auto-generated translation for: Display a side panel with all subtitles for easy navigation and review.",
     "message": "쉽게 탐색하고 검토할 수 있도록 모든 자막이 포함된 사이드 패널을 표시합니다."
   },
-  "v2_078d43ee": {
-    "description": "Auto-generated translation for: Generate Subtitles with AI",
-    "message": "AI로 자막 생성"
-  },
   "v2_2b26d5bf": {
     "description": "Auto-generated translation for: Above the bar",
     "message": "바 위"
@@ -4241,10 +4176,6 @@
     "description": "Auto-generated translation for: Playback Controls Settings",
     "message": "재생 컨트롤 설정"
   },
-  "v2_7a43cfc2": {
-    "description": "Auto-generated translation for: Unable to process this video",
-    "message": "이 비디오를 처리할 수 없습니다"
-  },
   "v2_119fc9e4": {
     "description": "Auto-generated translation for: An error occurred while requesting transcription",
     "message": "전사 요청 중 오류가 발생했습니다"
@@ -4256,14 +4187,6 @@
   "v2_70349739": {
     "description": "Auto-generated translation for: Feedback details",
     "message": "피드백 세부 정보"
-  },
-  "v2_6195a0ba": {
-    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated. Please try again.",
-    "message": "신경망 전사가 완료되었으나 자막이 생성되지 않았습니다. 다시 시도해 주세요."
-  },
-  "v2_74392975": {
-    "description": "Auto-generated translation for: Neural transcription failed. Please try again.",
-    "message": "Neural 전사가 실패했습니다. 다시 시도해 주세요."
   },
   "v2_487a3b00": {
     "description": "Auto-generated translation for: Video ID",
@@ -4501,10 +4424,6 @@
     "description": "Auto-generated translation for: Simple translated text display component",
     "message": "간단한 번역 텍스트 표시 컴포넌트"
   },
-  "v2_642277f3": {
-    "description": "Auto-generated translation for: Dev Store Inspector",
-    "message": "개발 스토어 검사기"
-  },
   "v2_4bb25c41": {
     "description": "Auto-generated translation for: No data available for selected store",
     "message": "선택한 매장에 대한 데이터가 없습니다"
@@ -4541,10 +4460,6 @@
     "description": "Auto-generated translation for: Choose a store to inspect",
     "message": "검사할 매장을 선택하세요"
   },
-  "v2_20daf9f2": {
-    "description": "Auto-generated translation for: Refresh store data",
-    "message": "스토어 데이터 새로고침"
-  },
   "v2_12dd5a41": {
     "description": "Auto-generated translation for: Loading store data...",
     "message": "상점 데이터 로드 중..."
@@ -4564,10 +4479,6 @@
   "v2_25a296fd": {
     "description": "Auto-generated translation for: Your Free Trial has Ended",
     "message": "무료 체험 기간이 종료되었습니다"
-  },
-  "v2_4c891c43": {
-    "description": "Auto-generated translation for: Please subscribe to get access to all premium features for just $0.15 per day.",
-    "message": "모든 프리미엄 기능에 액세스하려면 구독해 주세요. 하루 단 $0.15입니다."
   },
   "v2_3884bce6": {
     "description": "Auto-generated translation for: Add Subtitles to Any Video",
@@ -4865,14 +4776,6 @@
     "description": "Auto-generated translation for: Applying video settings",
     "message": "비디오 설정 적용 중"
   },
-  "v2_2473aba8": {
-    "description": "Auto-generated translation for: Try AI Subtitles",
-    "message": "AI 자막 체험하기"
-  },
-  "v2_23ea242e": {
-    "description": "Auto-generated translation for: No subtitles found. Use AI to generate accurate subtitles from audio.",
-    "message": "자막을 찾을 수 없습니다. AI를 사용하여 오디오에서 정확한 자막을 생성하세요."
-  },
   "v2_60edc1ee": {
     "description": "Auto-generated translation for: Generate AI Subtitles",
     "message": "AI 자막 생성"
@@ -4993,14 +4896,6 @@
     "description": "Auto-generated translation for: Feedback",
     "message": "피드백"
   },
-  "v2_28932aa7": {
-    "description": "Auto-generated translation for: Dual subtitles for Netflix, YouTube, Amazon Prime, and Disney Plus.",
-    "message": "넷플릭스, 유튜브, 아마존 프라임, 디즈니 플러스 이중 자막"
-  },
-  "v2_76068a05": {
-    "description": "Auto-generated translation for: Netflix & YouTube",
-    "message": "넷플릭스 및 유튜브"
-  },
   "v2_123785cf": {
     "description": "Auto-generated translation for: Open on Desktop",
     "message": "데스크톱에서 열기"
@@ -5028,14 +4923,6 @@
   "v2_640403e3": {
     "description": "Auto-generated translation for: Learn languages with smart subtitles while watching your favorite content on Netflix, YouTube, Prime Video, and Disney+.",
     "message": "Netflix, YouTube, Prime Video, Disney+에서 즐겨보는 콘텐츠를 시청하면서 스마트 자막으로 언어를 학습하세요."
-  },
-  "v2_6313ed38": {
-    "description": "Auto-generated translation for: With our smart subtitles and cool features, learn any language by watching your favorite content. Finally, fun and easy.",
-    "message": "스마트 자막과 멋진 기능으로 좋아하는 콘텐츠를 보면서 어떤 언어든 배워보세요. 드디어, 재미있고 쉬워졌습니다."
-  },
-  "v2_03044907": {
-    "description": "Auto-generated translation for: Learn languages with smart subtitles on YouTube, Netflix, Prime, and Disney.",
-    "message": "YouTube, Netflix, Prime, Disney에서 스마트 자막과 함께 언어를 학습하세요."
   },
   "v2_672803b1": {
     "description": "Auto-generated translation for: Best experienced on desktop.",
@@ -5168,22 +5055,6 @@
   "v2_4e5a5812": {
     "description": "Auto-generated translation for: User Overrides",
     "message": "사용자 재정의"
-  },
-  "v2_557fd065": {
-    "description": "Auto-generated translation for: Neural transcription processing failed",
-    "message": "신경 전사 처리에 실패했습니다"
-  },
-  "v2_2662de51": {
-    "description": "Auto-generated translation for: Neural transcription completed but no subtitles were generated",
-    "message": "신경망 전사가 완료되었지만 자막이 생성되지 않았습니다"
-  },
-  "v2_7be6e727": {
-    "description": "Auto-generated translation for: No transcription ID returned",
-    "message": "전사 ID가 반환되지 않았습니다"
-  },
-  "v2_3846b5ed": {
-    "description": "Auto-generated translation for: Failed to request neural transcription. Please try again.",
-    "message": "신경망 전사를 요청하지 못했습니다. 다시 시도해 주세요."
   },
   "v2_6229de22": {
     "description": "Auto-generated translation for: Rate Us",
@@ -5658,10 +5529,6 @@
     "description": "Auto-generated translation for: Translations of the word",
     "message": "단어 번역"
   },
-  "v2_565159f2": {
-    "description": "Auto-generated translation for: Dictionary Form",
-    "message": "사전형"
-  },
   "v2_143527b0": {
     "description": "Auto-generated translation for: Base/canonical form of the word",
     "message": "단어의 기본/정식 형태"
@@ -5806,14 +5673,6 @@
   "v2_6cb2cf8d": {
     "description": "Auto-generated translation for: Select Book",
     "message": "도서 선택"
-  },
-  "v2_67b52e74": {
-    "description": "Auto-generated translation for: No books in your library",
-    "message": "내 라이브러리에 책이 없습니다"
-  },
-  "v2_408d6104": {
-    "description": "Auto-generated translation for: Upload your first EPUB to get started",
-    "message": "시작하려면 첫 EPUB을 업로드하세요"
   },
   "v2_09ecadf3": {
     "description": "Auto-generated translation for: No book selected",
@@ -6095,10 +5954,6 @@
   "v2_6b49a911": {
     "description": "Auto-generated translation for: Native Subtitle Styling",
     "message": "기본 자막 스타일 지정"
-  },
-  "v2_7c1626a0": {
-    "description": "Auto-generated translation for: Choose theme",
-    "message": "테마 선택"
   },
   "v2_2e0e0805": {
     "description": "Auto-generated translation for: Languages",
@@ -6539,14 +6394,6 @@
     "description": "Auto-generated translation for: Creating segments...",
     "message": "세그먼트 생성 중..."
   },
-  "v2_39b7b941": {
-    "description": "Auto-generated translation for: Transcription ID is required for client-side upload",
-    "message": "클라이언트 측 업로드를 위해 Transcription ID가 필요합니다."
-  },
-  "v2_0d8f2527": {
-    "description": "Auto-generated translation for: Unable to get current audio track for client-side upload",
-    "message": "클라이언트 측 업로드를 위한 현재 오디오 트랙을 가져올 수 없습니다."
-  },
   "v2_33cd69e2": {
     "description": "Auto-generated translation for: AI List Generation",
     "message": "AI 목록 생성"
@@ -6574,30 +6421,6 @@
   "v2_2ba40092": {
     "description": "Auto-generated translation for: Import bookmarks from CSV",
     "message": "CSV에서 북마크 가져오기"
-  },
-  "v2_05b7caa8": {
-    "description": "Auto-generated translation for: Import Bookmarks - Upload CSV",
-    "message": "북마크 가져오기 - CSV 업로드"
-  },
-  "v2_7df09908": {
-    "description": "Auto-generated translation for: Import Bookmarks - Map Columns",
-    "message": "북마크 가져오기 - 열 매핑"
-  },
-  "v2_5d058757": {
-    "description": "Auto-generated translation for: Import Bookmarks - Preview",
-    "message": "책갈피 가져오기 - 미리보기"
-  },
-  "v2_0d7be6fe": {
-    "description": "Auto-generated translation for: Import Bookmarks - Importing...",
-    "message": "책갈피 가져오기 - 가져오는 중..."
-  },
-  "v2_6bdcff8a": {
-    "description": "Auto-generated translation for: Import Bookmarks - Complete",
-    "message": "북마크 가져오기 - 완료"
-  },
-  "v2_2fa67342": {
-    "description": "Auto-generated translation for: Import Bookmarks",
-    "message": "북마크 가져오기"
   },
   "v2_670c1f6c": {
     "description": "Auto-generated translation for: Importing bookmarks...",
@@ -6814,15 +6637,6 @@
     "description": "Auto-generated translation for: No usage examples",
     "message": "사용 예시 없음"
   },
-  "v2_64524d83": {
-    "description": "Auto-generated translation for: View words in {list_name}",
-    "message": "{list_name}에서 단어 보기",
-    "placeholders": {
-      "list_name": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1d0209f3": {
     "description": "Auto-generated translation for: Delete List",
     "message": "목록 삭제"
@@ -6851,10 +6665,6 @@
     "description": "Auto-generated translation for: New learning list",
     "message": "새로운 학습 목록"
   },
-  "v2_4163696b": {
-    "description": "Auto-generated translation for: Add a short description so you remember what belongs in this list.",
-    "message": "이 목록에 무엇이 있는지 기억할 수 있도록 간단한 설명을 추가하세요."
-  },
   "v2_0022b099": {
     "description": "Auto-generated translation for: Icon",
     "message": "아이콘"
@@ -6866,10 +6676,6 @@
   "v2_1475e0ba": {
     "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
     "message": "이 목록에 대한 어휘 단어를 자동으로 생성합니다"
-  },
-  "v2_79c66209": {
-    "description": "Auto-generated translation for: Number of words",
-    "message": "단어 수"
   },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
@@ -6950,10 +6756,6 @@
   "v2_0fe585f4": {
     "description": "Auto-generated translation for: Downloading...",
     "message": "다운로드 중..."
-  },
-  "v2_561795e8": {
-    "description": "Auto-generated translation for: Download Stream",
-    "message": "스트림 다운로드"
   },
   "v2_6d97721c": {
     "description": "Auto-generated translation for: Audio Upload Dev Panel",
@@ -7083,10 +6885,6 @@
     "description": "Auto-generated translation for: Neural subtitles are not yet available",
     "message": "뉴럴 자막은 아직 사용할 수 없습니다."
   },
-  "v2_0dae7c32": {
-    "description": "Auto-generated translation for: Generate subtitles with AI",
-    "message": "AI로 자막 생성"
-  },
   "v2_0cdb031a": {
     "description": "Auto-generated translation for: Coming soon",
     "message": "Coming soon: 곧 출시 예정"
@@ -7127,10 +6925,6 @@
     "description": "Auto-generated translation for: Subtitles imported successfully",
     "message": "자막을 성공적으로 가져왔습니다"
   },
-  "v2_7d8bd622": {
-    "description": "Auto-generated translation for: An unexpected error occurred while importing subtitles",
-    "message": "자막을 가져오는 동안 예기치 않은 오류가 발생했습니다."
-  },
   "v2_69652337": {
     "description": "Auto-generated translation for: Neural transcription is already in progress for this video",
     "message": "이 비디오에 대한 신경망 트랜스크립션이 이미 진행 중입니다."
@@ -7139,10 +6933,6 @@
     "description": "Auto-generated translation for: Please set your learning language in settings before creating neural subtitles",
     "message": "신경망 자막을 생성하기 전에 설정에서 학습 언어를 설정하십시오."
   },
-  "v2_5034bcb9": {
-    "description": "Auto-generated translation for: Failed to upload audio",
-    "message": "오디오 업로드 실패"
-  },
   "v2_4050988e": {
     "description": "Auto-generated translation for: Neural transcription started",
     "message": "신경망 트랜스크립션이 시작되었습니다"
@@ -7150,26 +6940,6 @@
   "v2_7c1bf627": {
     "description": "Auto-generated translation for: An unexpected error occurred",
     "message": "예상치 못한 오류가 발생했습니다"
-  },
-  "v2_7de3ad93": {
-    "description": "Auto-generated translation for: Please upload a valid video file",
-    "message": "유효한 비디오 파일을 업로드해 주세요."
-  },
-  "v2_1c851385": {
-    "description": "Auto-generated translation for: Select video file",
-    "message": "비디오 파일 선택"
-  },
-  "v2_6aa78acd": {
-    "description": "Auto-generated translation for: Drop your video file here",
-    "message": "여기에 비디오 파일을 놓으세요"
-  },
-  "v2_77d1db2e": {
-    "description": "Auto-generated translation for: Drag and drop your video file",
-    "message": "비디오 파일을 드래그 앤 드롭하세요"
-  },
-  "v2_0f19d2bd": {
-    "description": "Auto-generated translation for: Upload a video file from your device to play it with FluentAI subtitles, translations, and interactive learning features.",
-    "message": "FluentAI 자막, 번역 및 인터랙티브 학습 기능으로 비디오 파일을 재생하려면 장치에서 비디오 파일을 업로드하세요."
   },
   "v2_000009e3": {
     "description": "Auto-generated translation for: OR",
@@ -7383,17 +7153,9 @@
     "description": "Auto-generated translation for: Cancel Selection",
     "message": "선택 취소"
   },
-  "v2_3583dd91": {
-    "description": "Auto-generated translation for: Are you sure you want to remove this item from the list?",
-    "message": "목록에서 이 항목을 삭제하시겠습니까?"
-  },
   "v2_152ebc42": {
     "description": "Auto-generated translation for: No items in this list yet.",
     "message": "이 목록에 아직 항목이 없습니다."
-  },
-  "v2_7d9db6ec": {
-    "description": "Auto-generated translation for: Please select both learning and native languages",
-    "message": "학습 언어와 모국어를 모두 선택해 주세요."
   },
   "v2_7132a412": {
     "description": "Auto-generated translation for: Words generated and added to list",
@@ -7411,10 +7173,6 @@
   "v2_6c576f57": {
     "description": "Auto-generated translation for: Generate Words for List",
     "message": "목록에 대한 단어 생성"
-  },
-  "v2_613b5ada": {
-    "description": "Auto-generated translation for: Words will be generated based on the list name and description:",
-    "message": "단어 목록 이름 및 설명에 따라 단어가 생성됩니다."
   },
   "v2_60cbc3e4": {
     "description": "Auto-generated translation for: Generating...",
@@ -7477,10 +7235,6 @@
     "description": "Auto-generated translation for: Logo Gradient Colors",
     "message": "로고 그라데이션 색상"
   },
-  "v2_2c6d0590": {
-    "description": "Auto-generated translation for: Set status",
-    "message": "상태 설정"
-  },
   "v2_04549323": {
     "description": "Auto-generated translation for: Known",
     "message": "알려진"
@@ -7497,14 +7251,6 @@
   "v2_41ef59a9": {
     "description": "Auto-generated translation for: No results.",
     "message": "결과가 없습니다."
-  },
-  "v2_669ecfde": {
-    "description": "Auto-generated translation for: Deselect all",
-    "message": "모두 선택 해제"
-  },
-  "v2_1cfcf432": {
-    "description": "Auto-generated translation for: Select all page",
-    "message": "모든 페이지 선택"
   },
   "v2_10e4b2b9": {
     "description": "Auto-generated translation for: We appreciate your feedback and will do our best to make the app better for you.",
@@ -7545,5 +7291,885 @@
   "v2_355cc324": {
     "description": "Auto-generated translation for: Bookmark paragraph",
     "message": "문단 북마크"
+  },
+  "v2_0c86a976": {
+    "description": "Auto-generated translation for: Bookmark updated successfully",
+    "message": "북마크가 성공적으로 업데이트되었습니다."
+  },
+  "v2_07e72bab": {
+    "description": "Auto-generated translation for: Failed to update bookmark",
+    "message": "북마크 업데이트에 실패했습니다"
+  },
+  "v2_5dce8b1c": {
+    "description": "Auto-generated translation for: Upload failed",
+    "message": "업로드 실패"
+  },
+  "v2_4cda3d4e": {
+    "description": "Auto-generated translation for: Neural transcription is already running for this video.",
+    "message": "이 비디오는 이미 신경망 트랜스크립션이 실행 중입니다."
+  },
+  "v2_2cc15054": {
+    "description": "Auto-generated translation for: Please configure your learning language before continuing.",
+    "message": "계속하기 전에 학습 언어를 설정해 주세요."
+  },
+  "v2_07ddf321": {
+    "description": "Auto-generated translation for: AI subtitles are currently unavailable.",
+    "message": "AI 자막은 현재 사용할 수 없습니다."
+  },
+  "v2_47531d14": {
+    "description": "Auto-generated translation for: AI subtitles are ready.",
+    "message": "AI 자막이 준비되었습니다."
+  },
+  "v2_73da36c5": {
+    "description": "Auto-generated translation for: AI subtitle generation started.",
+    "message": "AI 자막 생성이 시작되었습니다."
+  },
+  "v2_0b50491d": {
+    "description": "Auto-generated translation for: Failed to start neural transcription.",
+    "message": "신경 필사 시작에 실패했습니다."
+  },
+  "v2_2e29759b": {
+    "description": "Auto-generated translation for: Learning language is required to build AI subtitles.",
+    "message": "AI 자막을 만들기 위해서는 언어 학습이 필요합니다."
+  },
+  "v2_7b769a63": {
+    "description": "Auto-generated translation for: No timed segments were returned for this transcription.",
+    "message": "이 번역에 대해 시간 제한 세그먼트가 반환되지 않았습니다."
+  },
+  "v2_183981f8": {
+    "description": "Auto-generated translation for: Failed to complete neural transcription.",
+    "message": "신경망 트랜스크립션 완료에 실패했습니다."
+  },
+  "v2_06abed02": {
+    "description": "Auto-generated translation for: Failed to generate AI subtitles.",
+    "message": "AI 자막 생성에 실패했습니다."
+  },
+  "v2_6f270a6d": {
+    "description": "Auto-generated translation for: Queued",
+    "message": "대기 중"
+  },
+  "v2_5e70a46c": {
+    "description": "Auto-generated translation for: Preparing audio...",
+    "message": "오디오 준비 중..."
+  },
+  "v2_601aac2a": {
+    "description": "Auto-generated translation for: Current audio language is not supported for AI subtitles.",
+    "message": "현재 오디오 언어는 AI 자막을 지원하지 않습니다."
+  },
+  "v2_34bf789b": {
+    "description": "Auto-generated translation for: Unable to access the current audio track for AI subtitles.",
+    "message": "AI 자막을 위한 현재 오디오 트랙에 접근할 수 없습니다."
+  },
+  "v2_5433b40f": {
+    "description": "Auto-generated translation for: Switch the audio track to match your learning language before generating AI subtitles.",
+    "message": "AI 자막을 생성하기 전에 학습 언어에 맞춰 오디오 트랙을 변경하세요."
+  },
+  "v2_6cfa0493": {
+    "description": "Auto-generated translation for: This video already contains high-quality subtitles.",
+    "message": "이 비디오에는 이미 고품질 자막이 포함되어 있습니다."
+  },
+  "v2_1645ab12": {
+    "description": "Auto-generated translation for: Subtitles are already available for this video.",
+    "message": "이 비디오에는 이미 자막이 제공됩니다."
+  },
+  "v2_63bef93b": {
+    "description": "Auto-generated translation for: AI subtitles are not available on this platform yet.",
+    "message": "현재 이 플랫폼에서는 AI 자막을 사용할 수 없습니다."
+  },
+  "v2_63f90643": {
+    "description": "Auto-generated translation for: Copied!",
+    "message": "복사되었습니다!"
+  },
+  "v2_1928aa63": {
+    "description": "Auto-generated translation for: Copy Error",
+    "message": "복사 오류"
+  },
+  "v2_4d336016": {
+    "description": "Auto-generated translation for: Error Details",
+    "message": "오류 정보"
+  },
+  "v2_25d83c16": {
+    "description": "Auto-generated translation for: An error occurred: $error$",
+    "message": "오류가 발생했습니다: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_7b467d2b": {
+    "description": "Auto-generated translation for: Please select words first",
+    "message": "단어를 먼저 선택해주세요"
+  },
+  "v2_76da7906": {
+    "description": "Auto-generated translation for: Unselect Page",
+    "message": "페이지 선택 해제"
+  },
+  "v2_6cb8f733": {
+    "description": "Auto-generated translation for: Select Page",
+    "message": "페이지 선택"
+  },
+  "v2_63c7485a": {
+    "description": "Auto-generated translation for: Choose what to export",
+    "message": "내보낼 항목을 선택하세요"
+  },
+  "v2_29e46fe6": {
+    "description": "Auto-generated translation for: Choose What to Export",
+    "message": "내보낼 항목 선택"
+  },
+  "v2_4d63ef79": {
+    "description": "Auto-generated translation for: Select whether to export all words or only selected words",
+    "message": "모든 단어를 내보낼지, 선택한 단어만 내보낼지 선택하세요."
+  },
+  "v2_7dd732e8": {
+    "description": "Auto-generated translation for: Export Scope",
+    "message": "수출 범위"
+  },
+  "v2_2457961e": {
+    "description": "Auto-generated translation for: Export all words",
+    "message": "모든 단어 내보내기"
+  },
+  "v2_3c52f674": {
+    "description": "Auto-generated translation for: Export all words from your notebook",
+    "message": "노트북에서 모든 단어 내보내기"
+  },
+  "v2_5be85950": {
+    "description": "Auto-generated translation for: Export selected words",
+    "message": "선택된 단어 내보내기"
+  },
+  "v2_3855bcf2": {
+    "description": "Auto-generated translation for: Export {count} selected word(s)",
+    "message": "선택된 단어 {count}개 내보내기",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2959c651": {
+    "description": "Auto-generated translation for: No words selected",
+    "message": "선택된 단어가 없습니다"
+  },
+  "v2_7c82a4d3": {
+    "description": "Auto-generated translation for: Filter by Lists (Optional)",
+    "message": "목록으로 필터링 (선택 사항)"
+  },
+  "v2_2b99ed2e": {
+    "description": "Auto-generated translation for: Clear all",
+    "message": "모두 지우기"
+  },
+  "v2_3eec2b1d": {
+    "description": "Auto-generated translation for: Select specific lists to filter the export. Leave empty to export all.",
+    "message": "내보내기를 필터링할 특정 목록을 선택하세요. 모두 내보내려면 비워 두세요."
+  },
+  "v2_0dd8eec3": {
+    "description": "Auto-generated translation for: Loading lists...",
+    "message": "목록 로딩 중..."
+  },
+  "v2_7e653fbf": {
+    "description": "Auto-generated translation for: No lists available",
+    "message": "사용 가능한 목록이 없습니다"
+  },
+  "v2_30f2ee79": {
+    "description": "Auto-generated translation for: Example sentence or context",
+    "message": "예시 문장 또는 문맥"
+  },
+  "v2_40bd3580": {
+    "description": "Auto-generated translation for: Context Translation",
+    "message": "문맥 번역"
+  },
+  "v2_636cd79d": {
+    "description": "Auto-generated translation for: Translation of the context sentence",
+    "message": "문맥 문장 번역"
+  },
+  "v2_345ed98d": {
+    "description": "Auto-generated translation for: Video timestamp in seconds",
+    "message": "초 단위 동영상 타임스탬프"
+  },
+  "v2_687d0f08": {
+    "description": "Auto-generated translation for: Bookmark type (WORD, PHRASE, etc.)",
+    "message": "북마크 유형 (WORD, PHRASE 등)"
+  },
+  "v2_439a68d4": {
+    "description": "Auto-generated translation for: Additional notes or explanation",
+    "message": "추가 설명 또는 참고 사항"
+  },
+  "v2_04f1a9b4": {
+    "description": "Auto-generated translation for: Lists this entry belongs to",
+    "message": "이 항목이 속한 목록"
+  },
+  "v2_58feea8a": {
+    "description": "Auto-generated translation for: Example sentences with translations",
+    "message": "번역이 포함된 예시 문장"
+  },
+  "v2_7672b15b": {
+    "description": "Auto-generated translation for: Words with similar meaning",
+    "message": "뜻이 비슷한 단어"
+  },
+  "v2_01e3dc79": {
+    "description": "Auto-generated translation for: Words with opposite meaning",
+    "message": "반대 의미를 가진 단어"
+  },
+  "v2_491a8f76": {
+    "description": "Auto-generated translation for: Grammatical category (noun, verb, etc.)",
+    "message": "문법 범주 (명사, 동사 등)"
+  },
+  "v2_096e8b46": {
+    "description": "Auto-generated translation for: Preview unavailable. Please check your column mappings and language settings.",
+    "message": "미리보기를 사용할 수 없습니다. 열 매핑 및 언어 설정을 확인하십시오."
+  },
+  "v2_13d1c010": {
+    "description": "Auto-generated translation for: No preview available. Please map at least one column.",
+    "message": "미리보기를 사용할 수 없습니다. 하나 이상의 열을 매핑하십시오."
+  },
+  "v2_653e3c0b": {
+    "description": "Auto-generated translation for: Add Column",
+    "message": "열 추가"
+  },
+  "v2_03ff952d": {
+    "description": "Auto-generated translation for: Empty",
+    "message": "비어 있음"
+  },
+  "v2_00012ac0": {
+    "description": "Auto-generated translation for: N/A",
+    "message": "해당 없음"
+  },
+  "v2_11b9d68c": {
+    "description": "Auto-generated translation for: Edit Bookmark",
+    "message": "즐겨찾기 편집"
+  },
+  "v2_10f2cadc": {
+    "description": "Auto-generated translation for: Update bookmark details and learning information",
+    "message": "북마크 상세 정보 및 학습 정보 업데이트"
+  },
+  "v2_513907fa": {
+    "description": "Auto-generated translation for: Basic Information",
+    "message": "기본 정보"
+  },
+  "v2_1df1bafa": {
+    "description": "Auto-generated translation for: Enter word or phrase...",
+    "message": "단어 또는 구문을 입력하세요..."
+  },
+  "v2_1f87e543": {
+    "description": "Auto-generated translation for: Enter base form...",
+    "message": "기본 형태를 입력하세요..."
+  },
+  "v2_7e81eacc": {
+    "description": "Auto-generated translation for: Add transliteration...",
+    "message": "음역 추가..."
+  },
+  "v2_74c44b34": {
+    "description": "Auto-generated translation for: Learning Status",
+    "message": "학습 현황"
+  },
+  "v2_0269d8c6": {
+    "description": "Auto-generated translation for: Context & Translation",
+    "message": "맥락 & 번역"
+  },
+  "v2_0d871183": {
+    "description": "Auto-generated translation for: Add context for this bookmark...",
+    "message": "이 북마크에 대한 컨텍스트 추가..."
+  },
+  "v2_5f3ec4d3": {
+    "description": "Auto-generated translation for: Add context translation...",
+    "message": "문맥 번역 추가..."
+  },
+  "v2_45343bd7": {
+    "description": "Auto-generated translation for: Add an explanation...",
+    "message": "설명을 추가하세요..."
+  },
+  "v2_7f606ab3": {
+    "description": "Auto-generated translation for: Additional Information",
+    "message": "추가 정보"
+  },
+  "v2_17b0b70a": {
+    "description": "Auto-generated translation for: e.g., noun, verb, adjective...",
+    "message": "예: 명사, 동사, 형용사 등..."
+  },
+  "v2_57513181": {
+    "description": "Auto-generated translation for: Comma-separated synonyms...",
+    "message": "쉼표로 구분된 동의어..."
+  },
+  "v2_2b0cfa9e": {
+    "description": "Auto-generated translation for: Comma-separated antonyms...",
+    "message": "쉼표로 분리된 반의어..."
+  },
+  "v2_360034ab": {
+    "description": "Auto-generated translation for: Add Example",
+    "message": "예시 추가"
+  },
+  "v2_2fe8df42": {
+    "description": "Auto-generated translation for: No usage examples. Click 'Add Example' to add one.",
+    "message": "사용 예제가 없습니다. '예제 추가'를 클릭하여 추가하세요."
+  },
+  "v2_1bf1557c": {
+    "description": "Auto-generated translation for: Original sentence...",
+    "message": "원래 문장..."
+  },
+  "v2_704f3dc3": {
+    "description": "Auto-generated translation for: Translation...",
+    "message": "번역 중..."
+  },
+  "v2_3932abf6": {
+    "description": "Auto-generated translation for: Video URL",
+    "message": "비디오 URL"
+  },
+  "v2_07381ec1": {
+    "description": "Auto-generated translation for: https://...",
+    "message": "https://..."
+  },
+  "v2_4818976e": {
+    "description": "Auto-generated translation for: Video ID...",
+    "message": "영상 ID..."
+  },
+  "v2_78cdc33b": {
+    "description": "Auto-generated translation for: Video title...",
+    "message": "영상 제목..."
+  },
+  "v2_63ad0005": {
+    "description": "Auto-generated translation for: Thumbnail URL",
+    "message": "썸네일 URL"
+  },
+  "v2_727c20e0": {
+    "description": "Auto-generated translation for: Save Changes",
+    "message": "변경 사항 저장"
+  },
+  "v2_2f3cda1e": {
+    "description": "Auto-generated translation for: Create New List",
+    "message": "새 목록 만들기"
+  },
+  "v2_4d9e44f5": {
+    "description": "Auto-generated translation for: Creating...",
+    "message": "생성 중..."
+  },
+  "v2_574121c5": {
+    "description": "Auto-generated translation for: Add words from notebook",
+    "message": "노트에서 단어 추가"
+  },
+  "v2_277a0379": {
+    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
+    "message": "이 목록에 추가할 단어를 공책에서 선택하세요."
+  },
+  "v2_3b1e210e": {
+    "description": "Auto-generated translation for: No translation",
+    "message": "번역 없음"
+  },
+  "v2_619377e2": {
+    "description": "Auto-generated translation for: No words found in notebook",
+    "message": "노트북에서 단어를 찾을 수 없음"
+  },
+  "v2_67f83a7d": {
+    "description": "Auto-generated translation for: Search words...",
+    "message": "검색어..."
+  },
+  "v2_4c07f29c": {
+    "description": "Auto-generated translation for: No words match your search",
+    "message": "검색어와 일치하는 단어가 없습니다."
+  },
+  "v2_60ee80ef": {
+    "description": "Auto-generated translation for: No status",
+    "message": "상태 없음"
+  },
+  "v2_393559d1": {
+    "description": "Auto-generated translation for: Load more",
+    "message": "더 불러오기"
+  },
+  "v2_63ec20d3": {
+    "description": "Auto-generated translation for: Custom Instructions (Optional)",
+    "message": "맞춤 안내 (선택 사항)"
+  },
+  "v2_69b15a13": {
+    "description": "Auto-generated translation for: Tell the AI what kind of words you want to generate...",
+    "message": "AI에게 어떤 종류의 단어를 생성하고 싶은지 말하세요..."
+  },
+  "v2_1874be9f": {
+    "description": "Auto-generated translation for: Add specific instructions to guide the AI in generating words that match your learning goals.",
+    "message": "AI가 사용자의 학습 목표에 맞는 단어를 생성하도록 구체적인 지침을 추가하세요."
+  },
+  "v2_72c50608": {
+    "description": "Auto-generated translation for: Please subscribe to get access to all premium features for just 15¢ per day!",
+    "message": "단돈 하루 15¢로 모든 프리미엄 기능을 이용하시려면 구독하세요!"
+  },
+  "v2_30ab5eed": {
+    "description": "Auto-generated translation for: Extracting...",
+    "message": "추출 중..."
+  },
+  "v2_156b7461": {
+    "description": "Auto-generated translation for: Extract",
+    "message": "추출"
+  },
+  "v2_7ea1a202": {
+    "description": "Auto-generated translation for: No Subtitles Found",
+    "message": "자막을 찾을 수 없습니다"
+  },
+  "v2_2924b787": {
+    "description": "Auto-generated translation for: This video doesn't have subtitles. Generate AI-powered subtitles to continue learning.",
+    "message": "이 비디오에는 자막이 없습니다. AI 기반 자막을 생성하여 학습을 계속하세요."
+  },
+  "v2_5a9ef735": {
+    "description": "Auto-generated translation for: Failed to validate code",
+    "message": "코드 유효성 검사에 실패했습니다."
+  },
+  "v2_2ab35be5": {
+    "description": "Auto-generated translation for: Failed to validate account",
+    "message": "계정 유효성 검사에 실패했습니다"
+  },
+  "v2_2bcd81e7": {
+    "description": "Auto-generated translation for: Failed to login",
+    "message": "로그인 실패"
+  },
+  "v2_2f2595ff": {
+    "description": "Auto-generated translation for: Failed to validate registration",
+    "message": "등록 유효성 확인에 실패했습니다."
+  },
+  "v2_19e829a4": {
+    "description": "Auto-generated translation for: Validation failed",
+    "message": "유효성 검사 실패"
+  },
+  "v2_4a420ef2": {
+    "description": "Auto-generated translation for: Please confirm your password",
+    "message": "비밀번호를 확인해주세요"
+  },
+  "v2_4e64db31": {
+    "description": "Auto-generated translation for: Email is required",
+    "message": "이메일은 필수 항목입니다."
+  },
+  "v2_5841757e": {
+    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
+    "message": "학습 중인 단어와 학습 언어에서 숙달한 단어"
+  },
+  "v2_0403cc76": {
+    "description": "Auto-generated translation for: EPUB Font Size",
+    "message": "EPUB 글꼴 크기"
+  },
+  "v2_696f8aeb": {
+    "description": "Auto-generated translation for: Track your learning progress and start review sessions",
+    "message": "학습 진행 상황을 추적하고 복습 세션을 시작하세요."
+  },
+  "v2_07d0c981": {
+    "description": "Auto-generated translation for: Failed to load training data. Please try again.",
+    "message": "학습 데이터 로드에 실패했습니다. 다시 시도해 주세요."
+  },
+  "v2_4e4d2f27": {
+    "description": "Auto-generated translation for: Learning Words",
+    "message": "단어 학습"
+  },
+  "v2_5de0ee14": {
+    "description": "Auto-generated translation for: Learned Words",
+    "message": "학습한 단어"
+  },
+  "v2_4ad6b4d4": {
+    "description": "Auto-generated translation for: Neural transcription failed",
+    "message": "신경망 트랜스크립션 실패"
+  },
+  "v2_69b99a0d": {
+    "description": "Auto-generated translation for: Resources controller not available",
+    "message": "리소스 컨트롤러를 사용할 수 없습니다"
+  },
+  "v2_620d4c2c": {
+    "description": "Auto-generated translation for: Failed to get video ID",
+    "message": "비디오 ID를 가져오지 못했습니다"
+  },
+  "v2_59f15ff2": {
+    "description": "Auto-generated translation for: File size (${fileSizeGB}GB) exceeds the maximum limit of 2GB for AI subtitles",
+    "message": "파일 크기(${fileSizeGB}GB)가 AI 자막의 최대 허용 크기인 2GB를 초과합니다.",
+    "placeholders": {
+      "fileSizeGB": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_36c7c19a": {
+    "description": "Auto-generated translation for: Video Player",
+    "message": "비디오 플레이어"
+  },
+  "v2_0ff547ce": {
+    "description": "Auto-generated translation for: Generate subtitles with AI (max 2GB)",
+    "message": "AI로 자막 생성 (최대 2GB)"
+  },
+  "v2_12bbb012": {
+    "description": "Auto-generated translation for: Please upload a valid video or audio file",
+    "message": "유효한 비디오 또는 오디오 파일을 업로드해 주세요."
+  },
+  "v2_0d815606": {
+    "description": "Auto-generated translation for: Select video or audio file",
+    "message": "비디오 또는 오디오 파일 선택"
+  },
+  "v2_044d9dce": {
+    "description": "Auto-generated translation for: Drop your video or audio file here",
+    "message": "여기에 비디오 또는 오디오 파일을 드롭하세요"
+  },
+  "v2_107040b3": {
+    "description": "Auto-generated translation for: Drag and drop your video or audio file",
+    "message": "비디오 또는 오디오 파일을 드래그 앤 드롭하세요."
+  },
+  "v2_593c64c2": {
+    "description": "Auto-generated translation for: Upload a video or audio file from your device to play it with FluentAI subtitles, translations, and interactive learning features.",
+    "message": "FluentAI의 자막, 번역 및 인터랙티브 학습 기능으로 비디오 또는 오디오 파일을 장치에서 업로드하여 재생하세요."
+  },
+  "v2_67d55177": {
+    "description": "Auto-generated translation for: Language learning App for Netflix, YouTube, Amazon Prime, and Disney Plus.",
+    "message": "Netflix, YouTube, Amazon Prime, Disney Plus용 언어 학습 앱"
+  },
+  "v2_0bccfda7": {
+    "description": "Auto-generated translation for: Language learning App",
+    "message": "언어 학습 앱"
+  },
+  "v2_26330664": {
+    "description": "Auto-generated translation for: for Netflix & YouTube",
+    "message": "Netflix & YouTube용"
+  },
+  "v2_1ef0a9b9": {
+    "description": "Auto-generated translation for: Master the language you want to learn effortlessly through immersive learning with intelligent subtitles and powerful features.",
+    "message": "지능형 자막과 강력한 기능을 갖춘 몰입형 학습을 통해 배우고 싶은 언어를 힘들이지 않고 마스터하세요."
+  },
+  "v2_4979702a": {
+    "description": "Auto-generated translation for: Learn the language you want with smart subtitles on YouTube, Netflix, Prime, and Disney.",
+    "message": "YouTube, Netflix, Prime, Disney에서 스마트 자막으로 원하는 언어를 배우세요."
+  },
+  "v2_258894c1": {
+    "description": "Auto-generated translation for: Audio Extraction Test",
+    "message": "오디오 추출 테스트"
+  },
+  "v2_50c3add5": {
+    "description": "Auto-generated translation for: 🎉 Session Complete!",
+    "message": "🎉 세션 완료!"
+  },
+  "v2_1e581741": {
+    "description": "Auto-generated translation for: Great work! Here's your progress:",
+    "message": "훌륭합니다! 현재 진행 상황은 다음과 같습니다:"
+  },
+  "v2_028a8e32": {
+    "description": "Auto-generated translation for: Words Reviewed",
+    "message": "검토된 단어"
+  },
+  "v2_4d41465b": {
+    "description": "Auto-generated translation for: Time Spent",
+    "message": "소요 시간"
+  },
+  "v2_56f4abe0": {
+    "description": "Auto-generated translation for: Kept Learning",
+    "message": "계속 학습"
+  },
+  "v2_6c48c098": {
+    "description": "Auto-generated translation for: Review Again",
+    "message": "다시 검토"
+  },
+  "v2_7e5e3b99": {
+    "description": "Auto-generated translation for: Back to Notebook",
+    "message": "노트북으로 돌아가기"
+  },
+  "v2_223aeb69": {
+    "description": "Auto-generated translation for: Flashcard Training Settings",
+    "message": "플래시 카드 훈련 설정"
+  },
+  "v2_48ccb12c": {
+    "description": "Auto-generated translation for: Choose which words you want to practice",
+    "message": "연습할 단어를 선택하세요"
+  },
+  "v2_6ee2cd06": {
+    "description": "Auto-generated translation for: Reset to Defaults",
+    "message": "기본값으로 재설정"
+  },
+  "v2_102e2318": {
+    "description": "Auto-generated translation for: Start Training",
+    "message": "훈련 시작"
+  },
+  "v2_43a424f7": {
+    "description": "Auto-generated translation for: Loading languages...",
+    "message": "언어 로딩 중..."
+  },
+  "v2_469cbb9a": {
+    "description": "Auto-generated translation for: No learning languages found",
+    "message": "학습할 언어가 없습니다"
+  },
+  "v2_7da02fc4": {
+    "description": "Auto-generated translation for: All languages",
+    "message": "모든 언어"
+  },
+  "v2_00010181": {
+    "description": "Auto-generated translation for: All",
+    "message": "모두"
+  },
+  "v2_15c7bdee": {
+    "description": "Auto-generated translation for: Loading videos...",
+    "message": "비디오 로딩 중..."
+  },
+  "v2_46d78fa0": {
+    "description": "Auto-generated translation for: No videos available",
+    "message": "사용 가능한 비디오가 없습니다"
+  },
+  "v2_4f77cc42": {
+    "description": "Auto-generated translation for: Search videos...",
+    "message": "동영상 검색..."
+  },
+  "v2_3d9a2e4b": {
+    "description": "Auto-generated translation for: Date Range",
+    "message": "날짜 범위"
+  },
+  "v2_4d7883c1": {
+    "description": "Auto-generated translation for: Select date range...",
+    "message": "날짜 범위 선택..."
+  },
+  "v2_04fe2a89": {
+    "description": "Auto-generated translation for: Words",
+    "message": "단어"
+  },
+  "v2_3fded0ba": {
+    "description": "Auto-generated translation for: Phrases",
+    "message": "구문"
+  },
+  "v2_06b6891a": {
+    "description": "Auto-generated translation for: All types",
+    "message": "모든 유형"
+  },
+  "v2_425902a8": {
+    "description": "Auto-generated translation for: {{count}} types",
+    "message": "{{count}} types",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_37d9f6c1": {
+    "description": "Auto-generated translation for: Content Type",
+    "message": "콘텐츠 유형"
+  },
+  "v2_3df76aad": {
+    "description": "Auto-generated translation for: Search types...",
+    "message": "검색 유형..."
+  },
+  "v2_576e3a52": {
+    "description": "Auto-generated translation for: No types found.",
+    "message": "찾을 수 있는 유형이 없습니다."
+  },
+  "v2_6ff9cdc8": {
+    "description": "Auto-generated translation for: Please upload a valid EPUB file",
+    "message": "유효한 EPUB 파일을 업로드해 주세요."
+  },
+  "v2_6374ee20": {
+    "description": "Auto-generated translation for: Select EPUB file",
+    "message": "\"EPUB 파일 선택\""
+  },
+  "v2_54577768": {
+    "description": "Auto-generated translation for: Drop your EPUB file here",
+    "message": "여기에 EPUB 파일을 놓으세요"
+  },
+  "v2_66edff33": {
+    "description": "Auto-generated translation for: Drag and drop your EPUB file",
+    "message": "EPUB 파일을 드래그 앤 드롭하세요."
+  },
+  "v2_313fc93b": {
+    "description": "Auto-generated translation for: Upload an EPUB file from your device to read it with FluentAI translations and interactive learning features.",
+    "message": "FluentAI 번역 및 대화형 학습 기능으로 EPUB 파일을 읽으려면 기기에서 파일을 업로드하세요."
+  },
+  "v2_5172de57": {
+    "description": "Auto-generated translation for: Import EPUB File",
+    "message": "EPUB 파일 가져오기"
+  },
+  "v2_05e5bc46": {
+    "description": "Auto-generated translation for: Select a local EPUB file to get started",
+    "message": "시작하려면 로컬 EPUB 파일을 선택하세요."
+  },
+  "v2_51764679": {
+    "description": "Auto-generated translation for: Adjust the text size for better readability.",
+    "message": "더 나은 가독성을 위해 텍스트 크기를 조정하세요."
+  },
+  "v2_43c73b5c": {
+    "description": "Auto-generated translation for: How well did you know this word?",
+    "message": "이 단어를 얼마나 잘 알고 계셨나요?"
+  },
+  "v2_03c44340": {
+    "description": "Auto-generated translation for: Again",
+    "message": "다시"
+  },
+  "v2_0022350b": {
+    "description": "Auto-generated translation for: Hard",
+    "message": "어려운"
+  },
+  "v2_0021f4dd": {
+    "description": "Auto-generated translation for: Good",
+    "message": "좋음"
+  },
+  "v2_0020d822": {
+    "description": "Auto-generated translation for: Easy",
+    "message": "쉬움"
+  },
+  "v2_56799d3d": {
+    "description": "Auto-generated translation for: card waiting",
+    "message": "카드 대기 중"
+  },
+  "v2_450ff970": {
+    "description": "Auto-generated translation for: cards waiting",
+    "message": "대기 중인 카드"
+  },
+  "v2_49d76785": {
+    "description": "Auto-generated translation for: Due for Review",
+    "message": "검토 예정"
+  },
+  "v2_5a7f6507": {
+    "description": "Auto-generated translation for: card reviewed",
+    "message": "카드 검토됨"
+  },
+  "v2_7b29d9ec": {
+    "description": "Auto-generated translation for: cards reviewed",
+    "message": "검토한 카드"
+  },
+  "v2_3e6987d8": {
+    "description": "Auto-generated translation for: Reviewed Today",
+    "message": "오늘 검토됨"
+  },
+  "v2_7801f96a": {
+    "description": "Auto-generated translation for: Longest",
+    "message": "가장 긴"
+  },
+  "v2_002ef057": {
+    "description": "Auto-generated translation for: days",
+    "message": "일"
+  },
+  "v2_334c4845": {
+    "description": "Auto-generated translation for: Current Streak",
+    "message": "현재 연속"
+  },
+  "v2_7942d8d0": {
+    "description": "Auto-generated translation for: Last 30 days",
+    "message": "최근 30일"
+  },
+  "v2_1cd460e2": {
+    "description": "Auto-generated translation for: Retention Rate",
+    "message": "고객 유지율"
+  },
+  "v2_10ec2681": {
+    "description": "Auto-generated translation for: mastered",
+    "message": "마스터됨"
+  },
+  "v2_222ef4b9": {
+    "description": "Auto-generated translation for: Total Cards",
+    "message": "총 카드"
+  },
+  "v2_699a8abe": {
+    "description": "Auto-generated translation for: Cards mastered",
+    "message": "카드 마스터"
+  },
+  "v2_35668b11": {
+    "description": "Auto-generated translation for: Learning Progress",
+    "message": "학습 진행"
+  },
+  "v2_730d2a7d": {
+    "description": "Auto-generated translation for: Ready to Learn?",
+    "message": "배울 준비가 되셨나요?"
+  },
+  "v2_29490317": {
+    "description": "Auto-generated translation for: You have",
+    "message": "당신은 가지고 있습니다"
+  },
+  "v2_002e7b10": {
+    "description": "Auto-generated translation for: card",
+    "message": "카드"
+  },
+  "v2_05a0e763": {
+    "description": "Auto-generated translation for: cards",
+    "message": "카드"
+  },
+  "v2_287ce03b": {
+    "description": "Auto-generated translation for: due for review",
+    "message": "검토 예정"
+  },
+  "v2_0001a9a0": {
+    "description": "Auto-generated translation for: new",
+    "message": "새로운"
+  },
+  "v2_3e98685f": {
+    "description": "Auto-generated translation for: to learn",
+    "message": "배우다"
+  },
+  "v2_388f6433": {
+    "description": "Auto-generated translation for: No cards due right now. Great job staying on top of your reviews!",
+    "message": "지금 바로 처리해야 할 카드는 없습니다. 리뷰를 꾸준히 잘 관리하고 계시네요!"
+  },
+  "v2_5601c96c": {
+    "description": "Auto-generated translation for: Start Review Session",
+    "message": "리뷰 세션 시작"
+  },
+  "v2_51bced3c": {
+    "description": "Auto-generated translation for: Upcoming",
+    "message": "예정"
+  },
+  "v2_00000ddf": {
+    "description": "Auto-generated translation for: on",
+    "message": "켜짐"
+  },
+  "v2_1f52759c": {
+    "description": "Auto-generated translation for: Loading session...",
+    "message": "세션 로딩 중..."
+  },
+  "v2_09d21988": {
+    "description": "Auto-generated translation for: Back to Dashboard",
+    "message": "대시보드로 돌아가기"
+  },
+  "v2_0bb70de9": {
+    "description": "Auto-generated translation for: Reviewed",
+    "message": "검토됨"
+  },
+  "v2_4d7b6497": {
+    "description": "Auto-generated translation for: Play Pronunciation",
+    "message": "발음 듣기"
+  },
+  "v2_0027599f": {
+    "description": "Auto-generated translation for: Skip",
+    "message": "건너뛰기"
+  },
+  "v2_6a3ca209": {
+    "description": "Auto-generated translation for: Great Job!",
+    "message": "잘 했어요!"
+  },
+  "v2_61775da3": {
+    "description": "Auto-generated translation for: You've completed your review session",
+    "message": "검토 세션을 완료했습니다."
+  },
+  "v2_752bd9af": {
+    "description": "Auto-generated translation for: Keep up the momentum",
+    "message": "기세를 유지하세요"
+  },
+  "v2_2296b7a1": {
+    "description": "Auto-generated translation for: Consistency is key to mastery",
+    "message": "꾸준함이 숙달의 열쇠이다"
+  },
+  "v2_7fd9982a": {
+    "description": "Auto-generated translation for: New Session",
+    "message": "새 세션"
+  },
+  "v2_731cbad7": {
+    "description": "Auto-generated translation for: Review Activity",
+    "message": "활동 검토"
+  },
+  "v2_56c7e042": {
+    "description": "Auto-generated translation for: reviews in the last year",
+    "message": "지난 1년간의 리뷰"
+  },
+  "v2_42292acf": {
+    "description": "Auto-generated translation for: active days",
+    "message": "활성 일수"
+  },
+  "v2_418ff41b": {
+    "description": "Auto-generated translation for: reviews",
+    "message": "리뷰"
+  },
+  "v2_002415b9": {
+    "description": "Auto-generated translation for: Less",
+    "message": "덜"
+  },
+  "v2_4d28d5c3": {
+    "description": "Auto-generated translation for: Please select learning and native languages before generating words.",
+    "message": "단어 생성을 하기 전에 학습 언어와 모국어를 선택해 주세요."
+  },
+  "v2_5141fce8": {
+    "description": "Auto-generated translation for: Tell the AI what kind of words you want to generate. For example: 'Generate beginner-level vocabulary for travel conversations' or 'Focus on business and professional terms'",
+    "message": "AI에게 어떤 종류의 단어를 생성하고 싶은지 알려주세요. 예를 들어: '여행 대화를 위한 초급 어휘 생성' 또는 '비즈니스 및 전문 용어에 집중'"
+  },
+  "v2_74974efe": {
+    "description": "Auto-generated translation for: Languages extracted from existing bookmarks in this list.",
+    "message": "이 목록의 기존 북마크에서 추출된 언어입니다."
   }
 }
