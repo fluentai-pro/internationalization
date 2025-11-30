@@ -8569,5 +8569,23 @@
   "v2_01993ece": {
     "description": "Auto-generated translation for: Variable (longer intervals)",
     "message": "পরিবর্তনশীল (দীর্ঘ বিরতি)"
+  },
+  "v2_3f447a28": {
+    "description": "Auto-generated translation for: Processing deck \"{{deckName}}\"...",
+    "message": "ডেক \"{{deckName}}\" প্রক্রিয়াকরণ করা হচ্ছে...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "\"{{deckName}}\" প্রক্রিয়াকরণ করা হচ্ছে...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
+      }
+    }
   }
 }

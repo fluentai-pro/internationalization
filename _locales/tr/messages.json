@@ -8422,5 +8422,23 @@
   "v2_01993ece": {
     "description": "Auto-generated translation for: Variable (longer intervals)",
     "message": "Değişken (daha uzun aralıklar)"
+  },
+  "v2_3f447a28": {
+    "description": "Auto-generated translation for: Processing deck \"{{deckName}}\"...",
+    "message": "\"{deckName}\" destesi işleniyor...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "\"{deckName}\" işleniyor...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
+      }
+    }
   }
 }
