@@ -2233,10 +2233,6 @@
     "description": "Auto-generated translation for: Updated",
     "message": "Оновлено"
   },
-  "v2_31b83218": {
-    "description": "Auto-generated translation for: Failed to download Anki deck",
-    "message": "Не вдалося завантажити колоду Anki"
-  },
   "v2_3601b135": {
     "description": "Auto-generated translation for: Register as an Affiliate",
     "message": "Зареєструватися як Партнер"
@@ -2276,14 +2272,6 @@
   "v2_1d0c220d": {
     "description": "Auto-generated translation for: Account",
     "message": "Обліковий запис"
-  },
-  "v2_1d03fd73": {
-    "description": "Auto-generated translation for: Anki deck file not found",
-    "message": "Файл колоди Anki не знайдено"
-  },
-  "v2_12bca79f": {
-    "description": "Auto-generated translation for: Network error while downloading Anki deck",
-    "message": "Помилка мережі під час завантаження колоди Anki"
   },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
@@ -2352,10 +2340,6 @@
   "v2_5c6409a5": {
     "description": "Auto-generated translation for: Processing...",
     "message": "Обробка..."
-  },
-  "v2_383e0637": {
-    "description": "Auto-generated translation for: Failed to start Anki export",
-    "message": "Не вдалося розпочати експорт Anki"
   },
   "v2_1fd3dd62": {
     "description": "Auto-generated translation for: This SaaS was created entirely by one person, with the help of a few volunteers, with no outside investment—just a lot of hard work and love. If you find it useful, you're welcome to support it with any amount. Every contribution makes a big difference!",
@@ -3910,14 +3894,6 @@
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "Пояснення потокової передачі"
-  },
-  "v2_73f9ef42": {
-    "description": "Auto-generated translation for: Anki export finished successfully",
-    "message": "Експорт Anki успішно завершено"
-  },
-  "v2_1e746934": {
-    "description": "Auto-generated translation for: Anki export failed",
-    "message": "Експорт Anki не вдався"
   },
   "v2_013bb45c": {
     "description": "Auto-generated translation for: Create Learning List",
@@ -5601,14 +5577,6 @@
     "description": "Auto-generated translation for: No content available for this page",
     "message": "Вміст для цієї сторінки недоступний"
   },
-  "v2_619cb302": {
-    "description": "Auto-generated translation for: Preparing export...",
-    "message": "Підготовка експорту..."
-  },
-  "v2_5e7f99a9": {
-    "description": "Auto-generated translation for: Creating Anki deck...",
-    "message": "Створюємо колоду Anki..."
-  },
   "v2_414e60bc": {
     "description": "Auto-generated translation for: Export complete!",
     "message": "Експорт завершено!"
@@ -6069,10 +6037,6 @@
   "v2_78da76c6": {
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "Налаштування спливаючого вікна перекладу"
-  },
-  "v2_4d3695ba": {
-    "description": "Auto-generated translation for: Bookmark ID not found",
-    "message": "Ідентифікатор закладки не знайдено"
   },
   "v2_3de8ee50": {
     "description": "Auto-generated translation for: Failed to remove bookmark",
@@ -7215,26 +7179,6 @@
     "description": "Auto-generated translation for: Use",
     "message": "Використовувати"
   },
-  "v2_1a353919": {
-    "description": "Auto-generated translation for: Available Colors",
-    "message": "Доступні кольори"
-  },
-  "v2_529b3712": {
-    "description": "Auto-generated translation for: Colors used for column mapping",
-    "message": "Кольори, що використовуються для відображення стовпців"
-  },
-  "v2_370b4cf6": {
-    "description": "Auto-generated translation for: Tag Colors",
-    "message": "Кольори міток"
-  },
-  "v2_47f61e42": {
-    "description": "Auto-generated translation for: Tag Border Colors",
-    "message": "Кольори меж тегів"
-  },
-  "v2_64cb5c0b": {
-    "description": "Auto-generated translation for: Logo Gradient Colors",
-    "message": "Кольори градієнта логотипу"
-  },
   "v2_04549323": {
     "description": "Auto-generated translation for: Known",
     "message": "Відомо"
@@ -8056,49 +8000,9 @@
     "description": "Auto-generated translation for: Learning Progress",
     "message": "Прогрес у навчанні"
   },
-  "v2_730d2a7d": {
-    "description": "Auto-generated translation for: Ready to Learn?",
-    "message": "Готові навчатися?"
-  },
-  "v2_29490317": {
-    "description": "Auto-generated translation for: You have",
-    "message": "У вас є"
-  },
-  "v2_002e7b10": {
-    "description": "Auto-generated translation for: card",
-    "message": "картка"
-  },
-  "v2_05a0e763": {
-    "description": "Auto-generated translation for: cards",
-    "message": "картки"
-  },
-  "v2_287ce03b": {
-    "description": "Auto-generated translation for: due for review",
-    "message": "підлягає перегляду"
-  },
-  "v2_0001a9a0": {
-    "description": "Auto-generated translation for: new",
-    "message": "новий"
-  },
-  "v2_3e98685f": {
-    "description": "Auto-generated translation for: to learn",
-    "message": "вчитися"
-  },
-  "v2_388f6433": {
-    "description": "Auto-generated translation for: No cards due right now. Great job staying on top of your reviews!",
-    "message": "Зараз немає карток для повторення. Чудова робота, що встигаєте вчасно повторювати!"
-  },
   "v2_5601c96c": {
     "description": "Auto-generated translation for: Start Review Session",
     "message": "Почати сеанс перегляду"
-  },
-  "v2_51bced3c": {
-    "description": "Auto-generated translation for: Upcoming",
-    "message": "Майбутній"
-  },
-  "v2_00000ddf": {
-    "description": "Auto-generated translation for: on",
-    "message": "на"
   },
   "v2_1f52759c": {
     "description": "Auto-generated translation for: Loading session...",
@@ -8171,5 +8075,361 @@
   "v2_74974efe": {
     "description": "Auto-generated translation for: Languages extracted from existing bookmarks in this list.",
     "message": "Мови, витягнуті з існуючих закладок у цьому списку."
+  },
+  "v2_261aab1e": {
+    "description": "Auto-generated translation for: Checking configuration...",
+    "message": "Перевірка конфігурації..."
+  },
+  "v2_72a870f4": {
+    "description": "Auto-generated translation for: Connecting to AnkiConnect...",
+    "message": "Підключення до AnkiConnect..."
+  },
+  "v2_52f2b93d": {
+    "description": "Auto-generated translation for: Getting deck assignments...",
+    "message": "Отримання призначень колод..."
+  },
+  "v2_15614d69": {
+    "description": "Auto-generated translation for: Fetching bookmarks...",
+    "message": "Отримання закладок..."
+  },
+  "v2_459b4287": {
+    "description": "Auto-generated translation for: Grouping by deck...",
+    "message": "Групування за колодою..."
+  },
+  "v2_28633791": {
+    "description": "Auto-generated translation for: Processing decks...",
+    "message": "Обробка колод..."
+  },
+  "v2_326caa98": {
+    "description": "Auto-generated translation for: Configure AnkiConnect before exporting",
+    "message": "Налаштуйте AnkiConnect перед експортом"
+  },
+  "v2_4995e1cc": {
+    "description": "Auto-generated translation for: Checking...",
+    "message": "Перевіряємо..."
+  },
+  "v2_10a4ee5b": {
+    "description": "Auto-generated translation for: Configure AnkiConnect",
+    "message": "Налаштувати AnkiConnect"
+  },
+  "v2_277aa73e": {
+    "description": "Auto-generated translation for: Before exporting to Anki, you need to configure how your bookmarks will be sent to Anki.",
+    "message": "Перед експортом до Anki, вам потрібно налаштувати, як ваші закладки будуть відправлені до Anki."
+  },
+  "v2_7e00b43c": {
+    "description": "Auto-generated translation for: Loading configuration...",
+    "message": "Завантаження конфігурації..."
+  },
+  "v2_14b82325": {
+    "description": "Auto-generated translation for: Connection Settings",
+    "message": "Налаштування з’єднання"
+  },
+  "v2_7f496652": {
+    "description": "Auto-generated translation for: AnkiConnect URL",
+    "message": "URL AnkiConnect"
+  },
+  "v2_04aab9c6": {
+    "description": "Auto-generated translation for: Default: http://127.0.0.1:8765",
+    "message": "За замовчуванням: http://127.0.0.1:8765"
+  },
+  "v2_5162d0d6": {
+    "description": "Auto-generated translation for: Checking connection...",
+    "message": "Перевірка з'єднання..."
+  },
+  "v2_2f649bf1": {
+    "description": "Auto-generated translation for: Connected to AnkiConnect",
+    "message": "Підключено до AnkiConnect"
+  },
+  "v2_1fc43a24": {
+    "description": "Auto-generated translation for: Not connected",
+    "message": "Не підключено"
+  },
+  "v2_05bb26b8": {
+    "description": "Auto-generated translation for: Version {version}",
+    "message": "Версія {version}",
+    "placeholders": {
+      "version": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1f06f72c": {
+    "description": "Auto-generated translation for: Test Connection",
+    "message": "Перевірити з'єднання"
+  },
+  "v2_5bce189e": {
+    "description": "Auto-generated translation for: Default Settings",
+    "message": "Налаштування за замовчуванням"
+  },
+  "v2_652162b1": {
+    "description": "Auto-generated translation for: Default Note Type (Model)",
+    "message": "Тип нотаток за замовчуванням (Модель)"
+  },
+  "v2_17b6275b": {
+    "description": "Auto-generated translation for: Select a note type",
+    "message": "Виберіть тип нотатки"
+  },
+  "v2_20846098": {
+    "description": "Auto-generated translation for: Default Deck",
+    "message": "Стандартна колода"
+  },
+  "v2_3bc5108c": {
+    "description": "Auto-generated translation for: Select a deck",
+    "message": "Виберіть колоду"
+  },
+  "v2_74a3ea0b": {
+    "description": "Auto-generated translation for: Field Mappings",
+    "message": "Відображення полів"
+  },
+  "v2_50ba9508": {
+    "description": "Auto-generated translation for: Map bookmark fields to Anki card fields",
+    "message": "Зіставте поля закладок карти з полями карток Anki"
+  },
+  "v2_34cd3924": {
+    "description": "Auto-generated translation for: You can configure advanced field mappings later from the settings.",
+    "message": "Ви зможете налаштувати розширені зіставлення полів пізніше в налаштуваннях."
+  },
+  "v2_6cb3914d": {
+    "description": "Auto-generated translation for: Select Deck",
+    "message": "Виберіть колоду"
+  },
+  "v2_1db494ef": {
+    "description": "Auto-generated translation for: Choose a deck",
+    "message": "Виберіть колоду"
+  },
+  "v2_3c47a038": {
+    "description": "Auto-generated translation for: Loading decks...",
+    "message": "Завантаження колод..."
+  },
+  "v2_6cc21d2d": {
+    "description": "Auto-generated translation for: Select deck",
+    "message": "Виберіть колоду"
+  },
+  "v2_0e7ca953": {
+    "description": "Auto-generated translation for: Bookmark exported to Anki",
+    "message": "Закладку експортовано в Anki"
+  },
+  "v2_424dcc61": {
+    "description": "Auto-generated translation for: Export to default deck",
+    "message": "Експортувати до стандартної колоди"
+  },
+  "v2_4e85ecf0": {
+    "description": "Auto-generated translation for: Export to specific deck...",
+    "message": "Експорт у певну колоду..."
+  },
+  "v2_16cb02a9": {
+    "description": "Auto-generated translation for: Configure AnkiConnect...",
+    "message": "Налаштуйте AnkiConnect..."
+  },
+  "v2_06aa03ef": {
+    "description": "Auto-generated translation for: Validating selection...",
+    "message": "Перевірка вибору..."
+  },
+  "v2_52f961cf": {
+    "description": "Auto-generated translation for: Determining deck assignments...",
+    "message": "Визначення призначень палуб..."
+  },
+  "v2_6e1ac7f9": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark ({{failedCount}} failed)",
+    "message": "Експортовано {{successCount}} закладку ({{failedCount}} не вдалося)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_795d1d9d": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark",
+    "message": "Експортовано {{successCount}} закладку",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_3ba7ceba": {
+    "description": "Auto-generated translation for: Successfully exported {{successCount}} bookmark to Anki",
+    "message": "Успішно експортовано {{successCount}} закладку до Anki",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_15931629": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark to Anki ({{failedCount}} failed)",
+    "message": "Експортовано {{successCount}} закладок до Anki ({{failedCount}} не вдалося)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_10f64896": {
+    "description": "Auto-generated translation for: Connecting...",
+    "message": "Підключення..."
+  },
+  "v2_309ff21c": {
+    "description": "Auto-generated translation for: Getting assignments...",
+    "message": "Отримання завдань..."
+  },
+  "v2_28fcad6d": {
+    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
+    "message": "Обробка \"${currentDeck}\"...",
+    "placeholders": {
+      "currentDeck": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1fe06aa7": {
+    "description": "Auto-generated translation for: Complete",
+    "message": "Завершено"
+  },
+  "v2_3e024a75": {
+    "description": "Auto-generated translation for: AnkiConnect Configuration",
+    "message": "Конфігурація AnkiConnect"
+  },
+  "v2_42057dd5": {
+    "description": "Auto-generated translation for: Failed to determine bookmark type",
+    "message": "Не вдалося визначити тип закладки"
+  },
+  "v2_48d2b824": {
+    "description": "Auto-generated translation for: Your next session will include up to",
+    "message": "Ваша наступна сесія включатиме до"
+  },
+  "v2_16dfb392": {
+    "description": "Auto-generated translation for: due cards and",
+    "message": "картки до сплати та"
+  },
+  "v2_7b80131d": {
+    "description": "Auto-generated translation for: new cards",
+    "message": "нові картки"
+  },
+  "v2_21d0ae7c": {
+    "description": "Auto-generated translation for: Click to learn how spaced repetition works",
+    "message": "Натисніть, щоб дізнатися, як працює інтервальне повторення"
+  },
+  "v2_3e0961e4": {
+    "description": "Auto-generated translation for: Learn about spaced repetition",
+    "message": "Дізнайтеся про інтервальне повторення"
+  },
+  "v2_05d0e35d": {
+    "description": "Auto-generated translation for: New Cards",
+    "message": "Нові картки"
+  },
+  "v2_2ceeb93b": {
+    "description": "Auto-generated translation for: How Spaced Repetition Works",
+    "message": "Як працює інтервальне повторення"
+  },
+  "v2_7b1fb995": {
+    "description": "Auto-generated translation for: Learn how our adaptive learning system helps you remember words more effectively",
+    "message": "Дізнайтеся, як наша адаптивна система навчання допомагає вам ефективніше запам'ятовувати слова"
+  },
+  "v2_62dbfa78": {
+    "description": "Auto-generated translation for: Adaptive Learning",
+    "message": "Адаптивне навчання"
+  },
+  "v2_4f3cc529": {
+    "description": "Auto-generated translation for: The system tracks how difficult each word is for you. Words you consistently find hard will appear more frequently, while words you find easy will be spaced out over longer intervals. This ensures you spend time on what you need to practice most.",
+    "message": "Система відстежує, наскільки складним є кожне слово для вас. Слова, які постійно викликають у вас труднощі, з'являтимуться частіше, тоді як слова, які ви вважаєте легкими, будуть з'являтися з більшими інтервалами. Це гарантує, що ви витрачатимете час на те, що вам найбільше потрібно практикувати."
+  },
+  "v2_47b4eb66": {
+    "description": "Auto-generated translation for: What is Spaced Repetition?",
+    "message": "Що таке інтервальне повторення?"
+  },
+  "v2_787f0cd8": {
+    "description": "Auto-generated translation for: Spaced repetition is a learning technique that increases intervals of time between reviews of previously learned material. Our system adapts to your performance, showing difficult words more frequently and easier words less often.",
+    "message": "Інтервальне повторення – це техніка навчання, яка збільшує проміжки часу між переглядами раніше вивченого матеріалу. Наша система адаптується до вашої успішності, показуючи складні слова частіше, а легші – рідше."
+  },
+  "v2_057fcbd5": {
+    "description": "Auto-generated translation for: Next review:",
+    "message": "Наступний перегляд:"
+  },
+  "v2_77536835": {
+    "description": "Auto-generated translation for: Review Actions",
+    "message": "Дії з перегляду"
+  },
+  "v2_245e9c2b": {
+    "description": "Auto-generated translation for: After seeing a word, choose how well you remembered it. The system uses your feedback to schedule the next review:",
+    "message": "Після перегляду слова, виберіть, наскільки добре ви його запам'ятали. Система використовує ваш відгук, щоб запланувати наступний перегляд:"
+  },
+  "v2_03175b79": {
+    "description": "Auto-generated translation for: Tips for Best Results",
+    "message": "Поради для досягнення найкращих результатів"
+  },
+  "v2_58ea069d": {
+    "description": "Auto-generated translation for: Be honest about how well you remembered each word - this helps the system learn your actual knowledge level",
+    "message": "Будьте чесними щодо того, наскільки добре ви запам’ятали кожне слово – це допомагає системі дізнатися ваш фактичний рівень знань"
+  },
+  "v2_0a0eaf68": {
+    "description": "Auto-generated translation for: Review regularly - consistency is key to building long-term memory",
+    "message": "Регулярно переглядайте матеріал – послідовність є ключем до формування довготривалої пам'яті"
+  },
+  "v2_1a5d65cb": {
+    "description": "Auto-generated translation for: Use keyboard shortcuts (1, 2, 3, 4) for faster reviews",
+    "message": "Використовуйте клавіатурні скорочення (1, 2, 3, 4) для швидшого перегляду"
+  },
+  "v2_27187029": {
+    "description": "Auto-generated translation for: Session Structure",
+    "message": "Структура сесії"
+  },
+  "v2_6f62121c": {
+    "description": "Auto-generated translation for: Each review session includes:",
+    "message": "Кожна сесія перегляду включає:"
+  },
+  "v2_53937f0b": {
+    "description": "Auto-generated translation for: Up to 20 due cards",
+    "message": "До 20 карток з терміном сплати"
+  },
+  "v2_08b06b90": {
+    "description": "Auto-generated translation for: Words that are scheduled for review based on your previous performance",
+    "message": "Слова, які заплановані для перегляду на основі вашої попередньої успішності"
+  },
+  "v2_4e2ffc98": {
+    "description": "Auto-generated translation for: Up to 5 new cards",
+    "message": "До 5 нових карток"
+  },
+  "v2_74cf58f6": {
+    "description": "Auto-generated translation for: Words you've bookmarked but haven't started learning yet",
+    "message": "Слова, які ви додали в закладки, але ще не почали вивчати"
+  },
+  "v2_7778dcbd": {
+    "description": "Auto-generated translation for: You couldn't recall this word. It will be shown again in 1 minute for immediate re-review.",
+    "message": "Ви не змогли пригадати це слово. Воно буде показано знову через 1 хвилину для негайного повторного перегляду."
+  },
+  "v2_3edca4e3": {
+    "description": "Auto-generated translation for: 1 minute",
+    "message": "1 хвилина"
+  },
+  "v2_16fe376e": {
+    "description": "Auto-generated translation for: You found this word difficult to recall. It will be shown again in 1 day to help strengthen your memory.",
+    "message": "Вам було важко пригадати це слово. Його буде показано знову через 1 день, щоб допомогти зміцнити вашу пам'ять."
+  },
+  "v2_02c28f2d": {
+    "description": "Auto-generated translation for: 1 day",
+    "message": "1 день"
+  },
+  "v2_01ed74bb": {
+    "description": "Auto-generated translation for: You recalled this word correctly. The system will schedule it for review at an optimal interval based on your performance.",
+    "message": "Ви правильно пригадали це слово. Система запланує його для повторення з оптимальним інтервалом, враховуючи вашу успішність."
+  },
+  "v2_283cb61e": {
+    "description": "Auto-generated translation for: Variable (1 day → 6 days → increasing)",
+    "message": "Змінна (1 день → 6 днів → збільшення)"
+  },
+  "v2_042680d7": {
+    "description": "Auto-generated translation for: You found this word very easy to recall. It will be scheduled for a longer interval, as you've clearly mastered it.",
+    "message": "Ви знайшли це слово дуже легким для запам'ятовування. Його буде заплановано на довший інтервал, оскільки ви явно його опанували."
+  },
+  "v2_01993ece": {
+    "description": "Auto-generated translation for: Variable (longer intervals)",
+    "message": "Змінна (довші інтервали)"
   }
 }

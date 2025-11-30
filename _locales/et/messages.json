@@ -2233,10 +2233,6 @@
     "description": "Auto-generated translation for: Updated",
     "message": "Uuendatud"
   },
-  "v2_31b83218": {
-    "description": "Auto-generated translation for: Failed to download Anki deck",
-    "message": "Anki paki allalaadimine ebaõnnestus"
-  },
   "v2_3601b135": {
     "description": "Auto-generated translation for: Register as an Affiliate",
     "message": "Registreeri sidusettevõttena"
@@ -2276,14 +2272,6 @@
   "v2_1d0c220d": {
     "description": "Auto-generated translation for: Account",
     "message": "Konto"
-  },
-  "v2_1d03fd73": {
-    "description": "Auto-generated translation for: Anki deck file not found",
-    "message": "Anki paki faili ei leitud"
-  },
-  "v2_12bca79f": {
-    "description": "Auto-generated translation for: Network error while downloading Anki deck",
-    "message": "Võrgutõrge Anki teki allalaadimisel"
   },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
@@ -2352,10 +2340,6 @@
   "v2_5c6409a5": {
     "description": "Auto-generated translation for: Processing...",
     "message": "Töötlemine..."
-  },
-  "v2_383e0637": {
-    "description": "Auto-generated translation for: Failed to start Anki export",
-    "message": "Anki eksportimine nurjus"
   },
   "v2_1fd3dd62": {
     "description": "Auto-generated translation for: This SaaS was created entirely by one person, with the help of a few volunteers, with no outside investment—just a lot of hard work and love. If you find it useful, you're welcome to support it with any amount. Every contribution makes a big difference!",
@@ -3910,14 +3894,6 @@
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "Voogesituse selgitus"
-  },
-  "v2_73f9ef42": {
-    "description": "Auto-generated translation for: Anki export finished successfully",
-    "message": "Anki eksportimine õnnestus"
-  },
-  "v2_1e746934": {
-    "description": "Auto-generated translation for: Anki export failed",
-    "message": "Anki eksportimine nurjus"
   },
   "v2_013bb45c": {
     "description": "Auto-generated translation for: Create Learning List",
@@ -5601,14 +5577,6 @@
     "description": "Auto-generated translation for: No content available for this page",
     "message": "Sisu pole sellel lehel saadaval"
   },
-  "v2_619cb302": {
-    "description": "Auto-generated translation for: Preparing export...",
-    "message": "Ekspordi ettevalmistamine..."
-  },
-  "v2_5e7f99a9": {
-    "description": "Auto-generated translation for: Creating Anki deck...",
-    "message": "Anki pakki loomine..."
-  },
   "v2_414e60bc": {
     "description": "Auto-generated translation for: Export complete!",
     "message": "Eksportimine lõpetatud!"
@@ -6069,10 +6037,6 @@
   "v2_78da76c6": {
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "Tõlkepäringu seaded"
-  },
-  "v2_4d3695ba": {
-    "description": "Auto-generated translation for: Bookmark ID not found",
-    "message": "Järjehoidja ID-d ei leitud"
   },
   "v2_3de8ee50": {
     "description": "Auto-generated translation for: Failed to remove bookmark",
@@ -7215,26 +7179,6 @@
     "description": "Auto-generated translation for: Use",
     "message": "Kasuta"
   },
-  "v2_1a353919": {
-    "description": "Auto-generated translation for: Available Colors",
-    "message": "Saadaval olevad värvid"
-  },
-  "v2_529b3712": {
-    "description": "Auto-generated translation for: Colors used for column mapping",
-    "message": "Veergude vastendamiseks kasutatud värvid"
-  },
-  "v2_370b4cf6": {
-    "description": "Auto-generated translation for: Tag Colors",
-    "message": "Sildi värvid"
-  },
-  "v2_47f61e42": {
-    "description": "Auto-generated translation for: Tag Border Colors",
-    "message": "Sildi äärise värvid"
-  },
-  "v2_64cb5c0b": {
-    "description": "Auto-generated translation for: Logo Gradient Colors",
-    "message": "Logo gradientvärvid"
-  },
   "v2_04549323": {
     "description": "Auto-generated translation for: Known",
     "message": "Teada"
@@ -8056,49 +8000,9 @@
     "description": "Auto-generated translation for: Learning Progress",
     "message": "Õppimise edenemine"
   },
-  "v2_730d2a7d": {
-    "description": "Auto-generated translation for: Ready to Learn?",
-    "message": "Valmis õppima?"
-  },
-  "v2_29490317": {
-    "description": "Auto-generated translation for: You have",
-    "message": "Sul on"
-  },
-  "v2_002e7b10": {
-    "description": "Auto-generated translation for: card",
-    "message": "kaart"
-  },
-  "v2_05a0e763": {
-    "description": "Auto-generated translation for: cards",
-    "message": "kaardid"
-  },
-  "v2_287ce03b": {
-    "description": "Auto-generated translation for: due for review",
-    "message": "ülevaatamise tähtaeg"
-  },
-  "v2_0001a9a0": {
-    "description": "Auto-generated translation for: new",
-    "message": "uus"
-  },
-  "v2_3e98685f": {
-    "description": "Auto-generated translation for: to learn",
-    "message": "õppima"
-  },
-  "v2_388f6433": {
-    "description": "Auto-generated translation for: No cards due right now. Great job staying on top of your reviews!",
-    "message": "Praegu pole ühtegi kaarti vaja korrata. Suurepärane töö, et oled oma kordustega kursis!"
-  },
   "v2_5601c96c": {
     "description": "Auto-generated translation for: Start Review Session",
     "message": "Alusta ülevaatuse sessiooni"
-  },
-  "v2_51bced3c": {
-    "description": "Auto-generated translation for: Upcoming",
-    "message": "Ees ootav"
-  },
-  "v2_00000ddf": {
-    "description": "Auto-generated translation for: on",
-    "message": "sees"
   },
   "v2_1f52759c": {
     "description": "Auto-generated translation for: Loading session...",
@@ -8171,5 +8075,361 @@
   "v2_74974efe": {
     "description": "Auto-generated translation for: Languages extracted from existing bookmarks in this list.",
     "message": "Keeled, mis on eraldatud olemasolevatest järjehoidjatest selles nimekirjas."
+  },
+  "v2_261aab1e": {
+    "description": "Auto-generated translation for: Checking configuration...",
+    "message": "Konfiguratsiooni kontrollimine..."
+  },
+  "v2_72a870f4": {
+    "description": "Auto-generated translation for: Connecting to AnkiConnect...",
+    "message": "Ühendatakse AnkiConnectiga..."
+  },
+  "v2_52f2b93d": {
+    "description": "Auto-generated translation for: Getting deck assignments...",
+    "message": "Tekkide määramiste hankimine..."
+  },
+  "v2_15614d69": {
+    "description": "Auto-generated translation for: Fetching bookmarks...",
+    "message": "Järjehoidjate toomine..."
+  },
+  "v2_459b4287": {
+    "description": "Auto-generated translation for: Grouping by deck...",
+    "message": "Grupeerimine paki järgi..."
+  },
+  "v2_28633791": {
+    "description": "Auto-generated translation for: Processing decks...",
+    "message": "Tekkide töötlemine..."
+  },
+  "v2_326caa98": {
+    "description": "Auto-generated translation for: Configure AnkiConnect before exporting",
+    "message": "Enne eksportimist seadista AnkiConnect"
+  },
+  "v2_4995e1cc": {
+    "description": "Auto-generated translation for: Checking...",
+    "message": "Kontrollin..."
+  },
+  "v2_10a4ee5b": {
+    "description": "Auto-generated translation for: Configure AnkiConnect",
+    "message": "\"Seadista AnkiConnect\""
+  },
+  "v2_277aa73e": {
+    "description": "Auto-generated translation for: Before exporting to Anki, you need to configure how your bookmarks will be sent to Anki.",
+    "message": "Enne Anki eksportimist pead sa seadistama, kuidas sinu järjehoidjad Ankisse saadetakse."
+  },
+  "v2_7e00b43c": {
+    "description": "Auto-generated translation for: Loading configuration...",
+    "message": "Konfiguratsiooni laadimine..."
+  },
+  "v2_14b82325": {
+    "description": "Auto-generated translation for: Connection Settings",
+    "message": "Ühenduse seaded"
+  },
+  "v2_7f496652": {
+    "description": "Auto-generated translation for: AnkiConnect URL",
+    "message": "AnkiConnecti URL"
+  },
+  "v2_04aab9c6": {
+    "description": "Auto-generated translation for: Default: http://127.0.0.1:8765",
+    "message": "Vaikimisi: http://127.0.0.1:8765"
+  },
+  "v2_5162d0d6": {
+    "description": "Auto-generated translation for: Checking connection...",
+    "message": "Ühenduse kontrollimine..."
+  },
+  "v2_2f649bf1": {
+    "description": "Auto-generated translation for: Connected to AnkiConnect",
+    "message": "Ühendatud AnkiConnectiga"
+  },
+  "v2_1fc43a24": {
+    "description": "Auto-generated translation for: Not connected",
+    "message": "Ühendus puudub"
+  },
+  "v2_05bb26b8": {
+    "description": "Auto-generated translation for: Version {version}",
+    "message": "Versioon {version}",
+    "placeholders": {
+      "version": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1f06f72c": {
+    "description": "Auto-generated translation for: Test Connection",
+    "message": "Testi ühendus"
+  },
+  "v2_5bce189e": {
+    "description": "Auto-generated translation for: Default Settings",
+    "message": "Vaikeseaded"
+  },
+  "v2_652162b1": {
+    "description": "Auto-generated translation for: Default Note Type (Model)",
+    "message": "Vaikimisi märkme tüüp (mudel)"
+  },
+  "v2_17b6275b": {
+    "description": "Auto-generated translation for: Select a note type",
+    "message": "Vali märkme tüüp"
+  },
+  "v2_20846098": {
+    "description": "Auto-generated translation for: Default Deck",
+    "message": "Vaikimisi kaartide komplekt"
+  },
+  "v2_3bc5108c": {
+    "description": "Auto-generated translation for: Select a deck",
+    "message": "Vali kaardipakk"
+  },
+  "v2_74a3ea0b": {
+    "description": "Auto-generated translation for: Field Mappings",
+    "message": "Väljade vastendused"
+  },
+  "v2_50ba9508": {
+    "description": "Auto-generated translation for: Map bookmark fields to Anki card fields",
+    "message": "Kaardista järjehoidja väljad Anki kaardi väljadele"
+  },
+  "v2_34cd3924": {
+    "description": "Auto-generated translation for: You can configure advanced field mappings later from the settings.",
+    "message": "Sa saad konfigureerida täpsemad väljade vastavused hiljem seadetest."
+  },
+  "v2_6cb3914d": {
+    "description": "Auto-generated translation for: Select Deck",
+    "message": "\"Vali kaartide pakk\""
+  },
+  "v2_1db494ef": {
+    "description": "Auto-generated translation for: Choose a deck",
+    "message": "Vali pakk"
+  },
+  "v2_3c47a038": {
+    "description": "Auto-generated translation for: Loading decks...",
+    "message": "Tekkide laadimine..."
+  },
+  "v2_6cc21d2d": {
+    "description": "Auto-generated translation for: Select deck",
+    "message": "Vali tekk"
+  },
+  "v2_0e7ca953": {
+    "description": "Auto-generated translation for: Bookmark exported to Anki",
+    "message": "Järjehoidja eksporditud Anki'sse"
+  },
+  "v2_424dcc61": {
+    "description": "Auto-generated translation for: Export to default deck",
+    "message": "Ekspordi vaikimisi pakki"
+  },
+  "v2_4e85ecf0": {
+    "description": "Auto-generated translation for: Export to specific deck...",
+    "message": "Ekspordi kindlasse pakki..."
+  },
+  "v2_16cb02a9": {
+    "description": "Auto-generated translation for: Configure AnkiConnect...",
+    "message": "Seadista AnkiConnect..."
+  },
+  "v2_06aa03ef": {
+    "description": "Auto-generated translation for: Validating selection...",
+    "message": "Valideerin valikut..."
+  },
+  "v2_52f961cf": {
+    "description": "Auto-generated translation for: Determining deck assignments...",
+    "message": "Tekkide määramise kindlaksmääramine..."
+  },
+  "v2_10f64896": {
+    "description": "Auto-generated translation for: Connecting...",
+    "message": "Ühendamine..."
+  },
+  "v2_309ff21c": {
+    "description": "Auto-generated translation for: Getting assignments...",
+    "message": "Saadame ülesandeid..."
+  },
+  "v2_28fcad6d": {
+    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
+    "message": "Töötlemine \"${currentDeck}\"...",
+    "placeholders": {
+      "currentDeck": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1fe06aa7": {
+    "description": "Auto-generated translation for: Complete",
+    "message": "Valmis"
+  },
+  "v2_3e024a75": {
+    "description": "Auto-generated translation for: AnkiConnect Configuration",
+    "message": "AnkiConnecti seadistus"
+  },
+  "v2_42057dd5": {
+    "description": "Auto-generated translation for: Failed to determine bookmark type",
+    "message": "Järjehoidja tüüpi ei suudetud tuvastada"
+  },
+  "v2_48d2b824": {
+    "description": "Auto-generated translation for: Your next session will include up to",
+    "message": "Sinu järgmine seanss sisaldab kuni"
+  },
+  "v2_16dfb392": {
+    "description": "Auto-generated translation for: due cards and",
+    "message": "tähtajaks kaardid ja"
+  },
+  "v2_7b80131d": {
+    "description": "Auto-generated translation for: new cards",
+    "message": "uued kaardid"
+  },
+  "v2_21d0ae7c": {
+    "description": "Auto-generated translation for: Click to learn how spaced repetition works",
+    "message": "Klõpsa siin, et õppida, kuidas hajutatud kordamine töötab"
+  },
+  "v2_3e0961e4": {
+    "description": "Auto-generated translation for: Learn about spaced repetition",
+    "message": "Õpi kordamise kohta"
+  },
+  "v2_05d0e35d": {
+    "description": "Auto-generated translation for: New Cards",
+    "message": "Uued kaardid"
+  },
+  "v2_2ceeb93b": {
+    "description": "Auto-generated translation for: How Spaced Repetition Works",
+    "message": "Kuidas hajutatud kordamine toimib"
+  },
+  "v2_7b1fb995": {
+    "description": "Auto-generated translation for: Learn how our adaptive learning system helps you remember words more effectively",
+    "message": "Õpi, kuidas meie kohanduv õppesüsteem aitab sul sõnu tõhusamalt meelde jätta"
+  },
+  "v2_62dbfa78": {
+    "description": "Auto-generated translation for: Adaptive Learning",
+    "message": "Adaptiivne õpe"
+  },
+  "v2_4f3cc529": {
+    "description": "Auto-generated translation for: The system tracks how difficult each word is for you. Words you consistently find hard will appear more frequently, while words you find easy will be spaced out over longer intervals. This ensures you spend time on what you need to practice most.",
+    "message": "Süsteem jälgib, kui keeruline iga sõna sinu jaoks on. Sõnad, mis on sinu jaoks järjepidevalt rasked, ilmuvad sagedamini, samas kui sõnad, mis on sinu jaoks kerged, on jaotatud pikemate intervallide peale. See tagab, et sa kulutad aega sellele, mida sa kõige rohkem harjutama pead."
+  },
+  "v2_47b4eb66": {
+    "description": "Auto-generated translation for: What is Spaced Repetition?",
+    "message": "Mis on hajutatud kordamine?"
+  },
+  "v2_787f0cd8": {
+    "description": "Auto-generated translation for: Spaced repetition is a learning technique that increases intervals of time between reviews of previously learned material. Our system adapts to your performance, showing difficult words more frequently and easier words less often.",
+    "message": "Hajutatud kordamine on õppetehnika, mis pikendab ajavahemikke varem õpitud materjali kordamiste vahel. Meie süsteem kohandub sinu sooritusega, näidates raskeid sõnu sagedamini ja lihtsaid sõnu harvemini."
+  },
+  "v2_057fcbd5": {
+    "description": "Auto-generated translation for: Next review:",
+    "message": "Järgmine ülevaatus:"
+  },
+  "v2_77536835": {
+    "description": "Auto-generated translation for: Review Actions",
+    "message": "Ülevaatuse toimingud"
+  },
+  "v2_245e9c2b": {
+    "description": "Auto-generated translation for: After seeing a word, choose how well you remembered it. The system uses your feedback to schedule the next review:",
+    "message": "Pärast sõna nägemist vali, kui hästi sa seda mäletasid. Süsteem kasutab sinu tagasisidet järgmise ülevaatuse ajastamiseks:"
+  },
+  "v2_03175b79": {
+    "description": "Auto-generated translation for: Tips for Best Results",
+    "message": "Nõuandeid parimate tulemuste saavutamiseks"
+  },
+  "v2_58ea069d": {
+    "description": "Auto-generated translation for: Be honest about how well you remembered each word - this helps the system learn your actual knowledge level",
+    "message": "Ole aus iga sõna meeldejätmise suhtes – see aitab süsteemil õppida sinu tegelikku teadmiste taset"
+  },
+  "v2_0a0eaf68": {
+    "description": "Auto-generated translation for: Review regularly - consistency is key to building long-term memory",
+    "message": "Vaata regulaarselt üle – püsivus on pikaajalise mälu loomise alus"
+  },
+  "v2_1a5d65cb": {
+    "description": "Auto-generated translation for: Use keyboard shortcuts (1, 2, 3, 4) for faster reviews",
+    "message": "Kasuta kiiremate ülevaadete jaoks klaviatuuri otseteid (1, 2, 3, 4)"
+  },
+  "v2_27187029": {
+    "description": "Auto-generated translation for: Session Structure",
+    "message": "Sessiooni struktuur"
+  },
+  "v2_6f62121c": {
+    "description": "Auto-generated translation for: Each review session includes:",
+    "message": "Iga ülevaatus hõlmab:"
+  },
+  "v2_53937f0b": {
+    "description": "Auto-generated translation for: Up to 20 due cards",
+    "message": "Kuni 20 hoiatuskaarti"
+  },
+  "v2_08b06b90": {
+    "description": "Auto-generated translation for: Words that are scheduled for review based on your previous performance",
+    "message": "Sõnad, mis on plaanitud ülevaatamiseks vastavalt sinu varasematele tulemustele"
+  },
+  "v2_4e2ffc98": {
+    "description": "Auto-generated translation for: Up to 5 new cards",
+    "message": "Kuni 5 uut kaarti"
+  },
+  "v2_74cf58f6": {
+    "description": "Auto-generated translation for: Words you've bookmarked but haven't started learning yet",
+    "message": "Sõnad, mille oled lisanud järjehoidjatesse, kuid pole veel õppima asunud"
+  },
+  "v2_7778dcbd": {
+    "description": "Auto-generated translation for: You couldn't recall this word. It will be shown again in 1 minute for immediate re-review.",
+    "message": "Sa ei mäletanud seda sõna. See kuvatakse uuesti 1 minuti pärast, et seda kohe uuesti üle vaadata."
+  },
+  "v2_3edca4e3": {
+    "description": "Auto-generated translation for: 1 minute",
+    "message": "1 minut"
+  },
+  "v2_16fe376e": {
+    "description": "Auto-generated translation for: You found this word difficult to recall. It will be shown again in 1 day to help strengthen your memory.",
+    "message": "Sa leidsid, et seda sõna oli raske meenutada. Seda näidatakse uuesti 1 päeva pärast, et aidata su mälu tugevdada."
+  },
+  "v2_02c28f2d": {
+    "description": "Auto-generated translation for: 1 day",
+    "message": "1 päev"
+  },
+  "v2_01ed74bb": {
+    "description": "Auto-generated translation for: You recalled this word correctly. The system will schedule it for review at an optimal interval based on your performance.",
+    "message": "Sa tuletasid selle sõna õigesti meelde. Süsteem ajastab selle kordamiseks optimaalse intervalliga, lähtudes sinu sooritusest."
+  },
+  "v2_283cb61e": {
+    "description": "Auto-generated translation for: Variable (1 day → 6 days → increasing)",
+    "message": "Muutuv (1 päev → 6 päeva → kasvav)"
+  },
+  "v2_042680d7": {
+    "description": "Auto-generated translation for: You found this word very easy to recall. It will be scheduled for a longer interval, as you've clearly mastered it.",
+    "message": "Sa leidsid, et seda sõna on väga lihtne meelde jätta. See ajastatakse pikema intervalliga, kuna sa oled selle selgelt omandanud."
+  },
+  "v2_01993ece": {
+    "description": "Auto-generated translation for: Variable (longer intervals)",
+    "message": "Muutuv (pikemad intervallid)"
+  },
+  "v2_6e1ac7f9": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark ({{failedCount}} failed)",
+    "message": "Eksporditud {{successCount}} järjehoidjat ({{failedCount}} ebaõnnestus)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_795d1d9d": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark",
+    "message": "Eksporditud {{successCount}} järjehoidja",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_3ba7ceba": {
+    "description": "Auto-generated translation for: Successfully exported {{successCount}} bookmark to Anki",
+    "message": "Eksportisin edukalt {{successCount}} järjehoidjat Anki programmi",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_15931629": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark to Anki ({{failedCount}} failed)",
+    "message": "Eksporditud {{successCount}} järjehoidjat Anki'sse ({{failedCount}} ebaõnnestus)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
   }
 }

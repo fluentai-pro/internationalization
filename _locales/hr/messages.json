@@ -2233,10 +2233,6 @@
     "description": "Auto-generated translation for: Updated",
     "message": "ažurirano"
   },
-  "v2_31b83218": {
-    "description": "Auto-generated translation for: Failed to download Anki deck",
-    "message": "Preuzimanje Anki špila nije uspjelo"
-  },
   "v2_3601b135": {
     "description": "Auto-generated translation for: Register as an Affiliate",
     "message": "Registrirajte se kao partner"
@@ -2276,14 +2272,6 @@
   "v2_1d0c220d": {
     "description": "Auto-generated translation for: Account",
     "message": "Račun"
-  },
-  "v2_1d03fd73": {
-    "description": "Auto-generated translation for: Anki deck file not found",
-    "message": "Datoteka Anki špila nije pronađena"
-  },
-  "v2_12bca79f": {
-    "description": "Auto-generated translation for: Network error while downloading Anki deck",
-    "message": "Mrežna pogreška pri preuzimanja Anki špila"
   },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
@@ -2352,10 +2340,6 @@
   "v2_5c6409a5": {
     "description": "Auto-generated translation for: Processing...",
     "message": "Obrađuje se..."
-  },
-  "v2_383e0637": {
-    "description": "Auto-generated translation for: Failed to start Anki export",
-    "message": "Neuspješno pokretanje Anki izvoza"
   },
   "v2_1fd3dd62": {
     "description": "Auto-generated translation for: This SaaS was created entirely by one person, with the help of a few volunteers, with no outside investment—just a lot of hard work and love. If you find it useful, you're welcome to support it with any amount. Every contribution makes a big difference!",
@@ -3910,14 +3894,6 @@
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "Objašnjenje streaminga"
-  },
-  "v2_73f9ef42": {
-    "description": "Auto-generated translation for: Anki export finished successfully",
-    "message": "Anki izvoz uspješno završen"
-  },
-  "v2_1e746934": {
-    "description": "Auto-generated translation for: Anki export failed",
-    "message": "Izvoz Anki kolekcije nije uspio"
   },
   "v2_013bb45c": {
     "description": "Auto-generated translation for: Create Learning List",
@@ -5601,14 +5577,6 @@
     "description": "Auto-generated translation for: No content available for this page",
     "message": "Nema dostupnog sadržaja za ovu stranicu."
   },
-  "v2_619cb302": {
-    "description": "Auto-generated translation for: Preparing export...",
-    "message": "Priprema izvoza..."
-  },
-  "v2_5e7f99a9": {
-    "description": "Auto-generated translation for: Creating Anki deck...",
-    "message": "Stvaranje Anki špila..."
-  },
   "v2_414e60bc": {
     "description": "Auto-generated translation for: Export complete!",
     "message": "Izvoz dovršen!"
@@ -6069,10 +6037,6 @@
   "v2_78da76c6": {
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "Postavke skočnog prijevoda"
-  },
-  "v2_4d3695ba": {
-    "description": "Auto-generated translation for: Bookmark ID not found",
-    "message": "ID oznake nije pronađen"
   },
   "v2_3de8ee50": {
     "description": "Auto-generated translation for: Failed to remove bookmark",
@@ -7215,26 +7179,6 @@
     "description": "Auto-generated translation for: Use",
     "message": "Korištenje"
   },
-  "v2_1a353919": {
-    "description": "Auto-generated translation for: Available Colors",
-    "message": "Dostupne Boje"
-  },
-  "v2_529b3712": {
-    "description": "Auto-generated translation for: Colors used for column mapping",
-    "message": "Boje korištene za mapiranje stupaca"
-  },
-  "v2_370b4cf6": {
-    "description": "Auto-generated translation for: Tag Colors",
-    "message": "Boje oznaka"
-  },
-  "v2_47f61e42": {
-    "description": "Auto-generated translation for: Tag Border Colors",
-    "message": "Boje obruba oznake"
-  },
-  "v2_64cb5c0b": {
-    "description": "Auto-generated translation for: Logo Gradient Colors",
-    "message": "Gradijentne boje logotipa"
-  },
   "v2_04549323": {
     "description": "Auto-generated translation for: Known",
     "message": "Poznato"
@@ -8056,49 +8000,9 @@
     "description": "Auto-generated translation for: Learning Progress",
     "message": "Napredak u učenju"
   },
-  "v2_730d2a7d": {
-    "description": "Auto-generated translation for: Ready to Learn?",
-    "message": "Spremni za učenje?"
-  },
-  "v2_29490317": {
-    "description": "Auto-generated translation for: You have",
-    "message": "Vi imate"
-  },
-  "v2_002e7b10": {
-    "description": "Auto-generated translation for: card",
-    "message": "kartica"
-  },
-  "v2_05a0e763": {
-    "description": "Auto-generated translation for: cards",
-    "message": "karte"
-  },
-  "v2_287ce03b": {
-    "description": "Auto-generated translation for: due for review",
-    "message": "spreman za reviziju"
-  },
-  "v2_0001a9a0": {
-    "description": "Auto-generated translation for: new",
-    "message": "novo"
-  },
-  "v2_3e98685f": {
-    "description": "Auto-generated translation for: to learn",
-    "message": "učiti"
-  },
-  "v2_388f6433": {
-    "description": "Auto-generated translation for: No cards due right now. Great job staying on top of your reviews!",
-    "message": "Trenutno nema kartica za ponavljanje. Odličan posao što redovito ponavljate!"
-  },
   "v2_5601c96c": {
     "description": "Auto-generated translation for: Start Review Session",
     "message": "Započni sesiju pregleda"
-  },
-  "v2_51bced3c": {
-    "description": "Auto-generated translation for: Upcoming",
-    "message": "Nadolazeće"
-  },
-  "v2_00000ddf": {
-    "description": "Auto-generated translation for: on",
-    "message": "uključeno"
   },
   "v2_1f52759c": {
     "description": "Auto-generated translation for: Loading session...",
@@ -8171,5 +8075,361 @@
   "v2_74974efe": {
     "description": "Auto-generated translation for: Languages extracted from existing bookmarks in this list.",
     "message": "Jezici izdvojeni iz postojećih oznaka u ovom popisu."
+  },
+  "v2_261aab1e": {
+    "description": "Auto-generated translation for: Checking configuration...",
+    "message": "Provjeravam konfiguraciju..."
+  },
+  "v2_72a870f4": {
+    "description": "Auto-generated translation for: Connecting to AnkiConnect...",
+    "message": "Povezivanje s AnkiConnect..."
+  },
+  "v2_52f2b93d": {
+    "description": "Auto-generated translation for: Getting deck assignments...",
+    "message": "Dohvaćanje dodjela špiluba..."
+  },
+  "v2_15614d69": {
+    "description": "Auto-generated translation for: Fetching bookmarks...",
+    "message": "Dohvaćam oznake..."
+  },
+  "v2_459b4287": {
+    "description": "Auto-generated translation for: Grouping by deck...",
+    "message": "Grupiranje po špilu..."
+  },
+  "v2_28633791": {
+    "description": "Auto-generated translation for: Processing decks...",
+    "message": "Obrada špilova..."
+  },
+  "v2_326caa98": {
+    "description": "Auto-generated translation for: Configure AnkiConnect before exporting",
+    "message": "Konfigurirajte AnkiConnect prije izvoza"
+  },
+  "v2_4995e1cc": {
+    "description": "Auto-generated translation for: Checking...",
+    "message": "Provjeravam..."
+  },
+  "v2_10a4ee5b": {
+    "description": "Auto-generated translation for: Configure AnkiConnect",
+    "message": "Konfiguriraj AnkiConnect"
+  },
+  "v2_277aa73e": {
+    "description": "Auto-generated translation for: Before exporting to Anki, you need to configure how your bookmarks will be sent to Anki.",
+    "message": "Prije izvoza u Anki, morate konfigurirati način na koji će se vaše oznake slati u Anki."
+  },
+  "v2_7e00b43c": {
+    "description": "Auto-generated translation for: Loading configuration...",
+    "message": "Učitavanje konfiguracije..."
+  },
+  "v2_14b82325": {
+    "description": "Auto-generated translation for: Connection Settings",
+    "message": "Postavke veze"
+  },
+  "v2_7f496652": {
+    "description": "Auto-generated translation for: AnkiConnect URL",
+    "message": "AnkiConnect URL"
+  },
+  "v2_04aab9c6": {
+    "description": "Auto-generated translation for: Default: http://127.0.0.1:8765",
+    "message": "Zadano: http://127.0.0.1:8765"
+  },
+  "v2_5162d0d6": {
+    "description": "Auto-generated translation for: Checking connection...",
+    "message": "Provjeravam vezu..."
+  },
+  "v2_2f649bf1": {
+    "description": "Auto-generated translation for: Connected to AnkiConnect",
+    "message": "Povezano s AnkiConnect"
+  },
+  "v2_1fc43a24": {
+    "description": "Auto-generated translation for: Not connected",
+    "message": "Nije povezano"
+  },
+  "v2_05bb26b8": {
+    "description": "Auto-generated translation for: Version {version}",
+    "message": "Verzija {version}",
+    "placeholders": {
+      "version": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1f06f72c": {
+    "description": "Auto-generated translation for: Test Connection",
+    "message": "Testiraj vezu"
+  },
+  "v2_5bce189e": {
+    "description": "Auto-generated translation for: Default Settings",
+    "message": "Zadane postavke"
+  },
+  "v2_652162b1": {
+    "description": "Auto-generated translation for: Default Note Type (Model)",
+    "message": "Zadani Tip Bilješke (Model)"
+  },
+  "v2_17b6275b": {
+    "description": "Auto-generated translation for: Select a note type",
+    "message": "Odaberite vrstu bilješke"
+  },
+  "v2_20846098": {
+    "description": "Auto-generated translation for: Default Deck",
+    "message": "Zadani Špil"
+  },
+  "v2_3bc5108c": {
+    "description": "Auto-generated translation for: Select a deck",
+    "message": "Odaberite špil"
+  },
+  "v2_74a3ea0b": {
+    "description": "Auto-generated translation for: Field Mappings",
+    "message": "Mapiranja Polja"
+  },
+  "v2_50ba9508": {
+    "description": "Auto-generated translation for: Map bookmark fields to Anki card fields",
+    "message": "Preslikajte polja oznaka knjižnih oznaka u polja Anki kartice"
+  },
+  "v2_34cd3924": {
+    "description": "Auto-generated translation for: You can configure advanced field mappings later from the settings.",
+    "message": "Napredna preslikavanja polja možete konfigurirati kasnije u postavkama."
+  },
+  "v2_6cb3914d": {
+    "description": "Auto-generated translation for: Select Deck",
+    "message": "Odaberi Špil"
+  },
+  "v2_1db494ef": {
+    "description": "Auto-generated translation for: Choose a deck",
+    "message": "Odaberite špil"
+  },
+  "v2_3c47a038": {
+    "description": "Auto-generated translation for: Loading decks...",
+    "message": "Učitavanje špilova..."
+  },
+  "v2_6cc21d2d": {
+    "description": "Auto-generated translation for: Select deck",
+    "message": "Odaberi špil"
+  },
+  "v2_0e7ca953": {
+    "description": "Auto-generated translation for: Bookmark exported to Anki",
+    "message": "Oznaka spremljena i izvezena u Anki"
+  },
+  "v2_424dcc61": {
+    "description": "Auto-generated translation for: Export to default deck",
+    "message": "Izvezi u zadani špil"
+  },
+  "v2_4e85ecf0": {
+    "description": "Auto-generated translation for: Export to specific deck...",
+    "message": "Izvezi u određeni špil..."
+  },
+  "v2_16cb02a9": {
+    "description": "Auto-generated translation for: Configure AnkiConnect...",
+    "message": "Konfiguriraj AnkiConnect..."
+  },
+  "v2_06aa03ef": {
+    "description": "Auto-generated translation for: Validating selection...",
+    "message": "Provjera valjanosti odabira..."
+  },
+  "v2_52f961cf": {
+    "description": "Auto-generated translation for: Determining deck assignments...",
+    "message": "Određivanje dodjela paluba..."
+  },
+  "v2_10f64896": {
+    "description": "Auto-generated translation for: Connecting...",
+    "message": "Povezivanje..."
+  },
+  "v2_309ff21c": {
+    "description": "Auto-generated translation for: Getting assignments...",
+    "message": "Preuzimanje zadataka..."
+  },
+  "v2_28fcad6d": {
+    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
+    "message": "Obrada \"${currentDeck}\"...",
+    "placeholders": {
+      "currentDeck": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1fe06aa7": {
+    "description": "Auto-generated translation for: Complete",
+    "message": "Završeno"
+  },
+  "v2_3e024a75": {
+    "description": "Auto-generated translation for: AnkiConnect Configuration",
+    "message": "AnkiConnect konfiguracija"
+  },
+  "v2_42057dd5": {
+    "description": "Auto-generated translation for: Failed to determine bookmark type",
+    "message": "Nije bilo moguće odrediti vrstu oznake"
+  },
+  "v2_48d2b824": {
+    "description": "Auto-generated translation for: Your next session will include up to",
+    "message": "Vaša sljedeća sesija uključivat će do"
+  },
+  "v2_16dfb392": {
+    "description": "Auto-generated translation for: due cards and",
+    "message": "dospjele kartice i"
+  },
+  "v2_7b80131d": {
+    "description": "Auto-generated translation for: new cards",
+    "message": "nove karte"
+  },
+  "v2_21d0ae7c": {
+    "description": "Auto-generated translation for: Click to learn how spaced repetition works",
+    "message": "Kliknite da biste saznali kako funkcionira učenje s vremenskim razmakom"
+  },
+  "v2_3e0961e4": {
+    "description": "Auto-generated translation for: Learn about spaced repetition",
+    "message": "Saznajte više o ponavljanju u razmacima"
+  },
+  "v2_05d0e35d": {
+    "description": "Auto-generated translation for: New Cards",
+    "message": "Nove kartice"
+  },
+  "v2_2ceeb93b": {
+    "description": "Auto-generated translation for: How Spaced Repetition Works",
+    "message": "Kako Funkcionira Učenje Uz Ponavljanje U Razmacima"
+  },
+  "v2_7b1fb995": {
+    "description": "Auto-generated translation for: Learn how our adaptive learning system helps you remember words more effectively",
+    "message": "Saznajte kako vam naš adaptivni sustav učenja pomaže da učinkovitije pamtite riječi."
+  },
+  "v2_62dbfa78": {
+    "description": "Auto-generated translation for: Adaptive Learning",
+    "message": "Prilagodljivo učenje"
+  },
+  "v2_4f3cc529": {
+    "description": "Auto-generated translation for: The system tracks how difficult each word is for you. Words you consistently find hard will appear more frequently, while words you find easy will be spaced out over longer intervals. This ensures you spend time on what you need to practice most.",
+    "message": "Sustav prati koliko je svaka riječ teška za vas. Riječi koje vam dosljedno predstavljaju poteškoće pojavljivat će se češće, dok će se riječi koje smatrate lakima pojavljivati u dužim intervalima. To osigurava da provodite vrijeme na onome što trebate najviše vježbati."
+  },
+  "v2_47b4eb66": {
+    "description": "Auto-generated translation for: What is Spaced Repetition?",
+    "message": "Što je ponavljanje s razmakom?"
+  },
+  "v2_787f0cd8": {
+    "description": "Auto-generated translation for: Spaced repetition is a learning technique that increases intervals of time between reviews of previously learned material. Our system adapts to your performance, showing difficult words more frequently and easier words less often.",
+    "message": "Učestalost razmaka je tehnika učenja koja povećava vremenske intervale između ponavljanja prethodno naučenog gradiva. Naš sustav se prilagođava vašem učinku, prikazujući teže riječi češće, a lakše riječi rjeđe."
+  },
+  "v2_057fcbd5": {
+    "description": "Auto-generated translation for: Next review:",
+    "message": "Sljedeća recenzija:"
+  },
+  "v2_77536835": {
+    "description": "Auto-generated translation for: Review Actions",
+    "message": "Radnje recenzije"
+  },
+  "v2_245e9c2b": {
+    "description": "Auto-generated translation for: After seeing a word, choose how well you remembered it. The system uses your feedback to schedule the next review:",
+    "message": "Nakon što vidiš riječ, odaberi koliko je se dobro sjećaš. Sustav koristi tvoje povratne informacije za raspoređivanje sljedeće provjere:"
+  },
+  "v2_03175b79": {
+    "description": "Auto-generated translation for: Tips for Best Results",
+    "message": "Savjeti za najbolje rezultate"
+  },
+  "v2_58ea069d": {
+    "description": "Auto-generated translation for: Be honest about how well you remembered each word - this helps the system learn your actual knowledge level",
+    "message": "Budite iskreni o tome koliko ste se dobro sjećali svake riječi - ovo pomaže sustavu da nauči vašu stvarnu razinu znanja"
+  },
+  "v2_0a0eaf68": {
+    "description": "Auto-generated translation for: Review regularly - consistency is key to building long-term memory",
+    "message": "Redovito pregledavajte - dosljednost je ključna za izgradnju dugoročnog pamćenja"
+  },
+  "v2_1a5d65cb": {
+    "description": "Auto-generated translation for: Use keyboard shortcuts (1, 2, 3, 4) for faster reviews",
+    "message": "Koristite prečace na tipkovnici (1, 2, 3, 4) za brže recenzije"
+  },
+  "v2_27187029": {
+    "description": "Auto-generated translation for: Session Structure",
+    "message": "Struktura sesije"
+  },
+  "v2_6f62121c": {
+    "description": "Auto-generated translation for: Each review session includes:",
+    "message": "Svaka sesija pregleda uključuje:"
+  },
+  "v2_53937f0b": {
+    "description": "Auto-generated translation for: Up to 20 due cards",
+    "message": "Do 20 kartica za naplatu"
+  },
+  "v2_08b06b90": {
+    "description": "Auto-generated translation for: Words that are scheduled for review based on your previous performance",
+    "message": "Riječi koje su zakazane za ponavljanje na temelju vaše prethodne izvedbe"
+  },
+  "v2_4e2ffc98": {
+    "description": "Auto-generated translation for: Up to 5 new cards",
+    "message": "Do 5 novih karata"
+  },
+  "v2_74cf58f6": {
+    "description": "Auto-generated translation for: Words you've bookmarked but haven't started learning yet",
+    "message": "Riječi koje ste označili, ali ih još niste počeli učiti"
+  },
+  "v2_7778dcbd": {
+    "description": "Auto-generated translation for: You couldn't recall this word. It will be shown again in 1 minute for immediate re-review.",
+    "message": "Niste se mogli sjetiti ove riječi. Bit će ponovno prikazana za 1 minutu za neposredan ponovni pregled."
+  },
+  "v2_3edca4e3": {
+    "description": "Auto-generated translation for: 1 minute",
+    "message": "1 minuta"
+  },
+  "v2_16fe376e": {
+    "description": "Auto-generated translation for: You found this word difficult to recall. It will be shown again in 1 day to help strengthen your memory.",
+    "message": "Smatrali ste da vam je ovu riječ teško prizvati u sjećanje. Bit će ponovno prikazana za 1 dan kako bi se ojačalo vaše pamćenje."
+  },
+  "v2_02c28f2d": {
+    "description": "Auto-generated translation for: 1 day",
+    "message": "1 dan"
+  },
+  "v2_01ed74bb": {
+    "description": "Auto-generated translation for: You recalled this word correctly. The system will schedule it for review at an optimal interval based on your performance.",
+    "message": "Ispravno ste se prisjetili ove riječi. Sustav će ju zakazati za ponavljanje u optimalnom intervalu, na temelju vaše izvedbe."
+  },
+  "v2_283cb61e": {
+    "description": "Auto-generated translation for: Variable (1 day → 6 days → increasing)",
+    "message": "Varijabilno (1 dan → 6 dana → povećanje)"
+  },
+  "v2_042680d7": {
+    "description": "Auto-generated translation for: You found this word very easy to recall. It will be scheduled for a longer interval, as you've clearly mastered it.",
+    "message": "Ustanovili ste da Vam je ovu riječ bilo vrlo lako prizvati u sjećanje. Bit će zakazana za dulji interval, jer ste ju očito savladali."
+  },
+  "v2_01993ece": {
+    "description": "Auto-generated translation for: Variable (longer intervals)",
+    "message": "Promjenjivi (dulji intervali)"
+  },
+  "v2_6e1ac7f9": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark ({{failedCount}} failed)",
+    "message": "Izvezeno {{successCount}} oznaka ({{failedCount}} nije uspjelo)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_795d1d9d": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark",
+    "message": "Izvezeno {{successCount}} oznaka",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_3ba7ceba": {
+    "description": "Auto-generated translation for: Successfully exported {{successCount}} bookmark to Anki",
+    "message": "Uspješno izvezeno {{successCount}} oznaka u Anki",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_15931629": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark to Anki ({{failedCount}} failed)",
+    "message": "Izvezeno {{successCount}} oznaka u Anki ({{failedCount}} nije uspjelo)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
   }
 }

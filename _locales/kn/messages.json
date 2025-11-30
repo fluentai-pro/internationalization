@@ -2233,10 +2233,6 @@
     "description": "Auto-generated translation for: Updated",
     "message": "ನವೀಕೃತವಾಗಿದೆ"
   },
-  "v2_31b83218": {
-    "description": "Auto-generated translation for: Failed to download Anki deck",
-    "message": "ಅಂಕಿ ಡೆಕ್ ಡೌನ್ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಯಿತು"
-  },
   "v2_3601b135": {
     "description": "Auto-generated translation for: Register as an Affiliate",
     "message": "ಅಂಗಸಂಸ್ಥೆಯಾಗಿ ನೋಂದಾಯಿಸಿಕೊಳ್ಳಿ"
@@ -2276,14 +2272,6 @@
   "v2_1d0c220d": {
     "description": "Auto-generated translation for: Account",
     "message": "ಖಾತೆ"
-  },
-  "v2_1d03fd73": {
-    "description": "Auto-generated translation for: Anki deck file not found",
-    "message": "ಅಂಕಿ ಡೆಕ್ ಕಡತ ಸಿಗಲಿಲ್ಲ"
-  },
-  "v2_12bca79f": {
-    "description": "Auto-generated translation for: Network error while downloading Anki deck",
-    "message": "ಅಂಕಿ ಡೆಕ್ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವಾಗ ನೆಟ್‌ವರ್ಕ್ ದೋಷ"
   },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
@@ -2352,10 +2340,6 @@
   "v2_5c6409a5": {
     "description": "Auto-generated translation for: Processing...",
     "message": "ಸಂಸ್ಕರಿಸಲಾಗುತ್ತಿದೆ..."
-  },
-  "v2_383e0637": {
-    "description": "Auto-generated translation for: Failed to start Anki export",
-    "message": "ಅಂಕಿ ರಫ್ತು ಪ್ರಾರಂಭಿಸಲು ವಿಫಲವಾಗಿದೆ"
   },
   "v2_1fd3dd62": {
     "description": "Auto-generated translation for: This SaaS was created entirely by one person, with the help of a few volunteers, with no outside investment—just a lot of hard work and love. If you find it useful, you're welcome to support it with any amount. Every contribution makes a big difference!",
@@ -3910,14 +3894,6 @@
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "ಸ್ಟ್ರೀಮಿಂಗ್ ವಿವರಣೆ"
-  },
-  "v2_73f9ef42": {
-    "description": "Auto-generated translation for: Anki export finished successfully",
-    "message": "ಅಂಕಿ ರಫ್ತು ಯಶಸ್ವಿಯಾಗಿ ಪೂರ್ಣಗೊಂಡಿದೆ"
-  },
-  "v2_1e746934": {
-    "description": "Auto-generated translation for: Anki export failed",
-    "message": "ಅಂಕಿ ರಫ್ತು ವಿಫಲವಾಗಿದೆ"
   },
   "v2_013bb45c": {
     "description": "Auto-generated translation for: Create Learning List",
@@ -5601,14 +5577,6 @@
     "description": "Auto-generated translation for: No content available for this page",
     "message": "ಈ ಪುಟಕ್ಕೆ ಯಾವುದೇ ವಿಷಯ ಲಭ್ಯವಿಲ್ಲ"
   },
-  "v2_619cb302": {
-    "description": "Auto-generated translation for: Preparing export...",
-    "message": "ರಫ್ತನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ..."
-  },
-  "v2_5e7f99a9": {
-    "description": "Auto-generated translation for: Creating Anki deck...",
-    "message": "ಅಂಕಿ ಡೆಕ್ ರಚಿಸಲಾಗುತ್ತಿದೆ..."
-  },
   "v2_414e60bc": {
     "description": "Auto-generated translation for: Export complete!",
     "message": "ರಫ್ತು ಪೂರ್ಣಗೊಂಡಿದೆ!"
@@ -6069,10 +6037,6 @@
   "v2_78da76c6": {
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "ಭಾಷಾಂತರ ಪಾಪ್ಅಪ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
-  },
-  "v2_4d3695ba": {
-    "description": "Auto-generated translation for: Bookmark ID not found",
-    "message": "ಬುಕ್‌ಮಾರ್ಕ್ ಐಡಿ ಕಂಡುಬಂದಿಲ್ಲ"
   },
   "v2_3de8ee50": {
     "description": "Auto-generated translation for: Failed to remove bookmark",
@@ -7215,26 +7179,6 @@
     "description": "Auto-generated translation for: Use",
     "message": "ಬಳಸಿ"
   },
-  "v2_1a353919": {
-    "description": "Auto-generated translation for: Available Colors",
-    "message": "ಲಭ್ಯವಿರುವ ಬಣ್ಣಗಳು"
-  },
-  "v2_529b3712": {
-    "description": "Auto-generated translation for: Colors used for column mapping",
-    "message": "ಕಾಲಮ್ ಮ್ಯಾಪಿಂಗ್‌ಗಾಗಿ ಬಳಸಲಾದ ಬಣ್ಣಗಳು"
-  },
-  "v2_370b4cf6": {
-    "description": "Auto-generated translation for: Tag Colors",
-    "message": "ಟ್ಯಾಗ್ ಬಣ್ಣಗಳು"
-  },
-  "v2_47f61e42": {
-    "description": "Auto-generated translation for: Tag Border Colors",
-    "message": "ಟ್ಯಾಗ್ ಗಡಿ ಬಣ್ಣಗಳು"
-  },
-  "v2_64cb5c0b": {
-    "description": "Auto-generated translation for: Logo Gradient Colors",
-    "message": "ಲೋಗೋ ಗ್ರೇಡಿಯಂಟ್ ಬಣ್ಣಗಳು"
-  },
   "v2_04549323": {
     "description": "Auto-generated translation for: Known",
     "message": "ತಿಳಿದಿದೆ"
@@ -8056,49 +8000,9 @@
     "description": "Auto-generated translation for: Learning Progress",
     "message": "ಕಲಿಕೆಯ ಪ್ರಗತಿ"
   },
-  "v2_730d2a7d": {
-    "description": "Auto-generated translation for: Ready to Learn?",
-    "message": "ಕಲಿಯಲು ಸಿದ್ಧರಿದ್ದೀರಾ?"
-  },
-  "v2_29490317": {
-    "description": "Auto-generated translation for: You have",
-    "message": "ನಿಮ್ಮಲ್ಲಿದೆ"
-  },
-  "v2_002e7b10": {
-    "description": "Auto-generated translation for: card",
-    "message": "\"ಕಾರ್ಡ್\""
-  },
-  "v2_05a0e763": {
-    "description": "Auto-generated translation for: cards",
-    "message": "\"ಕಾರ್ಡ್‌ಗಳು\""
-  },
-  "v2_287ce03b": {
-    "description": "Auto-generated translation for: due for review",
-    "message": "ಪರಿಶೀಲನೆಗೆ ಬಾಕಿ ಇದೆ"
-  },
-  "v2_0001a9a0": {
-    "description": "Auto-generated translation for: new",
-    "message": "ಹೊಸ"
-  },
-  "v2_3e98685f": {
-    "description": "Auto-generated translation for: to learn",
-    "message": "ಕಲಿಯಲು"
-  },
-  "v2_388f6433": {
-    "description": "Auto-generated translation for: No cards due right now. Great job staying on top of your reviews!",
-    "message": "ಈಗ ಸರಿಹೊಂದುವ ಕಾರ್ಡ್‌ಗಳಿಲ್ಲ. ನಿಮ್ಮ ವಿಮರ್ಶೆಗಳ ಮೇಲೆ ಗಮನವಿರಿಸಿ ಉತ್ತಮ ಕೆಲಸ ಮಾಡಿದ್ದೀರಿ!"
-  },
   "v2_5601c96c": {
     "description": "Auto-generated translation for: Start Review Session",
     "message": "ವಿಮರ್ಶೆ ಅವಧಿಯನ್ನು ಪ್ರಾರಂಭಿಸಿ"
-  },
-  "v2_51bced3c": {
-    "description": "Auto-generated translation for: Upcoming",
-    "message": "ಮುಂಬರುವ"
-  },
-  "v2_00000ddf": {
-    "description": "Auto-generated translation for: on",
-    "message": "ಮೇಲೆ"
   },
   "v2_1f52759c": {
     "description": "Auto-generated translation for: Loading session...",
@@ -8171,5 +8075,361 @@
   "v2_74974efe": {
     "description": "Auto-generated translation for: Languages extracted from existing bookmarks in this list.",
     "message": "ಈ ಪಟ್ಟಿಯಲ್ಲಿರುವ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳಿಂದ ಹೊರತೆಗೆಯಲಾದ ಭಾಷೆಗಳು."
+  },
+  "v2_261aab1e": {
+    "description": "Auto-generated translation for: Checking configuration...",
+    "message": "ಸಂರಚನೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_72a870f4": {
+    "description": "Auto-generated translation for: Connecting to AnkiConnect...",
+    "message": "AnkiConnectಗೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_52f2b93d": {
+    "description": "Auto-generated translation for: Getting deck assignments...",
+    "message": "ಡೆಕ್ ನಿಯೋಜನೆಗಳನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_15614d69": {
+    "description": "Auto-generated translation for: Fetching bookmarks...",
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ತರಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_459b4287": {
+    "description": "Auto-generated translation for: Grouping by deck...",
+    "message": "ಡೆಕ್ ಮೂಲಕ ಗುಂಪು ಮಾಡಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_28633791": {
+    "description": "Auto-generated translation for: Processing decks...",
+    "message": "ಡೆಕ್‌ಗಳನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_326caa98": {
+    "description": "Auto-generated translation for: Configure AnkiConnect before exporting",
+    "message": "ರಫ್ತು ಮಾಡುವ ಮೊದಲು AnkiConnect ಅನ್ನು ಸಂರಚಿಸಿ"
+  },
+  "v2_4995e1cc": {
+    "description": "Auto-generated translation for: Checking...",
+    "message": "ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_10a4ee5b": {
+    "description": "Auto-generated translation for: Configure AnkiConnect",
+    "message": "AnkiConnect ಅನ್ನು ಸಂರಚಿಸಿ"
+  },
+  "v2_277aa73e": {
+    "description": "Auto-generated translation for: Before exporting to Anki, you need to configure how your bookmarks will be sent to Anki.",
+    "message": "ಅಂಕಿಗೆ ರಫ್ತು ಮಾಡುವ ಮೊದಲು, ನಿಮ್ಮ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಅಂಕಿಗೆ ಹೇಗೆ ಕಳುಹಿಸಲಾಗುವುದು ಎಂಬುದನ್ನು ನೀವು ಕಾನ್ಫಿಗರ್ ಮಾಡಬೇಕಾಗುತ್ತದೆ."
+  },
+  "v2_7e00b43c": {
+    "description": "Auto-generated translation for: Loading configuration...",
+    "message": "ಸಂರಚನೆಯನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_14b82325": {
+    "description": "Auto-generated translation for: Connection Settings",
+    "message": "ಸಂಪರ್ಕ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "v2_7f496652": {
+    "description": "Auto-generated translation for: AnkiConnect URL",
+    "message": "AnkiConnect URL"
+  },
+  "v2_04aab9c6": {
+    "description": "Auto-generated translation for: Default: http://127.0.0.1:8765",
+    "message": "ಪೂರ್ವನಿಯೋಜಿತ: http://127.0.0.1:8765"
+  },
+  "v2_5162d0d6": {
+    "description": "Auto-generated translation for: Checking connection...",
+    "message": "ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_2f649bf1": {
+    "description": "Auto-generated translation for: Connected to AnkiConnect",
+    "message": "ಆಂಕಿಕನೆಕ್ಟ್‌ಗೆ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ"
+  },
+  "v2_1fc43a24": {
+    "description": "Auto-generated translation for: Not connected",
+    "message": "ಸಂಪರ್ಕವಿಲ್ಲ"
+  },
+  "v2_05bb26b8": {
+    "description": "Auto-generated translation for: Version {version}",
+    "message": "ಆವೃತ್ತಿ {version}",
+    "placeholders": {
+      "version": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1f06f72c": {
+    "description": "Auto-generated translation for: Test Connection",
+    "message": "ಸಂಪರ್ಕ ಪರೀಕ್ಷಿಸಿ"
+  },
+  "v2_5bce189e": {
+    "description": "Auto-generated translation for: Default Settings",
+    "message": "ಡೀಫಾಲ್ಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "v2_652162b1": {
+    "description": "Auto-generated translation for: Default Note Type (Model)",
+    "message": "ಪೂರ್ವನಿಯೋಜಿತ ಟಿಪ್ಪಣಿ ಮಾದರಿ (ಮಾದರಿ)"
+  },
+  "v2_17b6275b": {
+    "description": "Auto-generated translation for: Select a note type",
+    "message": "ಟಿಪ್ಪಣಿ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_20846098": {
+    "description": "Auto-generated translation for: Default Deck",
+    "message": "\"ಡೀಫಾಲ್ಟ್ ಡೆಕ್\""
+  },
+  "v2_3bc5108c": {
+    "description": "Auto-generated translation for: Select a deck",
+    "message": "ಡೆಕ್ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_74a3ea0b": {
+    "description": "Auto-generated translation for: Field Mappings",
+    "message": "ಕ್ಷೇತ್ರಗಳ ಜೋಡಣೆ"
+  },
+  "v2_50ba9508": {
+    "description": "Auto-generated translation for: Map bookmark fields to Anki card fields",
+    "message": "ನಕ್ಷೆಯ ಬುಕ್‌ಮಾರ್ಕ್ ಕ್ಷೇತ್ರಗಳನ್ನು ಅಂಕಿ ಕಾರ್ಡ್ ಕ್ಷೇತ್ರಗಳಿಗೆ ಮ್ಯಾಪ್ ಮಾಡಿ"
+  },
+  "v2_34cd3924": {
+    "description": "Auto-generated translation for: You can configure advanced field mappings later from the settings.",
+    "message": "ನೀವು ನಂತರ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಂದ ಸುಧಾರಿತ ಫೀಲ್ಡ್ ಮ್ಯಾಪಿಂಗ್‌ಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಬಹುದು."
+  },
+  "v2_6cb3914d": {
+    "description": "Auto-generated translation for: Select Deck",
+    "message": "ಡೆಕ್ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_1db494ef": {
+    "description": "Auto-generated translation for: Choose a deck",
+    "message": "ಡೆಕ್ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "v2_3c47a038": {
+    "description": "Auto-generated translation for: Loading decks...",
+    "message": "ಡೆಕ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_6cc21d2d": {
+    "description": "Auto-generated translation for: Select deck",
+    "message": "\"ಡೆಕ್ ಆಯ್ಕೆಮಾಡಿ\""
+  },
+  "v2_0e7ca953": {
+    "description": "Auto-generated translation for: Bookmark exported to Anki",
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್ ಅನ್ನು ಅಂಕಿ (Anki) ಗೆ ರಫ್ತು ಮಾಡಲಾಗಿದೆ"
+  },
+  "v2_424dcc61": {
+    "description": "Auto-generated translation for: Export to default deck",
+    "message": "ಡೀಫಾಲ್ಟ್ ಡೆಕ್‌ಗೆ ರಫ್ತು ಮಾಡಿ"
+  },
+  "v2_4e85ecf0": {
+    "description": "Auto-generated translation for: Export to specific deck...",
+    "message": "ನಿರ್ದಿಷ್ಟ ಡೆಕ್‌ಗೆ ರಫ್ತು ಮಾಡಿ..."
+  },
+  "v2_16cb02a9": {
+    "description": "Auto-generated translation for: Configure AnkiConnect...",
+    "message": "AnkiConnect ಅನ್ನು ಸಂರಚಿಸಿ..."
+  },
+  "v2_06aa03ef": {
+    "description": "Auto-generated translation for: Validating selection...",
+    "message": "ಆಯ್ಕೆಯನ್ನು ಮೌಲ್ಯೀಕರಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_52f961cf": {
+    "description": "Auto-generated translation for: Determining deck assignments...",
+    "message": "ಡೆಕ್ ನಿಯೋಜನೆಗಳನ್ನು ನಿರ್ಧರಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_10f64896": {
+    "description": "Auto-generated translation for: Connecting...",
+    "message": "ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_309ff21c": {
+    "description": "Auto-generated translation for: Getting assignments...",
+    "message": "ನಿಯೋಜನೆಗಳನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ..."
+  },
+  "v2_1fe06aa7": {
+    "description": "Auto-generated translation for: Complete",
+    "message": "ಪೂರ್ಣ"
+  },
+  "v2_3e024a75": {
+    "description": "Auto-generated translation for: AnkiConnect Configuration",
+    "message": "ಅಂಕಿಕನೆಕ್ಟ್ ಸಂರಚನೆ (AnkiConnect Configuration)"
+  },
+  "v2_42057dd5": {
+    "description": "Auto-generated translation for: Failed to determine bookmark type",
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್ ಪ್ರಕಾರವನ್ನು ನಿರ್ಧರಿಸಲು ವಿಫಲವಾಗಿದೆ"
+  },
+  "v2_48d2b824": {
+    "description": "Auto-generated translation for: Your next session will include up to",
+    "message": "ನಿಮ್ಮ ಮುಂದಿನ ಸೆಷನ್ ಗರಿಷ್ಠ"
+  },
+  "v2_16dfb392": {
+    "description": "Auto-generated translation for: due cards and",
+    "message": "ಬಾಕಿ ಇರುವ ಕಾರ್ಡ್‌ಗಳು ಮತ್ತು"
+  },
+  "v2_7b80131d": {
+    "description": "Auto-generated translation for: new cards",
+    "message": "ಹೊಸ ಕಾರ್ಡ್‍ಗಳು"
+  },
+  "v2_21d0ae7c": {
+    "description": "Auto-generated translation for: Click to learn how spaced repetition works",
+    "message": "ಸ್ಥಳಾವಕಾಶ ಪುನರಾವರ್ತನೆ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ಎಂದು ತಿಳಿಯಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+  },
+  "v2_3e0961e4": {
+    "description": "Auto-generated translation for: Learn about spaced repetition",
+    "message": "ವಿಭಜಿತ ಪುನರಾವರ್ತನೆಯ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ"
+  },
+  "v2_05d0e35d": {
+    "description": "Auto-generated translation for: New Cards",
+    "message": "ಹೊಸ ಕಾರ್ಡ್‌ಗಳು"
+  },
+  "v2_2ceeb93b": {
+    "description": "Auto-generated translation for: How Spaced Repetition Works",
+    "message": "ಸ್ಪೇಸ್ಡ್ ರೆಪೆಟಿಷನ್ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ"
+  },
+  "v2_7b1fb995": {
+    "description": "Auto-generated translation for: Learn how our adaptive learning system helps you remember words more effectively",
+    "message": "ನಮ್ಮ ಹೊಂದಾಣಿಕೆಯ ಕಲಿಕೆಯ ವ್ಯವಸ್ಥೆಯು ಪದಗಳನ್ನು ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ ಎಂದು ತಿಳಿಯಿರಿ."
+  },
+  "v2_62dbfa78": {
+    "description": "Auto-generated translation for: Adaptive Learning",
+    "message": "\"ಹೊಂದಾಣಿಕೆಯ ಕಲಿಕೆ\""
+  },
+  "v2_4f3cc529": {
+    "description": "Auto-generated translation for: The system tracks how difficult each word is for you. Words you consistently find hard will appear more frequently, while words you find easy will be spaced out over longer intervals. This ensures you spend time on what you need to practice most.",
+    "message": "ನಿಮ್ಮ ಪ್ರತಿ ಪದವು ನಿಮಗೆ ಎಷ್ಟು ಕಷ್ಟಕರವಾಗಿದೆ ಎಂಬುದನ್ನು ಸಿಸ್ಟಮ್ ಗಮನಿಸುತ್ತದೆ. ನೀವು ನಿರಂತರವಾಗಿ ಕಠಿಣವೆಂದು ಕಂಡುಕೊಳ್ಳುವ ಪದಗಳು ಹೆಚ್ಚಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ, ಮತ್ತು ನೀವು ಸುಲಭವಾಗಿ ಕಂಡುಕೊಳ್ಳುವ ಪದಗಳನ್ನು ದೀರ್ಘ ಮಧ್ಯಂತರಗಳಲ್ಲಿ ವಿಂಗಡಿಸಲಾಗುತ್ತದೆ. ನೀವು ಅಭ್ಯಾಸ ಮಾಡಲು ಹೆಚ್ಚು ಅಗತ್ಯವಿರುವ ವಿಷಯದ ಮೇಲೆ ನೀವು ಸಮಯ ಕಳೆಯುವುದನ್ನು ಇದು ಖಚಿತಪಡಿಸುತ್ತದೆ."
+  },
+  "v2_47b4eb66": {
+    "description": "Auto-generated translation for: What is Spaced Repetition?",
+    "message": "ಸ್ಪೇಸ್ಡ್ ರೆಪಿಟಿಷನ್ ಎಂದರೇನು?"
+  },
+  "v2_787f0cd8": {
+    "description": "Auto-generated translation for: Spaced repetition is a learning technique that increases intervals of time between reviews of previously learned material. Our system adapts to your performance, showing difficult words more frequently and easier words less often.",
+    "message": "ಸ್ಪೇಸ್ಡ್ ರೆಪಿಟೇಶನ್ ಒಂದು ಕಲಿಕೆಯ ತಂತ್ರವಾಗಿದ್ದು, ಈ ಹಿಂದೆ ಕಲಿತ ವಿಷಯಗಳ ಪರಿಶೀಲನೆಗಳ ನಡುವಿನ ಸಮಯದ ಮಧ್ಯಂತರವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ನಮ್ಮ ಸಿಸ್ಟಮ್ ನಿಮ್ಮ ಕಾರ್ಯಕ್ಷಮತೆಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ, ಕಷ್ಟಕರವಾದ ಪದಗಳನ್ನು ಹೆಚ್ಚಾಗಿ ಮತ್ತು ಸುಲಭವಾದ ಪದಗಳನ್ನು ಕಡಿಮೆ ಬಾರಿ ತೋರಿಸುತ್ತದೆ."
+  },
+  "v2_057fcbd5": {
+    "description": "Auto-generated translation for: Next review:",
+    "message": "ಮುಂದಿನ ಪರಿಶೀಲನೆ:"
+  },
+  "v2_77536835": {
+    "description": "Auto-generated translation for: Review Actions",
+    "message": "ಕ್ರಮ ಪರಿಶೀಲನೆಗಳು"
+  },
+  "v2_245e9c2b": {
+    "description": "Auto-generated translation for: After seeing a word, choose how well you remembered it. The system uses your feedback to schedule the next review:",
+    "message": "ಒಂದು ಪದವನ್ನು ನೋಡಿದ ನಂತರ, ನೀವು ಅದನ್ನು ಎಷ್ಟು ಚೆನ್ನಾಗಿ ನೆನಪಿಟ್ಟುಕೊಂಡಿದ್ದೀರಿ ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ. ಮುಂದಿನ ಪರಿಶೀಲನೆಯನ್ನು ನಿಗದಿಪಡಿಸಲು ಸಿಸ್ಟಮ್ ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಬಳಸುತ್ತದೆ:"
+  },
+  "v2_03175b79": {
+    "description": "Auto-generated translation for: Tips for Best Results",
+    "message": "ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗಾಗಿ ಸಲಹೆಗಳು"
+  },
+  "v2_58ea069d": {
+    "description": "Auto-generated translation for: Be honest about how well you remembered each word - this helps the system learn your actual knowledge level",
+    "message": "ನೀವು ಪ್ರತಿ ಪದವನ್ನು ಎಷ್ಟು ಚೆನ್ನಾಗಿ ನೆನಪಿಟ್ಟುಕೊಂಡಿದ್ದೀರಿ ಎಂಬುದರ ಬಗ್ಗೆ ಪ್ರಾಮಾಣಿಕವಾಗಿರಿ - ಇದು ನಿಮ್ಮ ನಿಜವಾದ ಜ್ಞಾನದ ಮಟ್ಟವನ್ನು ಕಲಿಯಲು ಸಿಸ್ಟಮ್‌ಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ"
+  },
+  "v2_0a0eaf68": {
+    "description": "Auto-generated translation for: Review regularly - consistency is key to building long-term memory",
+    "message": "ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸಿ - ದೀರ್ಘಕಾಲೀನ ಸ್ಮರಣೆಯನ್ನು ಬೆಳೆಸಲು ಸ್ಥಿರತೆ ಮುಖ್ಯವಾಗಿದೆ"
+  },
+  "v2_1a5d65cb": {
+    "description": "Auto-generated translation for: Use keyboard shortcuts (1, 2, 3, 4) for faster reviews",
+    "message": "ವೇಗವಾಗಿ ಪರಿಶೀಲಿಸಲು ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು (1, 2, 3, 4) ಬಳಸಿ"
+  },
+  "v2_27187029": {
+    "description": "Auto-generated translation for: Session Structure",
+    "message": "ಅಧಿವೇಶನದ ರಚನೆ"
+  },
+  "v2_6f62121c": {
+    "description": "Auto-generated translation for: Each review session includes:",
+    "message": "ಪ್ರತಿ ವಿಮರ್ಶೆ ಅವಧಿಯಲ್ಲಿ ಇವು ಸೇರಿವೆ:"
+  },
+  "v2_53937f0b": {
+    "description": "Auto-generated translation for: Up to 20 due cards",
+    "message": "20 ಬಾಕಿ ಕಾರ್ಡ್‌ಗಳವರೆಗೆ"
+  },
+  "v2_08b06b90": {
+    "description": "Auto-generated translation for: Words that are scheduled for review based on your previous performance",
+    "message": "ನಿಮ್ಮ ಹಿಂದಿನ ಕಾರ್ಯಕ್ಷಮತೆಯ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನೆಗಾಗಿ ನಿಗದಿಪಡಿಸಲಾದ ಪದಗಳು"
+  },
+  "v2_4e2ffc98": {
+    "description": "Auto-generated translation for: Up to 5 new cards",
+    "message": "ಗರಿಷ್ಠ 5 ಹೊಸ ಕಾರ್ಡ್‌ಗಳು"
+  },
+  "v2_74cf58f6": {
+    "description": "Auto-generated translation for: Words you've bookmarked but haven't started learning yet",
+    "message": "ನೀವು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಿದ ಆದರೆ ಇನ್ನೂ ಕಲಿಯಲು ಪ್ರಾರಂಭಿಸದ ಪದಗಳು"
+  },
+  "v2_7778dcbd": {
+    "description": "Auto-generated translation for: You couldn't recall this word. It will be shown again in 1 minute for immediate re-review.",
+    "message": "ನಿಮಗೆ ಈ ಪದ ನೆನಪಿಗೆ ಬರಲಿಲ್ಲ. ತಕ್ಷಣದ ಮರು-ಪರಿಶೀಲನೆಗಾಗಿ ಇದು 1 ನಿಮಿಷದಲ್ಲಿ ಮತ್ತೆ ತೋರಿಸಲ್ಪಡುತ್ತದೆ."
+  },
+  "v2_3edca4e3": {
+    "description": "Auto-generated translation for: 1 minute",
+    "message": "1 ನಿಮಿಷ"
+  },
+  "v2_16fe376e": {
+    "description": "Auto-generated translation for: You found this word difficult to recall. It will be shown again in 1 day to help strengthen your memory.",
+    "message": "ಈ ಪದವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ನಿಮಗೆ ಕಷ್ಟವಾಯಿತು. ನಿಮ್ಮ ನೆನಪನ್ನು ಬಲಪಡಿಸಲು ಇದನ್ನು 1 ದಿನದಲ್ಲಿ ಮತ್ತೆ ತೋರಿಸಲಾಗುತ್ತದೆ."
+  },
+  "v2_02c28f2d": {
+    "description": "Auto-generated translation for: 1 day",
+    "message": "1 ದಿನ"
+  },
+  "v2_01ed74bb": {
+    "description": "Auto-generated translation for: You recalled this word correctly. The system will schedule it for review at an optimal interval based on your performance.",
+    "message": "ನೀವು ಈ ಪದವನ್ನು ಸರಿಯಾಗಿ ನೆನಪಿಸಿಕೊಂಡಿದ್ದೀರಿ. ನಿಮ್ಮ ಕಾರ್ಯಕ್ಷಮತೆಯ ಆಧಾರದ ಮೇಲೆ ಸೂಕ್ತವಾದ ಮಧ್ಯಂತರದಲ್ಲಿ ಸಿಸ್ಟಮ್ ಅದನ್ನು ಪರಿಶೀಲನೆಗಾಗಿ ನಿಗದಿಪಡಿಸುತ್ತದೆ."
+  },
+  "v2_283cb61e": {
+    "description": "Auto-generated translation for: Variable (1 day → 6 days → increasing)",
+    "message": "ಬದಲಾಗುವ (1 ದಿನ → 6 ದಿನಗಳು → ಹೆಚ್ಚುತ್ತಿದೆ)"
+  },
+  "v2_042680d7": {
+    "description": "Auto-generated translation for: You found this word very easy to recall. It will be scheduled for a longer interval, as you've clearly mastered it.",
+    "message": "ಈ ಪದವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ನಿಮಗೆ ಬಹಳ ಸುಲಭವಾಯಿತೆಂದು ಕಂಡುಬಂದಿದೆ. ನೀವು ಇದನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಕರಗತ ಮಾಡಿಕೊಂಡಿರುವುದರಿಂದ, ಇದು ದೀರ್ಘವಾದ ಮಧ್ಯಂತರಕ್ಕೆ ನಿಗದಿಪಡಿಸಲಾಗುವುದು."
+  },
+  "v2_01993ece": {
+    "description": "Auto-generated translation for: Variable (longer intervals)",
+    "message": "ಅಸ್ಥಿರ (ದೀರ್ಘ ಮಧ್ಯಂತರಗಳು)"
+  },
+  "v2_6e1ac7f9": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark ({{failedCount}} failed)",
+    "message": "{{successCount}} ಬುಕ್‌ಮಾರ್ಕ್‌ ರಫ್ತು ಮಾಡಲಾಗಿದೆ ({{failedCount}} ವಿಫಲವಾಗಿದೆ)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_795d1d9d": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark",
+    "message": "{{successCount}} ಬುಕ್‌ಮಾರ್ಕ್ ರಫ್ತು ಮಾಡಲಾಗಿದೆ",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_3ba7ceba": {
+    "description": "Auto-generated translation for: Successfully exported {{successCount}} bookmark to Anki",
+    "message": "{{successCount}} ಬುಕ್‌ಮಾರ್ಕ್‌ ಅನ್ನು ಆಂಕಿಗೆ ಯಶಸ್ವಿಯಾಗಿ ರಫ್ತು ಮಾಡಲಾಗಿದೆ",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_15931629": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark to Anki ({{failedCount}} failed)",
+    "message": "{{successCount}} ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಅಂಕಿ (Anki) ಗೆ ರಫ್ತು ಮಾಡಲಾಗಿದೆ ({{failedCount}} ವಿಫಲವಾಗಿದೆ)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_28fcad6d": {
+    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
+    "message": "\"${currentDeck}\" ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತಿದೆ...",
+    "placeholders": {
+      "currentDeck": {
+        "content": "$1"
+      }
+    }
   }
 }

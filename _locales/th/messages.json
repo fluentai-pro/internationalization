@@ -2233,10 +2233,6 @@
     "description": "Auto-generated translation for: Updated",
     "message": "อัปเดตแล้ว"
   },
-  "v2_31b83218": {
-    "description": "Auto-generated translation for: Failed to download Anki deck",
-    "message": "ดาวน์โหลด Anki deck ล้มเหลว"
-  },
   "v2_3601b135": {
     "description": "Auto-generated translation for: Register as an Affiliate",
     "message": "ลงทะเบียนเป็นตัวแทน"
@@ -2276,14 +2272,6 @@
   "v2_1d0c220d": {
     "description": "Auto-generated translation for: Account",
     "message": "บัญชี"
-  },
-  "v2_1d03fd73": {
-    "description": "Auto-generated translation for: Anki deck file not found",
-    "message": "ไม่พบไฟล์สำรับ Anki"
-  },
-  "v2_12bca79f": {
-    "description": "Auto-generated translation for: Network error while downloading Anki deck",
-    "message": "ข้อผิดพลาดเครือข่ายขณะดาวน์โหลดสำรับ Anki"
   },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
@@ -2352,10 +2340,6 @@
   "v2_5c6409a5": {
     "description": "Auto-generated translation for: Processing...",
     "message": "กำลังประมวลผล..."
-  },
-  "v2_383e0637": {
-    "description": "Auto-generated translation for: Failed to start Anki export",
-    "message": "ไม่สามารถเริ่มการเอ็กซ์พอร์ต Anki ได้"
   },
   "v2_1fd3dd62": {
     "description": "Auto-generated translation for: This SaaS was created entirely by one person, with the help of a few volunteers, with no outside investment—just a lot of hard work and love. If you find it useful, you're welcome to support it with any amount. Every contribution makes a big difference!",
@@ -3910,14 +3894,6 @@
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "คำอธิบายการสตรีม"
-  },
-  "v2_73f9ef42": {
-    "description": "Auto-generated translation for: Anki export finished successfully",
-    "message": "ส่งออก Anki สำเร็จแล้ว"
-  },
-  "v2_1e746934": {
-    "description": "Auto-generated translation for: Anki export failed",
-    "message": "การส่งออก Anki ล้มเหลว"
   },
   "v2_013bb45c": {
     "description": "Auto-generated translation for: Create Learning List",
@@ -5601,14 +5577,6 @@
     "description": "Auto-generated translation for: No content available for this page",
     "message": "ไม่มีเนื้อหาสำหรับหน้านี้"
   },
-  "v2_619cb302": {
-    "description": "Auto-generated translation for: Preparing export...",
-    "message": "กำลังเตรียมการส่งออก..."
-  },
-  "v2_5e7f99a9": {
-    "description": "Auto-generated translation for: Creating Anki deck...",
-    "message": "กำลังสร้างเด็ค Anki..."
-  },
   "v2_414e60bc": {
     "description": "Auto-generated translation for: Export complete!",
     "message": "ส่งออกสมบูรณ์แล้ว!"
@@ -6069,10 +6037,6 @@
   "v2_78da76c6": {
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "การตั้งค่าป๊อปอัปคำแปล"
-  },
-  "v2_4d3695ba": {
-    "description": "Auto-generated translation for: Bookmark ID not found",
-    "message": "ไม่พบ ID บุ๊กมาร์ก"
   },
   "v2_3de8ee50": {
     "description": "Auto-generated translation for: Failed to remove bookmark",
@@ -7215,26 +7179,6 @@
     "description": "Auto-generated translation for: Use",
     "message": "ใช้"
   },
-  "v2_1a353919": {
-    "description": "Auto-generated translation for: Available Colors",
-    "message": "สีที่มีให้เลือก"
-  },
-  "v2_529b3712": {
-    "description": "Auto-generated translation for: Colors used for column mapping",
-    "message": "สีที่ใช้สำหรับการแมปคอลัมน์"
-  },
-  "v2_370b4cf6": {
-    "description": "Auto-generated translation for: Tag Colors",
-    "message": "สีของแท็ก"
-  },
-  "v2_47f61e42": {
-    "description": "Auto-generated translation for: Tag Border Colors",
-    "message": "สีขอบแท็ก"
-  },
-  "v2_64cb5c0b": {
-    "description": "Auto-generated translation for: Logo Gradient Colors",
-    "message": "สีไล่ระดับสำหรับโลโก้"
-  },
   "v2_04549323": {
     "description": "Auto-generated translation for: Known",
     "message": "เป็นที่รู้จัก"
@@ -8056,49 +8000,9 @@
     "description": "Auto-generated translation for: Learning Progress",
     "message": "ความก้าวหน้าในการเรียนรู้"
   },
-  "v2_730d2a7d": {
-    "description": "Auto-generated translation for: Ready to Learn?",
-    "message": "พร้อมที่จะเรียนรู้แล้วหรือยัง"
-  },
-  "v2_29490317": {
-    "description": "Auto-generated translation for: You have",
-    "message": "คุณมี"
-  },
-  "v2_002e7b10": {
-    "description": "Auto-generated translation for: card",
-    "message": "บัตร"
-  },
-  "v2_05a0e763": {
-    "description": "Auto-generated translation for: cards",
-    "message": "ไพ่"
-  },
-  "v2_287ce03b": {
-    "description": "Auto-generated translation for: due for review",
-    "message": "ครบกำหนดการตรวจสอบ"
-  },
-  "v2_0001a9a0": {
-    "description": "Auto-generated translation for: new",
-    "message": "ใหม่"
-  },
-  "v2_3e98685f": {
-    "description": "Auto-generated translation for: to learn",
-    "message": "ที่จะเรียนรู้"
-  },
-  "v2_388f6433": {
-    "description": "Auto-generated translation for: No cards due right now. Great job staying on top of your reviews!",
-    "message": "ไม่มีการ์ดที่ต้องทบทวนในขณะนี้ ทำได้ดีมากในการจัดการการทบทวนของคุณอย่างสม่ำเสมอ!"
-  },
   "v2_5601c96c": {
     "description": "Auto-generated translation for: Start Review Session",
     "message": "เริ่มเซสชันการรีวิว"
-  },
-  "v2_51bced3c": {
-    "description": "Auto-generated translation for: Upcoming",
-    "message": "ที่จะมาถึง"
-  },
-  "v2_00000ddf": {
-    "description": "Auto-generated translation for: on",
-    "message": "เปิด"
   },
   "v2_1f52759c": {
     "description": "Auto-generated translation for: Loading session...",
@@ -8171,5 +8075,361 @@
   "v2_74974efe": {
     "description": "Auto-generated translation for: Languages extracted from existing bookmarks in this list.",
     "message": "ภาษาที่ดึงมาจากบุ๊กมาร์กที่มีอยู่ในรายการนี้"
+  },
+  "v2_261aab1e": {
+    "description": "Auto-generated translation for: Checking configuration...",
+    "message": "กำลังตรวจสอบการตั้งค่า..."
+  },
+  "v2_72a870f4": {
+    "description": "Auto-generated translation for: Connecting to AnkiConnect...",
+    "message": "กำลังเชื่อมต่อกับ AnkiConnect..."
+  },
+  "v2_52f2b93d": {
+    "description": "Auto-generated translation for: Getting deck assignments...",
+    "message": "กำลังรับมอบหมายสำรับไพ่..."
+  },
+  "v2_15614d69": {
+    "description": "Auto-generated translation for: Fetching bookmarks...",
+    "message": "กำลังดึงข้อมูลบุ๊กมาร์ก..."
+  },
+  "v2_459b4287": {
+    "description": "Auto-generated translation for: Grouping by deck...",
+    "message": "จัดกลุ่มตามสำรับไพ่..."
+  },
+  "v2_28633791": {
+    "description": "Auto-generated translation for: Processing decks...",
+    "message": "กำลังประมวลผลสำรับไพ่..."
+  },
+  "v2_326caa98": {
+    "description": "Auto-generated translation for: Configure AnkiConnect before exporting",
+    "message": "กำหนดค่า AnkiConnect ก่อนส่งออก"
+  },
+  "v2_4995e1cc": {
+    "description": "Auto-generated translation for: Checking...",
+    "message": "กำลังตรวจสอบ..."
+  },
+  "v2_10a4ee5b": {
+    "description": "Auto-generated translation for: Configure AnkiConnect",
+    "message": "กำหนดค่า AnkiConnect"
+  },
+  "v2_277aa73e": {
+    "description": "Auto-generated translation for: Before exporting to Anki, you need to configure how your bookmarks will be sent to Anki.",
+    "message": "ก่อนที่จะส่งออกไปยัง Anki คุณต้องกำหนดค่าวิธีการส่งบุ๊กมาร์กของคุณไปยัง Anki"
+  },
+  "v2_7e00b43c": {
+    "description": "Auto-generated translation for: Loading configuration...",
+    "message": "กำลังโหลดการกำหนดค่า..."
+  },
+  "v2_14b82325": {
+    "description": "Auto-generated translation for: Connection Settings",
+    "message": "การตั้งค่าการเชื่อมต่อ"
+  },
+  "v2_7f496652": {
+    "description": "Auto-generated translation for: AnkiConnect URL",
+    "message": "URL ของ AnkiConnect"
+  },
+  "v2_04aab9c6": {
+    "description": "Auto-generated translation for: Default: http://127.0.0.1:8765",
+    "message": "ค่าเริ่มต้น: http://127.0.0.1:8765"
+  },
+  "v2_5162d0d6": {
+    "description": "Auto-generated translation for: Checking connection...",
+    "message": "กำลังตรวจสอบการเชื่อมต่อ..."
+  },
+  "v2_2f649bf1": {
+    "description": "Auto-generated translation for: Connected to AnkiConnect",
+    "message": "เชื่อมต่อกับ AnkiConnect แล้ว"
+  },
+  "v2_1fc43a24": {
+    "description": "Auto-generated translation for: Not connected",
+    "message": "ไม่ได้เชื่อมต่อ"
+  },
+  "v2_05bb26b8": {
+    "description": "Auto-generated translation for: Version {version}",
+    "message": "เวอร์ชัน {version}",
+    "placeholders": {
+      "version": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1f06f72c": {
+    "description": "Auto-generated translation for: Test Connection",
+    "message": "ทดสอบการเชื่อมต่อ"
+  },
+  "v2_5bce189e": {
+    "description": "Auto-generated translation for: Default Settings",
+    "message": "ค่าตั้งต้น"
+  },
+  "v2_652162b1": {
+    "description": "Auto-generated translation for: Default Note Type (Model)",
+    "message": "ประเภทโน้ตเริ่มต้น (Model)"
+  },
+  "v2_17b6275b": {
+    "description": "Auto-generated translation for: Select a note type",
+    "message": "เลือกประเภทบันทึก"
+  },
+  "v2_20846098": {
+    "description": "Auto-generated translation for: Default Deck",
+    "message": "สำรับเริ่มต้น"
+  },
+  "v2_3bc5108c": {
+    "description": "Auto-generated translation for: Select a deck",
+    "message": "เลือกสำรับไพ่"
+  },
+  "v2_74a3ea0b": {
+    "description": "Auto-generated translation for: Field Mappings",
+    "message": "การจับคู่ฟิลด์"
+  },
+  "v2_50ba9508": {
+    "description": "Auto-generated translation for: Map bookmark fields to Anki card fields",
+    "message": "จับคู่ฟิลด์บุ๊กมาร์กกับฟิลด์การ์ด Anki"
+  },
+  "v2_34cd3924": {
+    "description": "Auto-generated translation for: You can configure advanced field mappings later from the settings.",
+    "message": "คุณสามารถกำหนดค่าการจับคู่ฟิลด์ขั้นสูงได้ในภายหลังจากในการตั้งค่า"
+  },
+  "v2_6cb3914d": {
+    "description": "Auto-generated translation for: Select Deck",
+    "message": "เลือกสำรับไพ่"
+  },
+  "v2_1db494ef": {
+    "description": "Auto-generated translation for: Choose a deck",
+    "message": "เลือกสำรับไพ่"
+  },
+  "v2_3c47a038": {
+    "description": "Auto-generated translation for: Loading decks...",
+    "message": "กำลังโหลดสำรับไพ่..."
+  },
+  "v2_6cc21d2d": {
+    "description": "Auto-generated translation for: Select deck",
+    "message": "เลือกสำรับไพ่"
+  },
+  "v2_0e7ca953": {
+    "description": "Auto-generated translation for: Bookmark exported to Anki",
+    "message": "บุ๊กมาร์กถูกส่งออกไปยัง Anki แล้ว"
+  },
+  "v2_424dcc61": {
+    "description": "Auto-generated translation for: Export to default deck",
+    "message": "ส่งออกไปยังสำรับเริ่มต้น"
+  },
+  "v2_4e85ecf0": {
+    "description": "Auto-generated translation for: Export to specific deck...",
+    "message": "ส่งออกไปยังสำรับที่ระบุ..."
+  },
+  "v2_16cb02a9": {
+    "description": "Auto-generated translation for: Configure AnkiConnect...",
+    "message": "กำหนดค่า AnkiConnect..."
+  },
+  "v2_06aa03ef": {
+    "description": "Auto-generated translation for: Validating selection...",
+    "message": "กำลังตรวจสอบรายการที่เลือก..."
+  },
+  "v2_52f961cf": {
+    "description": "Auto-generated translation for: Determining deck assignments...",
+    "message": "กำลังกำหนดการมอบหมายสำรับ..."
+  },
+  "v2_6e1ac7f9": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark ({{failedCount}} failed)",
+    "message": "ส่งออก {{successCount}} บุ๊กมาร์ก ({{failedCount}} ไม่สำเร็จ)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_795d1d9d": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark",
+    "message": "ส่งออกบุ๊กมาร์กแล้ว {{successCount}} รายการ",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_3ba7ceba": {
+    "description": "Auto-generated translation for: Successfully exported {{successCount}} bookmark to Anki",
+    "message": "ส่งออกบุ๊กมาร์ก {{successCount}} รายการไปยัง Anki สำเร็จแล้ว",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_15931629": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark to Anki ({{failedCount}} failed)",
+    "message": "ส่งออกบุ๊กมาร์ก {{successCount}} รายการไปยัง Anki ({{failedCount}} รายการล้มเหลว)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_10f64896": {
+    "description": "Auto-generated translation for: Connecting...",
+    "message": "กำลังเชื่อมต่อ..."
+  },
+  "v2_309ff21c": {
+    "description": "Auto-generated translation for: Getting assignments...",
+    "message": "กำลังรับมอบหมายงาน..."
+  },
+  "v2_28fcad6d": {
+    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
+    "message": "กำลังประมวลผล \"${currentDeck}\"...",
+    "placeholders": {
+      "currentDeck": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1fe06aa7": {
+    "description": "Auto-generated translation for: Complete",
+    "message": "สมบูรณ์"
+  },
+  "v2_3e024a75": {
+    "description": "Auto-generated translation for: AnkiConnect Configuration",
+    "message": "การตั้งค่า AnkiConnect"
+  },
+  "v2_42057dd5": {
+    "description": "Auto-generated translation for: Failed to determine bookmark type",
+    "message": "ไม่สามารถระบุประเภทของบุ๊กมาร์ก"
+  },
+  "v2_48d2b824": {
+    "description": "Auto-generated translation for: Your next session will include up to",
+    "message": "เซสชันถัดไปของคุณจะมีได้สูงสุด"
+  },
+  "v2_16dfb392": {
+    "description": "Auto-generated translation for: due cards and",
+    "message": "บัตรครบกำหนดและ"
+  },
+  "v2_7b80131d": {
+    "description": "Auto-generated translation for: new cards",
+    "message": "การ์ดใหม่"
+  },
+  "v2_21d0ae7c": {
+    "description": "Auto-generated translation for: Click to learn how spaced repetition works",
+    "message": "คลิกเพื่อเรียนรู้วิธีการทำงานของการทบทวนแบบเว้นระยะ"
+  },
+  "v2_3e0961e4": {
+    "description": "Auto-generated translation for: Learn about spaced repetition",
+    "message": "เรียนรู้เกี่ยวกับการทำซ้ำโดยเว้นระยะ"
+  },
+  "v2_05d0e35d": {
+    "description": "Auto-generated translation for: New Cards",
+    "message": "การ์ดใหม่"
+  },
+  "v2_2ceeb93b": {
+    "description": "Auto-generated translation for: How Spaced Repetition Works",
+    "message": "วิธีการทำงานของการทำซ้ำแบบเว้นระยะ"
+  },
+  "v2_7b1fb995": {
+    "description": "Auto-generated translation for: Learn how our adaptive learning system helps you remember words more effectively",
+    "message": "เรียนรู้วิธีที่ระบบการเรียนรู้แบบปรับตัวของเราช่วยให้คุณจดจำคำศัพท์ได้อย่างมีประสิทธิภาพมากขึ้น"
+  },
+  "v2_62dbfa78": {
+    "description": "Auto-generated translation for: Adaptive Learning",
+    "message": "การเรียนรู้แบบปรับเหมาะ"
+  },
+  "v2_4f3cc529": {
+    "description": "Auto-generated translation for: The system tracks how difficult each word is for you. Words you consistently find hard will appear more frequently, while words you find easy will be spaced out over longer intervals. This ensures you spend time on what you need to practice most.",
+    "message": "ระบบจะติดตามว่าแต่ละคำยากสำหรับคุณแค่ไหน คำที่คุณพบว่ายากอย่างสม่ำเสมอจะปรากฏบ่อยขึ้น ในขณะที่คำที่คุณพบว่าง่ายจะปรากฏห่างกันมากขึ้น สิ่งนี้จะช่วยให้คุณใช้เวลาไปกับสิ่งที่คุณต้องฝึกฝนมากที่สุด"
+  },
+  "v2_47b4eb66": {
+    "description": "Auto-generated translation for: What is Spaced Repetition?",
+    "message": "Spaced Repetition คืออะไร"
+  },
+  "v2_787f0cd8": {
+    "description": "Auto-generated translation for: Spaced repetition is a learning technique that increases intervals of time between reviews of previously learned material. Our system adapts to your performance, showing difficult words more frequently and easier words less often.",
+    "message": "Spaced repetition คือเทคนิคการเรียนรู้ที่เพิ่มช่วงเวลาระหว่างการทบทวนเนื้อหาที่เรียนรู้ไปแล้ว ระบบของเราปรับตามประสิทธิภาพของคุณ โดยจะแสดงคำศัพท์ที่ยากบ่อยขึ้น และคำศัพท์ที่ง่ายน้อยลง"
+  },
+  "v2_057fcbd5": {
+    "description": "Auto-generated translation for: Next review:",
+    "message": "การตรวจสอบครั้งถัดไป:"
+  },
+  "v2_77536835": {
+    "description": "Auto-generated translation for: Review Actions",
+    "message": "ตรวจสอบการดำเนินการ"
+  },
+  "v2_245e9c2b": {
+    "description": "Auto-generated translation for: After seeing a word, choose how well you remembered it. The system uses your feedback to schedule the next review:",
+    "message": "หลังจากเห็นคำศัพท์ ให้เลือกว่าคุณจำได้ดีแค่ไหน ระบบจะใช้ข้อมูลป้อนกลับของคุณเพื่อกำหนดเวลาการทบทวนครั้งต่อไป:"
+  },
+  "v2_03175b79": {
+    "description": "Auto-generated translation for: Tips for Best Results",
+    "message": "เคล็ดลับเพื่อให้ได้ผลลัพธ์ที่ดีที่สุด"
+  },
+  "v2_58ea069d": {
+    "description": "Auto-generated translation for: Be honest about how well you remembered each word - this helps the system learn your actual knowledge level",
+    "message": "โปรดซื่อสัตย์เกี่ยวกับความสามารถในการจำคำศัพท์แต่ละคำของคุณ - สิ่งนี้จะช่วยให้ระบบเรียนรู้ระดับความรู้ที่แท้จริงของคุณ"
+  },
+  "v2_0a0eaf68": {
+    "description": "Auto-generated translation for: Review regularly - consistency is key to building long-term memory",
+    "message": "ทบทวนอย่างสม่ำเสมอ - ความสม่ำเสมอเป็นกุญแจสำคัญในการสร้างความจำระยะยาว"
+  },
+  "v2_1a5d65cb": {
+    "description": "Auto-generated translation for: Use keyboard shortcuts (1, 2, 3, 4) for faster reviews",
+    "message": "ใช้ทางลัดแป้นพิมพ์ (1, 2, 3, 4) เพื่อการรีวิวที่รวดเร็วยิ่งขึ้น"
+  },
+  "v2_27187029": {
+    "description": "Auto-generated translation for: Session Structure",
+    "message": "โครงสร้างช่วงเวลา"
+  },
+  "v2_6f62121c": {
+    "description": "Auto-generated translation for: Each review session includes:",
+    "message": "แต่ละช่วงทบทวนประกอบด้วย:"
+  },
+  "v2_53937f0b": {
+    "description": "Auto-generated translation for: Up to 20 due cards",
+    "message": "สูงสุดถึง 20 ใบแจ้งหนี้ที่ครบกำหนด"
+  },
+  "v2_08b06b90": {
+    "description": "Auto-generated translation for: Words that are scheduled for review based on your previous performance",
+    "message": "คำศัพท์ที่กำหนดไว้สำหรับการทบทวนตามผลการปฏิบัติงานที่ผ่านมาของคุณ"
+  },
+  "v2_4e2ffc98": {
+    "description": "Auto-generated translation for: Up to 5 new cards",
+    "message": "สูงสุด 5 การ์ดใหม่"
+  },
+  "v2_74cf58f6": {
+    "description": "Auto-generated translation for: Words you've bookmarked but haven't started learning yet",
+    "message": "คำที่คุณคั่นหน้าไว้แต่ยังไม่ได้เริ่มเรียนรู้"
+  },
+  "v2_7778dcbd": {
+    "description": "Auto-generated translation for: You couldn't recall this word. It will be shown again in 1 minute for immediate re-review.",
+    "message": "คุณจำคำศัพท์นี้ไม่ได้ ระบบจะแสดงคำนี้อีกครั้งใน 1 นาทีเพื่อให้คุณทบทวนซ้ำทันที"
+  },
+  "v2_3edca4e3": {
+    "description": "Auto-generated translation for: 1 minute",
+    "message": "1 นาที"
+  },
+  "v2_16fe376e": {
+    "description": "Auto-generated translation for: You found this word difficult to recall. It will be shown again in 1 day to help strengthen your memory.",
+    "message": "คุณพบว่าคำนี้ยากที่จะจำได้ ระบบจะแสดงคำนี้อีกครั้งใน 1 วัน เพื่อช่วยเสริมสร้างความจำของคุณ"
+  },
+  "v2_02c28f2d": {
+    "description": "Auto-generated translation for: 1 day",
+    "message": "1 วัน"
+  },
+  "v2_01ed74bb": {
+    "description": "Auto-generated translation for: You recalled this word correctly. The system will schedule it for review at an optimal interval based on your performance.",
+    "message": "คุณจำคำศัพท์นี้ได้ถูกต้อง ระบบจะจัดตารางการทบทวนคำศัพท์นี้ในระยะเวลาที่เหมาะสม โดยอิงตามผลการเรียนรู้ของคุณ"
+  },
+  "v2_283cb61e": {
+    "description": "Auto-generated translation for: Variable (1 day → 6 days → increasing)",
+    "message": "ผันแปร (1 วัน → 6 วัน → เพิ่มขึ้น)"
+  },
+  "v2_042680d7": {
+    "description": "Auto-generated translation for: You found this word very easy to recall. It will be scheduled for a longer interval, as you've clearly mastered it.",
+    "message": "คุณจำคำศัพท์นี้ได้ง่ายมาก ระบบจึงจะกำหนดช่วงเวลาทบทวนให้ยาวนานขึ้น เนื่องจากคุณเชี่ยวชาญคำศัพท์นี้แล้ว"
+  },
+  "v2_01993ece": {
+    "description": "Auto-generated translation for: Variable (longer intervals)",
+    "message": "ช่วงเวลาผันแปร (ช่วงห่างนานขึ้น)"
   }
 }

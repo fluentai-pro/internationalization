@@ -2233,10 +2233,6 @@
     "description": "Auto-generated translation for: Updated",
     "message": "புதுப்பிக்கப்பட்டது"
   },
-  "v2_31b83218": {
-    "description": "Auto-generated translation for: Failed to download Anki deck",
-    "message": "ஆங்கி டெக்கை பதிவிறக்க முடியவில்லை"
-  },
   "v2_3601b135": {
     "description": "Auto-generated translation for: Register as an Affiliate",
     "message": "இணை உறுப்பினராகப் பதிவு செய்யவும்"
@@ -2276,14 +2272,6 @@
   "v2_1d0c220d": {
     "description": "Auto-generated translation for: Account",
     "message": "கணக்கு"
-  },
-  "v2_1d03fd73": {
-    "description": "Auto-generated translation for: Anki deck file not found",
-    "message": "ஆங்கி டெக் கோப்பு கண்டறியப்படவில்லை"
-  },
-  "v2_12bca79f": {
-    "description": "Auto-generated translation for: Network error while downloading Anki deck",
-    "message": "ஆங்கி டெக்கை பதிவிறக்கும் போது பிணையப் பிழை"
   },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
@@ -2352,10 +2340,6 @@
   "v2_5c6409a5": {
     "description": "Auto-generated translation for: Processing...",
     "message": "செயலாக்கிக் கொண்டிருக்கிறது..."
-  },
-  "v2_383e0637": {
-    "description": "Auto-generated translation for: Failed to start Anki export",
-    "message": "அங்கி ஏற்றுமதியைத் தொடங்க முடியவில்லை"
   },
   "v2_1fd3dd62": {
     "description": "Auto-generated translation for: This SaaS was created entirely by one person, with the help of a few volunteers, with no outside investment—just a lot of hard work and love. If you find it useful, you're welcome to support it with any amount. Every contribution makes a big difference!",
@@ -3910,14 +3894,6 @@
   "v2_5d205f3b": {
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "ஸ்ட்ரீமிங் விளக்கம்"
-  },
-  "v2_73f9ef42": {
-    "description": "Auto-generated translation for: Anki export finished successfully",
-    "message": "அன்கி ஏற்றுமதி வெற்றிகரமாக முடிந்தது"
-  },
-  "v2_1e746934": {
-    "description": "Auto-generated translation for: Anki export failed",
-    "message": "அன்கி ஏற்றுமதி தோல்வியடைந்தது."
   },
   "v2_013bb45c": {
     "description": "Auto-generated translation for: Create Learning List",
@@ -5601,14 +5577,6 @@
     "description": "Auto-generated translation for: No content available for this page",
     "message": "இந்த பக்கத்திற்கு எந்த உள்ளடக்கமும் இல்லை"
   },
-  "v2_619cb302": {
-    "description": "Auto-generated translation for: Preparing export...",
-    "message": "ஏற்றுமதி தயாராகிறது..."
-  },
-  "v2_5e7f99a9": {
-    "description": "Auto-generated translation for: Creating Anki deck...",
-    "message": "அன்கி டெக்கை உருவாக்குகிறோம்..."
-  },
   "v2_414e60bc": {
     "description": "Auto-generated translation for: Export complete!",
     "message": "ஏற்றுமதி வெற்றிகரம்!"
@@ -6069,10 +6037,6 @@
   "v2_78da76c6": {
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "மொழிபெயர்ப்பு பாப்-அப் அமைப்புகள்"
-  },
-  "v2_4d3695ba": {
-    "description": "Auto-generated translation for: Bookmark ID not found",
-    "message": "புக்மார்க் ஐடி கண்டறியப்படவில்லை"
   },
   "v2_3de8ee50": {
     "description": "Auto-generated translation for: Failed to remove bookmark",
@@ -7215,26 +7179,6 @@
     "description": "Auto-generated translation for: Use",
     "message": "பயன்படுத்து"
   },
-  "v2_1a353919": {
-    "description": "Auto-generated translation for: Available Colors",
-    "message": "கிடைக்கும் நிறங்கள்"
-  },
-  "v2_529b3712": {
-    "description": "Auto-generated translation for: Colors used for column mapping",
-    "message": "நிறங்கள் நெடுவரிசை மேப்பிங்கிற்குப் பயன்படுத்தப்படுகின்றன"
-  },
-  "v2_370b4cf6": {
-    "description": "Auto-generated translation for: Tag Colors",
-    "message": "\"குறியீட்டு வண்ணங்கள்\""
-  },
-  "v2_47f61e42": {
-    "description": "Auto-generated translation for: Tag Border Colors",
-    "message": "குறியீட்டு எல்லை வண்ணங்கள்"
-  },
-  "v2_64cb5c0b": {
-    "description": "Auto-generated translation for: Logo Gradient Colors",
-    "message": "லோகோ சாய்வு வண்ணங்கள்"
-  },
   "v2_04549323": {
     "description": "Auto-generated translation for: Known",
     "message": "அறியப்பட்ட"
@@ -8056,49 +8000,9 @@
     "description": "Auto-generated translation for: Learning Progress",
     "message": "கற்றல் முன்னேற்றம்"
   },
-  "v2_730d2a7d": {
-    "description": "Auto-generated translation for: Ready to Learn?",
-    "message": "கற்கத் தயாரா?"
-  },
-  "v2_29490317": {
-    "description": "Auto-generated translation for: You have",
-    "message": "உங்களிடம் உள்ளது"
-  },
-  "v2_002e7b10": {
-    "description": "Auto-generated translation for: card",
-    "message": "\"அட்டை\""
-  },
-  "v2_05a0e763": {
-    "description": "Auto-generated translation for: cards",
-    "message": "\"சீட்டுகள்\""
-  },
-  "v2_287ce03b": {
-    "description": "Auto-generated translation for: due for review",
-    "message": "ஆய்வுக்குரியது"
-  },
-  "v2_0001a9a0": {
-    "description": "Auto-generated translation for: new",
-    "message": "புதிய"
-  },
-  "v2_3e98685f": {
-    "description": "Auto-generated translation for: to learn",
-    "message": "\"கற்றுக்கொள்ள\""
-  },
-  "v2_388f6433": {
-    "description": "Auto-generated translation for: No cards due right now. Great job staying on top of your reviews!",
-    "message": "தற்போது எந்த அட்டைகளும் நிலுவையில் இல்லை. உங்கள் மதிப்புரைகளைத் தொடர்ந்து கவனித்து வருவதற்கு மிக்க நன்றி!"
-  },
   "v2_5601c96c": {
     "description": "Auto-generated translation for: Start Review Session",
     "message": "மதிப்பாய்வு அமர்வை தொடங்கு"
-  },
-  "v2_51bced3c": {
-    "description": "Auto-generated translation for: Upcoming",
-    "message": "வரவிருக்கும்"
-  },
-  "v2_00000ddf": {
-    "description": "Auto-generated translation for: on",
-    "message": "ஆன்"
   },
   "v2_1f52759c": {
     "description": "Auto-generated translation for: Loading session...",
@@ -8171,5 +8075,361 @@
   "v2_74974efe": {
     "description": "Auto-generated translation for: Languages extracted from existing bookmarks in this list.",
     "message": "இந்த பட்டியலில் உள்ள ஏற்கனவே உள்ள புக்மார்க்குகளிலிருந்து எடுக்கப்பட்ட மொழிகள்."
+  },
+  "v2_261aab1e": {
+    "description": "Auto-generated translation for: Checking configuration...",
+    "message": "அமைப்புகளைச் சரிபார்க்கிறது..."
+  },
+  "v2_72a870f4": {
+    "description": "Auto-generated translation for: Connecting to AnkiConnect...",
+    "message": "AnkiConnect உடன் இணைக்கிறது..."
+  },
+  "v2_52f2b93d": {
+    "description": "Auto-generated translation for: Getting deck assignments...",
+    "message": "டெக் ஒதுக்கீடுகள் பெறப்படுகின்றன..."
+  },
+  "v2_15614d69": {
+    "description": "Auto-generated translation for: Fetching bookmarks...",
+    "message": "புக்மார்க்குகளை மீட்டெடுக்கிறது..."
+  },
+  "v2_459b4287": {
+    "description": "Auto-generated translation for: Grouping by deck...",
+    "message": "டெக் மூலம் குழுவாக்குகிறது..."
+  },
+  "v2_28633791": {
+    "description": "Auto-generated translation for: Processing decks...",
+    "message": "டெக்குகளைச் செயலாக்குகிறது..."
+  },
+  "v2_326caa98": {
+    "description": "Auto-generated translation for: Configure AnkiConnect before exporting",
+    "message": "ஏற்றுமதி செய்வதற்கு முன் AnkiConnect ஐ கட்டமைக்கவும்"
+  },
+  "v2_4995e1cc": {
+    "description": "Auto-generated translation for: Checking...",
+    "message": "சரிபார்க்கப்படுகிறது..."
+  },
+  "v2_10a4ee5b": {
+    "description": "Auto-generated translation for: Configure AnkiConnect",
+    "message": "அன்கி கனெக்டை கட்டமைக்கவும்"
+  },
+  "v2_277aa73e": {
+    "description": "Auto-generated translation for: Before exporting to Anki, you need to configure how your bookmarks will be sent to Anki.",
+    "message": "ஆன்கிக்கு ஏற்றுமதி செய்வதற்கு முன், உங்கள் புக்மார்க்குகள் ஆன்கிக்கு எவ்வாறு அனுப்பப்படும் என்பதை நீங்கள் கட்டமைக்க வேண்டும்."
+  },
+  "v2_7e00b43c": {
+    "description": "Auto-generated translation for: Loading configuration...",
+    "message": "அமைப்புகளை ஏற்றுகிறது..."
+  },
+  "v2_14b82325": {
+    "description": "Auto-generated translation for: Connection Settings",
+    "message": "இணைப்பு அமைப்புகள்"
+  },
+  "v2_7f496652": {
+    "description": "Auto-generated translation for: AnkiConnect URL",
+    "message": "\"அங்கி கனெக்ட் URL\""
+  },
+  "v2_04aab9c6": {
+    "description": "Auto-generated translation for: Default: http://127.0.0.1:8765",
+    "message": "இயல்புநிலை: http://127.0.0.1:8765"
+  },
+  "v2_5162d0d6": {
+    "description": "Auto-generated translation for: Checking connection...",
+    "message": "இணைப்பு சரிபார்க்கப்படுகிறது..."
+  },
+  "v2_2f649bf1": {
+    "description": "Auto-generated translation for: Connected to AnkiConnect",
+    "message": "AnkiConnect உடன் இணைக்கப்பட்டது"
+  },
+  "v2_1fc43a24": {
+    "description": "Auto-generated translation for: Not connected",
+    "message": "இணைக்கப்படவில்லை"
+  },
+  "v2_05bb26b8": {
+    "description": "Auto-generated translation for: Version {version}",
+    "message": "பதிப்பு {version}",
+    "placeholders": {
+      "version": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1f06f72c": {
+    "description": "Auto-generated translation for: Test Connection",
+    "message": "இணைப்பை சோதி"
+  },
+  "v2_5bce189e": {
+    "description": "Auto-generated translation for: Default Settings",
+    "message": "இயல்புநிலை அமைப்புகள்"
+  },
+  "v2_652162b1": {
+    "description": "Auto-generated translation for: Default Note Type (Model)",
+    "message": "இயல்புநிலைக் குறிப்பு வகை (மாதிரி)"
+  },
+  "v2_17b6275b": {
+    "description": "Auto-generated translation for: Select a note type",
+    "message": "குறிப்பு வகையைத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_20846098": {
+    "description": "Auto-generated translation for: Default Deck",
+    "message": "\"இயல்புநிலை அட்டைப்பெட்டி\""
+  },
+  "v2_3bc5108c": {
+    "description": "Auto-generated translation for: Select a deck",
+    "message": "ஒரு டெக்-ஐத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_74a3ea0b": {
+    "description": "Auto-generated translation for: Field Mappings",
+    "message": "\"புல வரைபடங்கள்\""
+  },
+  "v2_50ba9508": {
+    "description": "Auto-generated translation for: Map bookmark fields to Anki card fields",
+    "message": "அங்கி அட்டை புலங்களுக்கு வரைபடக் குறியீட்டுப் புலங்களை இணைக்கவும்"
+  },
+  "v2_34cd3924": {
+    "description": "Auto-generated translation for: You can configure advanced field mappings later from the settings.",
+    "message": "மேம்பட்ட புல வரைபடங்களை நீங்கள் பின்னர் அமைப்புகளிலிருந்து கட்டமைக்கலாம்."
+  },
+  "v2_6cb3914d": {
+    "description": "Auto-generated translation for: Select Deck",
+    "message": "டெக்-ஐத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_1db494ef": {
+    "description": "Auto-generated translation for: Choose a deck",
+    "message": "ஒரு டெக்-கைத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_3c47a038": {
+    "description": "Auto-generated translation for: Loading decks...",
+    "message": "தட்டுகளை ஏற்றுகிறது..."
+  },
+  "v2_6cc21d2d": {
+    "description": "Auto-generated translation for: Select deck",
+    "message": "அட்டை அடுப்பைத் தேர்ந்தெடு"
+  },
+  "v2_0e7ca953": {
+    "description": "Auto-generated translation for: Bookmark exported to Anki",
+    "message": "அடையாளம் அங்கிக்கு ஏற்றுமதி செய்யப்பட்டது"
+  },
+  "v2_424dcc61": {
+    "description": "Auto-generated translation for: Export to default deck",
+    "message": "இயல்புநிலை டெக்கிற்கு ஏற்றுமதி செய்"
+  },
+  "v2_4e85ecf0": {
+    "description": "Auto-generated translation for: Export to specific deck...",
+    "message": "குறிப்பிட்ட டெக்கிற்கு ஏற்றுமதி செய்..."
+  },
+  "v2_16cb02a9": {
+    "description": "Auto-generated translation for: Configure AnkiConnect...",
+    "message": "AnkiConnect-ஐ கட்டமைக்கவும்..."
+  },
+  "v2_06aa03ef": {
+    "description": "Auto-generated translation for: Validating selection...",
+    "message": "தேர்வை உறுதிப்படுத்துகிறது..."
+  },
+  "v2_52f961cf": {
+    "description": "Auto-generated translation for: Determining deck assignments...",
+    "message": "டெக் ஒதுக்கீடுகள் தீர்மானிக்கப்படுகின்றன..."
+  },
+  "v2_6e1ac7f9": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark ({{failedCount}} failed)",
+    "message": "{{successCount}} புக்மார்க்குகள் ஏற்றுமதி செய்யப்பட்டது ({{failedCount}} தோல்வியடைந்தது)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_795d1d9d": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark",
+    "message": "{{successCount}} புக்மார்க்குகள் ஏற்றுமதி செய்யப்பட்டது",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_3ba7ceba": {
+    "description": "Auto-generated translation for: Successfully exported {{successCount}} bookmark to Anki",
+    "message": "{{successCount}} புக்மார்க்குகள் Anki க்கு வெற்றிகரமாக ஏற்றுமதி செய்யப்பட்டது",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_15931629": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark to Anki ({{failedCount}} failed)",
+    "message": "அங்கியில் {{successCount}} புக்மார்க்குகள் ஏற்றுமதி செய்யப்பட்டன ({{failedCount}} தோல்வியடைந்தன)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_10f64896": {
+    "description": "Auto-generated translation for: Connecting...",
+    "message": "இணைக்கிறது..."
+  },
+  "v2_309ff21c": {
+    "description": "Auto-generated translation for: Getting assignments...",
+    "message": "ஒப்படைப்புகள் பெறப்படுகின்றன..."
+  },
+  "v2_28fcad6d": {
+    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
+    "message": "\"${currentDeck}\" செயலாக்கப்படுகிறது...",
+    "placeholders": {
+      "currentDeck": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1fe06aa7": {
+    "description": "Auto-generated translation for: Complete",
+    "message": "முழுமையான"
+  },
+  "v2_3e024a75": {
+    "description": "Auto-generated translation for: AnkiConnect Configuration",
+    "message": "அன்கி கனெக்ட் கட்டமைப்பு"
+  },
+  "v2_42057dd5": {
+    "description": "Auto-generated translation for: Failed to determine bookmark type",
+    "message": "புத்தகக்குறி வகையைத் தீர்மானிக்க முடியவில்லை"
+  },
+  "v2_48d2b824": {
+    "description": "Auto-generated translation for: Your next session will include up to",
+    "message": "உங்களது அடுத்த அமர்வில் அதிகபட்சமாக அடங்கும்"
+  },
+  "v2_16dfb392": {
+    "description": "Auto-generated translation for: due cards and",
+    "message": "நிலுவைக் அட்டைகள் மற்றும்"
+  },
+  "v2_7b80131d": {
+    "description": "Auto-generated translation for: new cards",
+    "message": "புதிய அட்டைகள்"
+  },
+  "v2_21d0ae7c": {
+    "description": "Auto-generated translation for: Click to learn how spaced repetition works",
+    "message": "இடைவெளிவிட்டு நினைவுபடுத்துதல் எவ்வாறு வேலை செய்கிறது என்பதை அறிய சொடுக்கவும்"
+  },
+  "v2_3e0961e4": {
+    "description": "Auto-generated translation for: Learn about spaced repetition",
+    "message": "இடைவெளி விட்டு நினைவூட்டுதல் பற்றி அறிக"
+  },
+  "v2_05d0e35d": {
+    "description": "Auto-generated translation for: New Cards",
+    "message": "புதிய அட்டைகள்"
+  },
+  "v2_2ceeb93b": {
+    "description": "Auto-generated translation for: How Spaced Repetition Works",
+    "message": "இடைவெளி விட்டு நினைவூட்டும் முறை எப்படி வேலை செய்கிறது"
+  },
+  "v2_7b1fb995": {
+    "description": "Auto-generated translation for: Learn how our adaptive learning system helps you remember words more effectively",
+    "message": "எங்கள் தகவமைவு கற்றல் அமைப்பு, சொற்களை திறம்பட நினைவில் கொள்ள உங்களுக்கு எவ்வாறு உதவுகிறது என்பதை அறிக"
+  },
+  "v2_62dbfa78": {
+    "description": "Auto-generated translation for: Adaptive Learning",
+    "message": "\"தகவமைவு கற்றல்\""
+  },
+  "v2_4f3cc529": {
+    "description": "Auto-generated translation for: The system tracks how difficult each word is for you. Words you consistently find hard will appear more frequently, while words you find easy will be spaced out over longer intervals. This ensures you spend time on what you need to practice most.",
+    "message": "ஒவ்வொரு சொல்லும் உங்களுக்கு எவ்வளவு கடினமாக இருக்கிறது என்பதை இந்த அமைப்பு கண்காணிக்கிறது. நீங்கள் தொடர்ந்து கடினமாக உணரும் சொற்கள் அடிக்கடி தோன்றும், அதே நேரத்தில் நீங்கள் எளிதாகக் காணும் சொற்கள் நீண்ட இடைவெளியில் தோன்றும். நீங்கள் எதைப் பயிற்சி செய்ய வேண்டுமோ, அதில் நேரத்தைச் செலவிடுவதை இது உறுதி செய்கிறது."
+  },
+  "v2_47b4eb66": {
+    "description": "Auto-generated translation for: What is Spaced Repetition?",
+    "message": "இடைவெளிவிட்டு நினைவுபடுத்தல் என்றால் என்ன?"
+  },
+  "v2_787f0cd8": {
+    "description": "Auto-generated translation for: Spaced repetition is a learning technique that increases intervals of time between reviews of previously learned material. Our system adapts to your performance, showing difficult words more frequently and easier words less often.",
+    "message": "இடைவெளி விட்டு நினைவூட்டல் என்பது கற்றல் நுட்பமாகும், இது முன்பு கற்ற பொருட்களை மறுபரிசீலனை செய்யும் நேர இடைவெளிகளை அதிகரிக்கிறது. எங்கள் அமைப்பு உங்கள் செயல்திறனுக்கு ஏற்ப மாறுகிறது, கடினமான சொற்களை அடிக்கடி காட்டுகிறது மற்றும் எளிதான சொற்களை குறைவாக அடிக்கடி காட்டுகிறது."
+  },
+  "v2_057fcbd5": {
+    "description": "Auto-generated translation for: Next review:",
+    "message": "அடுத்த ஆய்வு:"
+  },
+  "v2_77536835": {
+    "description": "Auto-generated translation for: Review Actions",
+    "message": "மதிப்பாய்வு நடவடிக்கைகள்"
+  },
+  "v2_245e9c2b": {
+    "description": "Auto-generated translation for: After seeing a word, choose how well you remembered it. The system uses your feedback to schedule the next review:",
+    "message": "ஒரு வார்த்தையைப் பார்த்த பிறகு, அதை எவ்வளவு நன்றாக நினைவில் வைத்திருக்கிறீர்கள் என்பதைத் தேர்ந்தெடுக்கவும். அடுத்த மதிப்பாய்வை திட்டமிட உங்கள் கருத்தை அமைப்பு பயன்படுத்துகிறது:"
+  },
+  "v2_03175b79": {
+    "description": "Auto-generated translation for: Tips for Best Results",
+    "message": "சிறந்த விளைவுகளுக்கான உதவிக்குறிப்புகள்"
+  },
+  "v2_58ea069d": {
+    "description": "Auto-generated translation for: Be honest about how well you remembered each word - this helps the system learn your actual knowledge level",
+    "message": "ஒவ்வொரு வார்த்தையையும் நீங்கள் எவ்வளவு நன்றாக நினைவில் வைத்திருக்கிறீர்கள் என்பதைப் பற்றி நேர்மையாக இருங்கள் - இது உங்கள் உண்மையான அறிவு அளவை அறிய அமைப்புக்கு உதவுகிறது"
+  },
+  "v2_0a0eaf68": {
+    "description": "Auto-generated translation for: Review regularly - consistency is key to building long-term memory",
+    "message": "தவறாமல் மதிப்பாய்வு செய்யுங்கள் - நீண்ட கால நினைவகத்தை உருவாக்குவதற்கு நிலைத்தன்மை முக்கியமானது."
+  },
+  "v2_1a5d65cb": {
+    "description": "Auto-generated translation for: Use keyboard shortcuts (1, 2, 3, 4) for faster reviews",
+    "message": "விரைவான மதிப்பாய்வுகளுக்கு விசைப்பலகை குறுக்குவழிகளைப் (1, 2, 3, 4) பயன்படுத்தவும்"
+  },
+  "v2_27187029": {
+    "description": "Auto-generated translation for: Session Structure",
+    "message": "அமர்வு கட்டமைப்பு"
+  },
+  "v2_6f62121c": {
+    "description": "Auto-generated translation for: Each review session includes:",
+    "message": "ஒவ்வொரு திறனாய்வு அமர்வும் பின்வருவனவற்றை உள்ளடக்கியது:"
+  },
+  "v2_53937f0b": {
+    "description": "Auto-generated translation for: Up to 20 due cards",
+    "message": "20 வரை நிலுவைத் அட்டைகள்"
+  },
+  "v2_08b06b90": {
+    "description": "Auto-generated translation for: Words that are scheduled for review based on your previous performance",
+    "message": "உங்களின் முந்தைய செயல்திறனின் அடிப்படையில் மறுஆய்வு செய்ய திட்டமிடப்பட்டுள்ள வார்த்தைகள்"
+  },
+  "v2_4e2ffc98": {
+    "description": "Auto-generated translation for: Up to 5 new cards",
+    "message": "5 புதிய அட்டைகள் வரை"
+  },
+  "v2_74cf58f6": {
+    "description": "Auto-generated translation for: Words you've bookmarked but haven't started learning yet",
+    "message": "நீங்கள் புக்மார்க் செய்த ஆனால் இன்னும் கற்றுக்கொள்ளத் தொடங்காத சொற்கள்"
+  },
+  "v2_7778dcbd": {
+    "description": "Auto-generated translation for: You couldn't recall this word. It will be shown again in 1 minute for immediate re-review.",
+    "message": "உங்களுக்கு இந்த வார்த்தை நினைவுக்கு வரவில்லை. உடனடி மறுபரிசீலனைக்காக இது 1 நிமிடத்தில் மீண்டும் காண்பிக்கப்படும்."
+  },
+  "v2_3edca4e3": {
+    "description": "Auto-generated translation for: 1 minute",
+    "message": "1 நிமிடம்"
+  },
+  "v2_16fe376e": {
+    "description": "Auto-generated translation for: You found this word difficult to recall. It will be shown again in 1 day to help strengthen your memory.",
+    "message": "இந்த வார்த்தையை நினைவில் கொள்ள உங்களுக்கு கடினமாக இருந்தது. உங்கள் நினைவை வலுப்படுத்த இது 1 நாளில் மீண்டும் காட்டப்படும்."
+  },
+  "v2_02c28f2d": {
+    "description": "Auto-generated translation for: 1 day",
+    "message": "1 நாள்"
+  },
+  "v2_01ed74bb": {
+    "description": "Auto-generated translation for: You recalled this word correctly. The system will schedule it for review at an optimal interval based on your performance.",
+    "message": "இந்த வார்த்தையை நீங்கள் சரியாக நினைவு கூர்ந்தீர்கள். உங்கள் செயல்திறனின் அடிப்படையில் உகந்த இடைவெளியில் மதிப்பாய்வு செய்ய இந்த அமைப்பு திட்டமிடும்."
+  },
+  "v2_283cb61e": {
+    "description": "Auto-generated translation for: Variable (1 day → 6 days → increasing)",
+    "message": "மாறும் (1 நாள் → 6 நாட்கள் → அதிகரிக்கிறது)"
+  },
+  "v2_042680d7": {
+    "description": "Auto-generated translation for: You found this word very easy to recall. It will be scheduled for a longer interval, as you've clearly mastered it.",
+    "message": "இந்த வார்த்தையை நினைவில் வைத்துக் கொள்வது உங்களுக்கு மிகவும் எளிதாக இருந்தது. நீங்கள் இதைத் தெளிவாகக் கற்றுக் கொண்டதால், இது நீண்ட இடைவெளிக்குத் திட்டமிடப்படும்."
+  },
+  "v2_01993ece": {
+    "description": "Auto-generated translation for: Variable (longer intervals)",
+    "message": "மாறி (நீண்ட இடைவெளிகள்)"
   }
 }

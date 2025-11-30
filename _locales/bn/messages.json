@@ -2233,10 +2233,6 @@
     "description": "Auto-generated translation for: Updated",
     "message": "আপডেট করা হয়েছে"
   },
-  "v2_31b83218": {
-    "description": "Auto-generated translation for: Failed to download Anki deck",
-    "message": "এনকি ডেক ডাউনলোড করতে ব্যর্থ হয়েছে"
-  },
   "v2_3601b135": {
     "description": "Auto-generated translation for: Register as an Affiliate",
     "message": "অ্যাফিলিয়েট হিসেবে রেজিস্টার করুন"
@@ -2276,14 +2272,6 @@
   "v2_1d0c220d": {
     "description": "Auto-generated translation for: Account",
     "message": "অ্যাকাউন্ট"
-  },
-  "v2_1d03fd73": {
-    "description": "Auto-generated translation for: Anki deck file not found",
-    "message": "আঙ্কি ডেক ফাইল পাওয়া যায়নি"
-  },
-  "v2_12bca79f": {
-    "description": "Auto-generated translation for: Network error while downloading Anki deck",
-    "message": "আঙ্কি ডেক ডাউনলোড করার সময় নেটওয়ার্ক ত্রুটি"
   },
   "v2_69c1a21b": {
     "description": "Auto-generated translation for: First name",
@@ -2352,10 +2340,6 @@
   "v2_5c6409a5": {
     "description": "Auto-generated translation for: Processing...",
     "message": "প্রক্রিয়া চলছে..."
-  },
-  "v2_383e0637": {
-    "description": "Auto-generated translation for: Failed to start Anki export",
-    "message": "Anki এক্সপোর্ট শুরু করতে ব্যর্থ হয়েছে"
   },
   "v2_1fd3dd62": {
     "description": "Auto-generated translation for: This SaaS was created entirely by one person, with the help of a few volunteers, with no outside investment—just a lot of hard work and love. If you find it useful, you're welcome to support it with any amount. Every contribution makes a big difference!",
@@ -4058,14 +4042,6 @@
     "description": "Auto-generated translation for: Streaming explanation",
     "message": "স্ট্রিমিং ব্যাখ্যা"
   },
-  "v2_73f9ef42": {
-    "description": "Auto-generated translation for: Anki export finished successfully",
-    "message": "আঙ্কি এক্সপোর্ট সফলভাবে শেষ হয়েছে"
-  },
-  "v2_1e746934": {
-    "description": "Auto-generated translation for: Anki export failed",
-    "message": "আঙ্কি এক্সপোর্ট ব্যর্থ হয়েছে"
-  },
   "v2_013bb45c": {
     "description": "Auto-generated translation for: Create Learning List",
     "message": "শিক্ষার তালিকা তৈরি করুন"
@@ -5748,14 +5724,6 @@
     "description": "Auto-generated translation for: No content available for this page",
     "message": "এই পৃষ্ঠার জন্য কোনো বিষয়বস্তু উপলব্ধ নেই"
   },
-  "v2_619cb302": {
-    "description": "Auto-generated translation for: Preparing export...",
-    "message": "রপ্তানির প্রস্তুতি চলছে..."
-  },
-  "v2_5e7f99a9": {
-    "description": "Auto-generated translation for: Creating Anki deck...",
-    "message": "আঙ্কি ডেক তৈরি হচ্ছে..."
-  },
   "v2_414e60bc": {
     "description": "Auto-generated translation for: Export complete!",
     "message": "রপ্তানি সম্পূর্ণ হয়েছে!"
@@ -6216,10 +6184,6 @@
   "v2_78da76c6": {
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "অনুবাদ পপআপ সেটিংস"
-  },
-  "v2_4d3695ba": {
-    "description": "Auto-generated translation for: Bookmark ID not found",
-    "message": "বুকমার্ক আইডি পাওয়া যায়নি"
   },
   "v2_3de8ee50": {
     "description": "Auto-generated translation for: Failed to remove bookmark",
@@ -7362,26 +7326,6 @@
     "description": "Auto-generated translation for: Use",
     "message": "ব্যবহার"
   },
-  "v2_1a353919": {
-    "description": "Auto-generated translation for: Available Colors",
-    "message": "উপলব্ধ রং"
-  },
-  "v2_529b3712": {
-    "description": "Auto-generated translation for: Colors used for column mapping",
-    "message": "কলাম ম্যাপিংয়ের জন্য ব্যবহৃত রং"
-  },
-  "v2_370b4cf6": {
-    "description": "Auto-generated translation for: Tag Colors",
-    "message": "ট্যাগ রং"
-  },
-  "v2_47f61e42": {
-    "description": "Auto-generated translation for: Tag Border Colors",
-    "message": "ট্যাগ বর্ডার রং"
-  },
-  "v2_64cb5c0b": {
-    "description": "Auto-generated translation for: Logo Gradient Colors",
-    "message": "লোগো গ্রেডিয়েন্ট রং"
-  },
   "v2_04549323": {
     "description": "Auto-generated translation for: Known",
     "message": "পরিচিত"
@@ -8203,49 +8147,9 @@
     "description": "Auto-generated translation for: Learning Progress",
     "message": "শিক্ষণ অগ্রগতি"
   },
-  "v2_730d2a7d": {
-    "description": "Auto-generated translation for: Ready to Learn?",
-    "message": "শিখতে প্রস্তুত?"
-  },
-  "v2_29490317": {
-    "description": "Auto-generated translation for: You have",
-    "message": "আপনার আছে"
-  },
-  "v2_002e7b10": {
-    "description": "Auto-generated translation for: card",
-    "message": "\"কার্ড\""
-  },
-  "v2_05a0e763": {
-    "description": "Auto-generated translation for: cards",
-    "message": "\"কার্ড\""
-  },
-  "v2_287ce03b": {
-    "description": "Auto-generated translation for: due for review",
-    "message": "পর্যালোচনার জন্য নির্ধারিত"
-  },
-  "v2_0001a9a0": {
-    "description": "Auto-generated translation for: new",
-    "message": "নতুন"
-  },
-  "v2_3e98685f": {
-    "description": "Auto-generated translation for: to learn",
-    "message": "শিখতে"
-  },
-  "v2_388f6433": {
-    "description": "Auto-generated translation for: No cards due right now. Great job staying on top of your reviews!",
-    "message": "এই মুহূর্তে কোনো কার্ড নেই। আপনার রিভিউগুলোর উপরে নজর রাখার জন্য খুব ভালো কাজ করছেন!"
-  },
   "v2_5601c96c": {
     "description": "Auto-generated translation for: Start Review Session",
     "message": "রিভিউ সেশন শুরু করুন"
-  },
-  "v2_51bced3c": {
-    "description": "Auto-generated translation for: Upcoming",
-    "message": "আসন্ন"
-  },
-  "v2_00000ddf": {
-    "description": "Auto-generated translation for: on",
-    "message": "চালু"
   },
   "v2_1f52759c": {
     "description": "Auto-generated translation for: Loading session...",
@@ -8318,5 +8222,352 @@
   "v2_74974efe": {
     "description": "Auto-generated translation for: Languages extracted from existing bookmarks in this list.",
     "message": "এই তালিকায় থাকা বিদ্যমান বুকমার্ক থেকে আহরিত ভাষা।"
+  },
+  "v2_261aab1e": {
+    "description": "Auto-generated translation for: Checking configuration...",
+    "message": "কনফিগারেশন পরীক্ষা করা হচ্ছে..."
+  },
+  "v2_72a870f4": {
+    "description": "Auto-generated translation for: Connecting to AnkiConnect...",
+    "message": "AnkiConnect-এর সাথে সংযোগ করা হচ্ছে..."
+  },
+  "v2_52f2b93d": {
+    "description": "Auto-generated translation for: Getting deck assignments...",
+    "message": "ডেক অ্যাসাইনমেন্টগুলি নেওয়া হচ্ছে..."
+  },
+  "v2_15614d69": {
+    "description": "Auto-generated translation for: Fetching bookmarks...",
+    "message": "বুকমার্ক আনা হচ্ছে..."
+  },
+  "v2_459b4287": {
+    "description": "Auto-generated translation for: Grouping by deck...",
+    "message": "ডেক অনুসারে গ্রুপিং করা হচ্ছে..."
+  },
+  "v2_28633791": {
+    "description": "Auto-generated translation for: Processing decks...",
+    "message": "ডেক প্রক্রিয়াকরণ করা হচ্ছে..."
+  },
+  "v2_326caa98": {
+    "description": "Auto-generated translation for: Configure AnkiConnect before exporting",
+    "message": "এক্সপোর্ট করার আগে AnkiConnect কনফিগার করুন"
+  },
+  "v2_4995e1cc": {
+    "description": "Auto-generated translation for: Checking...",
+    "message": "পরীক্ষা করা হচ্ছে..."
+  },
+  "v2_10a4ee5b": {
+    "description": "Auto-generated translation for: Configure AnkiConnect",
+    "message": "অঙ্কি কানেক্ট কনফিগার করুন"
+  },
+  "v2_277aa73e": {
+    "description": "Auto-generated translation for: Before exporting to Anki, you need to configure how your bookmarks will be sent to Anki.",
+    "message": "Anki তে এক্সপোর্ট করার আগে, আপনাকে কনফিগার করতে হবে কিভাবে আপনার বুকমার্কগুলি Anki তে পাঠানো হবে।"
+  },
+  "v2_7e00b43c": {
+    "description": "Auto-generated translation for: Loading configuration...",
+    "message": "কনফিগারেশন লোড হচ্ছে..."
+  },
+  "v2_14b82325": {
+    "description": "Auto-generated translation for: Connection Settings",
+    "message": "সংযোগ সেটিংস"
+  },
+  "v2_7f496652": {
+    "description": "Auto-generated translation for: AnkiConnect URL",
+    "message": "\"AnkiConnect URL\""
+  },
+  "v2_04aab9c6": {
+    "description": "Auto-generated translation for: Default: http://127.0.0.1:8765",
+    "message": "ডিফল্ট: http://127.0.0.1:8765"
+  },
+  "v2_5162d0d6": {
+    "description": "Auto-generated translation for: Checking connection...",
+    "message": "সংযোগ পরীক্ষা করা হচ্ছে..."
+  },
+  "v2_2f649bf1": {
+    "description": "Auto-generated translation for: Connected to AnkiConnect",
+    "message": "অঙ্কি-কানেক্ট-এর সাথে সংযুক্ত"
+  },
+  "v2_1fc43a24": {
+    "description": "Auto-generated translation for: Not connected",
+    "message": "সংযুক্ত নয়"
+  },
+  "v2_05bb26b8": {
+    "description": "Auto-generated translation for: Version {version}",
+    "message": "সংস্করণ {version}",
+    "placeholders": {
+      "version": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_1f06f72c": {
+    "description": "Auto-generated translation for: Test Connection",
+    "message": "সংযোগ পরীক্ষা করুন"
+  },
+  "v2_5bce189e": {
+    "description": "Auto-generated translation for: Default Settings",
+    "message": "ডিফল্ট সেটিংস"
+  },
+  "v2_652162b1": {
+    "description": "Auto-generated translation for: Default Note Type (Model)",
+    "message": "ডিফল্ট নোটের প্রকার (মডেল)"
+  },
+  "v2_17b6275b": {
+    "description": "Auto-generated translation for: Select a note type",
+    "message": "একটি নোটের ধরণ নির্বাচন করুন"
+  },
+  "v2_20846098": {
+    "description": "Auto-generated translation for: Default Deck",
+    "message": "ডিফল্ট ডেক"
+  },
+  "v2_3bc5108c": {
+    "description": "Auto-generated translation for: Select a deck",
+    "message": "একটি ডেক নির্বাচন করুন"
+  },
+  "v2_74a3ea0b": {
+    "description": "Auto-generated translation for: Field Mappings",
+    "message": "\"ফিল্ড ম্যাপিংস\""
+  },
+  "v2_50ba9508": {
+    "description": "Auto-generated translation for: Map bookmark fields to Anki card fields",
+    "message": "আংকি কার্ড ফিল্ডে ম্যাপ বুকমার্ক ফিল্ডগুলি"
+  },
+  "v2_34cd3924": {
+    "description": "Auto-generated translation for: You can configure advanced field mappings later from the settings.",
+    "message": "আপনি সেটিংস থেকে পরে উন্নত ফিল্ড ম্যাপিং কনফিগার করতে পারেন।"
+  },
+  "v2_6cb3914d": {
+    "description": "Auto-generated translation for: Select Deck",
+    "message": "ডেক নির্বাচন করুন"
+  },
+  "v2_1db494ef": {
+    "description": "Auto-generated translation for: Choose a deck",
+    "message": "একটি ডেক নির্বাচন করুন"
+  },
+  "v2_3c47a038": {
+    "description": "Auto-generated translation for: Loading decks...",
+    "message": "ডেক লোড হচ্ছে..."
+  },
+  "v2_6cc21d2d": {
+    "description": "Auto-generated translation for: Select deck",
+    "message": "ডেক নির্বাচন করুন"
+  },
+  "v2_0e7ca953": {
+    "description": "Auto-generated translation for: Bookmark exported to Anki",
+    "message": "আঙ্কি তে বুকমার্ক রপ্তানি করা হয়েছে"
+  },
+  "v2_424dcc61": {
+    "description": "Auto-generated translation for: Export to default deck",
+    "message": "ডিফল্ট ডেকে রপ্তানি করুন"
+  },
+  "v2_4e85ecf0": {
+    "description": "Auto-generated translation for: Export to specific deck...",
+    "message": "নির্দিষ্ট ডেকে রপ্তানি করুন..."
+  },
+  "v2_16cb02a9": {
+    "description": "Auto-generated translation for: Configure AnkiConnect...",
+    "message": "AnkiConnect কনফিগার করুন..."
+  },
+  "v2_06aa03ef": {
+    "description": "Auto-generated translation for: Validating selection...",
+    "message": "নির্বাচন যাচাই করা হচ্ছে..."
+  },
+  "v2_52f961cf": {
+    "description": "Auto-generated translation for: Determining deck assignments...",
+    "message": "ডেক অ্যাসাইনমেন্ট নির্ধারণ করা হচ্ছে..."
+  },
+  "v2_6e1ac7f9": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark ({{failedCount}} failed)",
+    "message": "{{successCount}}টি বুকমার্ক রপ্তানি করা হয়েছে ({{failedCount}}টি ব্যর্থ হয়েছে)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_795d1d9d": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark",
+    "message": "এক্সপোর্ট করা হয়েছে {{successCount}} বুকমার্ক",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_3ba7ceba": {
+    "description": "Auto-generated translation for: Successfully exported {{successCount}} bookmark to Anki",
+    "message": "সফলভাবে {{successCount}} টি বুকমার্ক এঙ্কি-তে এক্সপোর্ট করা হয়েছে",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_15931629": {
+    "description": "Auto-generated translation for: Exported {{successCount}} bookmark to Anki ({{failedCount}} failed)",
+    "message": "এঙ্কি তে {{successCount}} টি বুকমার্ক এক্সপোর্ট করা হয়েছে ({{failedCount}} টি ব্যর্থ হয়েছে)",
+    "placeholders": {
+      "successCount": {
+        "content": "$1"
+      },
+      "failedCount": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_10f64896": {
+    "description": "Auto-generated translation for: Connecting...",
+    "message": "সংযোগ করা হচ্ছে..."
+  },
+  "v2_309ff21c": {
+    "description": "Auto-generated translation for: Getting assignments...",
+    "message": "অ্যাসাইনমেন্টগুলো পাওয়া যাচ্ছে..."
+  },
+  "v2_1fe06aa7": {
+    "description": "Auto-generated translation for: Complete",
+    "message": "সম্পূর্ণ"
+  },
+  "v2_3e024a75": {
+    "description": "Auto-generated translation for: AnkiConnect Configuration",
+    "message": "অঙ্কি কানেক্ট কনফিগারেশন"
+  },
+  "v2_42057dd5": {
+    "description": "Auto-generated translation for: Failed to determine bookmark type",
+    "message": "বুকমার্কের ধরণ নির্ধারণ করা যায়নি"
+  },
+  "v2_48d2b824": {
+    "description": "Auto-generated translation for: Your next session will include up to",
+    "message": "আপনার পরবর্তী সেশনে অন্তর্ভুক্ত থাকবে সর্বোচ্চ"
+  },
+  "v2_16dfb392": {
+    "description": "Auto-generated translation for: due cards and",
+    "message": "বকেয়া কার্ড এবং"
+  },
+  "v2_7b80131d": {
+    "description": "Auto-generated translation for: new cards",
+    "message": "নতুন কার্ড"
+  },
+  "v2_21d0ae7c": {
+    "description": "Auto-generated translation for: Click to learn how spaced repetition works",
+    "message": "স্পেসড রিপিটেশন কিভাবে কাজ করে তা জানতে ক্লিক করুন"
+  },
+  "v2_3e0961e4": {
+    "description": "Auto-generated translation for: Learn about spaced repetition",
+    "message": "ফাঁকা ফাঁকা বিরতিতে শেখা সম্পর্কে জানুন"
+  },
+  "v2_05d0e35d": {
+    "description": "Auto-generated translation for: New Cards",
+    "message": "নতুন কার্ড"
+  },
+  "v2_2ceeb93b": {
+    "description": "Auto-generated translation for: How Spaced Repetition Works",
+    "message": "স্পেসড রিপিটেশন কিভাবে কাজ করে"
+  },
+  "v2_7b1fb995": {
+    "description": "Auto-generated translation for: Learn how our adaptive learning system helps you remember words more effectively",
+    "message": "আমাদের অভিযোজিত শিক্ষা ব্যবস্থা আপনাকে আরও কার্যকরভাবে শব্দ মনে রাখতে কিভাবে সাহায্য করে তা জানুন"
+  },
+  "v2_62dbfa78": {
+    "description": "Auto-generated translation for: Adaptive Learning",
+    "message": "অভিযোজনমূলক শিক্ষা"
+  },
+  "v2_4f3cc529": {
+    "description": "Auto-generated translation for: The system tracks how difficult each word is for you. Words you consistently find hard will appear more frequently, while words you find easy will be spaced out over longer intervals. This ensures you spend time on what you need to practice most.",
+    "message": "সিস্টেমটি ট্র্যাক করে যে প্রতিটি শব্দ আপনার জন্য কতটা কঠিন। আপনি ক্রমাগত যে শব্দগুলোকে কঠিন মনে করেন সেগুলো আরও ঘন ঘন প্রদর্শিত হবে, যেখানে আপনি যে শব্দগুলোকে সহজ মনে করেন সেগুলো দীর্ঘ বিরতিতে প্রদর্শিত হবে। এটি নিশ্চিত করে যে আপনার অনুশীলনের জন্য সবচেয়ে বেশি যা প্রয়োজন তার উপর আপনি সময় ব্যয় করছেন।"
+  },
+  "v2_47b4eb66": {
+    "description": "Auto-generated translation for: What is Spaced Repetition?",
+    "message": "স্পেসড রিপিটিশন কি?"
+  },
+  "v2_787f0cd8": {
+    "description": "Auto-generated translation for: Spaced repetition is a learning technique that increases intervals of time between reviews of previously learned material. Our system adapts to your performance, showing difficult words more frequently and easier words less often.",
+    "message": "ফাঁকা ফাঁকা পুনরাবৃত্তি একটি শেখার কৌশল যা পূর্বে শেখা উপাদান পর্যালোচনার মধ্যে সময়ের ব্যবধান বাড়িয়ে দেয়। আমাদের সিস্টেম আপনার পারফরম্যান্সের সাথে খাপ খাইয়ে নেয়, কঠিন শব্দগুলো বেশি দেখায় এবং সহজ শব্দগুলো কম দেখায়।"
+  },
+  "v2_057fcbd5": {
+    "description": "Auto-generated translation for: Next review:",
+    "message": "পরবর্তী রিভিউ:"
+  },
+  "v2_77536835": {
+    "description": "Auto-generated translation for: Review Actions",
+    "message": "পর্যালোচনা কার্যক্রম"
+  },
+  "v2_245e9c2b": {
+    "description": "Auto-generated translation for: After seeing a word, choose how well you remembered it. The system uses your feedback to schedule the next review:",
+    "message": "একটি শব্দ দেখার পর, আপনি এটি কতটা ভালোভাবে মনে রেখেছেন তা নির্বাচন করুন। পরবর্তী পর্যালোচনার সময়সূচী নির্ধারণ করতে সিস্টেম আপনার প্রতিক্রিয়া ব্যবহার করে:"
+  },
+  "v2_03175b79": {
+    "description": "Auto-generated translation for: Tips for Best Results",
+    "message": "সেরা ফলাফলের জন্য টিপস"
+  },
+  "v2_58ea069d": {
+    "description": "Auto-generated translation for: Be honest about how well you remembered each word - this helps the system learn your actual knowledge level",
+    "message": "আপনি প্রতিটি শব্দ কতটা ভালোভাবে মনে রেখেছেন সে সম্পর্কে সৎ থাকুন - এটি আপনার প্রকৃত জ্ঞানের স্তর জানতে সিস্টেমকে সাহায্য করে।"
+  },
+  "v2_0a0eaf68": {
+    "description": "Auto-generated translation for: Review regularly - consistency is key to building long-term memory",
+    "message": "নিয়মিত পর্যালোচনা করুন - দীর্ঘমেয়াদী স্মৃতি তৈরির জন্য ধারাবাহিকতা মূল চাবিকাঠি"
+  },
+  "v2_1a5d65cb": {
+    "description": "Auto-generated translation for: Use keyboard shortcuts (1, 2, 3, 4) for faster reviews",
+    "message": "দ্রুত পর্যালোচনার জন্য কীবোর্ড শর্টকাট (1, 2, 3, 4) ব্যবহার করুন"
+  },
+  "v2_27187029": {
+    "description": "Auto-generated translation for: Session Structure",
+    "message": "সেশন কাঠামো"
+  },
+  "v2_6f62121c": {
+    "description": "Auto-generated translation for: Each review session includes:",
+    "message": "প্রতিটি রিভিউ সেশনে যা অন্তর্ভুক্ত থাকে:"
+  },
+  "v2_53937f0b": {
+    "description": "Auto-generated translation for: Up to 20 due cards",
+    "message": "২০টি পর্যন্ত দেয় কার্ড"
+  },
+  "v2_08b06b90": {
+    "description": "Auto-generated translation for: Words that are scheduled for review based on your previous performance",
+    "message": "আপনার পূর্ববর্তী পারফরম্যান্সের উপর ভিত্তি করে পর্যালোচনার জন্য নির্ধারিত শব্দ।"
+  },
+  "v2_4e2ffc98": {
+    "description": "Auto-generated translation for: Up to 5 new cards",
+    "message": "সর্বোচ্চ ৫টি নতুন কার্ড"
+  },
+  "v2_74cf58f6": {
+    "description": "Auto-generated translation for: Words you've bookmarked but haven't started learning yet",
+    "message": "যে শব্দগুলো আপনি বুকমার্ক করেছেন কিন্তু এখনও শেখা শুরু করেননি"
+  },
+  "v2_7778dcbd": {
+    "description": "Auto-generated translation for: You couldn't recall this word. It will be shown again in 1 minute for immediate re-review.",
+    "message": "আপনি এই শব্দটি মনে করতে পারেননি। এটি অবিলম্বে পুনরায় পর্যালোচনার জন্য 1 মিনিটের মধ্যে আবার দেখানো হবে।"
+  },
+  "v2_3edca4e3": {
+    "description": "Auto-generated translation for: 1 minute",
+    "message": "১ মিনিট"
+  },
+  "v2_16fe376e": {
+    "description": "Auto-generated translation for: You found this word difficult to recall. It will be shown again in 1 day to help strengthen your memory.",
+    "message": "এই শব্দটি মনে করতে আপনার অসুবিধা হয়েছে। আপনার স্মৃতিশক্তি জোরদার করতে এটি ১ দিন পর আবার দেখানো হবে।"
+  },
+  "v2_02c28f2d": {
+    "description": "Auto-generated translation for: 1 day",
+    "message": "১ দিন"
+  },
+  "v2_01ed74bb": {
+    "description": "Auto-generated translation for: You recalled this word correctly. The system will schedule it for review at an optimal interval based on your performance.",
+    "message": "আপনি এই শব্দটি সঠিকভাবে স্মরণ করেছেন। আপনার পারফরম্যান্সের উপর ভিত্তি করে সিস্টেমটি একটি অনুকূল ব্যবধানে পর্যালোচনার জন্য এটি নির্ধারণ করবে।"
+  },
+  "v2_283cb61e": {
+    "description": "Auto-generated translation for: Variable (1 day → 6 days → increasing)",
+    "message": "পরিবর্তনশীল (1 দিন → 6 দিন → বাড়ছে)"
+  },
+  "v2_042680d7": {
+    "description": "Auto-generated translation for: You found this word very easy to recall. It will be scheduled for a longer interval, as you've clearly mastered it.",
+    "message": "আপনার এই শব্দটি মনে করতে খুব সহজ লেগেছে। যেহেতু আপনি এটি স্পষ্টভাবে আয়ত্ত করেছেন, তাই এটি একটি দীর্ঘ বিরতির জন্য নির্ধারিত হবে।"
+  },
+  "v2_01993ece": {
+    "description": "Auto-generated translation for: Variable (longer intervals)",
+    "message": "পরিবর্তনশীল (দীর্ঘ বিরতি)"
   }
 }
