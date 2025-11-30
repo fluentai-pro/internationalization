@@ -8279,15 +8279,6 @@
     "description": "Auto-generated translation for: Getting assignments...",
     "message": "Đang nhận bài tập..."
   },
-  "v2_28fcad6d": {
-    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
-    "message": "Đang xử lý \"${currentDeck}\"...",
-    "placeholders": {
-      "currentDeck": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1fe06aa7": {
     "description": "Auto-generated translation for: Complete",
     "message": "Hoàn thành"
@@ -8431,5 +8422,14 @@
   "v2_01993ece": {
     "description": "Auto-generated translation for: Variable (longer intervals)",
     "message": "Biến đổi (khoảng thời gian dài hơn)"
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "Đang xử lý \"{{deckName}}\"...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
+      }
+    }
   }
 }

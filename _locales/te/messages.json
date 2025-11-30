@@ -8426,15 +8426,6 @@
     "description": "Auto-generated translation for: Getting assignments...",
     "message": "అసైన్‌మెంట్‌లను పొందుతోంది..."
   },
-  "v2_28fcad6d": {
-    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
-    "message": "\"${currentDeck}\" ప్రాసెసింగ్ చేయబడుతోంది...",
-    "placeholders": {
-      "currentDeck": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1fe06aa7": {
     "description": "Auto-generated translation for: Complete",
     "message": "పూర్తి"
@@ -8578,5 +8569,14 @@
   "v2_01993ece": {
     "description": "Auto-generated translation for: Variable (longer intervals)",
     "message": "చరరాశి (ఎక్కువ వ్యవధి)"
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "\"{deckName}\"ను ప్రాసెస్ చేస్తోంది...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
+      }
+    }
   }
 }

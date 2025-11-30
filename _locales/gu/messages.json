@@ -8279,15 +8279,6 @@
     "description": "Auto-generated translation for: Getting assignments...",
     "message": "અસાઇનમેન્ટ મેળવી રહ્યા છીએ..."
   },
-  "v2_28fcad6d": {
-    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
-    "message": "\"${currentDeck}\" પર પ્રક્રિયા કરી રહ્યા છીએ...",
-    "placeholders": {
-      "currentDeck": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1fe06aa7": {
     "description": "Auto-generated translation for: Complete",
     "message": "પૂર્ણ"
@@ -8431,5 +8422,14 @@
   "v2_01993ece": {
     "description": "Auto-generated translation for: Variable (longer intervals)",
     "message": "ચલ (લાંબા અંતરાલો)"
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "\"{{deckName}}\" પર પ્રક્રિયા થઈ રહી છે...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
+      }
+    }
   }
 }

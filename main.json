@@ -8089,15 +8089,6 @@
     "description": "Auto-generated translation for: Getting assignments...",
     "message": "Getting assignments..."
   },
-  "v2_28fcad6d": {
-    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
-    "message": "Processing \"${currentDeck}\"...",
-    "placeholders": {
-      "currentDeck": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1fe06aa7": {
     "description": "Auto-generated translation for: Complete",
     "message": "Complete"
@@ -8281,6 +8272,15 @@
       },
       "failedCount": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "Processing \"{{deckName}}\"...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
       }
     }
   }

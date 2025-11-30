@@ -8574,5 +8574,14 @@
   "v2_01993ece": {
     "description": "Auto-generated translation for: Variable (longer intervals)",
     "message": "चर (लंबे अंतराल)"
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "\"{{deckName}}\" संसाधित किया जा रहा है...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
+      }
+    }
   }
 }

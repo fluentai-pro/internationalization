@@ -8423,11 +8423,11 @@
       }
     }
   },
-  "v2_28fcad6d": {
-    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
-    "message": "\"${currentDeck}\" ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತಿದೆ...",
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "\"{{deckName}}\" ಅನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತಿದೆ...",
     "placeholders": {
-      "currentDeck": {
+      "deckName": {
         "content": "$1"
       }
     }

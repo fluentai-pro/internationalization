@@ -8237,15 +8237,6 @@
     "description": "Auto-generated translation for: Getting assignments...",
     "message": "Preuzimanje zadataka..."
   },
-  "v2_28fcad6d": {
-    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
-    "message": "Обрађујем \"${currentDeck}\"...",
-    "placeholders": {
-      "currentDeck": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1fe06aa7": {
     "description": "Auto-generated translation for: Complete",
     "message": "Kompletno"
@@ -8429,6 +8420,15 @@
       },
       "failedCount": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "Обрађујем \"{{deckName}}\"...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
       }
     }
   }

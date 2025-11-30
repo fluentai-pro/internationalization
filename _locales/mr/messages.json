@@ -8384,15 +8384,6 @@
     "description": "Auto-generated translation for: Getting assignments...",
     "message": "असाइनमेंट प्राप्त होत आहेत..."
   },
-  "v2_28fcad6d": {
-    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
-    "message": "\"${currentDeck}\" प्रक्रिया करत आहे...",
-    "placeholders": {
-      "currentDeck": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1fe06aa7": {
     "description": "Auto-generated translation for: Complete",
     "message": "पूर्ण"
@@ -8576,6 +8567,15 @@
       },
       "failedCount": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "\"{{deckName}}\" वर प्रक्रिया करत आहे...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
       }
     }
   }

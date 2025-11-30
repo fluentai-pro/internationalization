@@ -8279,15 +8279,6 @@
     "description": "Auto-generated translation for: Getting assignments...",
     "message": "מקבל משימות..."
   },
-  "v2_28fcad6d": {
-    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
-    "message": "מעבד \"${currentDeck}\"...",
-    "placeholders": {
-      "currentDeck": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1fe06aa7": {
     "description": "Auto-generated translation for: Complete",
     "message": "שלם"
@@ -8431,5 +8422,14 @@
   "v2_01993ece": {
     "description": "Auto-generated translation for: Variable (longer intervals)",
     "message": "משתנה (מרווחים ארוכים יותר)"
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "מעבד \"{{deckName}}\"...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
+      }
+    }
   }
 }

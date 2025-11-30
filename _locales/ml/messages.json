@@ -8237,15 +8237,6 @@
     "description": "Auto-generated translation for: Getting assignments...",
     "message": "അസൈന്‍മെന്റുകള്‍ ലഭിക്കുന്നു..."
   },
-  "v2_28fcad6d": {
-    "description": "Auto-generated translation for: Processing \"${currentDeck}\"...",
-    "message": "\"${currentDeck}\" പ്രോസസ്സ് ചെയ്യുന്നു...",
-    "placeholders": {
-      "currentDeck": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_1fe06aa7": {
     "description": "Auto-generated translation for: Complete",
     "message": "പൂർത്തിയായി"
@@ -8429,6 +8420,15 @@
       },
       "failedCount": {
         "content": "$2"
+      }
+    }
+  },
+  "v2_464f9255": {
+    "description": "Auto-generated translation for: Processing \"{{deckName}}\"...",
+    "message": "\"{{deckName}}\" പ്രോസസ്സ് ചെയ്യുന്നു...",
+    "placeholders": {
+      "deckName": {
+        "content": "$1"
       }
     }
   }
