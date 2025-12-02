@@ -5189,14 +5189,6 @@
     "description": "Auto-generated translation for: Select a store to inspect its data",
     "message": "దాని డేటాను తనిఖీ చేయడానికి ఒక స్టోర్‌ను ఎంచుకోండి"
   },
-  "v2_21d27833": {
-    "description": "Auto-generated translation for: Collapse",
-    "message": "కుప్పకూలిపోవడం"
-  },
-  "v2_7c8dcaba": {
-    "description": "Auto-generated translation for: Expand",
-    "message": "విస్తరించు"
-  },
   "v2_6bc6f02e": {
     "description": "Auto-generated translation for: Stores",
     "message": "స్టోర్‌లు"
@@ -6716,10 +6708,6 @@
     "description": "Auto-generated translation for: Generate words with AI",
     "message": "AIతో పదాలను ఉత్పత్తి చేయండి"
   },
-  "v2_1475e0ba": {
-    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
-    "message": "ఈ జాబితా కోసం పదజాల పదాలను స్వయంచాలకంగా ఉత్పత్తి చేయండి"
-  },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
     "message": "భాషను ఎంచుకోండి"
@@ -7128,25 +7116,9 @@
     "description": "Auto-generated translation for: Delete EPUB",
     "message": "EPUBను తొలగించు"
   },
-  "v2_6657afdc": {
-    "description": "Auto-generated translation for: Sentence Explanation",
-    "message": "\"వాక్యం వివరణ\""
-  },
-  "v2_73bf162a": {
-    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
-    "message": "వాక్య భాగాల యొక్క వివరణాత్మక విశ్లేషణ"
-  },
-  "v2_0b110f0e": {
-    "description": "Auto-generated translation for: Error: ",
-    "message": "దోషం:"
-  },
   "v2_64dc3623": {
     "description": "Auto-generated translation for: Meaning",
     "message": "అర్థం"
-  },
-  "v2_6fc26f4d": {
-    "description": "Auto-generated translation for: base form",
-    "message": "\"మూల రూపం\""
   },
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
@@ -7669,10 +7641,6 @@
     "description": "Auto-generated translation for: Add words from notebook",
     "message": "నోట్‌బుక్ నుండి పదాలను జోడించు"
   },
-  "v2_277a0379": {
-    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
-    "message": "ఈ జాబితాకు జోడించడానికి మీ నోట్‌బుక్ నుండి ఇప్పటికే ఉన్న పదాలను ఎంచుకోండి"
-  },
   "v2_3b1e210e": {
     "description": "Auto-generated translation for: No translation",
     "message": "అనువాదం లేదు"
@@ -7756,10 +7724,6 @@
   "v2_4e64db31": {
     "description": "Auto-generated translation for: Email is required",
     "message": "ఈమెయిల్ తప్పనిసరి."
-  },
-  "v2_5841757e": {
-    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
-    "message": "మీరు నేర్చుకుంటున్న పదాలు మరియు మీ అభ్యసన భాషలో మీరు సాధించిన పదాలు"
   },
   "v2_0403cc76": {
     "description": "Auto-generated translation for: EPUB Font Size",
@@ -8107,17 +8071,9 @@
     "description": "Auto-generated translation for: Review Activity",
     "message": "\"కార్యకలాప సమీక్ష\""
   },
-  "v2_56c7e042": {
-    "description": "Auto-generated translation for: reviews in the last year",
-    "message": "గత సంవత్సరం సమీక్షలు"
-  },
   "v2_42292acf": {
     "description": "Auto-generated translation for: active days",
     "message": "క్రియాశీల రోజులు"
-  },
-  "v2_418ff41b": {
-    "description": "Auto-generated translation for: reviews",
-    "message": "\"సమీక్షలు\""
   },
   "v2_002415b9": {
     "description": "Auto-generated translation for: Less",
@@ -8610,22 +8566,6 @@
       }
     }
   },
-  "v2_5536b98a": {
-    "description": "Auto-generated translation for: Importing subtitles...",
-    "message": "ఉపశీర్షికలను దిగుమతి చేస్తోంది..."
-  },
-  "v2_0e078deb": {
-    "description": "Auto-generated translation for: Please select a language first",
-    "message": "ముందుగా ఒక భాషను ఎంచుకోండి"
-  },
-  "v2_1336c237": {
-    "description": "Auto-generated translation for: Drag and drop a .srt or .vtt file here, or click to browse",
-    "message": "ఇక్కడ .srt లేదా .vtt ఫైల్‌ను డ్రాగ్ చేసి వదలండి లేదా బ్రౌజ్ చేయడానికి క్లిక్ చేయండి"
-  },
-  "v2_55238138": {
-    "description": "Auto-generated translation for: Drag and drop subtitle file here",
-    "message": "ఉపశీర్షిక ఫైల్‌ను ఇక్కడకు లాగి వదలండి"
-  },
   "v2_57def5c4": {
     "description": "Auto-generated translation for: Generate subtitles with AI.",
     "message": "AIతో ఉపశీర్షికలను రూపొందించండి."
@@ -8645,5 +8585,248 @@
   "v2_6d7d730c": {
     "description": "Auto-generated translation for: Go to App",
     "message": "యాప్‌లోకి వెళ్లండి"
+  },
+  "v2_32d57c5b": {
+    "description": "Auto-generated translation for: Manually find words in notebook",
+    "message": "నోట్‌బుక్‌లో పదాలను మాన్యువల్‌గా కనుగొనండి"
+  },
+  "v2_738e98e4": {
+    "description": "Auto-generated translation for: Browse and select words",
+    "message": "పదాలను బ్రౌజ్ చేసి ఎంచుకోండి"
+  },
+  "v2_0ea3d6ae": {
+    "description": "Auto-generated translation for: words to selection. Click 'Create List' to finish.",
+    "message": "ఎంపికకు పదాలు. పూర్తి చేయడానికి 'జాబితాను సృష్టించు'పై క్లిక్ చేయండి."
+  },
+  "v2_766a885c": {
+    "description": "Auto-generated translation for: Preview selected words",
+    "message": "ఎంచుకున్న పదాలను పరిదృశ్యం చేయి"
+  },
+  "v2_040ea762": {
+    "description": "Auto-generated translation for: Found",
+    "message": "దొరికింది"
+  },
+  "v2_06c11aa9": {
+    "description": "Auto-generated translation for: words",
+    "message": "పదాలు"
+  },
+  "v2_11b2abfd": {
+    "description": "Auto-generated translation for: matching",
+    "message": "సరిపోలుతోంది"
+  },
+  "v2_688f434d": {
+    "description": "Auto-generated translation for: No words matched your query",
+    "message": "మీరు వెతుకుతున్న పదాలు ఏవీ లేవు"
+  },
+  "v2_66ae909a": {
+    "description": "Auto-generated translation for: Add to selection",
+    "message": "ఎంపికకు జోడించు"
+  },
+  "v2_4887a536": {
+    "description": "Auto-generated translation for: Ask AI to find words",
+    "message": "పదాలను కనుగొనమని AIని అడగండి"
+  },
+  "v2_1498bf32": {
+    "description": "Auto-generated translation for: e.g., all words about weather, food-related words...",
+    "message": "ఉదాహరణకు, వాతావరణం గురించిన అన్ని పదాలు, ఆహార సంబంధిత పదాలు..."
+  },
+  "v2_36275314": {
+    "description": "Auto-generated translation for: Searching...",
+    "message": "శోధిస్తోంది..."
+  },
+  "v2_458de5f4": {
+    "description": "Auto-generated translation for: Custom Instructions",
+    "message": "అనుకూల సూచనలు"
+  },
+  "v2_0b4d59ae": {
+    "description": "Auto-generated translation for: {{language}}: {{learningCount}} learning, {{masteredCount}} mastered",
+    "message": "{{language}}: {{learningCount}} నేర్చుకుంటున్నారు, {{masteredCount}} సాధించారు",
+    "placeholders": {
+      "language": {
+        "content": "$1"
+      },
+      "learningCount": {
+        "content": "$2"
+      },
+      "masteredCount": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_34aa7ebc": {
+    "description": "Auto-generated translation for: Import SRT/VTT subtitles",
+    "message": "SRT/VTT ఉపశీర్షికలను దిగుమతి చేయండి"
+  },
+  "v2_71f09f3f": {
+    "description": "Auto-generated translation for: Import SRT/VTT",
+    "message": "SRT/VTTను దిగుమతి చేయండి"
+  },
+  "v2_0d5d07e9": {
+    "description": "Auto-generated translation for: Loading flashcards...",
+    "message": "ఫ్లాష్‌కార్డులు లోడ్ అవుతున్నాయి..."
+  },
+  "v2_1978763a": {
+    "description": "Auto-generated translation for: Flashcard Training",
+    "message": "ఫ్లాష్‌కార్డ్ శిక్షణ"
+  },
+  "v2_373a040f": {
+    "description": "Auto-generated translation for: Error loading flashcards",
+    "message": "ఫ్లాష్‌కార్డ్‌లు లోడ్ చేయడంలో లోపం"
+  },
+  "v2_6b26c51f": {
+    "description": "Auto-generated translation for: Go Back",
+    "message": "వెనక్కి వెళ్ళు"
+  },
+  "v2_5bb38af4": {
+    "description": "Auto-generated translation for: No flashcards found",
+    "message": "ఫ్లాష్‌కార్డులు కనుగొనబడలేదు"
+  },
+  "v2_72d27ea9": {
+    "description": "Auto-generated translation for: No flashcards match your filters",
+    "message": "మీ ఫిల్టర్‌లకు సరిపోలే ఫ్లాష్‌కార్డ్‌లు లేవు"
+  },
+  "v2_2c623939": {
+    "description": "Auto-generated translation for: Go Back to Settings",
+    "message": "సెట్టింగ్‌లకు తిరిగి వెళ్ళు"
+  },
+  "v2_66294928": {
+    "description": "Auto-generated translation for: Review your flashcards",
+    "message": "మీ ఫ్లాష్‍కార్డ్‌లను సమీక్షించండి"
+  },
+  "v2_0021748d": {
+    "description": "Auto-generated translation for: Flip",
+    "message": "తిప్పండి"
+  },
+  "v2_7ed4166f": {
+    "description": "Auto-generated translation for: Navigate",
+    "message": "నావిగేట్ చేయి"
+  },
+  "v2_129d01f6": {
+    "description": "Auto-generated translation for: Due cards per session",
+    "message": "ప్రతి సెషన్ؘకు డ్యు కార్డులు"
+  },
+  "v2_673a0eb6": {
+    "description": "Auto-generated translation for: New cards per session",
+    "message": "సెషన్‌కు కొత్త కార్డ్‌లు"
+  },
+  "v2_6b4f5593": {
+    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
+    "message": "మీరు ఇంతకుముందు సమీక్షించిన కార్డులు మళ్లీ దేయినవి"
+  },
+  "v2_69b0d569": {
+    "description": "Auto-generated translation for: Cards you've never reviewed",
+    "message": "మీరు ఇంతకుముందు చూడని కార్డ్‌లు"
+  },
+  "v2_5f691564": {
+    "description": "Auto-generated translation for: Cards you've reviewed today",
+    "message": "మీరు ఈ రోజు సమీక్షించిన కార్డ్‌లు"
+  },
+  "v2_35274cbd": {
+    "description": "Auto-generated translation for: Choose your training method",
+    "message": "మీ శిక్షణ పద్ధతిని ఎంచుకోండి"
+  },
+  "v2_6e2deaa4": {
+    "description": "Auto-generated translation for: Spaced Repetition System",
+    "message": "స్పేస్డ్ రిపీటీషన్ సిస్టమ్"
+  },
+  "v2_0b5f86b7": {
+    "description": "Auto-generated translation for: An adaptive learning system that schedules reviews at optimal intervals to help you remember words more effectively",
+    "message": "పదాలను మరింత ప్రభావవంతంగా గుర్తుంచుకోవడానికి సరైన వ్యవధిలో సమీక్షలను షెడ్యూల్ చేసే అనుకూల అభ్యాస వ్యవస్థ."
+  },
+  "v2_341a0ca1": {
+    "description": "Auto-generated translation for: Simple Flashcards",
+    "message": "సాధారణ ఫ్లాష్‌కార్డ్‌లు"
+  },
+  "v2_7bf5bd52": {
+    "description": "Auto-generated translation for: Practice with flashcards by filtering words by language, video, list, status, and more",
+    "message": "భాష, వీడియో, జాబితా, స్థితి, మరియు మరిన్నింటి ద్వారా పదాలను ఫిల్టర్ చేయడం ద్వారా ఫ్లాష్‌కార్డ్‌లతో ప్రాక్టీస్ చేయండి"
+  },
+  "v2_2875f85e": {
+    "description": "Auto-generated translation for: No lists yet",
+    "message": "ఇంకా జాబితాలు లేవు"
+  },
+  "v2_26789767": {
+    "description": "Auto-generated translation for: Preset name cannot be empty",
+    "message": "ప్రీసెట్ పేరు ఖాళీగా ఉండకూడదు"
+  },
+  "v2_610295ea": {
+    "description": "Auto-generated translation for: Update Preset",
+    "message": "ప్రీసెట్‌ను నవీకరించండి"
+  },
+  "v2_3d55e8bc": {
+    "description": "Auto-generated translation for: Save Filter Preset",
+    "message": "ఫిల్టర్ ప్రీసెట్‌ను సేవ్ చేయండి"
+  },
+  "v2_2b49fdf5": {
+    "description": "Auto-generated translation for: Update the name for this filter preset",
+    "message": "ఈ ఫిల్టర్ ప్రీసెట్ పేరును అప్‌డేట్ చేయండి"
+  },
+  "v2_74ddc723": {
+    "description": "Auto-generated translation for: Give your filter settings a name so you can easily reuse them later",
+    "message": "మీ ఫిల్టర్ సెట్టింగ్‌లకు పేరు పెట్టండి, తద్వారా మీరు వాటిని తర్వాత సులభంగా మళ్లీ ఉపయోగించవచ్చు"
+  },
+  "v2_2002972c": {
+    "description": "Auto-generated translation for: Preset Name",
+    "message": "ముందుగా అమర్చిన పేరు"
+  },
+  "v2_4e70dec9": {
+    "description": "Auto-generated translation for: e.g., Spanish Learning Words",
+    "message": "ఉదాహరణకు, స్పానిష్ నేర్చుకునే పదాలు"
+  },
+  "v2_48db8548": {
+    "description": "Auto-generated translation for: Updating...",
+    "message": "నవీకరణ జరుగుతోంది..."
+  },
+  "v2_689adb17": {
+    "description": "Auto-generated translation for: Update",
+    "message": "అప్‌డేట్ చేయి"
+  },
+  "v2_0027359d": {
+    "description": "Auto-generated translation for: Save",
+    "message": "సేవ్ చేయి"
+  },
+  "v2_4aa7d12c": {
+    "description": "Auto-generated translation for: Select a preset...",
+    "message": "ప్రీసెట్‌ను ఎంచుకోండి..."
+  },
+  "v2_1ce15eed": {
+    "description": "Auto-generated translation for: No preset (default filters)",
+    "message": "ముందే సెట్ చేసినవి లేవు (డిఫాల్ట్ ఫిల్టర్‌లు)"
+  },
+  "v2_071985a4": {
+    "description": "Auto-generated translation for: No presets saved yet",
+    "message": "ముందుగా సేవ్ చేసినవి ఇంకా లేవు"
+  },
+  "v2_228e4ed4": {
+    "description": "Auto-generated translation for: Delete preset",
+    "message": "ప్రీసెట్‌ను తొలగించు"
+  },
+  "v2_551ce6e2": {
+    "description": "Auto-generated translation for: Save Preset",
+    "message": "ప్రీసెట్‌ను సేవ్ చేయి"
+  },
+  "v2_5bcbc893": {
+    "description": "Auto-generated translation for: Preset updated successfully",
+    "message": "ప్రీసెట్ విజయవంతంగా అప్‌డేట్ చేయబడింది"
+  },
+  "v2_444734ba": {
+    "description": "Auto-generated translation for: Failed to update preset: ",
+    "message": "ప్రీసెట్‌ను నవీకరించడంలో విఫలమైంది:"
+  },
+  "v2_0da42161": {
+    "description": "Auto-generated translation for: Preset saved successfully",
+    "message": "ప్రీసెట్ విజయవంతంగా సేవ్ చేయబడింది"
+  },
+  "v2_2256a1fa": {
+    "description": "Auto-generated translation for: Failed to save preset: ",
+    "message": "ప్రీసెట్‌ను సేవ్ చేయడంలో విఫలమైంది:"
+  },
+  "v2_2edac51d": {
+    "description": "Auto-generated translation for: Flip Card",
+    "message": "ఫ్లిప్ కార్డ్"
+  },
+  "v2_666ebf69": {
+    "description": "Auto-generated translation for: cards reviewed in the last year",
+    "message": "గత సంవత్సరంలో సమీక్షించిన కార్డ్‌లు"
   }
 }

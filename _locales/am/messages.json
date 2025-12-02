@@ -5042,14 +5042,6 @@
     "description": "Auto-generated translation for: Select a store to inspect its data",
     "message": "የሱቁን መረጃ ለማየት ሱቅ ይምረጡ"
   },
-  "v2_21d27833": {
-    "description": "Auto-generated translation for: Collapse",
-    "message": "መደርመስ"
-  },
-  "v2_7c8dcaba": {
-    "description": "Auto-generated translation for: Expand",
-    "message": "ዘርጋ"
-  },
   "v2_6bc6f02e": {
     "description": "Auto-generated translation for: Stores",
     "message": "መደብሮች"
@@ -6557,10 +6549,6 @@
     "description": "Auto-generated translation for: Generate words with AI",
     "message": "ቃላትን በ AI መፍጠር"
   },
-  "v2_1475e0ba": {
-    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
-    "message": "ለዚህ ዝርዝር የቃላት ቃላትን በራስ-ሰር ይፍጠሩ"
-  },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
     "message": "ቋንቋ ምረጥ"
@@ -6969,25 +6957,9 @@
     "description": "Auto-generated translation for: Delete EPUB",
     "message": "EPUBን ሰርዝ"
   },
-  "v2_6657afdc": {
-    "description": "Auto-generated translation for: Sentence Explanation",
-    "message": "የዓረፍተ ነገር ማብራሪያ"
-  },
-  "v2_73bf162a": {
-    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
-    "message": "የአረፍተ ነገሩን ክፍሎች ዝርዝር ትንታኔ"
-  },
-  "v2_0b110f0e": {
-    "description": "Auto-generated translation for: Error: ",
-    "message": "ስህተት:"
-  },
   "v2_64dc3623": {
     "description": "Auto-generated translation for: Meaning",
     "message": "ትርጉም"
-  },
-  "v2_6fc26f4d": {
-    "description": "Auto-generated translation for: base form",
-    "message": "መሠረታዊ ቅጽ"
   },
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
@@ -7522,10 +7494,6 @@
     "description": "Auto-generated translation for: Add words from notebook",
     "message": "ከማስታወሻ ደብተር ቃላትን ጨምር"
   },
-  "v2_277a0379": {
-    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
-    "message": "ይህንን ዝርዝር ለማከል ከማስታወሻ ደብተርዎ ነባር ቃላትን ይምረጡ"
-  },
   "v2_3b1e210e": {
     "description": "Auto-generated translation for: No translation",
     "message": "ምንም ትርጉም የለም"
@@ -7609,10 +7577,6 @@
   "v2_4e64db31": {
     "description": "Auto-generated translation for: Email is required",
     "message": "ኢሜይል ያስፈልጋል"
-  },
-  "v2_5841757e": {
-    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
-    "message": "በሚማሩት ቋንቋ እየተማሯቸው ያሉ ቃላት እና በሚገባ የተቆጣጠሯቸው ቃላት"
   },
   "v2_0403cc76": {
     "description": "Auto-generated translation for: EPUB Font Size",
@@ -7960,17 +7924,9 @@
     "description": "Auto-generated translation for: Review Activity",
     "message": "ግምገማ እንቅስቃሴ"
   },
-  "v2_56c7e042": {
-    "description": "Auto-generated translation for: reviews in the last year",
-    "message": "ባለፈው አመት የተሰጡ ግምገማዎች"
-  },
   "v2_42292acf": {
     "description": "Auto-generated translation for: active days",
     "message": "ንቁ ቀናት"
-  },
-  "v2_418ff41b": {
-    "description": "Auto-generated translation for: reviews",
-    "message": "ግምገማዎች"
   },
   "v2_002415b9": {
     "description": "Auto-generated translation for: Less",
@@ -8463,22 +8419,6 @@
       }
     }
   },
-  "v2_5536b98a": {
-    "description": "Auto-generated translation for: Importing subtitles...",
-    "message": "የግርጌ ጽሑፎችን በማስገባት ላይ..."
-  },
-  "v2_0e078deb": {
-    "description": "Auto-generated translation for: Please select a language first",
-    "message": "እባክዎ መጀመሪያ ቋንቋ ይምረጡ"
-  },
-  "v2_1336c237": {
-    "description": "Auto-generated translation for: Drag and drop a .srt or .vtt file here, or click to browse",
-    "message": ".srt ወይም .vtt ፋይልን እዚህ ይጎትቱትና ያስቀምጡት፣ ወይም ለማሰስ ጠቅ ያድርጉ"
-  },
-  "v2_55238138": {
-    "description": "Auto-generated translation for: Drag and drop subtitle file here",
-    "message": "የግርጌ ፅሁፍ ፋይል እዚህ ይጎትቱ እና ያስቀምጡ"
-  },
   "v2_57def5c4": {
     "description": "Auto-generated translation for: Generate subtitles with AI.",
     "message": "የግርጌ ጽሑፎችን በAI ይፍጠሩ።"
@@ -8498,5 +8438,248 @@
   "v2_6d7d730c": {
     "description": "Auto-generated translation for: Go to App",
     "message": "ወደ መተግበሪያ ሂድ"
+  },
+  "v2_32d57c5b": {
+    "description": "Auto-generated translation for: Manually find words in notebook",
+    "message": "በማስታወሻ ደብተር ውስጥ ቃላትን እራስዎ ያግኙ"
+  },
+  "v2_738e98e4": {
+    "description": "Auto-generated translation for: Browse and select words",
+    "message": "ቃላትን ያስሱ እና ይምረጡ"
+  },
+  "v2_0ea3d6ae": {
+    "description": "Auto-generated translation for: words to selection. Click 'Create List' to finish.",
+    "message": "ቃላትን ለመምረጥ። ለማጠናቀቅ \"ዝርዝር ፍጠር\" የሚለውን ይጫኑ።"
+  },
+  "v2_766a885c": {
+    "description": "Auto-generated translation for: Preview selected words",
+    "message": "የተመረጡ ቃላትን ቅድመ እይታ"
+  },
+  "v2_040ea762": {
+    "description": "Auto-generated translation for: Found",
+    "message": "ተገኝቷል"
+  },
+  "v2_06c11aa9": {
+    "description": "Auto-generated translation for: words",
+    "message": "ቃላት"
+  },
+  "v2_11b2abfd": {
+    "description": "Auto-generated translation for: matching",
+    "message": "ማዛመድ"
+  },
+  "v2_688f434d": {
+    "description": "Auto-generated translation for: No words matched your query",
+    "message": "ጥያቄዎን የሚዛመድ ቃል የለም"
+  },
+  "v2_66ae909a": {
+    "description": "Auto-generated translation for: Add to selection",
+    "message": "ወደ ምርጫ አክል"
+  },
+  "v2_4887a536": {
+    "description": "Auto-generated translation for: Ask AI to find words",
+    "message": "ለቃላት AIን ይጠይቁ"
+  },
+  "v2_1498bf32": {
+    "description": "Auto-generated translation for: e.g., all words about weather, food-related words...",
+    "message": "ለምሳሌ፣ ስለአየር ሁኔታ ሁሉም ቃላት፣ ከምግብ ጋር የተያያዙ ቃላት..."
+  },
+  "v2_36275314": {
+    "description": "Auto-generated translation for: Searching...",
+    "message": "በመፈለግ ላይ..."
+  },
+  "v2_458de5f4": {
+    "description": "Auto-generated translation for: Custom Instructions",
+    "message": "ብጁ መመሪያዎች"
+  },
+  "v2_0b4d59ae": {
+    "description": "Auto-generated translation for: {{language}}: {{learningCount}} learning, {{masteredCount}} mastered",
+    "message": "{{language}}: {{learningCount}} በመማር ላይ, {{masteredCount}} የተካኑ",
+    "placeholders": {
+      "language": {
+        "content": "$1"
+      },
+      "learningCount": {
+        "content": "$2"
+      },
+      "masteredCount": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_34aa7ebc": {
+    "description": "Auto-generated translation for: Import SRT/VTT subtitles",
+    "message": "የSRT/VTT የግርጌ ጽሑፎችን አስመጣ"
+  },
+  "v2_71f09f3f": {
+    "description": "Auto-generated translation for: Import SRT/VTT",
+    "message": "የSRT/VTT ፋይል አስመጣ"
+  },
+  "v2_0d5d07e9": {
+    "description": "Auto-generated translation for: Loading flashcards...",
+    "message": "ፍላሽ ካርዶችን በመጫን ላይ..."
+  },
+  "v2_1978763a": {
+    "description": "Auto-generated translation for: Flashcard Training",
+    "message": "ፍላሽ ካርድ ስልጠና"
+  },
+  "v2_373a040f": {
+    "description": "Auto-generated translation for: Error loading flashcards",
+    "message": "ፍላሽ ካርዶችን በመጫን ላይ ስህተት ተፈጥሯል"
+  },
+  "v2_6b26c51f": {
+    "description": "Auto-generated translation for: Go Back",
+    "message": "ወደ ኋላ ተመለስ"
+  },
+  "v2_5bb38af4": {
+    "description": "Auto-generated translation for: No flashcards found",
+    "message": "ምንም ፍላሽ ካርዶች አልተገኙም።"
+  },
+  "v2_72d27ea9": {
+    "description": "Auto-generated translation for: No flashcards match your filters",
+    "message": "ምንም ፍላሽ ካርዶች የእርስዎን ማጣሪያዎች አይዛመዱም።"
+  },
+  "v2_2c623939": {
+    "description": "Auto-generated translation for: Go Back to Settings",
+    "message": "ወደ ቅንብሮች ተመለስ"
+  },
+  "v2_66294928": {
+    "description": "Auto-generated translation for: Review your flashcards",
+    "message": "ፍላሽ ካርዶችዎን ይገምግሙ"
+  },
+  "v2_0021748d": {
+    "description": "Auto-generated translation for: Flip",
+    "message": "ገለባ"
+  },
+  "v2_7ed4166f": {
+    "description": "Auto-generated translation for: Navigate",
+    "message": "አሰሳ"
+  },
+  "v2_129d01f6": {
+    "description": "Auto-generated translation for: Due cards per session",
+    "message": "በእያንዳንዱ ክፍለ ጊዜ የሚጣሉ ካርዶች"
+  },
+  "v2_673a0eb6": {
+    "description": "Auto-generated translation for: New cards per session",
+    "message": "በእያንዳንዱ ክፍለ ጊዜ የሚጨመሩ አዲስ ካርዶች"
+  },
+  "v2_6b4f5593": {
+    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
+    "message": "ቀደም ሲል ያጠናቀቋቸው እና በድጋሚ የሚጠናቀቁ ካርዶች"
+  },
+  "v2_69b0d569": {
+    "description": "Auto-generated translation for: Cards you've never reviewed",
+    "message": "ፈትኟቸው የማታውቋቸው ካርዶች"
+  },
+  "v2_5f691564": {
+    "description": "Auto-generated translation for: Cards you've reviewed today",
+    "message": "ዛሬ የገመገሟቸው ካርዶች"
+  },
+  "v2_35274cbd": {
+    "description": "Auto-generated translation for: Choose your training method",
+    "message": "የስልጠና ዘዴዎን ይምረጡ"
+  },
+  "v2_6e2deaa4": {
+    "description": "Auto-generated translation for: Spaced Repetition System",
+    "message": "የተራራቀ ድግግሞሽ ስርዓት"
+  },
+  "v2_0b5f86b7": {
+    "description": "Auto-generated translation for: An adaptive learning system that schedules reviews at optimal intervals to help you remember words more effectively",
+    "message": "ቃላትን በብቃት ለማስታወስ እንዲረዳዎ ግምገማዎችን በተመቻቸ የጊዜ ልዩነት የሚያዘጋጅ አስተማሪ የመማሪያ ስርዓት።"
+  },
+  "v2_341a0ca1": {
+    "description": "Auto-generated translation for: Simple Flashcards",
+    "message": "ቀላል ፍላሽ ካርዶች"
+  },
+  "v2_7bf5bd52": {
+    "description": "Auto-generated translation for: Practice with flashcards by filtering words by language, video, list, status, and more",
+    "message": "ቃላትን በቋንቋ፣ በቪዲዮ፣ በዝርዝር፣ በሁኔታ እና በሌሎችም በማጣራት በፍላሽ ካርዶች ይለማመዱ።"
+  },
+  "v2_2875f85e": {
+    "description": "Auto-generated translation for: No lists yet",
+    "message": "እስካሁን ዝርዝሮች የሉም።"
+  },
+  "v2_26789767": {
+    "description": "Auto-generated translation for: Preset name cannot be empty",
+    "message": "የቅድመ ዝግጅት ስም ባዶ መሆን የለበትም"
+  },
+  "v2_610295ea": {
+    "description": "Auto-generated translation for: Update Preset",
+    "message": "ቅንብሩን አዘምን"
+  },
+  "v2_3d55e8bc": {
+    "description": "Auto-generated translation for: Save Filter Preset",
+    "message": "የማጣሪያ ቅድመ ዝግጅትን ያስቀምጡ"
+  },
+  "v2_2b49fdf5": {
+    "description": "Auto-generated translation for: Update the name for this filter preset",
+    "message": "ለዚህ የማጣሪያ ቅድመ ዝግጅት ስሙን ያዘምኑ"
+  },
+  "v2_74ddc723": {
+    "description": "Auto-generated translation for: Give your filter settings a name so you can easily reuse them later",
+    "message": "የማጣሪያ ቅንብሮችዎን በኋላ በቀላሉ እንደገና ለመጠቀም እንዲችሉ ስም ይስጡ"
+  },
+  "v2_2002972c": {
+    "description": "Auto-generated translation for: Preset Name",
+    "message": "የቅድመ ዝግጅት ስም"
+  },
+  "v2_4e70dec9": {
+    "description": "Auto-generated translation for: e.g., Spanish Learning Words",
+    "message": "ለምሳሌ፣ የስፓኒሽ መማሪያ ቃላት"
+  },
+  "v2_48db8548": {
+    "description": "Auto-generated translation for: Updating...",
+    "message": "በማዘመን ላይ..."
+  },
+  "v2_689adb17": {
+    "description": "Auto-generated translation for: Update",
+    "message": "አዘምን"
+  },
+  "v2_0027359d": {
+    "description": "Auto-generated translation for: Save",
+    "message": "አስቀምጥ"
+  },
+  "v2_4aa7d12c": {
+    "description": "Auto-generated translation for: Select a preset...",
+    "message": "ቅድመ ዝግጅትን ይምረጡ..."
+  },
+  "v2_1ce15eed": {
+    "description": "Auto-generated translation for: No preset (default filters)",
+    "message": "ቅድመ ዝግጅት የለም (ነባሪ ማጣሪያዎች)"
+  },
+  "v2_071985a4": {
+    "description": "Auto-generated translation for: No presets saved yet",
+    "message": "እስካሁን ምንም ቅድመ ዝግጅት አልተቀመጠም"
+  },
+  "v2_228e4ed4": {
+    "description": "Auto-generated translation for: Delete preset",
+    "message": "ቅንብሩን ሰርዝ"
+  },
+  "v2_551ce6e2": {
+    "description": "Auto-generated translation for: Save Preset",
+    "message": "ቅንብር አስቀምጥ"
+  },
+  "v2_5bcbc893": {
+    "description": "Auto-generated translation for: Preset updated successfully",
+    "message": "ቅንብሩ በትክክል ተዘምኗል"
+  },
+  "v2_444734ba": {
+    "description": "Auto-generated translation for: Failed to update preset: ",
+    "message": "ቅድመ-ቅምጥ ማዘመን አልተሳካም፦"
+  },
+  "v2_0da42161": {
+    "description": "Auto-generated translation for: Preset saved successfully",
+    "message": "ቅንብሩ በተሳካ ሁኔታ ተቀምጧል"
+  },
+  "v2_2256a1fa": {
+    "description": "Auto-generated translation for: Failed to save preset: ",
+    "message": "ቅንብሩን ማስቀመጥ አልተቻለም፦"
+  },
+  "v2_2edac51d": {
+    "description": "Auto-generated translation for: Flip Card",
+    "message": "የፍሊፕ ካርድ"
+  },
+  "v2_666ebf69": {
+    "description": "Auto-generated translation for: cards reviewed in the last year",
+    "message": "ባለፈው ዓመት የተገመገሙ ካርዶች"
   }
 }

@@ -5042,14 +5042,6 @@
     "description": "Auto-generated translation for: Select a store to inspect its data",
     "message": "データを検査する店舗を選択してください"
   },
-  "v2_21d27833": {
-    "description": "Auto-generated translation for: Collapse",
-    "message": "崩壊"
-  },
-  "v2_7c8dcaba": {
-    "description": "Auto-generated translation for: Expand",
-    "message": "展開"
-  },
   "v2_6bc6f02e": {
     "description": "Auto-generated translation for: Stores",
     "message": "店舗"
@@ -6569,10 +6561,6 @@
     "description": "Auto-generated translation for: Generate words with AI",
     "message": "AIで言葉を生成する"
   },
-  "v2_1475e0ba": {
-    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
-    "message": "このリストのために語彙を自動的に生成する"
-  },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
     "message": "言語を選択"
@@ -6981,25 +6969,9 @@
     "description": "Auto-generated translation for: Delete EPUB",
     "message": "EPUBを削除"
   },
-  "v2_6657afdc": {
-    "description": "Auto-generated translation for: Sentence Explanation",
-    "message": "文の説明"
-  },
-  "v2_73bf162a": {
-    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
-    "message": "文の構成要素の詳細な内訳"
-  },
-  "v2_0b110f0e": {
-    "description": "Auto-generated translation for: Error: ",
-    "message": "エラー："
-  },
   "v2_64dc3623": {
     "description": "Auto-generated translation for: Meaning",
     "message": "意味"
-  },
-  "v2_6fc26f4d": {
-    "description": "Auto-generated translation for: base form",
-    "message": "原形"
   },
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
@@ -7522,10 +7494,6 @@
     "description": "Auto-generated translation for: Add words from notebook",
     "message": "ノートから単語を追加"
   },
-  "v2_277a0379": {
-    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
-    "message": "ノートにある既存の単語を選択して、このリストに追加してください。"
-  },
   "v2_3b1e210e": {
     "description": "Auto-generated translation for: No translation",
     "message": "翻訳不要"
@@ -7609,10 +7577,6 @@
   "v2_4e64db31": {
     "description": "Auto-generated translation for: Email is required",
     "message": "メールアドレスは必須です"
-  },
-  "v2_5841757e": {
-    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
-    "message": "学習言語で学習中の単語と、習得済みの単語"
   },
   "v2_0403cc76": {
     "description": "Auto-generated translation for: EPUB Font Size",
@@ -7960,17 +7924,9 @@
     "description": "Auto-generated translation for: Review Activity",
     "message": "レビューアクティビティ"
   },
-  "v2_56c7e042": {
-    "description": "Auto-generated translation for: reviews in the last year",
-    "message": "過去一年間のレビュー"
-  },
   "v2_42292acf": {
     "description": "Auto-generated translation for: active days",
     "message": "活動日数"
-  },
-  "v2_418ff41b": {
-    "description": "Auto-generated translation for: reviews",
-    "message": "レビュー"
   },
   "v2_002415b9": {
     "description": "Auto-generated translation for: Less",
@@ -8454,22 +8410,6 @@
     "description": "Auto-generated translation for: Requesting transcription...",
     "message": "文字起こしをリクエストしています..."
   },
-  "v2_5536b98a": {
-    "description": "Auto-generated translation for: Importing subtitles...",
-    "message": "字幕をインポートしています..."
-  },
-  "v2_0e078deb": {
-    "description": "Auto-generated translation for: Please select a language first",
-    "message": "先に言語を選択してください"
-  },
-  "v2_1336c237": {
-    "description": "Auto-generated translation for: Drag and drop a .srt or .vtt file here, or click to browse",
-    "message": ".srt または .vtt ファイルをここにドラッグ＆ドロップするか、クリックして参照してください"
-  },
-  "v2_55238138": {
-    "description": "Auto-generated translation for: Drag and drop subtitle file here",
-    "message": "字幕ファイルをここにドラッグ＆ドロップ"
-  },
   "v2_57def5c4": {
     "description": "Auto-generated translation for: Generate subtitles with AI.",
     "message": "AIで字幕を生成する"
@@ -8498,5 +8438,248 @@
   "v2_6d7d730c": {
     "description": "Auto-generated translation for: Go to App",
     "message": "アプリへ"
+  },
+  "v2_32d57c5b": {
+    "description": "Auto-generated translation for: Manually find words in notebook",
+    "message": "ノートブック内の単語を手動で検索"
+  },
+  "v2_738e98e4": {
+    "description": "Auto-generated translation for: Browse and select words",
+    "message": "単語を参照して選択"
+  },
+  "v2_0ea3d6ae": {
+    "description": "Auto-generated translation for: words to selection. Click 'Create List' to finish.",
+    "message": "ワードを選択に追加します。「リストを作成」をクリックして完了します。"
+  },
+  "v2_766a885c": {
+    "description": "Auto-generated translation for: Preview selected words",
+    "message": "選択した単語をプレビュー"
+  },
+  "v2_040ea762": {
+    "description": "Auto-generated translation for: Found",
+    "message": "見つかりました"
+  },
+  "v2_06c11aa9": {
+    "description": "Auto-generated translation for: words",
+    "message": "言葉"
+  },
+  "v2_11b2abfd": {
+    "description": "Auto-generated translation for: matching",
+    "message": "一致"
+  },
+  "v2_688f434d": {
+    "description": "Auto-generated translation for: No words matched your query",
+    "message": "クエリに一致する単語がありません"
+  },
+  "v2_66ae909a": {
+    "description": "Auto-generated translation for: Add to selection",
+    "message": "選択範囲に追加"
+  },
+  "v2_4887a536": {
+    "description": "Auto-generated translation for: Ask AI to find words",
+    "message": "AIに単語を探してもらう"
+  },
+  "v2_1498bf32": {
+    "description": "Auto-generated translation for: e.g., all words about weather, food-related words...",
+    "message": "例: 天気に関するすべての単語、食べ物関連の単語など"
+  },
+  "v2_36275314": {
+    "description": "Auto-generated translation for: Searching...",
+    "message": "検索中..."
+  },
+  "v2_458de5f4": {
+    "description": "Auto-generated translation for: Custom Instructions",
+    "message": "カスタム インストラクション"
+  },
+  "v2_0b4d59ae": {
+    "description": "Auto-generated translation for: {{language}}: {{learningCount}} learning, {{masteredCount}} mastered",
+    "message": "{{language}}: {{learningCount}}件学習中、{{masteredCount}}件習得済み",
+    "placeholders": {
+      "language": {
+        "content": "$1"
+      },
+      "learningCount": {
+        "content": "$2"
+      },
+      "masteredCount": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_34aa7ebc": {
+    "description": "Auto-generated translation for: Import SRT/VTT subtitles",
+    "message": "SRT/VTT字幕をインポート"
+  },
+  "v2_71f09f3f": {
+    "description": "Auto-generated translation for: Import SRT/VTT",
+    "message": "SRT/VTTをインポート"
+  },
+  "v2_0d5d07e9": {
+    "description": "Auto-generated translation for: Loading flashcards...",
+    "message": "フラッシュカードを読み込み中..."
+  },
+  "v2_1978763a": {
+    "description": "Auto-generated translation for: Flashcard Training",
+    "message": "フラッシュカードトレーニング"
+  },
+  "v2_373a040f": {
+    "description": "Auto-generated translation for: Error loading flashcards",
+    "message": "フラッシュカードの読み込みエラー"
+  },
+  "v2_6b26c51f": {
+    "description": "Auto-generated translation for: Go Back",
+    "message": "戻る"
+  },
+  "v2_5bb38af4": {
+    "description": "Auto-generated translation for: No flashcards found",
+    "message": "フラッシュカードが見つかりません"
+  },
+  "v2_72d27ea9": {
+    "description": "Auto-generated translation for: No flashcards match your filters",
+    "message": "フィルターに一致するフラッシュカードはありません"
+  },
+  "v2_2c623939": {
+    "description": "Auto-generated translation for: Go Back to Settings",
+    "message": "設定に戻る"
+  },
+  "v2_66294928": {
+    "description": "Auto-generated translation for: Review your flashcards",
+    "message": "フラッシュカードを復習する"
+  },
+  "v2_0021748d": {
+    "description": "Auto-generated translation for: Flip",
+    "message": "フリップ"
+  },
+  "v2_7ed4166f": {
+    "description": "Auto-generated translation for: Navigate",
+    "message": "移動"
+  },
+  "v2_129d01f6": {
+    "description": "Auto-generated translation for: Due cards per session",
+    "message": "セッションあたりの期日カード"
+  },
+  "v2_673a0eb6": {
+    "description": "Auto-generated translation for: New cards per session",
+    "message": "セッションごとの新しいカード"
+  },
+  "v2_6b4f5593": {
+    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
+    "message": "以前に復習したカードで、再び期限が来ているもの"
+  },
+  "v2_69b0d569": {
+    "description": "Auto-generated translation for: Cards you've never reviewed",
+    "message": "未復習のカード"
+  },
+  "v2_5f691564": {
+    "description": "Auto-generated translation for: Cards you've reviewed today",
+    "message": "本日レビューしたカード"
+  },
+  "v2_35274cbd": {
+    "description": "Auto-generated translation for: Choose your training method",
+    "message": "トレーニング方法を選択してください"
+  },
+  "v2_6e2deaa4": {
+    "description": "Auto-generated translation for: Spaced Repetition System",
+    "message": "間隔反復システム"
+  },
+  "v2_0b5f86b7": {
+    "description": "Auto-generated translation for: An adaptive learning system that schedules reviews at optimal intervals to help you remember words more effectively",
+    "message": "最適な間隔で復習をスケジュールし、より効果的に単語を覚えるのに役立つ適応型学習システム"
+  },
+  "v2_341a0ca1": {
+    "description": "Auto-generated translation for: Simple Flashcards",
+    "message": "シンプルなフラッシュカード"
+  },
+  "v2_7bf5bd52": {
+    "description": "Auto-generated translation for: Practice with flashcards by filtering words by language, video, list, status, and more",
+    "message": "言語、動画、リスト、ステータスなどで単語を絞り込んで、フラッシュカードで練習しましょう。"
+  },
+  "v2_2875f85e": {
+    "description": "Auto-generated translation for: No lists yet",
+    "message": "リストはまだありません"
+  },
+  "v2_26789767": {
+    "description": "Auto-generated translation for: Preset name cannot be empty",
+    "message": "プリセット名は空にできません"
+  },
+  "v2_610295ea": {
+    "description": "Auto-generated translation for: Update Preset",
+    "message": "プリセットを更新"
+  },
+  "v2_3d55e8bc": {
+    "description": "Auto-generated translation for: Save Filter Preset",
+    "message": "フィルタープリセットを保存"
+  },
+  "v2_2b49fdf5": {
+    "description": "Auto-generated translation for: Update the name for this filter preset",
+    "message": "このフィルタープリセットの名前を更新"
+  },
+  "v2_74ddc723": {
+    "description": "Auto-generated translation for: Give your filter settings a name so you can easily reuse them later",
+    "message": "簡単に再利用できるように、フィルター設定に名前を付けてください"
+  },
+  "v2_2002972c": {
+    "description": "Auto-generated translation for: Preset Name",
+    "message": "プリセット名"
+  },
+  "v2_4e70dec9": {
+    "description": "Auto-generated translation for: e.g., Spanish Learning Words",
+    "message": "例: スペイン語学習単語"
+  },
+  "v2_48db8548": {
+    "description": "Auto-generated translation for: Updating...",
+    "message": "更新中..."
+  },
+  "v2_689adb17": {
+    "description": "Auto-generated translation for: Update",
+    "message": "更新"
+  },
+  "v2_0027359d": {
+    "description": "Auto-generated translation for: Save",
+    "message": "保存"
+  },
+  "v2_4aa7d12c": {
+    "description": "Auto-generated translation for: Select a preset...",
+    "message": "プリセットを選択"
+  },
+  "v2_1ce15eed": {
+    "description": "Auto-generated translation for: No preset (default filters)",
+    "message": "プリセットなし（デフォルトフィルター）"
+  },
+  "v2_071985a4": {
+    "description": "Auto-generated translation for: No presets saved yet",
+    "message": "プリセットはまだ保存されていません"
+  },
+  "v2_228e4ed4": {
+    "description": "Auto-generated translation for: Delete preset",
+    "message": "プリセットを削除"
+  },
+  "v2_551ce6e2": {
+    "description": "Auto-generated translation for: Save Preset",
+    "message": "プリセットを保存"
+  },
+  "v2_5bcbc893": {
+    "description": "Auto-generated translation for: Preset updated successfully",
+    "message": "プリセットの更新に成功しました"
+  },
+  "v2_444734ba": {
+    "description": "Auto-generated translation for: Failed to update preset: ",
+    "message": "プリセットの更新に失敗しました:"
+  },
+  "v2_0da42161": {
+    "description": "Auto-generated translation for: Preset saved successfully",
+    "message": "プリセットが正常に保存されました"
+  },
+  "v2_2256a1fa": {
+    "description": "Auto-generated translation for: Failed to save preset: ",
+    "message": "プリセットの保存に失敗しました:"
+  },
+  "v2_2edac51d": {
+    "description": "Auto-generated translation for: Flip Card",
+    "message": "カードを反転"
+  },
+  "v2_666ebf69": {
+    "description": "Auto-generated translation for: cards reviewed in the last year",
+    "message": "過去1年間にレビューしたカード"
   }
 }

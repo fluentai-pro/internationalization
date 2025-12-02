@@ -5042,14 +5042,6 @@
     "description": "Auto-generated translation for: Select a store to inspect its data",
     "message": "Selectați un magazin pentru a-i inspecta datele"
   },
-  "v2_21d27833": {
-    "description": "Auto-generated translation for: Collapse",
-    "message": "Reducere"
-  },
-  "v2_7c8dcaba": {
-    "description": "Auto-generated translation for: Expand",
-    "message": "Extindeți"
-  },
   "v2_6bc6f02e": {
     "description": "Auto-generated translation for: Stores",
     "message": "Magazine"
@@ -6569,10 +6561,6 @@
     "description": "Auto-generated translation for: Generate words with AI",
     "message": "Generează cuvinte cu AI"
   },
-  "v2_1475e0ba": {
-    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
-    "message": "Generează automat cuvinte de vocabular pentru această listă"
-  },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
     "message": "Selectează limba"
@@ -6981,25 +6969,9 @@
     "description": "Auto-generated translation for: Delete EPUB",
     "message": "Șterge EPUB"
   },
-  "v2_6657afdc": {
-    "description": "Auto-generated translation for: Sentence Explanation",
-    "message": "Explicație propoziție"
-  },
-  "v2_73bf162a": {
-    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
-    "message": "Defalcare detaliată a componentelor propoziției"
-  },
-  "v2_0b110f0e": {
-    "description": "Auto-generated translation for: Error: ",
-    "message": "Eroare:"
-  },
   "v2_64dc3623": {
     "description": "Auto-generated translation for: Meaning",
     "message": "Înțeles"
-  },
-  "v2_6fc26f4d": {
-    "description": "Auto-generated translation for: base form",
-    "message": "forma de bază"
   },
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
@@ -7522,10 +7494,6 @@
     "description": "Auto-generated translation for: Add words from notebook",
     "message": "Adaugă cuvinte din caiet"
   },
-  "v2_277a0379": {
-    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
-    "message": "Selectează cuvinte existente din caietul tău pentru a le adăuga la această listă"
-  },
   "v2_3b1e210e": {
     "description": "Auto-generated translation for: No translation",
     "message": "Nicio traducere"
@@ -7609,10 +7577,6 @@
   "v2_4e64db31": {
     "description": "Auto-generated translation for: Email is required",
     "message": "Email-ul este obligatoriu"
-  },
-  "v2_5841757e": {
-    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
-    "message": "Cuvinte pe care le înveți și cuvinte pe care le-ai stăpânit în limba pe care o studiezi"
   },
   "v2_0403cc76": {
     "description": "Auto-generated translation for: EPUB Font Size",
@@ -7960,17 +7924,9 @@
     "description": "Auto-generated translation for: Review Activity",
     "message": "Verifică Activitatea"
   },
-  "v2_56c7e042": {
-    "description": "Auto-generated translation for: reviews in the last year",
-    "message": "recenzii în ultimul an"
-  },
   "v2_42292acf": {
     "description": "Auto-generated translation for: active days",
     "message": "zile active"
-  },
-  "v2_418ff41b": {
-    "description": "Auto-generated translation for: reviews",
-    "message": "recenzii"
   },
   "v2_002415b9": {
     "description": "Auto-generated translation for: Less",
@@ -8463,22 +8419,6 @@
       }
     }
   },
-  "v2_5536b98a": {
-    "description": "Auto-generated translation for: Importing subtitles...",
-    "message": "Se importă subtitrări..."
-  },
-  "v2_0e078deb": {
-    "description": "Auto-generated translation for: Please select a language first",
-    "message": "Vă rugăm să selectați mai întâi o limbă"
-  },
-  "v2_1336c237": {
-    "description": "Auto-generated translation for: Drag and drop a .srt or .vtt file here, or click to browse",
-    "message": "Trageți și plasați un fișier .srt sau .vtt aici sau faceți clic pentru a naviga"
-  },
-  "v2_55238138": {
-    "description": "Auto-generated translation for: Drag and drop subtitle file here",
-    "message": "Trageți și plasați fișierul de subtitrare aici"
-  },
   "v2_57def5c4": {
     "description": "Auto-generated translation for: Generate subtitles with AI.",
     "message": "Generează subtitrări cu AI."
@@ -8498,5 +8438,248 @@
   "v2_6d7d730c": {
     "description": "Auto-generated translation for: Go to App",
     "message": "Accesează aplicația"
+  },
+  "v2_32d57c5b": {
+    "description": "Auto-generated translation for: Manually find words in notebook",
+    "message": "Găsește manual cuvinte în agendă"
+  },
+  "v2_738e98e4": {
+    "description": "Auto-generated translation for: Browse and select words",
+    "message": "Răsfoiți și selectați cuvinte"
+  },
+  "v2_0ea3d6ae": {
+    "description": "Auto-generated translation for: words to selection. Click 'Create List' to finish.",
+    "message": "cuvinte la selecție. Apăsați pe „Creare listă” pentru a finaliza."
+  },
+  "v2_766a885c": {
+    "description": "Auto-generated translation for: Preview selected words",
+    "message": "Previzualizați cuvintele selectate"
+  },
+  "v2_040ea762": {
+    "description": "Auto-generated translation for: Found",
+    "message": "Găsit"
+  },
+  "v2_06c11aa9": {
+    "description": "Auto-generated translation for: words",
+    "message": "cuvinte"
+  },
+  "v2_11b2abfd": {
+    "description": "Auto-generated translation for: matching",
+    "message": "potrivire"
+  },
+  "v2_688f434d": {
+    "description": "Auto-generated translation for: No words matched your query",
+    "message": "Niciun cuvânt nu corespunde căutării tale"
+  },
+  "v2_66ae909a": {
+    "description": "Auto-generated translation for: Add to selection",
+    "message": "Adăugare la selecție"
+  },
+  "v2_4887a536": {
+    "description": "Auto-generated translation for: Ask AI to find words",
+    "message": "Roagă AI-ul să găsească cuvinte"
+  },
+  "v2_1498bf32": {
+    "description": "Auto-generated translation for: e.g., all words about weather, food-related words...",
+    "message": "de ex., toate cuvintele despre vreme, cuvinte legate de mâncare..."
+  },
+  "v2_36275314": {
+    "description": "Auto-generated translation for: Searching...",
+    "message": "Se caută..."
+  },
+  "v2_458de5f4": {
+    "description": "Auto-generated translation for: Custom Instructions",
+    "message": "Instrucțiuni personalizate"
+  },
+  "v2_0b4d59ae": {
+    "description": "Auto-generated translation for: {{language}}: {{learningCount}} learning, {{masteredCount}} mastered",
+    "message": "{{language}}: {{learningCount}} în curs de învățare, {{masteredCount}} stăpânite",
+    "placeholders": {
+      "language": {
+        "content": "$1"
+      },
+      "learningCount": {
+        "content": "$2"
+      },
+      "masteredCount": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_34aa7ebc": {
+    "description": "Auto-generated translation for: Import SRT/VTT subtitles",
+    "message": "Importă subtitrări SRT/VTT"
+  },
+  "v2_71f09f3f": {
+    "description": "Auto-generated translation for: Import SRT/VTT",
+    "message": "Importă SRT/VTT"
+  },
+  "v2_0d5d07e9": {
+    "description": "Auto-generated translation for: Loading flashcards...",
+    "message": "Se încarcă flashcard-uri..."
+  },
+  "v2_1978763a": {
+    "description": "Auto-generated translation for: Flashcard Training",
+    "message": "Antrenament cu flashcarduri"
+  },
+  "v2_373a040f": {
+    "description": "Auto-generated translation for: Error loading flashcards",
+    "message": "Eroare la încărcarea cartonașelor"
+  },
+  "v2_6b26c51f": {
+    "description": "Auto-generated translation for: Go Back",
+    "message": "Înapoi"
+  },
+  "v2_5bb38af4": {
+    "description": "Auto-generated translation for: No flashcards found",
+    "message": "Nici o cartelă memo negăsită"
+  },
+  "v2_72d27ea9": {
+    "description": "Auto-generated translation for: No flashcards match your filters",
+    "message": "Niciun card nu corespunde filtrelor tale"
+  },
+  "v2_2c623939": {
+    "description": "Auto-generated translation for: Go Back to Settings",
+    "message": "Înapoi la setări"
+  },
+  "v2_66294928": {
+    "description": "Auto-generated translation for: Review your flashcards",
+    "message": "Revizuiește-ți flashcard-urile"
+  },
+  "v2_0021748d": {
+    "description": "Auto-generated translation for: Flip",
+    "message": "răsturnare"
+  },
+  "v2_7ed4166f": {
+    "description": "Auto-generated translation for: Navigate",
+    "message": "Navigați"
+  },
+  "v2_129d01f6": {
+    "description": "Auto-generated translation for: Due cards per session",
+    "message": "Cărți datorate pe sesiune"
+  },
+  "v2_673a0eb6": {
+    "description": "Auto-generated translation for: New cards per session",
+    "message": "Carduri noi per sesiune"
+  },
+  "v2_6b4f5593": {
+    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
+    "message": "Cărți revizuite anterior care necesită o nouă revizuire"
+  },
+  "v2_69b0d569": {
+    "description": "Auto-generated translation for: Cards you've never reviewed",
+    "message": "Carduri pe care nu le-ai revizuit niciodată"
+  },
+  "v2_5f691564": {
+    "description": "Auto-generated translation for: Cards you've reviewed today",
+    "message": "Cărți revizuite astăzi"
+  },
+  "v2_35274cbd": {
+    "description": "Auto-generated translation for: Choose your training method",
+    "message": "Alegeți-vă metoda de antrenament"
+  },
+  "v2_6e2deaa4": {
+    "description": "Auto-generated translation for: Spaced Repetition System",
+    "message": "Sistem de Repetiție Spațiată"
+  },
+  "v2_0b5f86b7": {
+    "description": "Auto-generated translation for: An adaptive learning system that schedules reviews at optimal intervals to help you remember words more effectively",
+    "message": "Un sistem de învățare adaptiv care programează revizuirile la intervale optime pentru a vă ajuta să memorați cuvintele mai eficient"
+  },
+  "v2_341a0ca1": {
+    "description": "Auto-generated translation for: Simple Flashcards",
+    "message": "Flashcard-uri Simple"
+  },
+  "v2_7bf5bd52": {
+    "description": "Auto-generated translation for: Practice with flashcards by filtering words by language, video, list, status, and more",
+    "message": "Exersează cu flashcard-uri filtrând cuvintele după limbă, videoclip, listă, stare și multe altele"
+  },
+  "v2_2875f85e": {
+    "description": "Auto-generated translation for: No lists yet",
+    "message": "Nicio listă încă"
+  },
+  "v2_26789767": {
+    "description": "Auto-generated translation for: Preset name cannot be empty",
+    "message": "Numele presetării nu poate fi gol"
+  },
+  "v2_610295ea": {
+    "description": "Auto-generated translation for: Update Preset",
+    "message": "Actualizare presetare"
+  },
+  "v2_3d55e8bc": {
+    "description": "Auto-generated translation for: Save Filter Preset",
+    "message": "Salvează presetarea filtrului"
+  },
+  "v2_2b49fdf5": {
+    "description": "Auto-generated translation for: Update the name for this filter preset",
+    "message": "Actualizați numele pentru această presetare de filtru"
+  },
+  "v2_74ddc723": {
+    "description": "Auto-generated translation for: Give your filter settings a name so you can easily reuse them later",
+    "message": "Dă un nume setărilor de filtrare pentru a le putea reutiliza mai târziu"
+  },
+  "v2_2002972c": {
+    "description": "Auto-generated translation for: Preset Name",
+    "message": "Nume presetare"
+  },
+  "v2_4e70dec9": {
+    "description": "Auto-generated translation for: e.g., Spanish Learning Words",
+    "message": "ex: Cuvinte de învățat în spaniolă"
+  },
+  "v2_48db8548": {
+    "description": "Auto-generated translation for: Updating...",
+    "message": "Actualizare..."
+  },
+  "v2_689adb17": {
+    "description": "Auto-generated translation for: Update",
+    "message": "Actualizare"
+  },
+  "v2_0027359d": {
+    "description": "Auto-generated translation for: Save",
+    "message": "Salvați"
+  },
+  "v2_4aa7d12c": {
+    "description": "Auto-generated translation for: Select a preset...",
+    "message": "Selectați o presetare..."
+  },
+  "v2_1ce15eed": {
+    "description": "Auto-generated translation for: No preset (default filters)",
+    "message": "Fără presetare (filtre implicite)"
+  },
+  "v2_071985a4": {
+    "description": "Auto-generated translation for: No presets saved yet",
+    "message": "Niciun preset salvat încă"
+  },
+  "v2_228e4ed4": {
+    "description": "Auto-generated translation for: Delete preset",
+    "message": "Șterge presetarea"
+  },
+  "v2_551ce6e2": {
+    "description": "Auto-generated translation for: Save Preset",
+    "message": "Salvează presetarea"
+  },
+  "v2_5bcbc893": {
+    "description": "Auto-generated translation for: Preset updated successfully",
+    "message": "Preconfigurare actualizată cu succes"
+  },
+  "v2_444734ba": {
+    "description": "Auto-generated translation for: Failed to update preset: ",
+    "message": "Actualizarea presetării a eșuat:"
+  },
+  "v2_0da42161": {
+    "description": "Auto-generated translation for: Preset saved successfully",
+    "message": "Preset salvat cu succes"
+  },
+  "v2_2256a1fa": {
+    "description": "Auto-generated translation for: Failed to save preset: ",
+    "message": "Eroare la salvarea presetării:"
+  },
+  "v2_2edac51d": {
+    "description": "Auto-generated translation for: Flip Card",
+    "message": "Întoarce Cardul"
+  },
+  "v2_666ebf69": {
+    "description": "Auto-generated translation for: cards reviewed in the last year",
+    "message": "cărți examinate în ultimul an"
   }
 }

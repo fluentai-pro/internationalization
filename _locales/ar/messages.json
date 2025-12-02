@@ -5042,14 +5042,6 @@
     "description": "Auto-generated translation for: Select a store to inspect its data",
     "message": "اختر متجرًا لفحص بياناته"
   },
-  "v2_21d27833": {
-    "description": "Auto-generated translation for: Collapse",
-    "message": "انهيار"
-  },
-  "v2_7c8dcaba": {
-    "description": "Auto-generated translation for: Expand",
-    "message": "توسيع"
-  },
   "v2_6bc6f02e": {
     "description": "Auto-generated translation for: Stores",
     "message": "متاجر"
@@ -6569,10 +6561,6 @@
     "description": "Auto-generated translation for: Generate words with AI",
     "message": "إنشاء كلمات باستخدام الذكاء الاصطناعي"
   },
-  "v2_1475e0ba": {
-    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
-    "message": "إنشاء كلمات مفردات تلقائيًا لهذه القائمة"
-  },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
     "message": "اختر اللغة"
@@ -6981,25 +6969,9 @@
     "description": "Auto-generated translation for: Delete EPUB",
     "message": "حذف EPUB"
   },
-  "v2_6657afdc": {
-    "description": "Auto-generated translation for: Sentence Explanation",
-    "message": "شرح الجملة"
-  },
-  "v2_73bf162a": {
-    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
-    "message": "تحليل تفصيلي لمكونات الجملة"
-  },
-  "v2_0b110f0e": {
-    "description": "Auto-generated translation for: Error: ",
-    "message": "خطأ:"
-  },
   "v2_64dc3623": {
     "description": "Auto-generated translation for: Meaning",
     "message": "معنى"
-  },
-  "v2_6fc26f4d": {
-    "description": "Auto-generated translation for: base form",
-    "message": "الصيغة الأساسية"
   },
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
@@ -7522,10 +7494,6 @@
     "description": "Auto-generated translation for: Add words from notebook",
     "message": "أضف كلمات من دفتر الملاحظات"
   },
-  "v2_277a0379": {
-    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
-    "message": "اختر الكلمات الموجودة من دفتر ملاحظاتك لإضافتها إلى هذه القائمة"
-  },
   "v2_3b1e210e": {
     "description": "Auto-generated translation for: No translation",
     "message": "لا توجد ترجمة"
@@ -7609,10 +7577,6 @@
   "v2_4e64db31": {
     "description": "Auto-generated translation for: Email is required",
     "message": "البريد الإلكتروني مطلوب"
-  },
-  "v2_5841757e": {
-    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
-    "message": "الكلمات التي تتعلمها والكلمات التي أتقنتها في لغة التعلم الخاصة بك"
   },
   "v2_0403cc76": {
     "description": "Auto-generated translation for: EPUB Font Size",
@@ -7960,17 +7924,9 @@
     "description": "Auto-generated translation for: Review Activity",
     "message": "مراجعة النشاط"
   },
-  "v2_56c7e042": {
-    "description": "Auto-generated translation for: reviews in the last year",
-    "message": "التقييمات في العام الماضي"
-  },
   "v2_42292acf": {
     "description": "Auto-generated translation for: active days",
     "message": "الأيام النشطة"
-  },
-  "v2_418ff41b": {
-    "description": "Auto-generated translation for: reviews",
-    "message": "\"مراجعات\""
   },
   "v2_002415b9": {
     "description": "Auto-generated translation for: Less",
@@ -8463,22 +8419,6 @@
       }
     }
   },
-  "v2_5536b98a": {
-    "description": "Auto-generated translation for: Importing subtitles...",
-    "message": "جارٍ استيراد الترجمات..."
-  },
-  "v2_0e078deb": {
-    "description": "Auto-generated translation for: Please select a language first",
-    "message": "الرجاء اختيار اللغة أولاً"
-  },
-  "v2_1336c237": {
-    "description": "Auto-generated translation for: Drag and drop a .srt or .vtt file here, or click to browse",
-    "message": "اسحب وأفلت ملف srt. أو vtt. هنا، أو انقر للتصفح"
-  },
-  "v2_55238138": {
-    "description": "Auto-generated translation for: Drag and drop subtitle file here",
-    "message": "اسحب ملف الترجمة وأفلته هنا"
-  },
   "v2_57def5c4": {
     "description": "Auto-generated translation for: Generate subtitles with AI.",
     "message": "أنشئ ترجمات مصاحبة بالذكاء الاصطناعي."
@@ -8498,5 +8438,248 @@
   "v2_6d7d730c": {
     "description": "Auto-generated translation for: Go to App",
     "message": "انتقال إلى التطبيق"
+  },
+  "v2_32d57c5b": {
+    "description": "Auto-generated translation for: Manually find words in notebook",
+    "message": "البحث اليدوي عن الكلمات في دفتر الملاحظات"
+  },
+  "v2_738e98e4": {
+    "description": "Auto-generated translation for: Browse and select words",
+    "message": "تصفح و اختر الكلمات"
+  },
+  "v2_0ea3d6ae": {
+    "description": "Auto-generated translation for: words to selection. Click 'Create List' to finish.",
+    "message": "الكلمات إلى التحديد. انقر على 'إنشاء قائمة' للانتهاء."
+  },
+  "v2_766a885c": {
+    "description": "Auto-generated translation for: Preview selected words",
+    "message": "معاينة الكلمات المحددة"
+  },
+  "v2_040ea762": {
+    "description": "Auto-generated translation for: Found",
+    "message": "تم العثور عليه"
+  },
+  "v2_06c11aa9": {
+    "description": "Auto-generated translation for: words",
+    "message": "كلمات"
+  },
+  "v2_11b2abfd": {
+    "description": "Auto-generated translation for: matching",
+    "message": "مطابقة"
+  },
+  "v2_688f434d": {
+    "description": "Auto-generated translation for: No words matched your query",
+    "message": "لم تتطابق أي كلمات مع استعلامك"
+  },
+  "v2_66ae909a": {
+    "description": "Auto-generated translation for: Add to selection",
+    "message": "إضافة إلى التحديد"
+  },
+  "v2_4887a536": {
+    "description": "Auto-generated translation for: Ask AI to find words",
+    "message": "اطلب من الذكاء الاصطناعي العثور على الكلمات"
+  },
+  "v2_1498bf32": {
+    "description": "Auto-generated translation for: e.g., all words about weather, food-related words...",
+    "message": "على سبيل المثال، جميع الكلمات المتعلقة بالطقس، الكلمات المتعلقة بالطعام..."
+  },
+  "v2_36275314": {
+    "description": "Auto-generated translation for: Searching...",
+    "message": "جارٍ البحث..."
+  },
+  "v2_458de5f4": {
+    "description": "Auto-generated translation for: Custom Instructions",
+    "message": "تعليمات مخصصة"
+  },
+  "v2_0b4d59ae": {
+    "description": "Auto-generated translation for: {{language}}: {{learningCount}} learning, {{masteredCount}} mastered",
+    "message": "{{language}}: {{learningCount}} قيد التعلّم، {{masteredCount}} متقنة",
+    "placeholders": {
+      "language": {
+        "content": "$1"
+      },
+      "learningCount": {
+        "content": "$2"
+      },
+      "masteredCount": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_34aa7ebc": {
+    "description": "Auto-generated translation for: Import SRT/VTT subtitles",
+    "message": "استيراد ترجمات SRT/VTT"
+  },
+  "v2_71f09f3f": {
+    "description": "Auto-generated translation for: Import SRT/VTT",
+    "message": "استيراد SRT/VTT"
+  },
+  "v2_0d5d07e9": {
+    "description": "Auto-generated translation for: Loading flashcards...",
+    "message": "جارٍ تحميل البطاقات التعليمية..."
+  },
+  "v2_1978763a": {
+    "description": "Auto-generated translation for: Flashcard Training",
+    "message": "تدريب البطاقات التعليمية"
+  },
+  "v2_373a040f": {
+    "description": "Auto-generated translation for: Error loading flashcards",
+    "message": "خطأ في تحميل البطاقات التعليمية"
+  },
+  "v2_6b26c51f": {
+    "description": "Auto-generated translation for: Go Back",
+    "message": "العودة"
+  },
+  "v2_5bb38af4": {
+    "description": "Auto-generated translation for: No flashcards found",
+    "message": "لم يتم العثور على بطاقات تعليمية"
+  },
+  "v2_72d27ea9": {
+    "description": "Auto-generated translation for: No flashcards match your filters",
+    "message": "لا توجد بطاقات تعليمية تتوافق مع عوامل التصفية الخاصة بك."
+  },
+  "v2_2c623939": {
+    "description": "Auto-generated translation for: Go Back to Settings",
+    "message": "العودة إلى الإعدادات"
+  },
+  "v2_66294928": {
+    "description": "Auto-generated translation for: Review your flashcards",
+    "message": "راجع بطاقاتك التعليمية"
+  },
+  "v2_0021748d": {
+    "description": "Auto-generated translation for: Flip",
+    "message": "قلب"
+  },
+  "v2_7ed4166f": {
+    "description": "Auto-generated translation for: Navigate",
+    "message": "تصفح"
+  },
+  "v2_129d01f6": {
+    "description": "Auto-generated translation for: Due cards per session",
+    "message": "البطاقات المستحقة لكل جلسة"
+  },
+  "v2_673a0eb6": {
+    "description": "Auto-generated translation for: New cards per session",
+    "message": "بطاقات جديدة لكل جلسة"
+  },
+  "v2_6b4f5593": {
+    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
+    "message": "البطاقات التي راجعتها سابقًا والتي يحين موعد مراجعتها مرة أخرى"
+  },
+  "v2_69b0d569": {
+    "description": "Auto-generated translation for: Cards you've never reviewed",
+    "message": "البطاقات التي لم تراجعها بعد"
+  },
+  "v2_5f691564": {
+    "description": "Auto-generated translation for: Cards you've reviewed today",
+    "message": "البطاقات التي راجعتها اليوم"
+  },
+  "v2_35274cbd": {
+    "description": "Auto-generated translation for: Choose your training method",
+    "message": "اختر طريقة تدريبك"
+  },
+  "v2_6e2deaa4": {
+    "description": "Auto-generated translation for: Spaced Repetition System",
+    "message": "نظام التكرار المتباعد"
+  },
+  "v2_0b5f86b7": {
+    "description": "Auto-generated translation for: An adaptive learning system that schedules reviews at optimal intervals to help you remember words more effectively",
+    "message": "نظام تعليمي تكيفي يجدول المراجعات في فترات زمنية مثالية لمساعدتك على تذكر الكلمات بشكل أكثر فعالية."
+  },
+  "v2_341a0ca1": {
+    "description": "Auto-generated translation for: Simple Flashcards",
+    "message": "بطاقات تعليمية بسيطة"
+  },
+  "v2_7bf5bd52": {
+    "description": "Auto-generated translation for: Practice with flashcards by filtering words by language, video, list, status, and more",
+    "message": "تدرب باستخدام البطاقات التعليمية عن طريق تصفية الكلمات حسب اللغة والفيديو والقائمة والحالة والمزيد"
+  },
+  "v2_2875f85e": {
+    "description": "Auto-generated translation for: No lists yet",
+    "message": "لا توجد قوائم بعد"
+  },
+  "v2_26789767": {
+    "description": "Auto-generated translation for: Preset name cannot be empty",
+    "message": "اسم الإعداد المسبق لا يمكن أن يكون فارغًا"
+  },
+  "v2_610295ea": {
+    "description": "Auto-generated translation for: Update Preset",
+    "message": "تحديث الإعداد المسبق"
+  },
+  "v2_3d55e8bc": {
+    "description": "Auto-generated translation for: Save Filter Preset",
+    "message": "حفظ الإعداد المسبق للمرشح"
+  },
+  "v2_2b49fdf5": {
+    "description": "Auto-generated translation for: Update the name for this filter preset",
+    "message": "تحديث الاسم لهذا الإعداد المسبق للمرشح"
+  },
+  "v2_74ddc723": {
+    "description": "Auto-generated translation for: Give your filter settings a name so you can easily reuse them later",
+    "message": "امنح إعدادات الفلتر اسمًا لتتمكن من إعادة استخدامها بسهولة لاحقًا"
+  },
+  "v2_2002972c": {
+    "description": "Auto-generated translation for: Preset Name",
+    "message": "اسم الإعداد المسبق"
+  },
+  "v2_4e70dec9": {
+    "description": "Auto-generated translation for: e.g., Spanish Learning Words",
+    "message": "مثلاً، كلمات تعلم الإسبانية"
+  },
+  "v2_48db8548": {
+    "description": "Auto-generated translation for: Updating...",
+    "message": "جارٍ التحديث..."
+  },
+  "v2_689adb17": {
+    "description": "Auto-generated translation for: Update",
+    "message": "تحديث"
+  },
+  "v2_0027359d": {
+    "description": "Auto-generated translation for: Save",
+    "message": "حفظ"
+  },
+  "v2_4aa7d12c": {
+    "description": "Auto-generated translation for: Select a preset...",
+    "message": "اختر إعدادا مسبقا..."
+  },
+  "v2_1ce15eed": {
+    "description": "Auto-generated translation for: No preset (default filters)",
+    "message": "لا توجد إعدادات مسبقة (فلاتر افتراضية)"
+  },
+  "v2_071985a4": {
+    "description": "Auto-generated translation for: No presets saved yet",
+    "message": "لم يتم حفظ أي إعدادات مسبقة بعد"
+  },
+  "v2_228e4ed4": {
+    "description": "Auto-generated translation for: Delete preset",
+    "message": "حذف الإعداد المسبق"
+  },
+  "v2_551ce6e2": {
+    "description": "Auto-generated translation for: Save Preset",
+    "message": "حفظ الإعداد المسبق"
+  },
+  "v2_5bcbc893": {
+    "description": "Auto-generated translation for: Preset updated successfully",
+    "message": "تم تحديث الإعداد المسبق بنجاح"
+  },
+  "v2_444734ba": {
+    "description": "Auto-generated translation for: Failed to update preset: ",
+    "message": "فشل تحديث الإعداد المسبق:"
+  },
+  "v2_0da42161": {
+    "description": "Auto-generated translation for: Preset saved successfully",
+    "message": "تم حفظ الإعداد المسبق بنجاح"
+  },
+  "v2_2256a1fa": {
+    "description": "Auto-generated translation for: Failed to save preset: ",
+    "message": "فشل حفظ الإعداد المسبق:"
+  },
+  "v2_2edac51d": {
+    "description": "Auto-generated translation for: Flip Card",
+    "message": "قلب البطاقة"
+  },
+  "v2_666ebf69": {
+    "description": "Auto-generated translation for: cards reviewed in the last year",
+    "message": "البطاقات التي تمت مراجعتها في العام الماضي"
   }
 }

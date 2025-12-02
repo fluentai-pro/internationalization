@@ -5042,14 +5042,6 @@
     "description": "Auto-generated translation for: Select a store to inspect its data",
     "message": "તેના ડેટાનું નિરીક્ષણ કરવા માટે સ્ટોર પસંદ કરો"
   },
-  "v2_21d27833": {
-    "description": "Auto-generated translation for: Collapse",
-    "message": "પતન"
-  },
-  "v2_7c8dcaba": {
-    "description": "Auto-generated translation for: Expand",
-    "message": "વિસ્તૃત કરો"
-  },
   "v2_6bc6f02e": {
     "description": "Auto-generated translation for: Stores",
     "message": "સ્ટોર્સ"
@@ -6569,10 +6561,6 @@
     "description": "Auto-generated translation for: Generate words with AI",
     "message": "AI થી શબ્દો જનરેટ કરો"
   },
-  "v2_1475e0ba": {
-    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
-    "message": "આ યાદી માટે આપોઆપ શબ્દભંડોળ શબ્દો જનરેટ કરો"
-  },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
     "message": "ભાષા પસંદ કરો"
@@ -6981,25 +6969,9 @@
     "description": "Auto-generated translation for: Delete EPUB",
     "message": "EPUB ડીલીટ કરો"
   },
-  "v2_6657afdc": {
-    "description": "Auto-generated translation for: Sentence Explanation",
-    "message": "\"વાક્ય સમજૂતી\""
-  },
-  "v2_73bf162a": {
-    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
-    "message": "વાક્યના ઘટકોનું વિગતવાર વિશ્લેષણ"
-  },
-  "v2_0b110f0e": {
-    "description": "Auto-generated translation for: Error: ",
-    "message": "ભૂલ:"
-  },
   "v2_64dc3623": {
     "description": "Auto-generated translation for: Meaning",
     "message": "\"અર્થ\""
-  },
-  "v2_6fc26f4d": {
-    "description": "Auto-generated translation for: base form",
-    "message": "\"મૂળ સ્વરૂપ\""
   },
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
@@ -7522,10 +7494,6 @@
     "description": "Auto-generated translation for: Add words from notebook",
     "message": "નોટબુકમાંથી શબ્દો ઉમેરો"
   },
-  "v2_277a0379": {
-    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
-    "message": "આ સૂચિમાં ઉમેરવા માટે તમારી નોટબુકમાંથી હાલના શબ્દો પસંદ કરો"
-  },
   "v2_3b1e210e": {
     "description": "Auto-generated translation for: No translation",
     "message": "કોઈ અનુવાદ નહીં"
@@ -7609,10 +7577,6 @@
   "v2_4e64db31": {
     "description": "Auto-generated translation for: Email is required",
     "message": "ઇમેઇલ જરૂરી છે"
-  },
-  "v2_5841757e": {
-    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
-    "message": "\"તમે શીખી રહ્યા છો તે શબ્દો અને તમે તમારી શીખવાની ભાષામાં જે શબ્દોમાં નિપુણતા મેળવી છે.\""
   },
   "v2_0403cc76": {
     "description": "Auto-generated translation for: EPUB Font Size",
@@ -7960,17 +7924,9 @@
     "description": "Auto-generated translation for: Review Activity",
     "message": "સમીક્ષા પ્રવૃત્તિ"
   },
-  "v2_56c7e042": {
-    "description": "Auto-generated translation for: reviews in the last year",
-    "message": "છેલ્લા વર્ષમાં સમીક્ષાઓ"
-  },
   "v2_42292acf": {
     "description": "Auto-generated translation for: active days",
     "message": "સક્રિય દિવસો"
-  },
-  "v2_418ff41b": {
-    "description": "Auto-generated translation for: reviews",
-    "message": "\"સમીક્ષાઓ\""
   },
   "v2_002415b9": {
     "description": "Auto-generated translation for: Less",
@@ -8463,22 +8419,6 @@
       }
     }
   },
-  "v2_5536b98a": {
-    "description": "Auto-generated translation for: Importing subtitles...",
-    "message": "ઉપશીર્ષકો આયાત કરી રહ્યાં છીએ..."
-  },
-  "v2_0e078deb": {
-    "description": "Auto-generated translation for: Please select a language first",
-    "message": "કૃપા કરીને પહેલા ભાષા પસંદ કરો"
-  },
-  "v2_1336c237": {
-    "description": "Auto-generated translation for: Drag and drop a .srt or .vtt file here, or click to browse",
-    "message": "અહીં .srt અથવા .vtt ફાઇલને ખેંચો અને છોડો, અથવા બ્રાઉઝ કરવા માટે ક્લિક કરો."
-  },
-  "v2_55238138": {
-    "description": "Auto-generated translation for: Drag and drop subtitle file here",
-    "message": "સબટાઈટલ ફાઈલને અહીં ખેંચો અને છોડો"
-  },
   "v2_57def5c4": {
     "description": "Auto-generated translation for: Generate subtitles with AI.",
     "message": "AI વડે સબટાઇટલ બનાવો."
@@ -8498,5 +8438,248 @@
   "v2_6d7d730c": {
     "description": "Auto-generated translation for: Go to App",
     "message": "એપ પર જાઓ"
+  },
+  "v2_32d57c5b": {
+    "description": "Auto-generated translation for: Manually find words in notebook",
+    "message": "નોટબુકમાં શબ્દો જાતે શોધો"
+  },
+  "v2_738e98e4": {
+    "description": "Auto-generated translation for: Browse and select words",
+    "message": "શબ્દો બ્રાઉઝ કરો અને પસંદ કરો"
+  },
+  "v2_0ea3d6ae": {
+    "description": "Auto-generated translation for: words to selection. Click 'Create List' to finish.",
+    "message": "શબ્દોની પસંદગી. સમાપ્ત કરવા માટે 'સૂચિ બનાવો' પર ક્લિક કરો."
+  },
+  "v2_766a885c": {
+    "description": "Auto-generated translation for: Preview selected words",
+    "message": "પસંદ કરેલા શબ્દોનું પૂર્વાવલોકન કરો"
+  },
+  "v2_040ea762": {
+    "description": "Auto-generated translation for: Found",
+    "message": "મળી"
+  },
+  "v2_06c11aa9": {
+    "description": "Auto-generated translation for: words",
+    "message": "શબ્દો"
+  },
+  "v2_11b2abfd": {
+    "description": "Auto-generated translation for: matching",
+    "message": "મેળ ખાતું"
+  },
+  "v2_688f434d": {
+    "description": "Auto-generated translation for: No words matched your query",
+    "message": "તમારી શોધ સાથે કોઈ શબ્દો મળ્યા નથી"
+  },
+  "v2_66ae909a": {
+    "description": "Auto-generated translation for: Add to selection",
+    "message": "પસંદગીમાં ઉમેરો"
+  },
+  "v2_4887a536": {
+    "description": "Auto-generated translation for: Ask AI to find words",
+    "message": "શબ્દો શોધવા માટે AI ને પૂછો"
+  },
+  "v2_1498bf32": {
+    "description": "Auto-generated translation for: e.g., all words about weather, food-related words...",
+    "message": "દા.ત., હવામાન વિશેના તમામ શબ્દો, ખોરાક-સંબંધિત શબ્દો..."
+  },
+  "v2_36275314": {
+    "description": "Auto-generated translation for: Searching...",
+    "message": "શોધી રહ્યા છીએ..."
+  },
+  "v2_458de5f4": {
+    "description": "Auto-generated translation for: Custom Instructions",
+    "message": "કસ્ટમ સૂચનાઓ"
+  },
+  "v2_0b4d59ae": {
+    "description": "Auto-generated translation for: {{language}}: {{learningCount}} learning, {{masteredCount}} mastered",
+    "message": "{{language}}: {{learningCount}} શીખી રહ્યા છે, {{masteredCount}} પ્રભુત્વ મેળવેલ છે",
+    "placeholders": {
+      "language": {
+        "content": "$1"
+      },
+      "learningCount": {
+        "content": "$2"
+      },
+      "masteredCount": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_34aa7ebc": {
+    "description": "Auto-generated translation for: Import SRT/VTT subtitles",
+    "message": "SRT/VTT સબટાઈટલ આયાત કરો"
+  },
+  "v2_71f09f3f": {
+    "description": "Auto-generated translation for: Import SRT/VTT",
+    "message": "SRT/VTT આયાત કરો"
+  },
+  "v2_0d5d07e9": {
+    "description": "Auto-generated translation for: Loading flashcards...",
+    "message": "ફ્લેશકાર્ડ લોડ થઈ રહ્યાં છે..."
+  },
+  "v2_1978763a": {
+    "description": "Auto-generated translation for: Flashcard Training",
+    "message": "ફ્લેશકાર્ડ તાલીમ"
+  },
+  "v2_373a040f": {
+    "description": "Auto-generated translation for: Error loading flashcards",
+    "message": "ફ્લેશકાર્ડ લોડ કરવામાં ભૂલ"
+  },
+  "v2_6b26c51f": {
+    "description": "Auto-generated translation for: Go Back",
+    "message": "પાછા જાઓ"
+  },
+  "v2_5bb38af4": {
+    "description": "Auto-generated translation for: No flashcards found",
+    "message": "કોઈ ફ્લેશકાર્ડ મળ્યા નથી"
+  },
+  "v2_72d27ea9": {
+    "description": "Auto-generated translation for: No flashcards match your filters",
+    "message": "તમારા ફિલ્ટર્સ સાથે કોઈ ફ્લેશકાર્ડ્સ મેળ ખાતા નથી"
+  },
+  "v2_2c623939": {
+    "description": "Auto-generated translation for: Go Back to Settings",
+    "message": "સેટિંગ્સ પર પાછા જાઓ"
+  },
+  "v2_66294928": {
+    "description": "Auto-generated translation for: Review your flashcards",
+    "message": "તમારા ફ્લેશકાર્ડ્સની સમીક્ષા કરો"
+  },
+  "v2_0021748d": {
+    "description": "Auto-generated translation for: Flip",
+    "message": "ફ્લિપ કરો"
+  },
+  "v2_7ed4166f": {
+    "description": "Auto-generated translation for: Navigate",
+    "message": "નેવિગેટ કરો"
+  },
+  "v2_129d01f6": {
+    "description": "Auto-generated translation for: Due cards per session",
+    "message": "પ્રતિ સત્ર બે કાર્ડ"
+  },
+  "v2_673a0eb6": {
+    "description": "Auto-generated translation for: New cards per session",
+    "message": "પ્રતિ સત્ર નવા કાર્ડ્સ"
+  },
+  "v2_6b4f5593": {
+    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
+    "message": "તમે અગાઉ સમીક્ષા કરેલા કાર્ડ્સ જે ફરીથી આવવાના છે"
+  },
+  "v2_69b0d569": {
+    "description": "Auto-generated translation for: Cards you've never reviewed",
+    "message": "તમે ક્યારેય સમીક્ષા ન કરેલા કાર્ડ્સ"
+  },
+  "v2_5f691564": {
+    "description": "Auto-generated translation for: Cards you've reviewed today",
+    "message": "આજે તમે સમીક્ષા કરેલા કાર્ડ્સ"
+  },
+  "v2_35274cbd": {
+    "description": "Auto-generated translation for: Choose your training method",
+    "message": "તમારી તાલીમ પદ્ધતિ પસંદ કરો"
+  },
+  "v2_6e2deaa4": {
+    "description": "Auto-generated translation for: Spaced Repetition System",
+    "message": "સ્પેસ્ડ રિપીટિશન સિસ્ટમ"
+  },
+  "v2_0b5f86b7": {
+    "description": "Auto-generated translation for: An adaptive learning system that schedules reviews at optimal intervals to help you remember words more effectively",
+    "message": "એક અનુકૂલનશીલ શિક્ષણ પ્રણાલી જે તમને શબ્દોને વધુ અસરકારક રીતે યાદ રાખવામાં મદદ કરવા માટે શ્રેષ્ઠ અંતરાલો પર સમીક્ષાઓનું સમયપત્રક બનાવે છે."
+  },
+  "v2_341a0ca1": {
+    "description": "Auto-generated translation for: Simple Flashcards",
+    "message": "સરળ ફ્લેશકાર્ડ્સ"
+  },
+  "v2_7bf5bd52": {
+    "description": "Auto-generated translation for: Practice with flashcards by filtering words by language, video, list, status, and more",
+    "message": "ભાષા, વિડિઓ, સૂચિ, સ્થિતિ અને વધુ દ્વારા શબ્દોને ફિલ્ટર કરીને ફ્લેશકાર્ડ્સ સાથે પ્રેક્ટિસ કરો"
+  },
+  "v2_2875f85e": {
+    "description": "Auto-generated translation for: No lists yet",
+    "message": "હજી સુધી કોઈ સૂચિ નથી"
+  },
+  "v2_26789767": {
+    "description": "Auto-generated translation for: Preset name cannot be empty",
+    "message": "પ્રીસેટ નામ ખાલી હોઈ શકતું નથી"
+  },
+  "v2_610295ea": {
+    "description": "Auto-generated translation for: Update Preset",
+    "message": "પ્રીસેટ અપડેટ કરો"
+  },
+  "v2_3d55e8bc": {
+    "description": "Auto-generated translation for: Save Filter Preset",
+    "message": "ફિલ્ટર પ્રીસેટ સાચવો"
+  },
+  "v2_2b49fdf5": {
+    "description": "Auto-generated translation for: Update the name for this filter preset",
+    "message": "આ ફિલ્ટર પ્રીસેટ માટે નામ અપડેટ કરો"
+  },
+  "v2_74ddc723": {
+    "description": "Auto-generated translation for: Give your filter settings a name so you can easily reuse them later",
+    "message": "તમારી ફિલ્ટર સેટિંગ્સને એક નામ આપો જેથી તમે પછીથી તેનો સરળતાથી ફરીથી ઉપયોગ કરી શકો"
+  },
+  "v2_2002972c": {
+    "description": "Auto-generated translation for: Preset Name",
+    "message": "પ્રીસેટ નામ"
+  },
+  "v2_4e70dec9": {
+    "description": "Auto-generated translation for: e.g., Spanish Learning Words",
+    "message": "દા.ત., સ્પેનિશ શીખવાના શબ્દો"
+  },
+  "v2_48db8548": {
+    "description": "Auto-generated translation for: Updating...",
+    "message": "અપડેટ કરી રહ્યું છે..."
+  },
+  "v2_689adb17": {
+    "description": "Auto-generated translation for: Update",
+    "message": "અપડેટ કરો"
+  },
+  "v2_0027359d": {
+    "description": "Auto-generated translation for: Save",
+    "message": "સાચવો"
+  },
+  "v2_4aa7d12c": {
+    "description": "Auto-generated translation for: Select a preset...",
+    "message": "પૂર્વ-નિર્ધારિત પસંદ કરો..."
+  },
+  "v2_1ce15eed": {
+    "description": "Auto-generated translation for: No preset (default filters)",
+    "message": "કોઈ પ્રીસેટ નથી (ડિફૉલ્ટ ફિલ્ટર્સ)"
+  },
+  "v2_071985a4": {
+    "description": "Auto-generated translation for: No presets saved yet",
+    "message": "હજુ સુધી કોઈ પ્રીસેટ્સ સાચવેલ નથી"
+  },
+  "v2_228e4ed4": {
+    "description": "Auto-generated translation for: Delete preset",
+    "message": "પ્રીસેટ કાઢી નાખો"
+  },
+  "v2_551ce6e2": {
+    "description": "Auto-generated translation for: Save Preset",
+    "message": "પ્રીસેટ સાચવો"
+  },
+  "v2_5bcbc893": {
+    "description": "Auto-generated translation for: Preset updated successfully",
+    "message": "પ્રીસેટ સફળતાપૂર્વક અપડેટ થયું"
+  },
+  "v2_444734ba": {
+    "description": "Auto-generated translation for: Failed to update preset: ",
+    "message": "પ્રીસેટ અપડેટ કરવામાં નિષ્ફળ:"
+  },
+  "v2_0da42161": {
+    "description": "Auto-generated translation for: Preset saved successfully",
+    "message": "પ્રીસેટ સફળતાપૂર્વક સાચવવામાં આવ્યું"
+  },
+  "v2_2256a1fa": {
+    "description": "Auto-generated translation for: Failed to save preset: ",
+    "message": "પ્રીસેટ સાચવવામાં નિષ્ફળ:"
+  },
+  "v2_2edac51d": {
+    "description": "Auto-generated translation for: Flip Card",
+    "message": "ફ્લિપ કાર્ડ"
+  },
+  "v2_666ebf69": {
+    "description": "Auto-generated translation for: cards reviewed in the last year",
+    "message": "છેલ્લા વર્ષમાં સમીક્ષા કરાયેલા કાર્ડ્સ"
   }
 }

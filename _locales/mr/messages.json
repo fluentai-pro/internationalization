@@ -5189,14 +5189,6 @@
     "description": "Auto-generated translation for: Select a store to inspect its data",
     "message": "डेटा तपासण्यासाठी स्टोअर निवडा"
   },
-  "v2_21d27833": {
-    "description": "Auto-generated translation for: Collapse",
-    "message": "कोसळणे"
-  },
-  "v2_7c8dcaba": {
-    "description": "Auto-generated translation for: Expand",
-    "message": "विस्तार करा"
-  },
   "v2_6bc6f02e": {
     "description": "Auto-generated translation for: Stores",
     "message": "दुकाने"
@@ -6716,10 +6708,6 @@
     "description": "Auto-generated translation for: Generate words with AI",
     "message": "एआय (AI) वापरून शब्द तयार करा"
   },
-  "v2_1475e0ba": {
-    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
-    "message": "या सूचीसाठी आपोआप शब्दसंग्रह शब्द तयार करा"
-  },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
     "message": "भाषा निवडा"
@@ -7128,25 +7116,9 @@
     "description": "Auto-generated translation for: Delete EPUB",
     "message": "ईPUB हटवा"
   },
-  "v2_6657afdc": {
-    "description": "Auto-generated translation for: Sentence Explanation",
-    "message": "वाक्याचे स्पष्टीकरण"
-  },
-  "v2_73bf162a": {
-    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
-    "message": "वाक्यातील घटकांचे तपशीलवार विश्लेषण"
-  },
-  "v2_0b110f0e": {
-    "description": "Auto-generated translation for: Error: ",
-    "message": "त्रुटी:"
-  },
   "v2_64dc3623": {
     "description": "Auto-generated translation for: Meaning",
     "message": "अर्थ"
-  },
-  "v2_6fc26f4d": {
-    "description": "Auto-generated translation for: base form",
-    "message": "\"मूळ रूप\""
   },
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
@@ -7669,10 +7641,6 @@
     "description": "Auto-generated translation for: Add words from notebook",
     "message": "नोटबुकमधून शब्द जोडा"
   },
-  "v2_277a0379": {
-    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
-    "message": "या सूचीमध्ये जोडण्यासाठी तुमच्या नोटबुकमधील विद्यमान शब्द निवडा"
-  },
   "v2_3b1e210e": {
     "description": "Auto-generated translation for: No translation",
     "message": "भाषांतर उपलब्ध नाही"
@@ -7756,10 +7724,6 @@
   "v2_4e64db31": {
     "description": "Auto-generated translation for: Email is required",
     "message": "ईमेल आवश्यक आहे"
-  },
-  "v2_5841757e": {
-    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
-    "message": "तुम्ही शिकत असलेले शब्द आणि तुमच्या शिक्षण भाषेमध्ये तुम्ही प्रभुत्व मिळवलेले शब्द"
   },
   "v2_0403cc76": {
     "description": "Auto-generated translation for: EPUB Font Size",
@@ -8107,17 +8071,9 @@
     "description": "Auto-generated translation for: Review Activity",
     "message": "ॲक्टिव्हिटी रिव्ह्यू"
   },
-  "v2_56c7e042": {
-    "description": "Auto-generated translation for: reviews in the last year",
-    "message": "गेल्या वर्षातील पुनरावलोकने"
-  },
   "v2_42292acf": {
     "description": "Auto-generated translation for: active days",
     "message": "सक्रिय दिवस"
-  },
-  "v2_418ff41b": {
-    "description": "Auto-generated translation for: reviews",
-    "message": "\"पुनरावलोकने\""
   },
   "v2_002415b9": {
     "description": "Auto-generated translation for: Less",
@@ -8610,22 +8566,6 @@
       }
     }
   },
-  "v2_5536b98a": {
-    "description": "Auto-generated translation for: Importing subtitles...",
-    "message": "उपशीर्षके आयात करत आहे..."
-  },
-  "v2_0e078deb": {
-    "description": "Auto-generated translation for: Please select a language first",
-    "message": "कृपया प्रथम भाषा निवडा"
-  },
-  "v2_1336c237": {
-    "description": "Auto-generated translation for: Drag and drop a .srt or .vtt file here, or click to browse",
-    "message": "येथे एक .srt किंवा .vtt फाइल ड्रॅग आणि ड्रॉप करा किंवा ब्राउझ करण्यासाठी क्लिक करा"
-  },
-  "v2_55238138": {
-    "description": "Auto-generated translation for: Drag and drop subtitle file here",
-    "message": "उपशीर्षक फाइल येथे ड्रॅग आणि ड्रॉप करा"
-  },
   "v2_57def5c4": {
     "description": "Auto-generated translation for: Generate subtitles with AI.",
     "message": "एआय वापरून सबटायटल्स जनरेट करा."
@@ -8645,5 +8585,248 @@
   "v2_6d7d730c": {
     "description": "Auto-generated translation for: Go to App",
     "message": "अॅपवर जा"
+  },
+  "v2_32d57c5b": {
+    "description": "Auto-generated translation for: Manually find words in notebook",
+    "message": "नोटबुकमधील शब्द व्यक्तिचलितपणे शोधा"
+  },
+  "v2_738e98e4": {
+    "description": "Auto-generated translation for: Browse and select words",
+    "message": "शब्द ब्राउझ करा आणि निवडा"
+  },
+  "v2_0ea3d6ae": {
+    "description": "Auto-generated translation for: words to selection. Click 'Create List' to finish.",
+    "message": "निवडीसाठी शब्द. पूर्ण करण्यासाठी 'सूची तयार करा' वर क्लिक करा."
+  },
+  "v2_766a885c": {
+    "description": "Auto-generated translation for: Preview selected words",
+    "message": "निवडलेल्या शब्दांचे पूर्वावलोकन करा"
+  },
+  "v2_040ea762": {
+    "description": "Auto-generated translation for: Found",
+    "message": "आढळले"
+  },
+  "v2_06c11aa9": {
+    "description": "Auto-generated translation for: words",
+    "message": "शब्द"
+  },
+  "v2_11b2abfd": {
+    "description": "Auto-generated translation for: matching",
+    "message": "जुळणारे"
+  },
+  "v2_688f434d": {
+    "description": "Auto-generated translation for: No words matched your query",
+    "message": "तुमच्या प्रश्नाशी कोणतेही शब्द जुळले नाहीत"
+  },
+  "v2_66ae909a": {
+    "description": "Auto-generated translation for: Add to selection",
+    "message": "निवडीमध्ये जोडा"
+  },
+  "v2_4887a536": {
+    "description": "Auto-generated translation for: Ask AI to find words",
+    "message": "शब्द शोधण्यासाठी AI ला विचारा"
+  },
+  "v2_1498bf32": {
+    "description": "Auto-generated translation for: e.g., all words about weather, food-related words...",
+    "message": "उदा. हवामानाशी संबंधित सर्व शब्द, खाद्यपदार्थांशी संबंधित शब्द..."
+  },
+  "v2_36275314": {
+    "description": "Auto-generated translation for: Searching...",
+    "message": "शोधत आहे..."
+  },
+  "v2_458de5f4": {
+    "description": "Auto-generated translation for: Custom Instructions",
+    "message": "सानुकूल सूचना"
+  },
+  "v2_0b4d59ae": {
+    "description": "Auto-generated translation for: {{language}}: {{learningCount}} learning, {{masteredCount}} mastered",
+    "message": "{{language}}: {{learningCount}} शिकत आहे, {{masteredCount}} पारंगत झाले",
+    "placeholders": {
+      "language": {
+        "content": "$1"
+      },
+      "learningCount": {
+        "content": "$2"
+      },
+      "masteredCount": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_34aa7ebc": {
+    "description": "Auto-generated translation for: Import SRT/VTT subtitles",
+    "message": "SRT/VTT सबटायटल्स इम्पोर्ट करा"
+  },
+  "v2_71f09f3f": {
+    "description": "Auto-generated translation for: Import SRT/VTT",
+    "message": "SRT/VTT आयात करा"
+  },
+  "v2_0d5d07e9": {
+    "description": "Auto-generated translation for: Loading flashcards...",
+    "message": "फ्लॅशकार्ड्स लोड करत आहे..."
+  },
+  "v2_1978763a": {
+    "description": "Auto-generated translation for: Flashcard Training",
+    "message": "फ्लॅशकार्ड प्रशिक्षण"
+  },
+  "v2_373a040f": {
+    "description": "Auto-generated translation for: Error loading flashcards",
+    "message": "फ्लॅशकार्ड लोड करताना एरर"
+  },
+  "v2_6b26c51f": {
+    "description": "Auto-generated translation for: Go Back",
+    "message": "मागे जा"
+  },
+  "v2_5bb38af4": {
+    "description": "Auto-generated translation for: No flashcards found",
+    "message": "कोणतेही फ्लॅशकार्ड आढळले नाहीत"
+  },
+  "v2_72d27ea9": {
+    "description": "Auto-generated translation for: No flashcards match your filters",
+    "message": "कोणत्याही फ्लॅशकार्ड तुमच्या फिल्टरशी जुळत नाहीत."
+  },
+  "v2_2c623939": {
+    "description": "Auto-generated translation for: Go Back to Settings",
+    "message": "सेटिंग्जवर परत जा"
+  },
+  "v2_66294928": {
+    "description": "Auto-generated translation for: Review your flashcards",
+    "message": "तुमच्या फ्लॅशकार्ड्सचे पुनरावलोकन करा"
+  },
+  "v2_0021748d": {
+    "description": "Auto-generated translation for: Flip",
+    "message": "पलटी"
+  },
+  "v2_7ed4166f": {
+    "description": "Auto-generated translation for: Navigate",
+    "message": "नॅव्हिगेट करा"
+  },
+  "v2_129d01f6": {
+    "description": "Auto-generated translation for: Due cards per session",
+    "message": "प्रति सत्रासाठी देय कार्ड"
+  },
+  "v2_673a0eb6": {
+    "description": "Auto-generated translation for: New cards per session",
+    "message": "प्रत्येक सत्रातील नवीन कार्डे"
+  },
+  "v2_6b4f5593": {
+    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
+    "message": "तुम्ही याआधी पुनरावलोकन केलेली कार्ड्स जी पुन्हा देय आहेत"
+  },
+  "v2_69b0d569": {
+    "description": "Auto-generated translation for: Cards you've never reviewed",
+    "message": "तुम्ही कधीही न तपासलेली कार्डे"
+  },
+  "v2_5f691564": {
+    "description": "Auto-generated translation for: Cards you've reviewed today",
+    "message": "आज तुम्ही पुनरावलोकन केलेली कार्डे"
+  },
+  "v2_35274cbd": {
+    "description": "Auto-generated translation for: Choose your training method",
+    "message": "तुमची प्रशिक्षण पद्धत निवडा"
+  },
+  "v2_6e2deaa4": {
+    "description": "Auto-generated translation for: Spaced Repetition System",
+    "message": "अंतरावरील पुनरावृत्ती प्रणाली"
+  },
+  "v2_0b5f86b7": {
+    "description": "Auto-generated translation for: An adaptive learning system that schedules reviews at optimal intervals to help you remember words more effectively",
+    "message": "एक अनुकूली शिक्षण प्रणाली जी तुम्हाला शब्द अधिक प्रभावीपणे लक्षात ठेवण्यास मदत करण्यासाठी इष्टतम अंतराने रिव्ह्यूची योजना करते"
+  },
+  "v2_341a0ca1": {
+    "description": "Auto-generated translation for: Simple Flashcards",
+    "message": "सोपे फ्लॅशकार्ड्स"
+  },
+  "v2_7bf5bd52": {
+    "description": "Auto-generated translation for: Practice with flashcards by filtering words by language, video, list, status, and more",
+    "message": "भाषा, व्हिडिओ, सूची, स्थिती आणि इतरानुसार शब्द फिल्टर करून फ्लॅशकार्डसह सराव करा"
+  },
+  "v2_2875f85e": {
+    "description": "Auto-generated translation for: No lists yet",
+    "message": "अद्याप कोणतीही यादी नाही"
+  },
+  "v2_26789767": {
+    "description": "Auto-generated translation for: Preset name cannot be empty",
+    "message": "प्रीसेटचे नाव रिकामे असू शकत नाही"
+  },
+  "v2_610295ea": {
+    "description": "Auto-generated translation for: Update Preset",
+    "message": "प्रीसेट अपडेट करा"
+  },
+  "v2_3d55e8bc": {
+    "description": "Auto-generated translation for: Save Filter Preset",
+    "message": "फिल्टर प्रीसेट सेव्ह करा"
+  },
+  "v2_2b49fdf5": {
+    "description": "Auto-generated translation for: Update the name for this filter preset",
+    "message": "या फिल्टर प्रीसेटसाठी नाव अपडेट करा"
+  },
+  "v2_74ddc723": {
+    "description": "Auto-generated translation for: Give your filter settings a name so you can easily reuse them later",
+    "message": "आपल्या फिल्टर सेटिंग्जना एक नाव द्या, जेणेकरून आपण त्यांना नंतर सहजपणे वापरू शकाल"
+  },
+  "v2_2002972c": {
+    "description": "Auto-generated translation for: Preset Name",
+    "message": "प्रीसेट नाव"
+  },
+  "v2_4e70dec9": {
+    "description": "Auto-generated translation for: e.g., Spanish Learning Words",
+    "message": "उदा. स्पॅनिश शिकण्याचे शब्द"
+  },
+  "v2_48db8548": {
+    "description": "Auto-generated translation for: Updating...",
+    "message": "अद्यतन करत आहे..."
+  },
+  "v2_689adb17": {
+    "description": "Auto-generated translation for: Update",
+    "message": "अद्यायावत करा"
+  },
+  "v2_0027359d": {
+    "description": "Auto-generated translation for: Save",
+    "message": "जतन करा"
+  },
+  "v2_4aa7d12c": {
+    "description": "Auto-generated translation for: Select a preset...",
+    "message": "प्रीसेट निवडा..."
+  },
+  "v2_1ce15eed": {
+    "description": "Auto-generated translation for: No preset (default filters)",
+    "message": "कोणतीही पूर्वनिर्धारित सेटिंग नाही (डीफॉल्ट फिल्टर)"
+  },
+  "v2_071985a4": {
+    "description": "Auto-generated translation for: No presets saved yet",
+    "message": "कोणतीही प्रीसेट अजून सेव्ह केलेली नाहीत"
+  },
+  "v2_228e4ed4": {
+    "description": "Auto-generated translation for: Delete preset",
+    "message": "प्रीसेट हटवा"
+  },
+  "v2_551ce6e2": {
+    "description": "Auto-generated translation for: Save Preset",
+    "message": "प्रीसेट सेव्ह करा"
+  },
+  "v2_5bcbc893": {
+    "description": "Auto-generated translation for: Preset updated successfully",
+    "message": "प्रीसेट यशस्वीरित्या अपडेट केले"
+  },
+  "v2_444734ba": {
+    "description": "Auto-generated translation for: Failed to update preset: ",
+    "message": "प्रीसेट अद्यतनित करण्यात अयशस्वी:"
+  },
+  "v2_0da42161": {
+    "description": "Auto-generated translation for: Preset saved successfully",
+    "message": "प्रीसेट यशस्वीरित्या जतन केले"
+  },
+  "v2_2256a1fa": {
+    "description": "Auto-generated translation for: Failed to save preset: ",
+    "message": "प्रीसेट सेव्ह करण्यात अयशस्वी:"
+  },
+  "v2_2edac51d": {
+    "description": "Auto-generated translation for: Flip Card",
+    "message": "फ्लिप कार्ड"
+  },
+  "v2_666ebf69": {
+    "description": "Auto-generated translation for: cards reviewed in the last year",
+    "message": "गेल्या वर्षात पुनरावलोकन केलेली कार्डे"
   }
 }

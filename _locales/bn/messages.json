@@ -5189,14 +5189,6 @@
     "description": "Auto-generated translation for: Select a store to inspect its data",
     "message": "এর ডেটা পরিদর্শন করতে একটি দোকান নির্বাচন করুন"
   },
-  "v2_21d27833": {
-    "description": "Auto-generated translation for: Collapse",
-    "message": "ধসে পড়া"
-  },
-  "v2_7c8dcaba": {
-    "description": "Auto-generated translation for: Expand",
-    "message": "প্রসারিত করুন"
-  },
   "v2_6bc6f02e": {
     "description": "Auto-generated translation for: Stores",
     "message": "দোকান"
@@ -6716,10 +6708,6 @@
     "description": "Auto-generated translation for: Generate words with AI",
     "message": "এআই দিয়ে শব্দ তৈরি করুন"
   },
-  "v2_1475e0ba": {
-    "description": "Auto-generated translation for: Automatically generate vocabulary words for this list",
-    "message": "এই তালিকার জন্য স্বয়ংক্রিয়ভাবে শব্দকোষ তৈরি করুন"
-  },
   "v2_5519d1dc": {
     "description": "Auto-generated translation for: Select language",
     "message": "ভাষা নির্বাচন করুন"
@@ -7128,25 +7116,9 @@
     "description": "Auto-generated translation for: Delete EPUB",
     "message": "ইপিইউবি মুছুন"
   },
-  "v2_6657afdc": {
-    "description": "Auto-generated translation for: Sentence Explanation",
-    "message": "বাক্যটির ব্যাখ্যা"
-  },
-  "v2_73bf162a": {
-    "description": "Auto-generated translation for: Detailed breakdown of the sentence components",
-    "message": "বাক্যের উপাদানগুলির বিস্তারিত বিভাজন"
-  },
-  "v2_0b110f0e": {
-    "description": "Auto-generated translation for: Error: ",
-    "message": "ত্রুটি:"
-  },
   "v2_64dc3623": {
     "description": "Auto-generated translation for: Meaning",
     "message": "অর্থ"
-  },
-  "v2_6fc26f4d": {
-    "description": "Auto-generated translation for: base form",
-    "message": "\"বেস ফর্ম\""
   },
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
@@ -7669,10 +7641,6 @@
     "description": "Auto-generated translation for: Add words from notebook",
     "message": "নোটবুক থেকে শব্দ যোগ করুন"
   },
-  "v2_277a0379": {
-    "description": "Auto-generated translation for: Select existing words from your notebook to add to this list",
-    "message": "এই তালিকায় যোগ করার জন্য তোমার নোটবুক থেকে বিদ্যমান শব্দ নির্বাচন করো"
-  },
   "v2_3b1e210e": {
     "description": "Auto-generated translation for: No translation",
     "message": "কোনো অনুবাদ নেই"
@@ -7756,10 +7724,6 @@
   "v2_4e64db31": {
     "description": "Auto-generated translation for: Email is required",
     "message": "ইমেইল আবশ্যিক"
-  },
-  "v2_5841757e": {
-    "description": "Auto-generated translation for: Words you are learning and words you have mastered in your learning language",
-    "message": "যে শব্দগুলো তুমি শিখছো এবং যে শব্দগুলো তুমি তোমার শেখার ভাষায় আয়ত্ত করেছো"
   },
   "v2_0403cc76": {
     "description": "Auto-generated translation for: EPUB Font Size",
@@ -8107,17 +8071,9 @@
     "description": "Auto-generated translation for: Review Activity",
     "message": "পর্যালোচনা কার্যকলাপ"
   },
-  "v2_56c7e042": {
-    "description": "Auto-generated translation for: reviews in the last year",
-    "message": "গত বছরের মধ্যে রিভিউ"
-  },
   "v2_42292acf": {
     "description": "Auto-generated translation for: active days",
     "message": "সক্রিয় দিন"
-  },
-  "v2_418ff41b": {
-    "description": "Auto-generated translation for: reviews",
-    "message": "পর্যালোচনা"
   },
   "v2_002415b9": {
     "description": "Auto-generated translation for: Less",
@@ -8610,22 +8566,6 @@
       }
     }
   },
-  "v2_5536b98a": {
-    "description": "Auto-generated translation for: Importing subtitles...",
-    "message": "সাবটাইটেল ইম্পোর্ট করা হচ্ছে..."
-  },
-  "v2_0e078deb": {
-    "description": "Auto-generated translation for: Please select a language first",
-    "message": "প্রথমে একটি ভাষা নির্বাচন করুন"
-  },
-  "v2_1336c237": {
-    "description": "Auto-generated translation for: Drag and drop a .srt or .vtt file here, or click to browse",
-    "message": "এখানে একটি .srt বা .vtt ফাইল টেনে আনুন, অথবা ব্রাউজ করতে ক্লিক করুন"
-  },
-  "v2_55238138": {
-    "description": "Auto-generated translation for: Drag and drop subtitle file here",
-    "message": "এখানে সাবটাইটেল ফাইলটি টেনে আনুন"
-  },
   "v2_57def5c4": {
     "description": "Auto-generated translation for: Generate subtitles with AI.",
     "message": "এআই দিয়ে সাবটাইটেল তৈরি করুন।"
@@ -8645,5 +8585,248 @@
   "v2_6d7d730c": {
     "description": "Auto-generated translation for: Go to App",
     "message": "অ্যাপে যান"
+  },
+  "v2_32d57c5b": {
+    "description": "Auto-generated translation for: Manually find words in notebook",
+    "message": "ম্যানুয়ালি নোটবুক থেকে শব্দ খুঁজুন"
+  },
+  "v2_738e98e4": {
+    "description": "Auto-generated translation for: Browse and select words",
+    "message": "শব্দ ব্রাউজ করুন এবং নির্বাচন করুন"
+  },
+  "v2_0ea3d6ae": {
+    "description": "Auto-generated translation for: words to selection. Click 'Create List' to finish.",
+    "message": "শব্দ থেকে নির্বাচন। শেষ করতে ‘তালিকা তৈরি করুন’-এ ক্লিক করুন।"
+  },
+  "v2_766a885c": {
+    "description": "Auto-generated translation for: Preview selected words",
+    "message": "নির্বাচিত শব্দগুলির পূর্বরূপ দেখুন"
+  },
+  "v2_040ea762": {
+    "description": "Auto-generated translation for: Found",
+    "message": "পাওয়া গেছে"
+  },
+  "v2_06c11aa9": {
+    "description": "Auto-generated translation for: words",
+    "message": "শব্দাবলী"
+  },
+  "v2_11b2abfd": {
+    "description": "Auto-generated translation for: matching",
+    "message": "ম্যাচিং"
+  },
+  "v2_688f434d": {
+    "description": "Auto-generated translation for: No words matched your query",
+    "message": "আপনার প্রশ্নের সাথে কোনো শব্দ মেলেনি"
+  },
+  "v2_66ae909a": {
+    "description": "Auto-generated translation for: Add to selection",
+    "message": "নির্বাচনে যোগ করুন"
+  },
+  "v2_4887a536": {
+    "description": "Auto-generated translation for: Ask AI to find words",
+    "message": "AI-কে শব্দ খুঁজতে বলুন"
+  },
+  "v2_1498bf32": {
+    "description": "Auto-generated translation for: e.g., all words about weather, food-related words...",
+    "message": "যেমন, আবহাওয়া সম্পর্কিত সমস্ত শব্দ, খাদ্য সম্পর্কিত শব্দ..."
+  },
+  "v2_36275314": {
+    "description": "Auto-generated translation for: Searching...",
+    "message": "অনুসন্ধান করা হচ্ছে..."
+  },
+  "v2_458de5f4": {
+    "description": "Auto-generated translation for: Custom Instructions",
+    "message": "কাস্টম নির্দেশাবলী"
+  },
+  "v2_0b4d59ae": {
+    "description": "Auto-generated translation for: {{language}}: {{learningCount}} learning, {{masteredCount}} mastered",
+    "message": "{{language}}: {{learningCount}}টি শেখা হচ্ছে, {{masteredCount}}টি আয়ত্ত করা হয়েছে",
+    "placeholders": {
+      "language": {
+        "content": "$1"
+      },
+      "learningCount": {
+        "content": "$2"
+      },
+      "masteredCount": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_34aa7ebc": {
+    "description": "Auto-generated translation for: Import SRT/VTT subtitles",
+    "message": "SRT/VTT সাবটাইটেল ইম্পোর্ট করুন"
+  },
+  "v2_71f09f3f": {
+    "description": "Auto-generated translation for: Import SRT/VTT",
+    "message": "SRT/VTT আমদানি করুন"
+  },
+  "v2_0d5d07e9": {
+    "description": "Auto-generated translation for: Loading flashcards...",
+    "message": "ফ্ল্যাশকার্ড লোড হচ্ছে..."
+  },
+  "v2_1978763a": {
+    "description": "Auto-generated translation for: Flashcard Training",
+    "message": "ফ্ল্যাশকার্ড প্রশিক্ষণ"
+  },
+  "v2_373a040f": {
+    "description": "Auto-generated translation for: Error loading flashcards",
+    "message": "ফ্ল্যাশকার্ড লোড করার সময় ত্রুটি"
+  },
+  "v2_6b26c51f": {
+    "description": "Auto-generated translation for: Go Back",
+    "message": "ফিরে যান"
+  },
+  "v2_5bb38af4": {
+    "description": "Auto-generated translation for: No flashcards found",
+    "message": "কোনো ফ্ল্যাশকার্ড পাওয়া যায়নি"
+  },
+  "v2_72d27ea9": {
+    "description": "Auto-generated translation for: No flashcards match your filters",
+    "message": "কোনো ফ্ল্যাশকার্ড আপনার ফিল্টারের সাথে মেলে না"
+  },
+  "v2_2c623939": {
+    "description": "Auto-generated translation for: Go Back to Settings",
+    "message": "সেটিংসে ফিরে যান"
+  },
+  "v2_66294928": {
+    "description": "Auto-generated translation for: Review your flashcards",
+    "message": "আপনার ফ্ল্যাশকার্ড পর্যালোচনা করুন"
+  },
+  "v2_0021748d": {
+    "description": "Auto-generated translation for: Flip",
+    "message": "পাল্টান"
+  },
+  "v2_7ed4166f": {
+    "description": "Auto-generated translation for: Navigate",
+    "message": "পরিচালনা করুন"
+  },
+  "v2_129d01f6": {
+    "description": "Auto-generated translation for: Due cards per session",
+    "message": "প্রতি সেশনে কার্ডের সংখ্যা"
+  },
+  "v2_673a0eb6": {
+    "description": "Auto-generated translation for: New cards per session",
+    "message": "প্রতি সেশনে নতুন কার্ড"
+  },
+  "v2_6b4f5593": {
+    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
+    "message": "যে কার্ডগুলি আপনি আগে পর্যালোচনা করেছেন এবং পুনরায় দেখার সময় হয়েছে"
+  },
+  "v2_69b0d569": {
+    "description": "Auto-generated translation for: Cards you've never reviewed",
+    "message": "যেসব কার্ড আপনি কখনো পর্যালোচনা করেননি"
+  },
+  "v2_5f691564": {
+    "description": "Auto-generated translation for: Cards you've reviewed today",
+    "message": "আজ আপনি যে কার্ডগুলি পর্যালোচনা করেছেন"
+  },
+  "v2_35274cbd": {
+    "description": "Auto-generated translation for: Choose your training method",
+    "message": "আপনার প্রশিক্ষণের পদ্ধতি বেছে নিন"
+  },
+  "v2_6e2deaa4": {
+    "description": "Auto-generated translation for: Spaced Repetition System",
+    "message": "ব্যবধান পুনরাবৃত্তি সিস্টেম"
+  },
+  "v2_0b5f86b7": {
+    "description": "Auto-generated translation for: An adaptive learning system that schedules reviews at optimal intervals to help you remember words more effectively",
+    "message": "একটি অভিযোজিত শিক্ষা ব্যবস্থা যা শব্দগুলিকে আরও কার্যকরভাবে মনে রাখতে সাহায্য করার জন্য সর্বোত্তম ব্যবধানে পর্যালোচনার সময় নির্ধারণ করে"
+  },
+  "v2_341a0ca1": {
+    "description": "Auto-generated translation for: Simple Flashcards",
+    "message": "সাধারণ ফ্ল্যাশকার্ড"
+  },
+  "v2_7bf5bd52": {
+    "description": "Auto-generated translation for: Practice with flashcards by filtering words by language, video, list, status, and more",
+    "message": "ভাষা, ভিডিও, তালিকা, অবস্থা এবং আরও অনেক কিছু দিয়ে শব্দ ফিল্টার করে ফ্ল্যাশকার্ডের সাহায্যে অনুশীলন করুন"
+  },
+  "v2_2875f85e": {
+    "description": "Auto-generated translation for: No lists yet",
+    "message": "এখনও কোনো তালিকা নেই"
+  },
+  "v2_26789767": {
+    "description": "Auto-generated translation for: Preset name cannot be empty",
+    "message": "প্রিসেটের নাম খালি রাখা যাবে না"
+  },
+  "v2_610295ea": {
+    "description": "Auto-generated translation for: Update Preset",
+    "message": "প্রিসেট আপডেট করুন"
+  },
+  "v2_3d55e8bc": {
+    "description": "Auto-generated translation for: Save Filter Preset",
+    "message": "ফিল্টার প্রিসেট সেভ করুন"
+  },
+  "v2_2b49fdf5": {
+    "description": "Auto-generated translation for: Update the name for this filter preset",
+    "message": "এই ফিল্টার প্রিসেটের জন্য নামটি আপডেট করুন"
+  },
+  "v2_74ddc723": {
+    "description": "Auto-generated translation for: Give your filter settings a name so you can easily reuse them later",
+    "message": "আপনার ফিল্টার সেটিংসের একটি নাম দিন যাতে আপনি সেগুলিকে পরে সহজেই পুনরায় ব্যবহার করতে পারেন"
+  },
+  "v2_2002972c": {
+    "description": "Auto-generated translation for: Preset Name",
+    "message": "প্রিসেট নাম"
+  },
+  "v2_4e70dec9": {
+    "description": "Auto-generated translation for: e.g., Spanish Learning Words",
+    "message": "যেমন, স্প্যানিশ শেখার শব্দ"
+  },
+  "v2_48db8548": {
+    "description": "Auto-generated translation for: Updating...",
+    "message": "হালনাগাদ করা হচ্ছে..."
+  },
+  "v2_689adb17": {
+    "description": "Auto-generated translation for: Update",
+    "message": "আপডেট করুন"
+  },
+  "v2_0027359d": {
+    "description": "Auto-generated translation for: Save",
+    "message": "সংরক্ষণ করুন"
+  },
+  "v2_4aa7d12c": {
+    "description": "Auto-generated translation for: Select a preset...",
+    "message": "একটি প্রিসেট নির্বাচন করুন..."
+  },
+  "v2_1ce15eed": {
+    "description": "Auto-generated translation for: No preset (default filters)",
+    "message": "কোনো প্রিসেট নেই (ডিফল্ট ফিল্টার)"
+  },
+  "v2_071985a4": {
+    "description": "Auto-generated translation for: No presets saved yet",
+    "message": "এখনও কোনো প্রিসেট সংরক্ষণ করা হয়নি"
+  },
+  "v2_228e4ed4": {
+    "description": "Auto-generated translation for: Delete preset",
+    "message": "প্রিসেট মুছুন"
+  },
+  "v2_551ce6e2": {
+    "description": "Auto-generated translation for: Save Preset",
+    "message": "প্রিসেট সেভ করুন"
+  },
+  "v2_5bcbc893": {
+    "description": "Auto-generated translation for: Preset updated successfully",
+    "message": "প্রিসেট সফলভাবে আপডেট হয়েছে"
+  },
+  "v2_444734ba": {
+    "description": "Auto-generated translation for: Failed to update preset: ",
+    "message": "প্রিসেট আপডেট করা যায়নি:"
+  },
+  "v2_0da42161": {
+    "description": "Auto-generated translation for: Preset saved successfully",
+    "message": "প্রিসেট সফলভাবে সংরক্ষিত হয়েছে"
+  },
+  "v2_2256a1fa": {
+    "description": "Auto-generated translation for: Failed to save preset: ",
+    "message": "প্রিসেট সংরক্ষণ করা যায়নি:"
+  },
+  "v2_2edac51d": {
+    "description": "Auto-generated translation for: Flip Card",
+    "message": "কার্ড ফ্লিপ করুন"
+  },
+  "v2_666ebf69": {
+    "description": "Auto-generated translation for: cards reviewed in the last year",
+    "message": "গত বছরে পর্যালোচনা করা কার্ডগুলি"
   }
 }
