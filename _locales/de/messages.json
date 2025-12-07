@@ -526,37 +526,9 @@
     "description": "Auto-generated translation for: Interface Volume",
     "message": "Schnittstellenlautstärke"
   },
-  "v2_792c593d": {
-    "description": "Auto-generated translation for: Voice Synthesis Settings",
-    "message": "Einstellungen für Sprachsynthese"
-  },
-  "v2_3d3c0973": {
-    "description": "Auto-generated translation for: Reading Speed",
-    "message": "Lesegeschwindigkeit"
-  },
-  "v2_18e3ff71": {
-    "description": "Auto-generated translation for: Adjust how fast or slow the AI voice reads the text",
-    "message": "Stellen Sie ein, wie schnell oder langsam die KI-Stimme den Text vorliest"
-  },
-  "v2_44e3f7de": {
-    "description": "Auto-generated translation for: Voice Selection",
-    "message": "Sprachauswahl"
-  },
-  "v2_13232de5": {
-    "description": "Auto-generated translation for: Select from different AI voices available for your learning language",
-    "message": "Wählen Sie aus verschiedenen KI-Stimmen, die für Ihre Lernsprache verfügbar sind."
-  },
   "v2_6185fd12": {
     "description": "Auto-generated translation for: Blur Learning Subtitles",
     "message": "Untertitel für unscharfes Lernen"
-  },
-  "v2_1f2ac9e1": {
-    "description": "Auto-generated translation for: Learning Subtitle Background Opacity",
-    "message": "Lernen der Untertitel-Hintergrund-Deckkraft"
-  },
-  "v2_06fb071c": {
-    "description": "Auto-generated translation for: Native Language Subtitles",
-    "message": "Untertitel in der Muttersprache"
   },
   "v2_2f8c0d35": {
     "description": "Auto-generated translation for: Show Native Subtitles",
@@ -565,10 +537,6 @@
   "v2_0cf006f5": {
     "description": "Auto-generated translation for: Blur Native Subtitles",
     "message": "Unterschriften der Originalsprache ausblenden"
-  },
-  "v2_363b2468": {
-    "description": "Auto-generated translation for: Native Subtitle Background Opacity",
-    "message": "Deckkraft des nativen Untertitelhintergrunds"
   },
   "v2_03e2edd8": {
     "description": "Auto-generated translation for: Close",
@@ -1538,10 +1506,6 @@
     "description": "Auto-generated translation for: Export",
     "message": "Export"
   },
-  "v2_6dd930be": {
-    "description": "Auto-generated translation for: Quick Translation",
-    "message": "Schnelle Übersetzung"
-  },
   "v2_283701c4": {
     "description": "Auto-generated translation for: Our system is currently under maintenance to improve your experience.",
     "message": "Unser System wird derzeit gewartet, um Ihr Erlebnis zu verbessern."
@@ -1662,10 +1626,6 @@
     "description": "Auto-generated translation for: Text Color",
     "message": "Textfarbe"
   },
-  "v2_555bc8f5": {
-    "description": "Auto-generated translation for: Upvote, comment, and share your thoughts on Featurebase →",
-    "message": "Geben Sie ein Upvote, kommentieren Sie und teilen Sie Ihre Gedanken auf Featurebase →"
-  },
   "v2_786aba7f": {
     "description": "Auto-generated translation for: Flashcards Creator",
     "message": "Karteikarten-Ersteller"
@@ -1701,10 +1661,6 @@
   "v2_37d0d9b3": {
     "description": "Auto-generated translation for: Progress",
     "message": "Fortschritt"
-  },
-  "v2_5d68d20e": {
-    "description": "Auto-generated translation for: Show Translation",
-    "message": "Übersetzung anzeigen"
   },
   "v2_1da2c7ab": {
     "description": "Auto-generated translation for: File type ($file_type$) not supported. Please upload an audio file.",
@@ -1784,10 +1740,6 @@
     "description": "Auto-generated translation for: FluentAI offers a great combination of intuitive features and excellent vocabulary retention tools.",
     "message": "FluentAI bietet eine hervorragende Kombination aus intuitiven Funktionen und exzellenten Werkzeugen zur Vokabelbehaltung."
   },
-  "v2_5697ee78": {
-    "description": "Auto-generated translation for: Speak word when translation popup opens",
-    "message": "Sprich ein Wort, wenn das Übersetzungs-Popup geöffnet wird"
-  },
   "v2_6a06af47": {
     "description": "Auto-generated translation for: YOUR JOURNEY TO <span class=\"gradient-highlighted-text\">FLUENCY</span> STARTS HERE",
     "message": "DEINE REISE ZUR <span class=\"gradient-highlighted-text\">FLIESSENDEN SPRACHBEHERRSCHUNG</span> BEGINNT HIER"
@@ -1808,18 +1760,6 @@
     "description": "Auto-generated translation for: This will take a few seconds",
     "message": "Das dauert ein paar Sekunden."
   },
-  "v2_77a2cd88": {
-    "description": "Auto-generated translation for: Subtitle Colors",
-    "message": "Untertitel-Farben"
-  },
-  "v2_6174b983": {
-    "description": "Auto-generated translation for: Learning Subtitle Color",
-    "message": "Untertitel-Farben lernen"
-  },
-  "v2_37e0cf9c": {
-    "description": "Auto-generated translation for: Native Subtitle Color",
-    "message": "Native Untertitelfarbe"
-  },
   "v2_3a3be6ac": {
     "description": "Auto-generated translation for: Underline",
     "message": "Unterstreichen"
@@ -1827,14 +1767,6 @@
   "v2_01bb3ba6": {
     "description": "Auto-generated translation for: Bordered Dashed",
     "message": "Gestrichelt umrandet"
-  },
-  "v2_2d7ee88b": {
-    "description": "Auto-generated translation for: Vocabulary Bookmark Variant",
-    "message": "Vokabel-Lesezeichen-Variante"
-  },
-  "v2_0c403253": {
-    "description": "Auto-generated translation for: Vocabulary Bookmark Color",
-    "message": "Vokabel-Lesezeichenfarbe"
   },
   "v2_4c47a99f": {
     "description": "Auto-generated translation for: Processing Status",
@@ -3863,10 +3795,6 @@
     "description": "Auto-generated translation for: Failed to refresh prompts: ",
     "message": "Prompts konnten nicht aktualisiert werden:"
   },
-  "v2_5d205f3b": {
-    "description": "Auto-generated translation for: Streaming explanation",
-    "message": "Streamingerklärung"
-  },
   "v2_013bb45c": {
     "description": "Auto-generated translation for: Create Learning List",
     "message": "Lernliste erstellen"
@@ -3991,15 +3919,6 @@
     "description": "Auto-generated translation for: Start Learning",
     "message": "Lernprogramm starten"
   },
-  "v2_2cafbf71": {
-    "description": "Auto-generated translation for: $word$ removed from bookmarks",
-    "message": "$word$ aus Lesezeichen entfernt",
-    "placeholders": {
-      "word": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_3b39273f": {
     "description": "Auto-generated translation for: Automatically resumes the video when leaving word hover.",
     "message": "Setzt die Wiedergabe automatisch fort, wenn der Wort-Hover verlassen wird."
@@ -4011,18 +3930,6 @@
   "v2_14723a8b": {
     "description": "Auto-generated translation for: Learning Features Configuration",
     "message": "Lernfunktionen konfigurieren"
-  },
-  "v2_184f78e4": {
-    "description": "Auto-generated translation for: Languages & Subtitles",
-    "message": "Sprachen & Untertitel"
-  },
-  "v2_2aeb65b2": {
-    "description": "Auto-generated translation for: Volume & Voice",
-    "message": "Lautstärke & Stimme"
-  },
-  "v2_3deccab8": {
-    "description": "Auto-generated translation for: Sizes & Colors",
-    "message": "Größen & Farben"
   },
   "v2_65d5236d": {
     "description": "Auto-generated translation for: Word Features",
@@ -4036,41 +3943,9 @@
     "description": "Auto-generated translation for: Add spaces between words for languages that don't use spaces.",
     "message": "Fügt Leerzeichen zwischen Wörtern für Sprachen ein, die keine Leerzeichen verwenden."
   },
-  "v2_72899725": {
-    "description": "Auto-generated translation for: Choose the color for learning language subtitles.",
-    "message": "Wählen Sie die Farbe für die Untertitel der Lernsprache."
-  },
-  "v2_1287f050": {
-    "description": "Auto-generated translation for: Adjust the opacity of the background behind learning language subtitles.",
-    "message": "Passen Sie die Deckkraft des Hintergrunds hinter den Untertiteln zum Sprachenlernen an."
-  },
-  "v2_3046989e": {
-    "description": "Auto-generated translation for: Choose the color for native language subtitles.",
-    "message": "Wählen Sie die Farbe für Untertitel in der Muttersprache."
-  },
-  "v2_0b004817": {
-    "description": "Auto-generated translation for: Adjust the opacity of the background behind native language subtitles.",
-    "message": "Passen Sie die Deckkraft des Hintergrunds hinter nativen Sprachuntertiteln an."
-  },
-  "v2_3801fb9a": {
-    "description": "Auto-generated translation for: Bookmark Colors",
-    "message": "Lesezeichenfarben"
-  },
-  "v2_69225e7d": {
-    "description": "Auto-generated translation for: Choose how vocabulary bookmarks are displayed.",
-    "message": "Wählen Sie, wie Vokabel-Lesezeichen angezeigt werden sollen."
-  },
-  "v2_3e190e61": {
-    "description": "Auto-generated translation for: Choose the color for vocabulary bookmarks.",
-    "message": "Wählen Sie die Farbe für Vokabel-Lesezeichen."
-  },
   "v2_415bcea8": {
     "description": "Auto-generated translation for: Speaks the word aloud when the translation popup opens.",
     "message": "Spricht das Wort laut aus, wenn das Übersetzungs-Popup geöffnet wird."
-  },
-  "v2_7f870a83": {
-    "description": "Auto-generated translation for: Subtitles List",
-    "message": "Untertitel-Liste"
   },
   "v2_3677de40": {
     "description": "Auto-generated translation for: Show the translation for the subtitles list panel.",
@@ -4163,18 +4038,6 @@
   "v2_47e4218f": {
     "description": "Auto-generated translation for: Precise timing for better learning experience and word highlighting.",
     "message": "Präzises Timing für ein besseres Lernerlebnis und Wort-Hervorhebung."
-  },
-  "v2_7802fe56": {
-    "description": "Auto-generated translation for: Logout",
-    "message": "Abmelden"
-  },
-  "v2_404e8925": {
-    "description": "Auto-generated translation for: No video available",
-    "message": "Kein Video verfügbar"
-  },
-  "v2_496533a1": {
-    "description": "Auto-generated translation for: Error loading video",
-    "message": "Fehler beim Laden des Videos"
   },
   "v2_4c260052": {
     "description": "Auto-generated translation for: Assign Key",
@@ -4567,10 +4430,6 @@
   "v2_2743fe99": {
     "description": "Auto-generated translation for: An error occurred while checking transcription status",
     "message": "Beim Überprüfen des Transkriptionsstatus ist ein Fehler aufgetreten"
-  },
-  "v2_3c750a29": {
-    "description": "Auto-generated translation for: Remove sentence bookmark",
-    "message": "Satz-Lesezeichen entfernen"
   },
   "v2_53aa3213": {
     "description": "Auto-generated translation for: Bookmark sentence",
@@ -5238,10 +5097,6 @@
     "description": "Auto-generated translation for: Transliteration Type",
     "message": "Transliterationstyp"
   },
-  "v2_4c4993e2": {
-    "description": "Auto-generated translation for: Sentence Transliteration Type",
-    "message": "Satz-Transliterationstyp"
-  },
   "v2_5a4c3526": {
     "description": "Auto-generated translation for: Notebook Table State",
     "message": "Notizbuch Tabellenstatus"
@@ -5297,10 +5152,6 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "Finden Sie hier alle Ihre gespeicherten Wörter, Phrasen und Sätze. Sie können diese nach Filtern sortieren, Listen erstellen und nach Anki exportieren."
-  },
-  "v2_718eecbf": {
-    "description": "Auto-generated translation for: Subtitles Panel",
-    "message": "Untertitel-Bedienfeld"
   },
   "v2_02626478": {
     "description": "Auto-generated translation for: Subtitles Settings",
@@ -5654,10 +5505,6 @@
     "description": "Auto-generated translation for: Pronounce Hovered Word",
     "message": "Schwebendes Wort aussprechen"
   },
-  "v2_5530a734": {
-    "description": "Auto-generated translation for: Save Current Word",
-    "message": "Aktuelles Wort speichern"
-  },
   "v2_44e36e73": {
     "description": "Auto-generated translation for: Save Current Sentence",
     "message": "Aktuellen Satz speichern"
@@ -5733,10 +5580,6 @@
   "v2_765b71a1": {
     "description": "Auto-generated translation for: Say Word",
     "message": "Na klar!"
-  },
-  "v2_7ee6efcd": {
-    "description": "Auto-generated translation for: Save Word",
-    "message": "Wort speichern"
   },
   "v2_18dae5a6": {
     "description": "Auto-generated translation for: Save Sentence",
@@ -5814,10 +5657,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_74634f26": {
-    "description": "Auto-generated translation for: No word found to bookmark",
-    "message": "Kein Wort zum Lesezeichen gefunden"
   },
   "v2_70abeef9": {
     "description": "Auto-generated translation for: No word found to pronounce",
@@ -5902,10 +5741,6 @@
     "description": "Auto-generated translation for: Match the Audio Language",
     "message": "Audio-Sprache anpassen"
   },
-  "v2_5dc3e7ce": {
-    "description": "Auto-generated translation for: Failed to bookmark word",
-    "message": "Wort konnte nicht mit Lesezeichen versehen werden"
-  },
   "v2_1d75f944": {
     "description": "Auto-generated translation for: Morphology",
     "message": "Morphologie"
@@ -5922,10 +5757,6 @@
     "description": "Auto-generated translation for: Error fetching analysis",
     "message": "Fehler beim Abrufen der Analyse"
   },
-  "v2_5d408786": {
-    "description": "Auto-generated translation for: Streaming usage examples",
-    "message": "Beispiele zur Streaming-Nutzung"
-  },
   "v2_3ec2f5f0": {
     "description": "Auto-generated translation for: No usage examples available",
     "message": "Keine Anwendungsbeispiele verfügbar"
@@ -5933,10 +5764,6 @@
   "v2_5dcb05e8": {
     "description": "Auto-generated translation for: Error fetching usage examples",
     "message": "Fehler beim Abrufen der Anwendungsbeispiele"
-  },
-  "v2_7686c62c": {
-    "description": "Auto-generated translation for: Streaming synonyms and antonyms",
-    "message": "Streaming-Synonyme und -Antonyme"
   },
   "v2_2bdb6f4a": {
     "description": "Auto-generated translation for: No synonyms or antonyms available",
@@ -5962,18 +5789,6 @@
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "Einstellungen des Übersetzungs-Popups"
   },
-  "v2_3de8ee50": {
-    "description": "Auto-generated translation for: Failed to remove bookmark",
-    "message": "Lesezeichen konnte nicht entfernt werden"
-  },
-  "v2_7781cac2": {
-    "description": "Auto-generated translation for: Failed to get video context",
-    "message": "Videokontext konnte nicht abgerufen werden"
-  },
-  "v2_021c110d": {
-    "description": "Auto-generated translation for: Failed to get subtitle context",
-    "message": "Untertitelkontext konnte nicht abgerufen werden"
-  },
   "v2_6ecf6dff": {
     "description": "Auto-generated translation for: Pronounce word",
     "message": "Wort aussprechen"
@@ -5994,10 +5809,6 @@
     "description": "Auto-generated translation for: Scale all translation popups including text, buttons, and spacing",
     "message": "Alle Übersetzungs-Popups skalieren, einschließlich Text, Schaltflächen und Abstände"
   },
-  "v2_756da0fc": {
-    "description": "Auto-generated translation for: Sentence removed from bookmarks",
-    "message": "Satz aus Lesezeichen entfernt"
-  },
   "v2_78606dc1": {
     "description": "Auto-generated translation for: Merge with previous word",
     "message": "Mit vorherigem Wort zusammenführen"
@@ -6005,10 +5816,6 @@
   "v2_5f4dfdbb": {
     "description": "Auto-generated translation for: Merge with next word",
     "message": "Mit nächstem Wort zusammenführen"
-  },
-  "v2_69be8149": {
-    "description": "Auto-generated translation for: Analyse word",
-    "message": "Wort analysieren"
   },
   "v2_03c2f0e0": {
     "description": "Auto-generated translation for: Added",
@@ -7025,23 +6832,6 @@
     "description": "Auto-generated translation for: No items in this list yet.",
     "message": "Noch keine Einträge in dieser Liste."
   },
-  "v2_7132a412": {
-    "description": "Auto-generated translation for: Words generated and added to list",
-    "message": "Wörter generiert und zur Liste hinzugefügt"
-  },
-  "v2_141a82da": {
-    "description": "Auto-generated translation for: Failed to generate words: $error$",
-    "message": "Fehler beim Generieren von Wörtern: $error$",
-    "placeholders": {
-      "error": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_6c576f57": {
-    "description": "Auto-generated translation for: Generate Words for List",
-    "message": "Generiere Wörter für Liste"
-  },
   "v2_60cbc3e4": {
     "description": "Auto-generated translation for: Generating...",
     "message": "Generiere..."
@@ -7115,10 +6905,6 @@
   "v2_0cb49284": {
     "description": "Auto-generated translation for: Your feedback helps us improve FluentAI and fix issues. Please share what didn't work for you.",
     "message": "Ihr Feedback hilft uns, FluentAI zu verbessern und Probleme zu beheben. Bitte teilen Sie uns mit, was für Sie nicht funktioniert hat."
-  },
-  "v2_59837c49": {
-    "description": "Auto-generated translation for: Try FluentAI",
-    "message": "FluentAI ausprobieren"
   },
   "v2_13a366e5": {
     "description": "Auto-generated translation for: Analyzing...",
@@ -7647,10 +7433,6 @@
     "description": "Auto-generated translation for: Learn the language you want with smart subtitles on YouTube, Netflix, Prime, and Disney.",
     "message": "Lerne die Sprache, die du möchtest, mit intelligenten Untertiteln auf YouTube, Netflix, Prime und Disney."
   },
-  "v2_258894c1": {
-    "description": "Auto-generated translation for: Audio Extraction Test",
-    "message": "Audio-Extraktionstest"
-  },
   "v2_50c3add5": {
     "description": "Auto-generated translation for: 🎉 Session Complete!",
     "message": "🎉 Sitzung abgeschlossen!"
@@ -7932,10 +7714,6 @@
     "description": "Auto-generated translation for: Less",
     "message": "Weniger"
   },
-  "v2_4d28d5c3": {
-    "description": "Auto-generated translation for: Please select learning and native languages before generating words.",
-    "message": "Bitte wähle Lern- und Muttersprachen aus, bevor du Wörter generierst."
-  },
   "v2_5141fce8": {
     "description": "Auto-generated translation for: Tell the AI what kind of words you want to generate. For example: 'Generate beginner-level vocabulary for travel conversations' or 'Focus on business and professional terms'",
     "message": "Sagen Sie der KI, welche Art von Wörtern Sie generieren möchten. Zum Beispiel: 'Generiere Vokabeln für Anfänger für Reiseunterhaltungen' oder 'Konzentriere dich auf geschäftliche und professionelle Begriffe'"
@@ -8112,10 +7890,6 @@
   "v2_3e024a75": {
     "description": "Auto-generated translation for: AnkiConnect Configuration",
     "message": "AnkiConnect Konfiguration"
-  },
-  "v2_42057dd5": {
-    "description": "Auto-generated translation for: Failed to determine bookmark type",
-    "message": "Lesezeichentyp konnte nicht ermittelt werden"
   },
   "v2_48d2b824": {
     "description": "Auto-generated translation for: Your next session will include up to",
@@ -8435,10 +8209,6 @@
     "description": "Auto-generated translation for: immersive learning with intelligent subtitles and powerful features.",
     "message": "Immersives Lernen mit intelligenten Untertiteln und leistungsstarken Funktionen."
   },
-  "v2_6d7d730c": {
-    "description": "Auto-generated translation for: Go to App",
-    "message": "Zur App"
-  },
   "v2_32d57c5b": {
     "description": "Auto-generated translation for: Manually find words in notebook",
     "message": "Wörter im Notizbuch manuell finden"
@@ -8562,18 +8332,6 @@
     "description": "Auto-generated translation for: New cards per session",
     "message": "Neue Karten pro Sitzung"
   },
-  "v2_6b4f5593": {
-    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
-    "message": "Karten, die Sie schon einmal gelernt haben und die wieder fällig sind"
-  },
-  "v2_69b0d569": {
-    "description": "Auto-generated translation for: Cards you've never reviewed",
-    "message": "Karten, die Sie noch nie geprüft haben"
-  },
-  "v2_5f691564": {
-    "description": "Auto-generated translation for: Cards you've reviewed today",
-    "message": "Karten, die Sie heute angesehen haben"
-  },
   "v2_35274cbd": {
     "description": "Auto-generated translation for: Choose your training method",
     "message": "Wählen Sie Ihre Trainingsmethode"
@@ -8681,5 +8439,614 @@
   "v2_666ebf69": {
     "description": "Auto-generated translation for: cards reviewed in the last year",
     "message": "Karten im letzten Jahr überprüft"
+  },
+  "v2_523a1b51": {
+    "description": "Auto-generated translation for: Word archived successfully",
+    "message": "Wort erfolgreich archiviert"
+  },
+  "v2_5af1bc96": {
+    "description": "Auto-generated translation for: Failed to archive word",
+    "message": "Wort konnte nicht archiviert werden"
+  },
+  "v2_7255de43": {
+    "description": "Auto-generated translation for: Unknown - Click to mark as Learning",
+    "message": "Unbekannt – Klicken zum Markieren als „Lernen“"
+  },
+  "v2_6d7efa68": {
+    "description": "Auto-generated translation for: Click to mark as {status}",
+    "message": "Klicken, um als {status} zu markieren",
+    "placeholders": {
+      "status": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_627263fe": {
+    "description": "Auto-generated translation for: Archived",
+    "message": "Archiviert"
+  },
+  "v2_36a178a2": {
+    "description": "Auto-generated translation for: Archive",
+    "message": "Archiv"
+  },
+  "v2_52f462d1": {
+    "description": "Auto-generated translation for: Archiving...",
+    "message": "Archivieren..."
+  },
+  "v2_5df7ef01": {
+    "description": "Auto-generated translation for: Type of transliteration for words and sentences.",
+    "message": "Art der Transliteration für Wörter und Sätze."
+  },
+  "v2_009f6518": {
+    "description": "Auto-generated translation for: Word Status Colors",
+    "message": "Wortstatusfarben"
+  },
+  "v2_684a7a14": {
+    "description": "Auto-generated translation for: Turn On/Off Subtitle List Panel",
+    "message": "Untertitel-Kontrollfeld ein-/ausschalten"
+  },
+  "v2_6eab681b": {
+    "description": "Auto-generated translation for: Bookmark Current Word",
+    "message": "Aktuelles Wort mit Lesezeichen versehen"
+  },
+  "v2_36d867b7": {
+    "description": "Auto-generated translation for: Mark Word as Learning",
+    "message": "Wort als Lernwort markieren"
+  },
+  "v2_4ae1c647": {
+    "description": "Auto-generated translation for: Mark Word as Ignored",
+    "message": "Wort als ignoriert markieren"
+  },
+  "v2_100c9a08": {
+    "description": "Auto-generated translation for: Mark Word as Known",
+    "message": "Wort als bekannt markieren"
+  },
+  "v2_422887b4": {
+    "description": "Auto-generated translation for: Bookmark Word",
+    "message": "Lesezeichen setzen"
+  },
+  "v2_02fc98dc": {
+    "description": "Auto-generated translation for: Text-to-speech is not configured. Please configure it in settings.",
+    "message": "Text-to-Speech ist nicht konfiguriert. Bitte konfigurieren Sie es in den Einstellungen."
+  },
+  "v2_008b3b33": {
+    "description": "Auto-generated translation for: Failed to update word status",
+    "message": "Fehler beim Aktualisieren des Wortstatus"
+  },
+  "v2_13166391": {
+    "description": "Auto-generated translation for: Language Learning Guides",
+    "message": "Sprachlernanleitungen"
+  },
+  "v2_5b377405": {
+    "description": "Auto-generated translation for: Reviews",
+    "message": "Bewertungen"
+  },
+  "v2_7dc70527": {
+    "description": "Auto-generated translation for: See what our users are saying about FluentAI. Browse through authentic reviews and testimonials from language learners around the world.",
+    "message": "Lesen Sie, was unsere Nutzer über FluentAI sagen. Stöbern Sie durch authentische Bewertungen und Erfahrungsberichte von Sprachlernern aus der ganzen Welt."
+  },
+  "v2_42662a0f": {
+    "description": "Auto-generated translation for: Traditional flashcard review",
+    "message": "Traditionelle Karteikarten-Überprüfung"
+  },
+  "v2_6a71e162": {
+    "description": "Auto-generated translation for: Cloze System",
+    "message": "Lückentextsystem"
+  },
+  "v2_51461a44": {
+    "description": "Auto-generated translation for: Fill in the blank with the learning word",
+    "message": "Füllen Sie die Lücke mit dem Lernwort aus"
+  },
+  "v2_3aac7742": {
+    "description": "Auto-generated translation for: Review words at optimal intervals",
+    "message": "Wörter in optimalen Intervallen wiederholen"
+  },
+  "v2_5c054884": {
+    "description": "Auto-generated translation for: Regular",
+    "message": "Regulär"
+  },
+  "v2_7533b2eb": {
+    "description": "Auto-generated translation for: Practice with flashcards and cloze exercises",
+    "message": "Üben mit Lernkarten und Lückentextübungen"
+  },
+  "v2_000141d4": {
+    "description": "Auto-generated translation for: SRS",
+    "message": "SRS"
+  },
+  "v2_7f6aa4b7": {
+    "description": "Auto-generated translation for: Regular Flashcards",
+    "message": "Reguläre Lernkarten"
+  },
+  "v2_51702d66": {
+    "description": "Auto-generated translation for: Loading cloze exercises...",
+    "message": "Lückentextübungen werden geladen..."
+  },
+  "v2_40c85589": {
+    "description": "Auto-generated translation for: Cloze Training",
+    "message": "Lückentext-Übung"
+  },
+  "v2_57432a10": {
+    "description": "Auto-generated translation for: Error loading cloze exercises",
+    "message": "Fehler beim Laden der Lückentextübungen"
+  },
+  "v2_10f8b074": {
+    "description": "Auto-generated translation for: No words found",
+    "message": "Keine Wörter gefunden"
+  },
+  "v2_22c7f3bf": {
+    "description": "Auto-generated translation for: No words match your filters",
+    "message": "Keine Wörter entsprechen Ihren Filtern"
+  },
+  "v2_1519a64c": {
+    "description": "Auto-generated translation for: Fill in the blanks",
+    "message": "Füllen Sie die Lücken aus"
+  },
+  "v2_6bbed3c8": {
+    "description": "Auto-generated translation for: Submit",
+    "message": "Senden"
+  },
+  "v2_00014935": {
+    "description": "Auto-generated translation for: Top",
+    "message": "Oben"
+  },
+  "v2_04b4d1fc": {
+    "description": "Auto-generated translation for: Right",
+    "message": "Richtig"
+  },
+  "v2_00241427": {
+    "description": "Auto-generated translation for: Left",
+    "message": "Links"
+  },
+  "v2_5af2c9a9": {
+    "description": "Auto-generated translation for: Adjust the size of the interface elements.",
+    "message": "Passen Sie die Größe der Oberflächenelemente an."
+  },
+  "v2_00a00750": {
+    "description": "Auto-generated translation for: Adjust the font size in EPUB reader.",
+    "message": "Schriftgröße im EPUB-Reader anpassen."
+  },
+  "v2_095c2f76": {
+    "description": "Auto-generated translation for: Adjust the gap at the bottom of the interface.",
+    "message": "Passen Sie den Spalt am unteren Rand der Benutzeroberfläche an."
+  },
+  "v2_3f39c23b": {
+    "description": "Auto-generated translation for: Position of playback controls.",
+    "message": "Position der Wiedergabesteuerung."
+  },
+  "v2_0b4efdd5": {
+    "description": "Auto-generated translation for: Enable merging words together.",
+    "message": "Zusammenführen von Wörtern aktivieren."
+  },
+  "v2_4511a7e0": {
+    "description": "Auto-generated translation for: Word Merging Enabled",
+    "message": "Wortzusammenführung aktiviert"
+  },
+  "v2_4a463c01": {
+    "description": "Auto-generated translation for: Enable token translation.",
+    "message": "Token-Übersetzung aktivieren."
+  },
+  "v2_305d9835": {
+    "description": "Auto-generated translation for: Token Translation Enabled",
+    "message": "Token-Übersetzung aktiviert"
+  },
+  "v2_3fd88d7f": {
+    "description": "Auto-generated translation for: Enable learning to native language mapping.",
+    "message": "Sprachzuordnung zur Muttersprache aktivieren."
+  },
+  "v2_2260eb57": {
+    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
+    "message": "Lernenden-zu-Nativ-Zuordnung aktiviert"
+  },
+  "v2_54d2596b": {
+    "description": "Auto-generated translation for: Enable sentence transliteration.",
+    "message": "Satz-Transliteration aktivieren."
+  },
+  "v2_2c99d3dd": {
+    "description": "Auto-generated translation for: Sentence Transliteration Enabled",
+    "message": "Satz-Transliteration aktiviert"
+  },
+  "v2_0c892404": {
+    "description": "Auto-generated translation for: Open translation popup when hovering over words.",
+    "message": "Übersetzungs-Popup beim Überfahren von Wörtern öffnen."
+  },
+  "v2_0df752da": {
+    "description": "Auto-generated translation for: Highlight words during live speaking.",
+    "message": "Wörter während des Live-Sprechens hervorheben."
+  },
+  "v2_7c65e05a": {
+    "description": "Auto-generated translation for: Speak word when translation popup opens.",
+    "message": "Sprechen Sie ein Wort, wenn das Übersetzungs-Popup geöffnet wird."
+  },
+  "v2_06a97b06": {
+    "description": "Auto-generated translation for: Adjust the font size of learning subtitles.",
+    "message": "Schriftgröße der Lernuntertitel anpassen."
+  },
+  "v2_69c25346": {
+    "description": "Auto-generated translation for: Choose the text color for learning subtitles.",
+    "message": "Wählen Sie die Textfarbe für Lernuntertitel."
+  },
+  "v2_2a01bf90": {
+    "description": "Auto-generated translation for: Choose color for learning subtitle text",
+    "message": "Farbe für den Untertiteltext zum Lernen auswählen"
+  },
+  "v2_56f71b61": {
+    "description": "Auto-generated translation for: Show or hide word insights.",
+    "message": "Worteinblicke ein- oder ausblenden."
+  },
+  "v2_51950c86": {
+    "description": "Auto-generated translation for: Show or hide word meanings.",
+    "message": "Wortbedeutungen anzeigen oder ausblenden"
+  },
+  "v2_3d40af08": {
+    "description": "Auto-generated translation for: Show or hide dictionary information.",
+    "message": "Wörterbuchinformationen ein- oder ausblenden."
+  },
+  "v2_299b6507": {
+    "description": "Auto-generated translation for: Show or hide transliteration.",
+    "message": "Umschrift ein- oder ausblenden."
+  },
+  "v2_04cc1813": {
+    "description": "Auto-generated translation for: Show or hide base form information.",
+    "message": "Basisform-Informationen ein- oder ausblenden."
+  },
+  "v2_4a5bbaee": {
+    "description": "Auto-generated translation for: Preferred character length for subtitles.",
+    "message": "Bevorzugte Zeichenlänge für Untertitel."
+  },
+  "v2_2f1f2fc9": {
+    "description": "Auto-generated translation for: Subtitle Preferred Char Length",
+    "message": "Bevorzugte Untertitel-Zeichenlänge"
+  },
+  "v2_32880c31": {
+    "description": "Auto-generated translation for: Automatically pause video when hovering over words.",
+    "message": "Video automatisch anhalten, wenn der Mauszeiger über Wörtern schwebt."
+  },
+  "v2_520fbd07": {
+    "description": "Auto-generated translation for: Restart playback when leaving a word.",
+    "message": "Wiedergabe neu starten, wenn ein Wort verlassen wird."
+  },
+  "v2_662e93b6": {
+    "description": "Auto-generated translation for: Advanced playback mode settings (configured in extension).",
+    "message": "Einstellungen für den erweiterten Wiedergabemodus (in der Erweiterung konfiguriert)."
+  },
+  "v2_29fea828": {
+    "description": "Auto-generated translation for: Playback Modes Settings",
+    "message": "Wiedergabemodi-Einstellungen"
+  },
+  "v2_3585e6e2": {
+    "description": "Auto-generated translation for: Complex settings - configure in extension",
+    "message": "Komplexe Einstellungen - in Erweiterung konfigurieren"
+  },
+  "v2_094a82ca": {
+    "description": "Auto-generated translation for: Choose color for light mode",
+    "message": "Farbe für den hellen Modus wählen"
+  },
+  "v2_68cd5bf0": {
+    "description": "Auto-generated translation for: Choose color for dark mode",
+    "message": "Farbe für den Dunkelmodus auswählen"
+  },
+  "v2_04b32d2f": {
+    "description": "Auto-generated translation for: Reset",
+    "message": "Zurücksetzen"
+  },
+  "v2_0cfb9257": {
+    "description": "Auto-generated translation for: Adjust the speed of text-to-speech playback.",
+    "message": "Passen Sie die Wiedergabegeschwindigkeit der Text-zu-Sprache an."
+  },
+  "v2_1e5d7f9a": {
+    "description": "Auto-generated translation for: TTS Speed",
+    "message": "TTS-Geschwindigkeit"
+  },
+  "v2_2fdc99ff": {
+    "description": "Auto-generated translation for: Adjust the volume of text-to-speech audio.",
+    "message": "Lautstärke der Text-zu-Sprache-Audio anpassen."
+  },
+  "v2_4d99add9": {
+    "description": "Auto-generated translation for: TTS Volume",
+    "message": "TTS-Lautstärke"
+  },
+  "v2_74d5fce0": {
+    "description": "Auto-generated translation for: Adjust the volume of interface sounds.",
+    "message": "Lautstärke der Interface-Sounds anpassen."
+  },
+  "v2_6f9c205f": {
+    "description": "Auto-generated translation for: Adjust the font size of native subtitles.",
+    "message": "Schriftgröße nativer Untertitel anpassen."
+  },
+  "v2_32392f13": {
+    "description": "Auto-generated translation for: Choose the text color for native subtitles.",
+    "message": "Wählen Sie die Textfarbe für native Untertitel."
+  },
+  "v2_216777f7": {
+    "description": "Auto-generated translation for: Choose color for native subtitle text",
+    "message": "Farbe für nativen Untertiteltext auswählen"
+  },
+  "v2_6a2e4fcb": {
+    "description": "Auto-generated translation for: Adjust the playback speed of videos.",
+    "message": "Wiedergabegeschwindigkeit von Videos anpassen."
+  },
+  "v2_6d294115": {
+    "description": "Auto-generated translation for: Adjust the volume of video playback.",
+    "message": "Passen Sie die Lautstärke der Videowiedergabe an."
+  },
+  "v2_14cb3bc9": {
+    "description": "Auto-generated translation for: Your native language for translations.",
+    "message": "Ihre Muttersprache für Übersetzungen."
+  },
+  "v2_0466722a": {
+    "description": "Auto-generated translation for: The language you are learning.",
+    "message": "Die Sprache, die Sie lernen."
+  },
+  "v2_00202395": {
+    "description": "Auto-generated translation for: Copy",
+    "message": "Kopieren"
+  },
+  "v2_6e4cecd5": {
+    "description": "Auto-generated translation for: Retour",
+    "message": "Zurück"
+  },
+  "v2_67d3a8c5": {
+    "description": "Auto-generated translation for: Subtitles",
+    "message": "Untertitel"
+  },
+  "v2_1577c0ce": {
+    "description": "Auto-generated translation for: Visibility",
+    "message": "Sichtbarkeit"
+  },
+  "v2_6a9872e7": {
+    "description": "Auto-generated translation for: Interface",
+    "message": "Schnittstelle"
+  },
+  "v2_50f9e5c8": {
+    "description": "Auto-generated translation for: Word Status",
+    "message": "Wortstatus"
+  },
+  "v2_26fe33be": {
+    "description": "Auto-generated translation for: Advanced",
+    "message": "Erweitert"
+  },
+  "v2_17e6ef6c": {
+    "description": "Auto-generated translation for: Traditional flashcard review. Flip cards to see translations and test your memory.",
+    "message": "Traditionelle Karteikarten-Überprüfung. Drehen Sie die Karten um, um Übersetzungen zu sehen und Ihr Gedächtnis zu testen."
+  },
+  "v2_76e49682": {
+    "description": "Auto-generated translation for: Sentence Miner",
+    "message": "Satz-Miner"
+  },
+  "v2_6c1c9b83": {
+    "description": "Auto-generated translation for: Learn words through sentence examples. The number of examples per word is customizable.",
+    "message": "Lerne Wörter anhand von Beispielsätzen. Die Anzahl der Beispiele pro Wort ist anpassbar."
+  },
+  "v2_59e529cb": {
+    "description": "Auto-generated translation for: Maximum number of due cards to review per session",
+    "message": "Maximale Anzahl fälliger Karten pro Sitzung zur Wiederholung"
+  },
+  "v2_428fbde1": {
+    "description": "Auto-generated translation for: Maximum number of new cards to learn per session",
+    "message": "Maximale Anzahl neuer Karten, die pro Sitzung gelernt werden können"
+  },
+  "v2_58a94797": {
+    "description": "Auto-generated translation for: Learning Center",
+    "message": "Lernzentrum"
+  },
+  "v2_7fca1117": {
+    "description": "Auto-generated translation for: Guides",
+    "message": "Anleitungen"
+  },
+  "v2_036dacea": {
+    "description": "Auto-generated translation for: Text Reader",
+    "message": "Textleser"
+  },
+  "v2_05897435": {
+    "description": "Auto-generated translation for: Language settings",
+    "message": "Spracheinstellungen"
+  },
+  "v2_46752ca0": {
+    "description": "Auto-generated translation for: Token Sandbox",
+    "message": "Token-Sandbox"
+  },
+  "v2_46c2aa6d": {
+    "description": "Auto-generated translation for: Translation not available",
+    "message": "Übersetzung nicht verfügbar"
+  },
+  "v2_25495899": {
+    "description": "Auto-generated translation for: Complete the sentence",
+    "message": "Vervollständigen Sie den Satz"
+  },
+  "v2_26f46dc1": {
+    "description": "Auto-generated translation for: Enter the word",
+    "message": "Geben Sie das Wort ein"
+  },
+  "v2_402adac5": {
+    "description": "Auto-generated translation for: Enter the missing word",
+    "message": "Geben Sie das fehlende Wort ein"
+  },
+  "v2_00224361": {
+    "description": "Auto-generated translation for: Help",
+    "message": "Hilfe"
+  },
+  "v2_00274f1d": {
+    "description": "Auto-generated translation for: Show",
+    "message": "Anzeigen"
+  },
+  "v2_752f2bde": {
+    "description": "Auto-generated translation for: Answer",
+    "message": "Antwort"
+  },
+  "v2_173f36e9": {
+    "description": "Auto-generated translation for: Correct!",
+    "message": "Korrekt!"
+  },
+  "v2_23339785": {
+    "description": "Auto-generated translation for: Incorrect",
+    "message": "Falsch"
+  },
+  "v2_7a404293": {
+    "description": "Auto-generated translation for: The correct answer is:",
+    "message": "Die richtige Antwort ist:"
+  },
+  "v2_5472d5e8": {
+    "description": "Auto-generated translation for: Import New Text",
+    "message": "Neuen Text importieren"
+  },
+  "v2_488da338": {
+    "description": "Auto-generated translation for: Import Text",
+    "message": "Text importieren"
+  },
+  "v2_0840eac0": {
+    "description": "Auto-generated translation for: Paste your text below and select its language to start reading",
+    "message": "Fügen Sie Ihren Text unten ein und wählen Sie dessen Sprache aus, um mit dem Lesen zu beginnen"
+  },
+  "v2_71f67b7a": {
+    "description": "Auto-generated translation for: Text Content",
+    "message": "Textinhalt"
+  },
+  "v2_05b9d915": {
+    "description": "Auto-generated translation for: Paste your text here...",
+    "message": "Fügen Sie Ihren Text hier ein..."
+  },
+  "v2_58f435fc": {
+    "description": "Auto-generated translation for: Select Language",
+    "message": "Sprache auswählen"
+  },
+  "v2_2ce38b72": {
+    "description": "Auto-generated translation for: Start Reading",
+    "message": "Jetzt lesen"
+  },
+  "v2_1a208779": {
+    "description": "Auto-generated translation for: You've completed your Sentence Miner session",
+    "message": "Sie haben Ihre Sentence Miner-Sitzung abgeschlossen"
+  },
+  "v2_4cf75654": {
+    "description": "Auto-generated translation for: Cards Reviewed",
+    "message": "Karten überprüft"
+  },
+  "v2_5bea9489": {
+    "description": "Auto-generated translation for: Generating examples...",
+    "message": "Beispiele werden generiert..."
+  },
+  "v2_44e50ba2": {
+    "description": "Auto-generated translation for: Each word will be shown with different sentence examples to help you learn it in context.",
+    "message": "Jedes Wort wird mit verschiedenen Beispielsätzen gezeigt, um Ihnen zu helfen, es im Kontext zu lernen."
+  },
+  "v2_145da94a": {
+    "description": "Auto-generated translation for: Example",
+    "message": "Beispiel"
+  },
+  "v2_45050956": {
+    "description": "Auto-generated translation for: New Example",
+    "message": "Neues Beispiel"
+  },
+  "v2_4f626f81": {
+    "description": "Auto-generated translation for: Cycle blur states",
+    "message": "Unschärfestadien durchlaufen"
+  },
+  "v2_04aefcf4": {
+    "description": "Auto-generated translation for: Edit List",
+    "message": "Liste bearbeiten"
+  },
+  "v2_6fc27995": {
+    "description": "Auto-generated translation for: Generate",
+    "message": "Generieren"
+  },
+  "v2_5b27c74d": {
+    "description": "Auto-generated translation for: Add Words to List",
+    "message": "Wörter zur Liste hinzufügen"
+  },
+  "v2_22cfe8dd": {
+    "description": "Auto-generated translation for: Please enable at least one option to add words to the list.",
+    "message": "Bitte aktivieren Sie mindestens eine Option, um Wörter zur Liste hinzuzufügen."
+  },
+  "v2_5348fd85": {
+    "description": "Auto-generated translation for: Please select learning and native languages before using AI features.",
+    "message": "Bitte wählen Sie Lern- und Muttersprachen, bevor Sie KI-Funktionen verwenden."
+  },
+  "v2_661ca3f7": {
+    "description": "Auto-generated translation for: $count$ word(s) added from selection",
+    "message": "$count$ Wort(e) aus Auswahl hinzugefügt",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_48f58349": {
+    "description": "Auto-generated translation for: AI-selected words added",
+    "message": "KI-ausgewählte Wörter wurden hinzugefügt"
+  },
+  "v2_4091dbd3": {
+    "description": "Auto-generated translation for: AI-generated words added",
+    "message": "KI-generierte Wörter hinzugefügt"
+  },
+  "v2_0ce3628e": {
+    "description": "Auto-generated translation for: Failed to add words: $error$",
+    "message": "Wörter konnten nicht hinzugefügt werden: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_27d50e2c": {
+    "description": "Auto-generated translation for: Choose from existing notebook words",
+    "message": "Wählen Sie aus bestehenden Notizbuchwörtern"
+  },
+  "v2_2c920aa5": {
+    "description": "Auto-generated translation for: Select words",
+    "message": "Wörter auswählen"
+  },
+  "v2_0e1d5dde": {
+    "description": "Auto-generated translation for: No words found.",
+    "message": "Keine Wörter gefunden."
+  },
+  "v2_40810b6e": {
+    "description": "Auto-generated translation for: $count$ word(s) selected",
+    "message": "$count$ Wort(e) ausgewählt",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_20097d87": {
+    "description": "Auto-generated translation for: No words found in notebook for the selected language",
+    "message": "Keine Wörter im Notizbuch für die ausgewählte Sprache gefunden"
+  },
+  "v2_09db44e6": {
+    "description": "Auto-generated translation for: Generate new vocabulary words",
+    "message": "Neue Vokabeln generieren"
+  },
+  "v2_6a5f2c6f": {
+    "description": "Auto-generated translation for: AI will generate new vocabulary words based on the list context and your instructions.",
+    "message": "KI generiert neue Vokabeln basierend auf dem Listenkontext und Ihren Anweisungen."
+  },
+  "v2_4e89494b": {
+    "description": "Auto-generated translation for: Let AI pick words from your notebook",
+    "message": "Lass die KI Wörter aus deinem Notizbuch auswählen"
+  },
+  "v2_6e832bd2": {
+    "description": "Auto-generated translation for: Selection criteria (Optional)",
+    "message": "Auswahlkriterien (Optional)"
+  },
+  "v2_702b9771": {
+    "description": "Auto-generated translation for: Describe what kind of words you want AI to select. For example: 'words about weather' or 'business vocabulary'",
+    "message": "Beschreiben Sie, welche Art von Wörtern die KI auswählen soll. Zum Beispiel: „Wörter zum Wetter“ oder „Geschäftsvokabular\""
+  },
+  "v2_4fda7d04": {
+    "description": "Auto-generated translation for: AI will analyze your notebook and select relevant words based on the list context and your criteria.",
+    "message": "KI analysiert Ihr Notizbuch und wählt relevante Wörter basierend auf dem Listenkontext und Ihren Kriterien aus."
+  },
+  "v2_02c3515d": {
+    "description": "Auto-generated translation for: AI is selecting words...",
+    "message": "KI wählt Wörter aus..."
+  },
+  "v2_088e2aa1": {
+    "description": "Auto-generated translation for: $count$ word(s) selected by AI",
+    "message": "$count$ von KI ausgewählte Wörter",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
   }
 }

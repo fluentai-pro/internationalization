@@ -526,37 +526,9 @@
     "description": "Auto-generated translation for: Interface Volume",
     "message": "Rajapinnan äänenvoimakkuus"
   },
-  "v2_792c593d": {
-    "description": "Auto-generated translation for: Voice Synthesis Settings",
-    "message": "Äänisynteesin asetukset"
-  },
-  "v2_3d3c0973": {
-    "description": "Auto-generated translation for: Reading Speed",
-    "message": "Lukunopeus"
-  },
-  "v2_18e3ff71": {
-    "description": "Auto-generated translation for: Adjust how fast or slow the AI voice reads the text",
-    "message": "Säädä, kuinka nopeasti tai hitaasti tekoäänellä luettu teksti esitetään"
-  },
-  "v2_44e3f7de": {
-    "description": "Auto-generated translation for: Voice Selection",
-    "message": "Äänen valinta"
-  },
-  "v2_13232de5": {
-    "description": "Auto-generated translation for: Select from different AI voices available for your learning language",
-    "message": "Valitse oppimasi kielen mukaan eri saatavilla olevista tekoälyäänistä."
-  },
   "v2_6185fd12": {
     "description": "Auto-generated translation for: Blur Learning Subtitles",
     "message": "Häivytä oppimisen tekstitykset"
-  },
-  "v2_1f2ac9e1": {
-    "description": "Auto-generated translation for: Learning Subtitle Background Opacity",
-    "message": "Oppiminen tekstityksen taustan läpinäkyvyydestä"
-  },
-  "v2_06fb071c": {
-    "description": "Auto-generated translation for: Native Language Subtitles",
-    "message": "Äidinkieliset tekstitykset"
   },
   "v2_2f8c0d35": {
     "description": "Auto-generated translation for: Show Native Subtitles",
@@ -565,10 +537,6 @@
   "v2_0cf006f5": {
     "description": "Auto-generated translation for: Blur Native Subtitles",
     "message": "Sumenna alkuperäiset tekstitykset"
-  },
-  "v2_363b2468": {
-    "description": "Auto-generated translation for: Native Subtitle Background Opacity",
-    "message": "Alkuperäisen tekstityksen taustan peittävyys"
   },
   "v2_03e2edd8": {
     "description": "Auto-generated translation for: Close",
@@ -1538,10 +1506,6 @@
     "description": "Auto-generated translation for: Export",
     "message": "Vienti"
   },
-  "v2_6dd930be": {
-    "description": "Auto-generated translation for: Quick Translation",
-    "message": "Nopea käännös"
-  },
   "v2_283701c4": {
     "description": "Auto-generated translation for: Our system is currently under maintenance to improve your experience.",
     "message": "Järjestelmämme on parhaillaan huoltotilassa parantaaksemme käyttökokemustasi."
@@ -1662,10 +1626,6 @@
     "description": "Auto-generated translation for: Text Color",
     "message": "Tekstin väri"
   },
-  "v2_555bc8f5": {
-    "description": "Auto-generated translation for: Upvote, comment, and share your thoughts on Featurebase →",
-    "message": "Äänestä, kommentoi, ja jaa ajatuksesi Featurebasessa →"
-  },
   "v2_786aba7f": {
     "description": "Auto-generated translation for: Flashcards Creator",
     "message": "Muistikorttien Luontityökalu"
@@ -1701,10 +1661,6 @@
   "v2_37d0d9b3": {
     "description": "Auto-generated translation for: Progress",
     "message": "Edistys"
-  },
-  "v2_5d68d20e": {
-    "description": "Auto-generated translation for: Show Translation",
-    "message": "Näytä käännös"
   },
   "v2_1da2c7ab": {
     "description": "Auto-generated translation for: File type ($file_type$) not supported. Please upload an audio file.",
@@ -1784,10 +1740,6 @@
     "description": "Auto-generated translation for: FluentAI offers a great combination of intuitive features and excellent vocabulary retention tools.",
     "message": "FluentAI tarjoaa erinomaisen yhdistelmän intuitiivisia ominaisuuksia ja loistavia sanastonmuistityökaluja."
   },
-  "v2_5697ee78": {
-    "description": "Auto-generated translation for: Speak word when translation popup opens",
-    "message": "Puhu sana, kun käännösilmoitus avautuu"
-  },
   "v2_6a06af47": {
     "description": "Auto-generated translation for: YOUR JOURNEY TO <span class=\"gradient-highlighted-text\">FLUENCY</span> STARTS HERE",
     "message": "MATKASI <span class=\"gradient-highlighted-text\">SUJUVAAN KIELITAITOON</span> ALKAA TÄSTÄ"
@@ -1808,18 +1760,6 @@
     "description": "Auto-generated translation for: This will take a few seconds",
     "message": "Tämä kestää muutaman sekunnin."
   },
-  "v2_77a2cd88": {
-    "description": "Auto-generated translation for: Subtitle Colors",
-    "message": "Tekstityksen värit"
-  },
-  "v2_6174b983": {
-    "description": "Auto-generated translation for: Learning Subtitle Color",
-    "message": "Tekstityksen värin oppiminen"
-  },
-  "v2_37e0cf9c": {
-    "description": "Auto-generated translation for: Native Subtitle Color",
-    "message": "Oletusarvoiset tekstityksen värit"
-  },
   "v2_3a3be6ac": {
     "description": "Auto-generated translation for: Underline",
     "message": "Alleviivaa"
@@ -1827,14 +1767,6 @@
   "v2_01bb3ba6": {
     "description": "Auto-generated translation for: Bordered Dashed",
     "message": "Reunaviiva katkoviivoin"
-  },
-  "v2_2d7ee88b": {
-    "description": "Auto-generated translation for: Vocabulary Bookmark Variant",
-    "message": "Sanastokirjanmerkin muunnos"
-  },
-  "v2_0c403253": {
-    "description": "Auto-generated translation for: Vocabulary Bookmark Color",
-    "message": "Sanaston kirjanmerkin väri"
   },
   "v2_4c47a99f": {
     "description": "Auto-generated translation for: Processing Status",
@@ -3863,10 +3795,6 @@
     "description": "Auto-generated translation for: Failed to refresh prompts: ",
     "message": "Kehotteiden päivittäminen epäonnistui:"
   },
-  "v2_5d205f3b": {
-    "description": "Auto-generated translation for: Streaming explanation",
-    "message": "Suoratoiston selitys"
-  },
   "v2_013bb45c": {
     "description": "Auto-generated translation for: Create Learning List",
     "message": "Luo oppimislista"
@@ -3991,15 +3919,6 @@
     "description": "Auto-generated translation for: Start Learning",
     "message": "Aloita oppiminen"
   },
-  "v2_2cafbf71": {
-    "description": "Auto-generated translation for: $word$ removed from bookmarks",
-    "message": "$word$ poistettu kirjanmerkeistä",
-    "placeholders": {
-      "word": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_3b39273f": {
     "description": "Auto-generated translation for: Automatically resumes the video when leaving word hover.",
     "message": "Jatkaa videon toistoa automaattisesti, kun sanan yläpuolelta siirrytään pois."
@@ -4011,18 +3930,6 @@
   "v2_14723a8b": {
     "description": "Auto-generated translation for: Learning Features Configuration",
     "message": "Ominaisuuksien oppimisasetukset"
-  },
-  "v2_184f78e4": {
-    "description": "Auto-generated translation for: Languages & Subtitles",
-    "message": "Kielet ja tekstitykset"
-  },
-  "v2_2aeb65b2": {
-    "description": "Auto-generated translation for: Volume & Voice",
-    "message": "Äänenvoimakkuus ja ääni"
-  },
-  "v2_3deccab8": {
-    "description": "Auto-generated translation for: Sizes & Colors",
-    "message": "Koot ja värit"
   },
   "v2_65d5236d": {
     "description": "Auto-generated translation for: Word Features",
@@ -4036,41 +3943,9 @@
     "description": "Auto-generated translation for: Add spaces between words for languages that don't use spaces.",
     "message": "Lisää välilyöntejä sanojen väliin kielissä, jotka eivät käytä välilyöntejä."
   },
-  "v2_72899725": {
-    "description": "Auto-generated translation for: Choose the color for learning language subtitles.",
-    "message": "Valitse opetuskielen tekstityksen väri."
-  },
-  "v2_1287f050": {
-    "description": "Auto-generated translation for: Adjust the opacity of the background behind learning language subtitles.",
-    "message": "Säädä taustan peittävyyttä kielenoppimisalaotsikoiden takana."
-  },
-  "v2_3046989e": {
-    "description": "Auto-generated translation for: Choose the color for native language subtitles.",
-    "message": "Valitse natiivikielen tekstityksen väri."
-  },
-  "v2_0b004817": {
-    "description": "Auto-generated translation for: Adjust the opacity of the background behind native language subtitles.",
-    "message": "Säädä taustan läpinäkyvyyttä alkuperäiskielisten tekstitysten takana."
-  },
-  "v2_3801fb9a": {
-    "description": "Auto-generated translation for: Bookmark Colors",
-    "message": "Kirjanmerkkien värit"
-  },
-  "v2_69225e7d": {
-    "description": "Auto-generated translation for: Choose how vocabulary bookmarks are displayed.",
-    "message": "Valitse, miten sanastokirjanmerkit näytetään."
-  },
-  "v2_3e190e61": {
-    "description": "Auto-generated translation for: Choose the color for vocabulary bookmarks.",
-    "message": "Valitse väri sanastokirjanmerkeille."
-  },
   "v2_415bcea8": {
     "description": "Auto-generated translation for: Speaks the word aloud when the translation popup opens.",
     "message": "Puhu sana ääneen, kun käännöksen ponnahdusikkuna avautuu."
-  },
-  "v2_7f870a83": {
-    "description": "Auto-generated translation for: Subtitles List",
-    "message": "Tekstitykset"
   },
   "v2_3677de40": {
     "description": "Auto-generated translation for: Show the translation for the subtitles list panel.",
@@ -4163,18 +4038,6 @@
   "v2_47e4218f": {
     "description": "Auto-generated translation for: Precise timing for better learning experience and word highlighting.",
     "message": "Tarkka ajoitus paremman oppimiskokemuksen ja sanan korostuksen vuoksi."
-  },
-  "v2_7802fe56": {
-    "description": "Auto-generated translation for: Logout",
-    "message": "Kirjaudu ulos"
-  },
-  "v2_404e8925": {
-    "description": "Auto-generated translation for: No video available",
-    "message": "Ei videota saatavilla"
-  },
-  "v2_496533a1": {
-    "description": "Auto-generated translation for: Error loading video",
-    "message": "Virhe videon lataamisessa"
   },
   "v2_4c260052": {
     "description": "Auto-generated translation for: Assign Key",
@@ -4567,10 +4430,6 @@
   "v2_2743fe99": {
     "description": "Auto-generated translation for: An error occurred while checking transcription status",
     "message": "Virhe tarkistettaessa litteroinnin tilaa"
-  },
-  "v2_3c750a29": {
-    "description": "Auto-generated translation for: Remove sentence bookmark",
-    "message": "Poista lauseen kirjanmerkki"
   },
   "v2_53aa3213": {
     "description": "Auto-generated translation for: Bookmark sentence",
@@ -5238,10 +5097,6 @@
     "description": "Auto-generated translation for: Transliteration Type",
     "message": "Translitterointityyppi"
   },
-  "v2_4c4993e2": {
-    "description": "Auto-generated translation for: Sentence Transliteration Type",
-    "message": "Lauseen translitterointityyppi"
-  },
   "v2_5a4c3526": {
     "description": "Auto-generated translation for: Notebook Table State",
     "message": "Muistikirjan taulukon tila"
@@ -5297,10 +5152,6 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "Löydät kaikki tallennetut sanasi, lauseesi ja virkkeesi täältä. Voit lajitella suodattimien avulla, luoda luetteloita ja viedä Ankiin."
-  },
-  "v2_718eecbf": {
-    "description": "Auto-generated translation for: Subtitles Panel",
-    "message": "Tekstityspaneeli"
   },
   "v2_02626478": {
     "description": "Auto-generated translation for: Subtitles Settings",
@@ -5654,10 +5505,6 @@
     "description": "Auto-generated translation for: Pronounce Hovered Word",
     "message": "Äännä osoitettu sana"
   },
-  "v2_5530a734": {
-    "description": "Auto-generated translation for: Save Current Word",
-    "message": "Tallenna nykyinen sana"
-  },
   "v2_44e36e73": {
     "description": "Auto-generated translation for: Save Current Sentence",
     "message": "Tallenna nykyinen lause"
@@ -5733,10 +5580,6 @@
   "v2_765b71a1": {
     "description": "Auto-generated translation for: Say Word",
     "message": "Sana sanasta"
-  },
-  "v2_7ee6efcd": {
-    "description": "Auto-generated translation for: Save Word",
-    "message": "Tallenna sana"
   },
   "v2_18dae5a6": {
     "description": "Auto-generated translation for: Save Sentence",
@@ -5814,10 +5657,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_74634f26": {
-    "description": "Auto-generated translation for: No word found to bookmark",
-    "message": "Kirjanmerkkeihin lisättävää sanaa ei löytynyt"
   },
   "v2_70abeef9": {
     "description": "Auto-generated translation for: No word found to pronounce",
@@ -5902,10 +5741,6 @@
     "description": "Auto-generated translation for: Match the Audio Language",
     "message": "Yhdistä äänikieli"
   },
-  "v2_5dc3e7ce": {
-    "description": "Auto-generated translation for: Failed to bookmark word",
-    "message": "Sanan kirjanmerkitseminen epäonnistui"
-  },
   "v2_1d75f944": {
     "description": "Auto-generated translation for: Morphology",
     "message": "Morfologia"
@@ -5922,10 +5757,6 @@
     "description": "Auto-generated translation for: Error fetching analysis",
     "message": "Virhe analyysin haussa"
   },
-  "v2_5d408786": {
-    "description": "Auto-generated translation for: Streaming usage examples",
-    "message": "Suoratoiston käyttöesimerkkejä"
-  },
   "v2_3ec2f5f0": {
     "description": "Auto-generated translation for: No usage examples available",
     "message": "Käyttöesimerkkejä ei saatavilla"
@@ -5933,10 +5764,6 @@
   "v2_5dcb05e8": {
     "description": "Auto-generated translation for: Error fetching usage examples",
     "message": "Virhe noudettaessa käyttötapauksia"
-  },
-  "v2_7686c62c": {
-    "description": "Auto-generated translation for: Streaming synonyms and antonyms",
-    "message": "Synonyymien ja antonyymien suoratoisto"
   },
   "v2_2bdb6f4a": {
     "description": "Auto-generated translation for: No synonyms or antonyms available",
@@ -5962,18 +5789,6 @@
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "Käännöksen ponnahdusikkunan asetukset"
   },
-  "v2_3de8ee50": {
-    "description": "Auto-generated translation for: Failed to remove bookmark",
-    "message": "Kirjanmerkin poistaminen epäonnistui"
-  },
-  "v2_7781cac2": {
-    "description": "Auto-generated translation for: Failed to get video context",
-    "message": "Videon kontekstin hakeminen epäonnistui"
-  },
-  "v2_021c110d": {
-    "description": "Auto-generated translation for: Failed to get subtitle context",
-    "message": "Tekstityksen kontekstin hakeminen epäonnistui"
-  },
   "v2_6ecf6dff": {
     "description": "Auto-generated translation for: Pronounce word",
     "message": "Äännä sana"
@@ -5994,10 +5809,6 @@
     "description": "Auto-generated translation for: Scale all translation popups including text, buttons, and spacing",
     "message": "Skaalaa kaikki käännöksen ponnahdusikkunat mukaan lukien teksti, painikkeet ja välistys"
   },
-  "v2_756da0fc": {
-    "description": "Auto-generated translation for: Sentence removed from bookmarks",
-    "message": "Lause poistettu kirjanmerkeistä"
-  },
   "v2_78606dc1": {
     "description": "Auto-generated translation for: Merge with previous word",
     "message": "Yhdistä edelliseen sanaan"
@@ -6005,10 +5816,6 @@
   "v2_5f4dfdbb": {
     "description": "Auto-generated translation for: Merge with next word",
     "message": "Yhdistä seuraavaan sanaan"
-  },
-  "v2_69be8149": {
-    "description": "Auto-generated translation for: Analyse word",
-    "message": "Analysoi sana"
   },
   "v2_03c2f0e0": {
     "description": "Auto-generated translation for: Added",
@@ -7025,23 +6832,6 @@
     "description": "Auto-generated translation for: No items in this list yet.",
     "message": "Tässä luettelossa ei ole vielä yhtään kohdetta."
   },
-  "v2_7132a412": {
-    "description": "Auto-generated translation for: Words generated and added to list",
-    "message": "Sanat luotu ja lisätty listaan"
-  },
-  "v2_141a82da": {
-    "description": "Auto-generated translation for: Failed to generate words: $error$",
-    "message": "Sanojen luonti epäonnistui: $error$",
-    "placeholders": {
-      "error": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_6c576f57": {
-    "description": "Auto-generated translation for: Generate Words for List",
-    "message": "Generoi sanoja listalle"
-  },
   "v2_60cbc3e4": {
     "description": "Auto-generated translation for: Generating...",
     "message": "Generoidaan..."
@@ -7115,10 +6905,6 @@
   "v2_0cb49284": {
     "description": "Auto-generated translation for: Your feedback helps us improve FluentAI and fix issues. Please share what didn't work for you.",
     "message": "Palautteesi auttaa meitä kehittämään FluentAI:ta ja korjaamaan ongelmia. Kerro, mikä ei toiminut sinulle."
-  },
-  "v2_59837c49": {
-    "description": "Auto-generated translation for: Try FluentAI",
-    "message": "Kokeile FluentAI:ta"
   },
   "v2_13a366e5": {
     "description": "Auto-generated translation for: Analyzing...",
@@ -7647,10 +7433,6 @@
     "description": "Auto-generated translation for: Learn the language you want with smart subtitles on YouTube, Netflix, Prime, and Disney.",
     "message": "Opi haluamasi kieli älykkäiden tekstitysten avulla YouTubessa, Netflixissä, Primessa ja Disneyssä."
   },
-  "v2_258894c1": {
-    "description": "Auto-generated translation for: Audio Extraction Test",
-    "message": "Äänen purkamisen testi"
-  },
   "v2_50c3add5": {
     "description": "Auto-generated translation for: 🎉 Session Complete!",
     "message": "🎉 Istunto suoritettu!"
@@ -7932,10 +7714,6 @@
     "description": "Auto-generated translation for: Less",
     "message": "Vähemmän"
   },
-  "v2_4d28d5c3": {
-    "description": "Auto-generated translation for: Please select learning and native languages before generating words.",
-    "message": "Ole hyvä ja valitse opiskelu- ja äidinkielet ennen sanojen generointia."
-  },
   "v2_5141fce8": {
     "description": "Auto-generated translation for: Tell the AI what kind of words you want to generate. For example: 'Generate beginner-level vocabulary for travel conversations' or 'Focus on business and professional terms'",
     "message": "Kerro tekoälylle, millaisia sanoja haluat sen luovan. Esimerkiksi: 'Luo aloittelijatasoisia sanastoja matkailukeskusteluihin' tai 'Keskity liiketoiminta- ja ammattitermeihin'"
@@ -8112,10 +7890,6 @@
   "v2_3e024a75": {
     "description": "Auto-generated translation for: AnkiConnect Configuration",
     "message": "AnkiConnect-määritykset"
-  },
-  "v2_42057dd5": {
-    "description": "Auto-generated translation for: Failed to determine bookmark type",
-    "message": "Kirjanmerkin tyyppiä ei voitu määrittää"
   },
   "v2_48d2b824": {
     "description": "Auto-generated translation for: Your next session will include up to",
@@ -8435,10 +8209,6 @@
     "description": "Auto-generated translation for: immersive learning with intelligent subtitles and powerful features.",
     "message": "mukaansatempaava oppiminen älykkäillä tekstityksillä ja tehokkailla ominaisuuksilla."
   },
-  "v2_6d7d730c": {
-    "description": "Auto-generated translation for: Go to App",
-    "message": "Siirry sovellukseen"
-  },
   "v2_32d57c5b": {
     "description": "Auto-generated translation for: Manually find words in notebook",
     "message": "Etsi sanoja muistikirjasta manuaalisesti"
@@ -8562,18 +8332,6 @@
     "description": "Auto-generated translation for: New cards per session",
     "message": "Uusia kortteja istuntoa kohti"
   },
-  "v2_6b4f5593": {
-    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
-    "message": "Kortit, jotka olet aiemmin kerrannut ja jotka ovat taas erääntyneet"
-  },
-  "v2_69b0d569": {
-    "description": "Auto-generated translation for: Cards you've never reviewed",
-    "message": "Kortit, joita et ole koskaan kerrannut"
-  },
-  "v2_5f691564": {
-    "description": "Auto-generated translation for: Cards you've reviewed today",
-    "message": "Tänään tarkistetut kortit"
-  },
   "v2_35274cbd": {
     "description": "Auto-generated translation for: Choose your training method",
     "message": "Valitse harjoitusmenetelmäsi"
@@ -8681,5 +8439,614 @@
   "v2_666ebf69": {
     "description": "Auto-generated translation for: cards reviewed in the last year",
     "message": "kortit, jotka on tarkistettu viimeisen vuoden aikana"
+  },
+  "v2_523a1b51": {
+    "description": "Auto-generated translation for: Word archived successfully",
+    "message": "Sana arkistoitu onnistuneesti"
+  },
+  "v2_5af1bc96": {
+    "description": "Auto-generated translation for: Failed to archive word",
+    "message": "Sanan arkistointi epäonnistui"
+  },
+  "v2_7255de43": {
+    "description": "Auto-generated translation for: Unknown - Click to mark as Learning",
+    "message": "Tuntematon - Napsauta merkitäksesi opeteltavaksi"
+  },
+  "v2_6d7efa68": {
+    "description": "Auto-generated translation for: Click to mark as {status}",
+    "message": "Napsauta merkitäksesi {status}",
+    "placeholders": {
+      "status": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_627263fe": {
+    "description": "Auto-generated translation for: Archived",
+    "message": "Arkistoitu"
+  },
+  "v2_36a178a2": {
+    "description": "Auto-generated translation for: Archive",
+    "message": "Arkisto"
+  },
+  "v2_52f462d1": {
+    "description": "Auto-generated translation for: Archiving...",
+    "message": "Arkistoidaan..."
+  },
+  "v2_5df7ef01": {
+    "description": "Auto-generated translation for: Type of transliteration for words and sentences.",
+    "message": "Sanojen ja lauseiden translitterointityyppi."
+  },
+  "v2_009f6518": {
+    "description": "Auto-generated translation for: Word Status Colors",
+    "message": "Sanan tilavärit"
+  },
+  "v2_684a7a14": {
+    "description": "Auto-generated translation for: Turn On/Off Subtitle List Panel",
+    "message": "Ota tekstityslistapaneeli käyttöön/pois käytöstä"
+  },
+  "v2_6eab681b": {
+    "description": "Auto-generated translation for: Bookmark Current Word",
+    "message": "Kirjanmerkki nykyinen sana"
+  },
+  "v2_36d867b7": {
+    "description": "Auto-generated translation for: Mark Word as Learning",
+    "message": "Merkitse sana opittavaksi"
+  },
+  "v2_4ae1c647": {
+    "description": "Auto-generated translation for: Mark Word as Ignored",
+    "message": "Merkitse sana ohitetuksi"
+  },
+  "v2_100c9a08": {
+    "description": "Auto-generated translation for: Mark Word as Known",
+    "message": "Merkitse sana tunnetuksi"
+  },
+  "v2_422887b4": {
+    "description": "Auto-generated translation for: Bookmark Word",
+    "message": "Kirjanmerkkinä sana"
+  },
+  "v2_02fc98dc": {
+    "description": "Auto-generated translation for: Text-to-speech is not configured. Please configure it in settings.",
+    "message": "Tekstistä puheeksi -toimintoa ei ole määritetty. Määritä se asetuksissa."
+  },
+  "v2_008b3b33": {
+    "description": "Auto-generated translation for: Failed to update word status",
+    "message": "Sanan tilan päivitys epäonnistui"
+  },
+  "v2_13166391": {
+    "description": "Auto-generated translation for: Language Learning Guides",
+    "message": "Kieltenoppaan oppaat"
+  },
+  "v2_5b377405": {
+    "description": "Auto-generated translation for: Reviews",
+    "message": "Arvostelut"
+  },
+  "v2_7dc70527": {
+    "description": "Auto-generated translation for: See what our users are saying about FluentAI. Browse through authentic reviews and testimonials from language learners around the world.",
+    "message": "Katso, mitä käyttäjämme sanovat FluentAI:sta. Selaa aitoja arvosteluja ja kokemuksia kieltenopiskelijoilta ympäri maailmaa."
+  },
+  "v2_42662a0f": {
+    "description": "Auto-generated translation for: Traditional flashcard review",
+    "message": "Perinteinen muistikorttiarvostelu"
+  },
+  "v2_6a71e162": {
+    "description": "Auto-generated translation for: Cloze System",
+    "message": "Aukkomenetelmä"
+  },
+  "v2_51461a44": {
+    "description": "Auto-generated translation for: Fill in the blank with the learning word",
+    "message": "Täytä tyhjä kohta oppimissanalla"
+  },
+  "v2_3aac7742": {
+    "description": "Auto-generated translation for: Review words at optimal intervals",
+    "message": "Kertaa sanoja optimaalisin väliajoin"
+  },
+  "v2_5c054884": {
+    "description": "Auto-generated translation for: Regular",
+    "message": "Säännöllinen"
+  },
+  "v2_7533b2eb": {
+    "description": "Auto-generated translation for: Practice with flashcards and cloze exercises",
+    "message": "Harjoittele muistikorttien ja aukkotäydennystehtävien avulla"
+  },
+  "v2_000141d4": {
+    "description": "Auto-generated translation for: SRS",
+    "message": "SRS"
+  },
+  "v2_7f6aa4b7": {
+    "description": "Auto-generated translation for: Regular Flashcards",
+    "message": "Tavalliset muistikortit"
+  },
+  "v2_51702d66": {
+    "description": "Auto-generated translation for: Loading cloze exercises...",
+    "message": "Ladataan aukkotäydennystehtäviä..."
+  },
+  "v2_40c85589": {
+    "description": "Auto-generated translation for: Cloze Training",
+    "message": "Aukkoharjoittelu"
+  },
+  "v2_57432a10": {
+    "description": "Auto-generated translation for: Error loading cloze exercises",
+    "message": "Virhe ladattaessa piilotehtäviä"
+  },
+  "v2_10f8b074": {
+    "description": "Auto-generated translation for: No words found",
+    "message": "Ei sanoja löydy"
+  },
+  "v2_22c7f3bf": {
+    "description": "Auto-generated translation for: No words match your filters",
+    "message": "Hakuasi vastaavia sanoja ei löytynyt"
+  },
+  "v2_1519a64c": {
+    "description": "Auto-generated translation for: Fill in the blanks",
+    "message": "Täytä tyhjät kohdat"
+  },
+  "v2_6bbed3c8": {
+    "description": "Auto-generated translation for: Submit",
+    "message": "Lähetä"
+  },
+  "v2_00014935": {
+    "description": "Auto-generated translation for: Top",
+    "message": "Yläosa"
+  },
+  "v2_04b4d1fc": {
+    "description": "Auto-generated translation for: Right",
+    "message": "Oikein"
+  },
+  "v2_00241427": {
+    "description": "Auto-generated translation for: Left",
+    "message": "Vasen"
+  },
+  "v2_5af2c9a9": {
+    "description": "Auto-generated translation for: Adjust the size of the interface elements.",
+    "message": "Säädä käyttöliittymän elementtien kokoa."
+  },
+  "v2_00a00750": {
+    "description": "Auto-generated translation for: Adjust the font size in EPUB reader.",
+    "message": "Säädä fonttikokoa e-kirjanlukijassa."
+  },
+  "v2_095c2f76": {
+    "description": "Auto-generated translation for: Adjust the gap at the bottom of the interface.",
+    "message": "Säädä rakoa käyttöliittymän alareunassa."
+  },
+  "v2_3f39c23b": {
+    "description": "Auto-generated translation for: Position of playback controls.",
+    "message": "Toistosäätimien sijainti."
+  },
+  "v2_0b4efdd5": {
+    "description": "Auto-generated translation for: Enable merging words together.",
+    "message": "Yhdistä sanat."
+  },
+  "v2_4511a7e0": {
+    "description": "Auto-generated translation for: Word Merging Enabled",
+    "message": "Sanojen yhdistäminen käytössä"
+  },
+  "v2_4a463c01": {
+    "description": "Auto-generated translation for: Enable token translation.",
+    "message": "Ota tunnuksen kääntäminen käyttöön."
+  },
+  "v2_305d9835": {
+    "description": "Auto-generated translation for: Token Translation Enabled",
+    "message": "Tunnuskäännös käytössä"
+  },
+  "v2_3fd88d7f": {
+    "description": "Auto-generated translation for: Enable learning to native language mapping.",
+    "message": "Ota käyttöön oppiminen natiivikielen vastaavuuteen."
+  },
+  "v2_2260eb57": {
+    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
+    "message": "Alkuperäiseen yhdistämisen oppiminen käytössä"
+  },
+  "v2_54d2596b": {
+    "description": "Auto-generated translation for: Enable sentence transliteration.",
+    "message": "Ota käyttöön lauseen translitterointi."
+  },
+  "v2_2c99d3dd": {
+    "description": "Auto-generated translation for: Sentence Transliteration Enabled",
+    "message": "Lauseen translitterointi käytössä"
+  },
+  "v2_0c892404": {
+    "description": "Auto-generated translation for: Open translation popup when hovering over words.",
+    "message": "Avaa käännöksen ponnahdusikkuna kun viet hiiren sanojen päälle."
+  },
+  "v2_0df752da": {
+    "description": "Auto-generated translation for: Highlight words during live speaking.",
+    "message": "Korosta sanoja puhuessasi livenä."
+  },
+  "v2_7c65e05a": {
+    "description": "Auto-generated translation for: Speak word when translation popup opens.",
+    "message": "Puhu sana, kun käännöksen ponnahdusikkuna avautuu."
+  },
+  "v2_06a97b06": {
+    "description": "Auto-generated translation for: Adjust the font size of learning subtitles.",
+    "message": "Säädä oppimistekstitysten fonttikokoa."
+  },
+  "v2_69c25346": {
+    "description": "Auto-generated translation for: Choose the text color for learning subtitles.",
+    "message": "Valitse tekstin väri oppimisen tekstityksille."
+  },
+  "v2_2a01bf90": {
+    "description": "Auto-generated translation for: Choose color for learning subtitle text",
+    "message": "Valitse väri oppimistekstitysten tekstiin"
+  },
+  "v2_56f71b61": {
+    "description": "Auto-generated translation for: Show or hide word insights.",
+    "message": "Näytä tai piilota sanatietoja."
+  },
+  "v2_51950c86": {
+    "description": "Auto-generated translation for: Show or hide word meanings.",
+    "message": "Näytä tai piilota sanojen merkitykset."
+  },
+  "v2_3d40af08": {
+    "description": "Auto-generated translation for: Show or hide dictionary information.",
+    "message": "Näytä tai piilota sanakirjan tiedot."
+  },
+  "v2_299b6507": {
+    "description": "Auto-generated translation for: Show or hide transliteration.",
+    "message": "Näytä tai piilota translitterointi."
+  },
+  "v2_04cc1813": {
+    "description": "Auto-generated translation for: Show or hide base form information.",
+    "message": "Näytä tai piilota peruslomaketiedot."
+  },
+  "v2_4a5bbaee": {
+    "description": "Auto-generated translation for: Preferred character length for subtitles.",
+    "message": "Ensisijainen tekstityksen merkkimäärä."
+  },
+  "v2_2f1f2fc9": {
+    "description": "Auto-generated translation for: Subtitle Preferred Char Length",
+    "message": "Tekstityksen toivottu merkkimäärä"
+  },
+  "v2_32880c31": {
+    "description": "Auto-generated translation for: Automatically pause video when hovering over words.",
+    "message": "Keskeytä video automaattisesti, kun viet hiiren sanojen päälle."
+  },
+  "v2_520fbd07": {
+    "description": "Auto-generated translation for: Restart playback when leaving a word.",
+    "message": "Käynnistä toisto uudelleen, kun poistut sanasta."
+  },
+  "v2_662e93b6": {
+    "description": "Auto-generated translation for: Advanced playback mode settings (configured in extension).",
+    "message": "Edistyneet toistotilan asetukset (määritetty laajennuksessa)."
+  },
+  "v2_29fea828": {
+    "description": "Auto-generated translation for: Playback Modes Settings",
+    "message": "Toistotilan asetukset"
+  },
+  "v2_3585e6e2": {
+    "description": "Auto-generated translation for: Complex settings - configure in extension",
+    "message": "Monipuoliset asetukset – määritä laajennuksessa"
+  },
+  "v2_094a82ca": {
+    "description": "Auto-generated translation for: Choose color for light mode",
+    "message": "Valitse väri vaaleaan tilaan"
+  },
+  "v2_68cd5bf0": {
+    "description": "Auto-generated translation for: Choose color for dark mode",
+    "message": "Valitse väri tummalle tilalle"
+  },
+  "v2_04b32d2f": {
+    "description": "Auto-generated translation for: Reset",
+    "message": "Nollaa"
+  },
+  "v2_0cfb9257": {
+    "description": "Auto-generated translation for: Adjust the speed of text-to-speech playback.",
+    "message": "Säädä tekstistä puheeksi -toiston nopeutta."
+  },
+  "v2_1e5d7f9a": {
+    "description": "Auto-generated translation for: TTS Speed",
+    "message": "TTS-nopeus"
+  },
+  "v2_2fdc99ff": {
+    "description": "Auto-generated translation for: Adjust the volume of text-to-speech audio.",
+    "message": "Säädä tekstistä puheeksi -toiminnon äänenvoimakkuutta."
+  },
+  "v2_4d99add9": {
+    "description": "Auto-generated translation for: TTS Volume",
+    "message": "TTS:n äänenvoimakkuus"
+  },
+  "v2_74d5fce0": {
+    "description": "Auto-generated translation for: Adjust the volume of interface sounds.",
+    "message": "Säädä käyttöliittymän äänien voimakkuutta."
+  },
+  "v2_6f9c205f": {
+    "description": "Auto-generated translation for: Adjust the font size of native subtitles.",
+    "message": "Säädä natiivien tekstitysten fonttikokoa."
+  },
+  "v2_32392f13": {
+    "description": "Auto-generated translation for: Choose the text color for native subtitles.",
+    "message": "Valitse natiivien tekstitysten tekstin väri."
+  },
+  "v2_216777f7": {
+    "description": "Auto-generated translation for: Choose color for native subtitle text",
+    "message": "Valitse väri natiivin tekstityksen tekstille"
+  },
+  "v2_6a2e4fcb": {
+    "description": "Auto-generated translation for: Adjust the playback speed of videos.",
+    "message": "Säädä videoiden toistonopeutta."
+  },
+  "v2_6d294115": {
+    "description": "Auto-generated translation for: Adjust the volume of video playback.",
+    "message": "Säädä videon toiston äänenvoimakkuutta."
+  },
+  "v2_14cb3bc9": {
+    "description": "Auto-generated translation for: Your native language for translations.",
+    "message": "Äidinkielesi käännöksiä varten."
+  },
+  "v2_0466722a": {
+    "description": "Auto-generated translation for: The language you are learning.",
+    "message": "Kieli, jota opit."
+  },
+  "v2_00202395": {
+    "description": "Auto-generated translation for: Copy",
+    "message": "Kopioi"
+  },
+  "v2_6e4cecd5": {
+    "description": "Auto-generated translation for: Retour",
+    "message": "Paluu"
+  },
+  "v2_67d3a8c5": {
+    "description": "Auto-generated translation for: Subtitles",
+    "message": "Tekstitykset"
+  },
+  "v2_1577c0ce": {
+    "description": "Auto-generated translation for: Visibility",
+    "message": "Näkyvyys"
+  },
+  "v2_6a9872e7": {
+    "description": "Auto-generated translation for: Interface",
+    "message": "Käyttöliittymä"
+  },
+  "v2_50f9e5c8": {
+    "description": "Auto-generated translation for: Word Status",
+    "message": "Sanan tila"
+  },
+  "v2_26fe33be": {
+    "description": "Auto-generated translation for: Advanced",
+    "message": "Kehittynyt"
+  },
+  "v2_17e6ef6c": {
+    "description": "Auto-generated translation for: Traditional flashcard review. Flip cards to see translations and test your memory.",
+    "message": "Perinteinen muistikorttiarvostelu. Käännä kortit nähdäksesi käännökset ja testaa muistiasi."
+  },
+  "v2_76e49682": {
+    "description": "Auto-generated translation for: Sentence Miner",
+    "message": "Lausekaivuri"
+  },
+  "v2_6c1c9b83": {
+    "description": "Auto-generated translation for: Learn words through sentence examples. The number of examples per word is customizable.",
+    "message": "Opettele sanoja esimerkkilauseiden avulla. Esimerkkien määrä sanaa kohden on mukautettavissa."
+  },
+  "v2_59e529cb": {
+    "description": "Auto-generated translation for: Maximum number of due cards to review per session",
+    "message": "Suurin sallittu erääntyneiden korttien määrä katselmusta kohden"
+  },
+  "v2_428fbde1": {
+    "description": "Auto-generated translation for: Maximum number of new cards to learn per session",
+    "message": "Uusien opittavien korttien enimmäismäärä istuntoa kohden"
+  },
+  "v2_58a94797": {
+    "description": "Auto-generated translation for: Learning Center",
+    "message": "Oppimiskeskus"
+  },
+  "v2_7fca1117": {
+    "description": "Auto-generated translation for: Guides",
+    "message": "Oppaat"
+  },
+  "v2_036dacea": {
+    "description": "Auto-generated translation for: Text Reader",
+    "message": "Tekstinlukija"
+  },
+  "v2_05897435": {
+    "description": "Auto-generated translation for: Language settings",
+    "message": "Kieliasetukset"
+  },
+  "v2_46752ca0": {
+    "description": "Auto-generated translation for: Token Sandbox",
+    "message": "Tunnuksen hiekkalaatikko"
+  },
+  "v2_46c2aa6d": {
+    "description": "Auto-generated translation for: Translation not available",
+    "message": "Käännös ei saatavilla"
+  },
+  "v2_25495899": {
+    "description": "Auto-generated translation for: Complete the sentence",
+    "message": "Täydennä lause"
+  },
+  "v2_26f46dc1": {
+    "description": "Auto-generated translation for: Enter the word",
+    "message": "Kirjoita sana"
+  },
+  "v2_402adac5": {
+    "description": "Auto-generated translation for: Enter the missing word",
+    "message": "Kirjoita puuttuva sana"
+  },
+  "v2_00224361": {
+    "description": "Auto-generated translation for: Help",
+    "message": "Apua"
+  },
+  "v2_00274f1d": {
+    "description": "Auto-generated translation for: Show",
+    "message": "Näytä"
+  },
+  "v2_752f2bde": {
+    "description": "Auto-generated translation for: Answer",
+    "message": "Vastaus"
+  },
+  "v2_173f36e9": {
+    "description": "Auto-generated translation for: Correct!",
+    "message": "Oikein!"
+  },
+  "v2_23339785": {
+    "description": "Auto-generated translation for: Incorrect",
+    "message": "Virheellinen"
+  },
+  "v2_7a404293": {
+    "description": "Auto-generated translation for: The correct answer is:",
+    "message": "Oikea vastaus on:"
+  },
+  "v2_5472d5e8": {
+    "description": "Auto-generated translation for: Import New Text",
+    "message": "Tuo uusi teksti"
+  },
+  "v2_488da338": {
+    "description": "Auto-generated translation for: Import Text",
+    "message": "Tuo teksti"
+  },
+  "v2_0840eac0": {
+    "description": "Auto-generated translation for: Paste your text below and select its language to start reading",
+    "message": "Liitä tekstisi alle ja valitse kieli aloittaaksesi lukemisen"
+  },
+  "v2_71f67b7a": {
+    "description": "Auto-generated translation for: Text Content",
+    "message": "Tekstisisältö"
+  },
+  "v2_05b9d915": {
+    "description": "Auto-generated translation for: Paste your text here...",
+    "message": "Liitä tekstisi tähän..."
+  },
+  "v2_58f435fc": {
+    "description": "Auto-generated translation for: Select Language",
+    "message": "Valitse kieli"
+  },
+  "v2_2ce38b72": {
+    "description": "Auto-generated translation for: Start Reading",
+    "message": "Aloita lukeminen"
+  },
+  "v2_1a208779": {
+    "description": "Auto-generated translation for: You've completed your Sentence Miner session",
+    "message": "Olet suorittanut Sentence Miner -istuntosi"
+  },
+  "v2_4cf75654": {
+    "description": "Auto-generated translation for: Cards Reviewed",
+    "message": "Arvostellut kortit"
+  },
+  "v2_5bea9489": {
+    "description": "Auto-generated translation for: Generating examples...",
+    "message": "Luodaan esimerkkejä..."
+  },
+  "v2_44e50ba2": {
+    "description": "Auto-generated translation for: Each word will be shown with different sentence examples to help you learn it in context.",
+    "message": "Jokainen sana näytetään eri esimerkkilauseissa, jotta voit oppia sen kontekstissa."
+  },
+  "v2_145da94a": {
+    "description": "Auto-generated translation for: Example",
+    "message": "Esimerkki"
+  },
+  "v2_45050956": {
+    "description": "Auto-generated translation for: New Example",
+    "message": "Uusi esimerkki"
+  },
+  "v2_4f626f81": {
+    "description": "Auto-generated translation for: Cycle blur states",
+    "message": "Syklaa sumennustiloja"
+  },
+  "v2_04aefcf4": {
+    "description": "Auto-generated translation for: Edit List",
+    "message": "Muokkaa luetteloa"
+  },
+  "v2_6fc27995": {
+    "description": "Auto-generated translation for: Generate",
+    "message": "Luo"
+  },
+  "v2_5b27c74d": {
+    "description": "Auto-generated translation for: Add Words to List",
+    "message": "Lisää sanoja luetteloon"
+  },
+  "v2_22cfe8dd": {
+    "description": "Auto-generated translation for: Please enable at least one option to add words to the list.",
+    "message": "Ota käyttöön vähintään yksi vaihtoehto lisätäksesi sanoja luetteloon."
+  },
+  "v2_5348fd85": {
+    "description": "Auto-generated translation for: Please select learning and native languages before using AI features.",
+    "message": "Valitse opiskelu- ja äidinkielesi ennen tekoälyominaisuuksien käyttöä."
+  },
+  "v2_661ca3f7": {
+    "description": "Auto-generated translation for: $count$ word(s) added from selection",
+    "message": "$count$ sanaa lisätty valinnasta",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_48f58349": {
+    "description": "Auto-generated translation for: AI-selected words added",
+    "message": "Tekoälyn valitsemia sanoja lisätty"
+  },
+  "v2_4091dbd3": {
+    "description": "Auto-generated translation for: AI-generated words added",
+    "message": "Tekoälyllä luodut sanat lisätty"
+  },
+  "v2_0ce3628e": {
+    "description": "Auto-generated translation for: Failed to add words: $error$",
+    "message": "Sanojen lisääminen epäonnistui: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_27d50e2c": {
+    "description": "Auto-generated translation for: Choose from existing notebook words",
+    "message": "Valitse olemassa olevista muistikirjan sanoista"
+  },
+  "v2_2c920aa5": {
+    "description": "Auto-generated translation for: Select words",
+    "message": "Valitse sanoja"
+  },
+  "v2_0e1d5dde": {
+    "description": "Auto-generated translation for: No words found.",
+    "message": "Ei sanoja löydetty."
+  },
+  "v2_40810b6e": {
+    "description": "Auto-generated translation for: $count$ word(s) selected",
+    "message": "$count$ sanaa valittu",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_20097d87": {
+    "description": "Auto-generated translation for: No words found in notebook for the selected language",
+    "message": "Muistikirjasta ei löytynyt sanoja valitulla kielellä"
+  },
+  "v2_09db44e6": {
+    "description": "Auto-generated translation for: Generate new vocabulary words",
+    "message": "Luo uusia sanastosanastoa"
+  },
+  "v2_6a5f2c6f": {
+    "description": "Auto-generated translation for: AI will generate new vocabulary words based on the list context and your instructions.",
+    "message": "Tekoäly luo uusia sanaston sanoja luettelon kontekstin ja ohjeidesi perusteella."
+  },
+  "v2_4e89494b": {
+    "description": "Auto-generated translation for: Let AI pick words from your notebook",
+    "message": "Anna tekoälyn valita sanoja muistikirjastasi"
+  },
+  "v2_6e832bd2": {
+    "description": "Auto-generated translation for: Selection criteria (Optional)",
+    "message": "Valintakriteerit (Valinnainen)"
+  },
+  "v2_702b9771": {
+    "description": "Auto-generated translation for: Describe what kind of words you want AI to select. For example: 'words about weather' or 'business vocabulary'",
+    "message": "Kuvaile, millaisia sanoja haluat tekoälyn valitsevan. Esimerkiksi: ”sääaiheiset sanat” tai ”liiketoiminnan sanasto”"
+  },
+  "v2_4fda7d04": {
+    "description": "Auto-generated translation for: AI will analyze your notebook and select relevant words based on the list context and your criteria.",
+    "message": "Tekoäly analysoi muistikirjasi ja valitsee osuvat sanat luettelon kontekstin ja kriteeriesi perusteella."
+  },
+  "v2_02c3515d": {
+    "description": "Auto-generated translation for: AI is selecting words...",
+    "message": "Tekoäly valitsee sanoja..."
+  },
+  "v2_088e2aa1": {
+    "description": "Auto-generated translation for: $count$ word(s) selected by AI",
+    "message": "$count$ sana(a) valittu tekoälyn toimesta",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
   }
 }

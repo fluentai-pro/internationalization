@@ -526,37 +526,9 @@
     "description": "Auto-generated translation for: Interface Volume",
     "message": "インターフェイスボリューム"
   },
-  "v2_792c593d": {
-    "description": "Auto-generated translation for: Voice Synthesis Settings",
-    "message": "音声合成設定"
-  },
-  "v2_3d3c0973": {
-    "description": "Auto-generated translation for: Reading Speed",
-    "message": "読書速度"
-  },
-  "v2_18e3ff71": {
-    "description": "Auto-generated translation for: Adjust how fast or slow the AI voice reads the text",
-    "message": "AI音声がテキストを読む速さを調整してください。"
-  },
-  "v2_44e3f7de": {
-    "description": "Auto-generated translation for: Voice Selection",
-    "message": "音声選択"
-  },
-  "v2_13232de5": {
-    "description": "Auto-generated translation for: Select from different AI voices available for your learning language",
-    "message": "学習言語に利用できるさまざまなAI音声から選択してください"
-  },
   "v2_6185fd12": {
     "description": "Auto-generated translation for: Blur Learning Subtitles",
     "message": "字幕をぼやけさせる学習"
-  },
-  "v2_1f2ac9e1": {
-    "description": "Auto-generated translation for: Learning Subtitle Background Opacity",
-    "message": "字幕の背景不透明度を学ぶ"
-  },
-  "v2_06fb071c": {
-    "description": "Auto-generated translation for: Native Language Subtitles",
-    "message": "母国語の字幕"
   },
   "v2_2f8c0d35": {
     "description": "Auto-generated translation for: Show Native Subtitles",
@@ -565,10 +537,6 @@
   "v2_0cf006f5": {
     "description": "Auto-generated translation for: Blur Native Subtitles",
     "message": "ネイティブ字幕をぼかす"
-  },
-  "v2_363b2468": {
-    "description": "Auto-generated translation for: Native Subtitle Background Opacity",
-    "message": "ネイティブ字幕の背景不透明度"
   },
   "v2_03e2edd8": {
     "description": "Auto-generated translation for: Close",
@@ -1538,10 +1506,6 @@
     "description": "Auto-generated translation for: Export",
     "message": "エクスポート"
   },
-  "v2_6dd930be": {
-    "description": "Auto-generated translation for: Quick Translation",
-    "message": "クイック翻訳"
-  },
   "v2_283701c4": {
     "description": "Auto-generated translation for: Our system is currently under maintenance to improve your experience.",
     "message": "現在、システムのメンテナンスを行っております。より良いサービスをご提供するための作業です。"
@@ -1662,10 +1626,6 @@
     "description": "Auto-generated translation for: Text Color",
     "message": "文字色"
   },
-  "v2_555bc8f5": {
-    "description": "Auto-generated translation for: Upvote, comment, and share your thoughts on Featurebase →",
-    "message": "Featurebase → でいいね、コメント、シェアしてあなたの意見を共有してください"
-  },
   "v2_786aba7f": {
     "description": "Auto-generated translation for: Flashcards Creator",
     "message": "フラッシュカード作成ツール"
@@ -1701,10 +1661,6 @@
   "v2_37d0d9b3": {
     "description": "Auto-generated translation for: Progress",
     "message": "進捗"
-  },
-  "v2_5d68d20e": {
-    "description": "Auto-generated translation for: Show Translation",
-    "message": "翻訳を表示"
   },
   "v2_1da2c7ab": {
     "description": "Auto-generated translation for: File type ($file_type$) not supported. Please upload an audio file.",
@@ -1784,10 +1740,6 @@
     "description": "Auto-generated translation for: FluentAI offers a great combination of intuitive features and excellent vocabulary retention tools.",
     "message": "FluentAIは、直感的な機能と優れた語彙定着ツールを兼ね備えています。"
   },
-  "v2_5697ee78": {
-    "description": "Auto-generated translation for: Speak word when translation popup opens",
-    "message": "翻訳ポップアップが開いたら単語を発音"
-  },
   "v2_6a06af47": {
     "description": "Auto-generated translation for: YOUR JOURNEY TO <span class=\"gradient-highlighted-text\">FLUENCY</span> STARTS HERE",
     "message": "あなたの<span class=\"gradient-highlighted-text\">流暢さ</span>への旅はここから始まります"
@@ -1808,18 +1760,6 @@
     "description": "Auto-generated translation for: This will take a few seconds",
     "message": "数秒かかります。"
   },
-  "v2_77a2cd88": {
-    "description": "Auto-generated translation for: Subtitle Colors",
-    "message": "字幕の色"
-  },
-  "v2_6174b983": {
-    "description": "Auto-generated translation for: Learning Subtitle Color",
-    "message": "字幕の色について学ぶ"
-  },
-  "v2_37e0cf9c": {
-    "description": "Auto-generated translation for: Native Subtitle Color",
-    "message": "ネイティブ字幕の色"
-  },
   "v2_3a3be6ac": {
     "description": "Auto-generated translation for: Underline",
     "message": "下線"
@@ -1827,14 +1767,6 @@
   "v2_01bb3ba6": {
     "description": "Auto-generated translation for: Bordered Dashed",
     "message": "罫線（破線）"
-  },
-  "v2_2d7ee88b": {
-    "description": "Auto-generated translation for: Vocabulary Bookmark Variant",
-    "message": "語彙ブックマークのバリエーション"
-  },
-  "v2_0c403253": {
-    "description": "Auto-generated translation for: Vocabulary Bookmark Color",
-    "message": "語彙ブックマークの色"
   },
   "v2_4c47a99f": {
     "description": "Auto-generated translation for: Processing Status",
@@ -3863,10 +3795,6 @@
     "description": "Auto-generated translation for: Failed to refresh prompts: ",
     "message": "プロンプトの更新に失敗しました:"
   },
-  "v2_5d205f3b": {
-    "description": "Auto-generated translation for: Streaming explanation",
-    "message": "ストリーミングの説明"
-  },
   "v2_013bb45c": {
     "description": "Auto-generated translation for: Create Learning List",
     "message": "学習リストを作成"
@@ -3991,15 +3919,6 @@
     "description": "Auto-generated translation for: Start Learning",
     "message": "学習を始める"
   },
-  "v2_2cafbf71": {
-    "description": "Auto-generated translation for: $word$ removed from bookmarks",
-    "message": "$word$がブックマークから削除されました",
-    "placeholders": {
-      "word": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_3b39273f": {
     "description": "Auto-generated translation for: Automatically resumes the video when leaving word hover.",
     "message": "語句のホバーを解除するとビデオを自動的に再開します。"
@@ -4011,18 +3930,6 @@
   "v2_14723a8b": {
     "description": "Auto-generated translation for: Learning Features Configuration",
     "message": "学習機能設定"
-  },
-  "v2_184f78e4": {
-    "description": "Auto-generated translation for: Languages & Subtitles",
-    "message": "言語と字幕"
-  },
-  "v2_2aeb65b2": {
-    "description": "Auto-generated translation for: Volume & Voice",
-    "message": "音量と音声"
-  },
-  "v2_3deccab8": {
-    "description": "Auto-generated translation for: Sizes & Colors",
-    "message": "サイズと色"
   },
   "v2_65d5236d": {
     "description": "Auto-generated translation for: Word Features",
@@ -4036,41 +3943,9 @@
     "description": "Auto-generated translation for: Add spaces between words for languages that don't use spaces.",
     "message": "スペースを使用しない言語の場合は、単語間にスペースを追加します。"
   },
-  "v2_72899725": {
-    "description": "Auto-generated translation for: Choose the color for learning language subtitles.",
-    "message": "学習言語字幕の色を選択してください。"
-  },
-  "v2_1287f050": {
-    "description": "Auto-generated translation for: Adjust the opacity of the background behind learning language subtitles.",
-    "message": "学習言語字幕の背景の不透明度を調整します。"
-  },
-  "v2_3046989e": {
-    "description": "Auto-generated translation for: Choose the color for native language subtitles.",
-    "message": "母国語字幕の色を選択してください。"
-  },
-  "v2_0b004817": {
-    "description": "Auto-generated translation for: Adjust the opacity of the background behind native language subtitles.",
-    "message": "元の言語の字幕の背景の不透明度を調整する。"
-  },
-  "v2_3801fb9a": {
-    "description": "Auto-generated translation for: Bookmark Colors",
-    "message": "ブックマークの色"
-  },
-  "v2_69225e7d": {
-    "description": "Auto-generated translation for: Choose how vocabulary bookmarks are displayed.",
-    "message": "語彙のブックマークの表示方法を選択します。"
-  },
-  "v2_3e190e61": {
-    "description": "Auto-generated translation for: Choose the color for vocabulary bookmarks.",
-    "message": "語彙のブックマークの色を選択してください。"
-  },
   "v2_415bcea8": {
     "description": "Auto-generated translation for: Speaks the word aloud when the translation popup opens.",
     "message": "翻訳ポップアップを開くときに単語を読み上げます。"
-  },
-  "v2_7f870a83": {
-    "description": "Auto-generated translation for: Subtitles List",
-    "message": "字幕リスト"
   },
   "v2_3677de40": {
     "description": "Auto-generated translation for: Show the translation for the subtitles list panel.",
@@ -4159,18 +4034,6 @@
   "v2_47e4218f": {
     "description": "Auto-generated translation for: Precise timing for better learning experience and word highlighting.",
     "message": "より良い学習体験のための正確なタイミングと単語のハイライト。"
-  },
-  "v2_7802fe56": {
-    "description": "Auto-generated translation for: Logout",
-    "message": "ログアウト"
-  },
-  "v2_404e8925": {
-    "description": "Auto-generated translation for: No video available",
-    "message": "動画が利用できません"
-  },
-  "v2_496533a1": {
-    "description": "Auto-generated translation for: Error loading video",
-    "message": "ビデオの読み込みエラー"
   },
   "v2_4c260052": {
     "description": "Auto-generated translation for: Assign Key",
@@ -4567,10 +4430,6 @@
   "v2_2743fe99": {
     "description": "Auto-generated translation for: An error occurred while checking transcription status",
     "message": "文字起こしステータスの確認中にエラーが発生しました"
-  },
-  "v2_3c750a29": {
-    "description": "Auto-generated translation for: Remove sentence bookmark",
-    "message": "文のブックマークを削除"
   },
   "v2_53aa3213": {
     "description": "Auto-generated translation for: Bookmark sentence",
@@ -5238,10 +5097,6 @@
     "description": "Auto-generated translation for: Transliteration Type",
     "message": "音訳タイプ"
   },
-  "v2_4c4993e2": {
-    "description": "Auto-generated translation for: Sentence Transliteration Type",
-    "message": "文の音訳タイプ"
-  },
   "v2_5a4c3526": {
     "description": "Auto-generated translation for: Notebook Table State",
     "message": "ノートブック テーブルの状態"
@@ -5297,10 +5152,6 @@
   "v2_283255e8": {
     "description": "Auto-generated translation for: Find all your saved words, phrases, and sentences here. You can sort it by filters, create lists and export to anki.",
     "message": "保存した単語、フレーズ、文章をすべてここで見つけることができます。フィルターで並べ替えたり、リストを作成したり、Ankiにエクスポートしたりできます。"
-  },
-  "v2_718eecbf": {
-    "description": "Auto-generated translation for: Subtitles Panel",
-    "message": "字幕パネル"
   },
   "v2_02626478": {
     "description": "Auto-generated translation for: Subtitles Settings",
@@ -5654,10 +5505,6 @@
     "description": "Auto-generated translation for: Pronounce Hovered Word",
     "message": "ホバーした単語を発音"
   },
-  "v2_5530a734": {
-    "description": "Auto-generated translation for: Save Current Word",
-    "message": "現在の単語を保存"
-  },
   "v2_44e36e73": {
     "description": "Auto-generated translation for: Save Current Sentence",
     "message": "現在の文章を保存"
@@ -5733,10 +5580,6 @@
   "v2_765b71a1": {
     "description": "Auto-generated translation for: Say Word",
     "message": "調子どう？"
-  },
-  "v2_7ee6efcd": {
-    "description": "Auto-generated translation for: Save Word",
-    "message": "ワードを保存"
   },
   "v2_18dae5a6": {
     "description": "Auto-generated translation for: Save Sentence",
@@ -5814,10 +5657,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_74634f26": {
-    "description": "Auto-generated translation for: No word found to bookmark",
-    "message": "ブックマークする単語が見つかりません"
   },
   "v2_70abeef9": {
     "description": "Auto-generated translation for: No word found to pronounce",
@@ -5902,10 +5741,6 @@
     "description": "Auto-generated translation for: Match the Audio Language",
     "message": "オーディオ言語に合わせる"
   },
-  "v2_5dc3e7ce": {
-    "description": "Auto-generated translation for: Failed to bookmark word",
-    "message": "単語のブックマークに失敗しました"
-  },
   "v2_1d75f944": {
     "description": "Auto-generated translation for: Morphology",
     "message": "形態学"
@@ -5922,10 +5757,6 @@
     "description": "Auto-generated translation for: Error fetching analysis",
     "message": "分析の取得中にエラーが発生しました"
   },
-  "v2_5d408786": {
-    "description": "Auto-generated translation for: Streaming usage examples",
-    "message": "ストリーミング使用例"
-  },
   "v2_3ec2f5f0": {
     "description": "Auto-generated translation for: No usage examples available",
     "message": "使用例がありません"
@@ -5933,10 +5764,6 @@
   "v2_5dcb05e8": {
     "description": "Auto-generated translation for: Error fetching usage examples",
     "message": "使用例の取得エラー"
-  },
-  "v2_7686c62c": {
-    "description": "Auto-generated translation for: Streaming synonyms and antonyms",
-    "message": "同義語と反義語のストリーミング"
   },
   "v2_2bdb6f4a": {
     "description": "Auto-generated translation for: No synonyms or antonyms available",
@@ -5962,18 +5789,6 @@
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "翻訳ポップアップ設定"
   },
-  "v2_3de8ee50": {
-    "description": "Auto-generated translation for: Failed to remove bookmark",
-    "message": "ブックマークの削除に失敗しました"
-  },
-  "v2_7781cac2": {
-    "description": "Auto-generated translation for: Failed to get video context",
-    "message": "動画のコンテキストの取得に失敗しました"
-  },
-  "v2_021c110d": {
-    "description": "Auto-generated translation for: Failed to get subtitle context",
-    "message": "字幕コンテキストの取得に失敗しました"
-  },
   "v2_6ecf6dff": {
     "description": "Auto-generated translation for: Pronounce word",
     "message": "単語を発音する"
@@ -5994,10 +5809,6 @@
     "description": "Auto-generated translation for: Scale all translation popups including text, buttons, and spacing",
     "message": "テキスト、ボタン、間隔を含むすべての翻訳ポップアップを拡大縮小する"
   },
-  "v2_756da0fc": {
-    "description": "Auto-generated translation for: Sentence removed from bookmarks",
-    "message": "ブックマークから単語を削除しました"
-  },
   "v2_78606dc1": {
     "description": "Auto-generated translation for: Merge with previous word",
     "message": "前の単語と結合"
@@ -6005,10 +5816,6 @@
   "v2_5f4dfdbb": {
     "description": "Auto-generated translation for: Merge with next word",
     "message": "次の単語と結合"
-  },
-  "v2_69be8149": {
-    "description": "Auto-generated translation for: Analyse word",
-    "message": "語句の分析"
   },
   "v2_03c2f0e0": {
     "description": "Auto-generated translation for: Added",
@@ -7025,23 +6832,6 @@
     "description": "Auto-generated translation for: No items in this list yet.",
     "message": "まだリストにアイテムがありません。"
   },
-  "v2_7132a412": {
-    "description": "Auto-generated translation for: Words generated and added to list",
-    "message": "生成された単語がリストに追加されました"
-  },
-  "v2_141a82da": {
-    "description": "Auto-generated translation for: Failed to generate words: $error$",
-    "message": "単語の生成に失敗しました：$error$",
-    "placeholders": {
-      "error": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_6c576f57": {
-    "description": "Auto-generated translation for: Generate Words for List",
-    "message": "リストの単語を生成"
-  },
   "v2_60cbc3e4": {
     "description": "Auto-generated translation for: Generating...",
     "message": "生成中..."
@@ -7115,10 +6905,6 @@
   "v2_0cb49284": {
     "description": "Auto-generated translation for: Your feedback helps us improve FluentAI and fix issues. Please share what didn't work for you.",
     "message": "皆様からのフィードバックは、FluentAIの改善と問題の修正に役立ちます。うまくいかなかった点をお知らせください。"
-  },
-  "v2_59837c49": {
-    "description": "Auto-generated translation for: Try FluentAI",
-    "message": "FluentAIをお試しください"
   },
   "v2_13a366e5": {
     "description": "Auto-generated translation for: Analyzing...",
@@ -7647,10 +7433,6 @@
     "description": "Auto-generated translation for: Learn the language you want with smart subtitles on YouTube, Netflix, Prime, and Disney.",
     "message": "YouTube、Netflix、Prime、Disneyで、スマート字幕を使って好きな言語を学びましょう。"
   },
-  "v2_258894c1": {
-    "description": "Auto-generated translation for: Audio Extraction Test",
-    "message": "オーディオ抽出テスト"
-  },
   "v2_50c3add5": {
     "description": "Auto-generated translation for: 🎉 Session Complete!",
     "message": "🎉 セッション完了!"
@@ -7932,10 +7714,6 @@
     "description": "Auto-generated translation for: Less",
     "message": "より少なく"
   },
-  "v2_4d28d5c3": {
-    "description": "Auto-generated translation for: Please select learning and native languages before generating words.",
-    "message": "単語を生成する前に、学習言語と母国語を選択してください。"
-  },
   "v2_5141fce8": {
     "description": "Auto-generated translation for: Tell the AI what kind of words you want to generate. For example: 'Generate beginner-level vocabulary for travel conversations' or 'Focus on business and professional terms'",
     "message": "AIにどのような種類の単語を生成させたいかを指示してください。例えば、「旅行会話のための初心者レベルの語彙を生成する」や「ビジネスおよびプロフェッショナルな用語に焦点を当てる」などです。"
@@ -8112,10 +7890,6 @@
   "v2_3e024a75": {
     "description": "Auto-generated translation for: AnkiConnect Configuration",
     "message": "AnkiConnectの設定"
-  },
-  "v2_42057dd5": {
-    "description": "Auto-generated translation for: Failed to determine bookmark type",
-    "message": "ブックマークの種類を特定できませんでした"
   },
   "v2_48d2b824": {
     "description": "Auto-generated translation for: Your next session will include up to",
@@ -8435,10 +8209,6 @@
       }
     }
   },
-  "v2_6d7d730c": {
-    "description": "Auto-generated translation for: Go to App",
-    "message": "アプリへ"
-  },
   "v2_32d57c5b": {
     "description": "Auto-generated translation for: Manually find words in notebook",
     "message": "ノートブック内の単語を手動で検索"
@@ -8562,18 +8332,6 @@
     "description": "Auto-generated translation for: New cards per session",
     "message": "セッションごとの新しいカード"
   },
-  "v2_6b4f5593": {
-    "description": "Auto-generated translation for: Cards you've reviewed before that are due again",
-    "message": "以前に復習したカードで、再び期限が来ているもの"
-  },
-  "v2_69b0d569": {
-    "description": "Auto-generated translation for: Cards you've never reviewed",
-    "message": "未復習のカード"
-  },
-  "v2_5f691564": {
-    "description": "Auto-generated translation for: Cards you've reviewed today",
-    "message": "本日レビューしたカード"
-  },
   "v2_35274cbd": {
     "description": "Auto-generated translation for: Choose your training method",
     "message": "トレーニング方法を選択してください"
@@ -8681,5 +8439,614 @@
   "v2_666ebf69": {
     "description": "Auto-generated translation for: cards reviewed in the last year",
     "message": "過去1年間にレビューしたカード"
+  },
+  "v2_523a1b51": {
+    "description": "Auto-generated translation for: Word archived successfully",
+    "message": "単語が正常にアーカイブされました"
+  },
+  "v2_5af1bc96": {
+    "description": "Auto-generated translation for: Failed to archive word",
+    "message": "単語のアーカイブに失敗しました"
+  },
+  "v2_7255de43": {
+    "description": "Auto-generated translation for: Unknown - Click to mark as Learning",
+    "message": "不明 - クリックして学習済みとしてマーク"
+  },
+  "v2_6d7efa68": {
+    "description": "Auto-generated translation for: Click to mark as {status}",
+    "message": "{status}としてマークするにはクリックしてください",
+    "placeholders": {
+      "status": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_627263fe": {
+    "description": "Auto-generated translation for: Archived",
+    "message": "アーカイブ済み"
+  },
+  "v2_36a178a2": {
+    "description": "Auto-generated translation for: Archive",
+    "message": "アーカイブ"
+  },
+  "v2_52f462d1": {
+    "description": "Auto-generated translation for: Archiving...",
+    "message": "アーカイブ中..."
+  },
+  "v2_5df7ef01": {
+    "description": "Auto-generated translation for: Type of transliteration for words and sentences.",
+    "message": "単語と文の音訳の種類。"
+  },
+  "v2_009f6518": {
+    "description": "Auto-generated translation for: Word Status Colors",
+    "message": "語句ステータス色"
+  },
+  "v2_684a7a14": {
+    "description": "Auto-generated translation for: Turn On/Off Subtitle List Panel",
+    "message": "字幕リストパネルのオン/オフ"
+  },
+  "v2_6eab681b": {
+    "description": "Auto-generated translation for: Bookmark Current Word",
+    "message": "現在の単語をブックマーク"
+  },
+  "v2_36d867b7": {
+    "description": "Auto-generated translation for: Mark Word as Learning",
+    "message": "学習済みとしてマーク"
+  },
+  "v2_4ae1c647": {
+    "description": "Auto-generated translation for: Mark Word as Ignored",
+    "message": "単語を無視としてマーク"
+  },
+  "v2_100c9a08": {
+    "description": "Auto-generated translation for: Mark Word as Known",
+    "message": "単語を既知としてマークする"
+  },
+  "v2_422887b4": {
+    "description": "Auto-generated translation for: Bookmark Word",
+    "message": "単語をブックマーク"
+  },
+  "v2_02fc98dc": {
+    "description": "Auto-generated translation for: Text-to-speech is not configured. Please configure it in settings.",
+    "message": "テキスト読み上げは設定されていません。設定で構成してください。"
+  },
+  "v2_008b3b33": {
+    "description": "Auto-generated translation for: Failed to update word status",
+    "message": "単語ステータスの更新に失敗しました"
+  },
+  "v2_13166391": {
+    "description": "Auto-generated translation for: Language Learning Guides",
+    "message": "語学学習ガイド"
+  },
+  "v2_5b377405": {
+    "description": "Auto-generated translation for: Reviews",
+    "message": "レビュー"
+  },
+  "v2_7dc70527": {
+    "description": "Auto-generated translation for: See what our users are saying about FluentAI. Browse through authentic reviews and testimonials from language learners around the world.",
+    "message": "FluentAIについて、ユーザーの皆様がどうおっしゃっているかをご覧ください。世界中の言語学習者からの本物のレビューや証言をご覧ください。"
+  },
+  "v2_42662a0f": {
+    "description": "Auto-generated translation for: Traditional flashcard review",
+    "message": "従来のフラッシュカード復習"
+  },
+  "v2_6a71e162": {
+    "description": "Auto-generated translation for: Cloze System",
+    "message": "クローズシステム"
+  },
+  "v2_51461a44": {
+    "description": "Auto-generated translation for: Fill in the blank with the learning word",
+    "message": "学習語句を空欄に記入してください"
+  },
+  "v2_3aac7742": {
+    "description": "Auto-generated translation for: Review words at optimal intervals",
+    "message": "最適な間隔で単語を復習する"
+  },
+  "v2_5c054884": {
+    "description": "Auto-generated translation for: Regular",
+    "message": "通常"
+  },
+  "v2_7533b2eb": {
+    "description": "Auto-generated translation for: Practice with flashcards and cloze exercises",
+    "message": "フラッシュカードとクローズ演習で練習する"
+  },
+  "v2_000141d4": {
+    "description": "Auto-generated translation for: SRS",
+    "message": "SRS"
+  },
+  "v2_7f6aa4b7": {
+    "description": "Auto-generated translation for: Regular Flashcards",
+    "message": "通常フラッシュカード"
+  },
+  "v2_51702d66": {
+    "description": "Auto-generated translation for: Loading cloze exercises...",
+    "message": "クローズ演習を読み込み中..."
+  },
+  "v2_40c85589": {
+    "description": "Auto-generated translation for: Cloze Training",
+    "message": "クローズトレーニング"
+  },
+  "v2_57432a10": {
+    "description": "Auto-generated translation for: Error loading cloze exercises",
+    "message": "クローズ演習の読み込みエラー"
+  },
+  "v2_10f8b074": {
+    "description": "Auto-generated translation for: No words found",
+    "message": "該当する言葉が見つかりませんでした"
+  },
+  "v2_22c7f3bf": {
+    "description": "Auto-generated translation for: No words match your filters",
+    "message": "一致するワードが見つかりませんでした"
+  },
+  "v2_1519a64c": {
+    "description": "Auto-generated translation for: Fill in the blanks",
+    "message": "空欄を埋めてください"
+  },
+  "v2_6bbed3c8": {
+    "description": "Auto-generated translation for: Submit",
+    "message": "送信"
+  },
+  "v2_00014935": {
+    "description": "Auto-generated translation for: Top",
+    "message": "トップ"
+  },
+  "v2_04b4d1fc": {
+    "description": "Auto-generated translation for: Right",
+    "message": "はい"
+  },
+  "v2_00241427": {
+    "description": "Auto-generated translation for: Left",
+    "message": "左"
+  },
+  "v2_5af2c9a9": {
+    "description": "Auto-generated translation for: Adjust the size of the interface elements.",
+    "message": "インターフェース要素のサイズを調整します。"
+  },
+  "v2_00a00750": {
+    "description": "Auto-generated translation for: Adjust the font size in EPUB reader.",
+    "message": "EPUBリーダーのフォントサイズを調整する。"
+  },
+  "v2_095c2f76": {
+    "description": "Auto-generated translation for: Adjust the gap at the bottom of the interface.",
+    "message": "インターフェース下部の隙間を調整します。"
+  },
+  "v2_3f39c23b": {
+    "description": "Auto-generated translation for: Position of playback controls.",
+    "message": "再生コントロールの位置"
+  },
+  "v2_0b4efdd5": {
+    "description": "Auto-generated translation for: Enable merging words together.",
+    "message": "単語のマージを有効にする"
+  },
+  "v2_4511a7e0": {
+    "description": "Auto-generated translation for: Word Merging Enabled",
+    "message": "単語結合が有効"
+  },
+  "v2_4a463c01": {
+    "description": "Auto-generated translation for: Enable token translation.",
+    "message": "トークンの翻訳を有効にする"
+  },
+  "v2_305d9835": {
+    "description": "Auto-generated translation for: Token Translation Enabled",
+    "message": "トークンの翻訳が有効になりました"
+  },
+  "v2_3fd88d7f": {
+    "description": "Auto-generated translation for: Enable learning to native language mapping.",
+    "message": "学習から母国語へのマッピングを有効にする。"
+  },
+  "v2_2260eb57": {
+    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
+    "message": "ネイティブマッピングの学習が有効になりました"
+  },
+  "v2_54d2596b": {
+    "description": "Auto-generated translation for: Enable sentence transliteration.",
+    "message": "文の音訳を有効にする"
+  },
+  "v2_2c99d3dd": {
+    "description": "Auto-generated translation for: Sentence Transliteration Enabled",
+    "message": "文章の音訳が有効"
+  },
+  "v2_0c892404": {
+    "description": "Auto-generated translation for: Open translation popup when hovering over words.",
+    "message": "単語にカーソルを合わせると翻訳ポップアップを開く"
+  },
+  "v2_0df752da": {
+    "description": "Auto-generated translation for: Highlight words during live speaking.",
+    "message": "ライブスピーチ中に単語を強調表示"
+  },
+  "v2_7c65e05a": {
+    "description": "Auto-generated translation for: Speak word when translation popup opens.",
+    "message": "\"Speak word when translation popup opens.\" を翻訳してください。"
+  },
+  "v2_06a97b06": {
+    "description": "Auto-generated translation for: Adjust the font size of learning subtitles.",
+    "message": "学習字幕のフォントサイズを調整する"
+  },
+  "v2_69c25346": {
+    "description": "Auto-generated translation for: Choose the text color for learning subtitles.",
+    "message": "学習字幕のテキスト色を選択してください。"
+  },
+  "v2_2a01bf90": {
+    "description": "Auto-generated translation for: Choose color for learning subtitle text",
+    "message": "学習字幕のテキストの色を選択してください"
+  },
+  "v2_56f71b61": {
+    "description": "Auto-generated translation for: Show or hide word insights.",
+    "message": "単語のインサイトを表示または非表示にする"
+  },
+  "v2_51950c86": {
+    "description": "Auto-generated translation for: Show or hide word meanings.",
+    "message": "単語の意味を表示または非表示にする"
+  },
+  "v2_3d40af08": {
+    "description": "Auto-generated translation for: Show or hide dictionary information.",
+    "message": "辞書情報の表示または非表示。"
+  },
+  "v2_299b6507": {
+    "description": "Auto-generated translation for: Show or hide transliteration.",
+    "message": "音訳を表示または非表示にします"
+  },
+  "v2_04cc1813": {
+    "description": "Auto-generated translation for: Show or hide base form information.",
+    "message": "基本形情報の表示/非表示"
+  },
+  "v2_4a5bbaee": {
+    "description": "Auto-generated translation for: Preferred character length for subtitles.",
+    "message": "字幕の好ましい文字数"
+  },
+  "v2_2f1f2fc9": {
+    "description": "Auto-generated translation for: Subtitle Preferred Char Length",
+    "message": "字幕の推奨文字長"
+  },
+  "v2_32880c31": {
+    "description": "Auto-generated translation for: Automatically pause video when hovering over words.",
+    "message": "単語にカーソルを合わせるとビデオを自動的に一時停止する"
+  },
+  "v2_520fbd07": {
+    "description": "Auto-generated translation for: Restart playback when leaving a word.",
+    "message": "単語を離れるときに再生を再開する"
+  },
+  "v2_662e93b6": {
+    "description": "Auto-generated translation for: Advanced playback mode settings (configured in extension).",
+    "message": "高度な再生モード設定（拡張機能で設定）"
+  },
+  "v2_29fea828": {
+    "description": "Auto-generated translation for: Playback Modes Settings",
+    "message": "再生モード設定"
+  },
+  "v2_3585e6e2": {
+    "description": "Auto-generated translation for: Complex settings - configure in extension",
+    "message": "詳細設定 - 拡張機能で構成"
+  },
+  "v2_094a82ca": {
+    "description": "Auto-generated translation for: Choose color for light mode",
+    "message": "ライトモードの色を選択"
+  },
+  "v2_68cd5bf0": {
+    "description": "Auto-generated translation for: Choose color for dark mode",
+    "message": "ダークモードのカラーを選択"
+  },
+  "v2_04b32d2f": {
+    "description": "Auto-generated translation for: Reset",
+    "message": "リセット"
+  },
+  "v2_0cfb9257": {
+    "description": "Auto-generated translation for: Adjust the speed of text-to-speech playback.",
+    "message": "テキスト読み上げの再生速度を調整します。"
+  },
+  "v2_1e5d7f9a": {
+    "description": "Auto-generated translation for: TTS Speed",
+    "message": "TTS速度"
+  },
+  "v2_2fdc99ff": {
+    "description": "Auto-generated translation for: Adjust the volume of text-to-speech audio.",
+    "message": "テキスト読み上げの音量を調整します。"
+  },
+  "v2_4d99add9": {
+    "description": "Auto-generated translation for: TTS Volume",
+    "message": "TTS 音量"
+  },
+  "v2_74d5fce0": {
+    "description": "Auto-generated translation for: Adjust the volume of interface sounds.",
+    "message": "インターフェースサウンドの音量を調整します。"
+  },
+  "v2_6f9c205f": {
+    "description": "Auto-generated translation for: Adjust the font size of native subtitles.",
+    "message": "ネイティブ字幕のフォントサイズを調整します。"
+  },
+  "v2_32392f13": {
+    "description": "Auto-generated translation for: Choose the text color for native subtitles.",
+    "message": "ネイティブ字幕のテキストの色を選択してください。"
+  },
+  "v2_216777f7": {
+    "description": "Auto-generated translation for: Choose color for native subtitle text",
+    "message": "字幕（母国語）の色の選択"
+  },
+  "v2_6a2e4fcb": {
+    "description": "Auto-generated translation for: Adjust the playback speed of videos.",
+    "message": "動画の再生速度を調整する"
+  },
+  "v2_6d294115": {
+    "description": "Auto-generated translation for: Adjust the volume of video playback.",
+    "message": "ビデオ再生の音量を調整します。"
+  },
+  "v2_14cb3bc9": {
+    "description": "Auto-generated translation for: Your native language for translations.",
+    "message": "翻訳に使用するあなたの母国語"
+  },
+  "v2_0466722a": {
+    "description": "Auto-generated translation for: The language you are learning.",
+    "message": "学習している言語"
+  },
+  "v2_00202395": {
+    "description": "Auto-generated translation for: Copy",
+    "message": "コピー"
+  },
+  "v2_6e4cecd5": {
+    "description": "Auto-generated translation for: Retour",
+    "message": "戻る"
+  },
+  "v2_67d3a8c5": {
+    "description": "Auto-generated translation for: Subtitles",
+    "message": "字幕"
+  },
+  "v2_1577c0ce": {
+    "description": "Auto-generated translation for: Visibility",
+    "message": "可視性"
+  },
+  "v2_6a9872e7": {
+    "description": "Auto-generated translation for: Interface",
+    "message": "インターフェース"
+  },
+  "v2_50f9e5c8": {
+    "description": "Auto-generated translation for: Word Status",
+    "message": "語句ステータス"
+  },
+  "v2_26fe33be": {
+    "description": "Auto-generated translation for: Advanced",
+    "message": "アドバンスト"
+  },
+  "v2_17e6ef6c": {
+    "description": "Auto-generated translation for: Traditional flashcard review. Flip cards to see translations and test your memory.",
+    "message": "従来のフラッシュカード復習。カードを裏返して翻訳を確認し、記憶力を試しましょう。"
+  },
+  "v2_76e49682": {
+    "description": "Auto-generated translation for: Sentence Miner",
+    "message": "Sentence Miner"
+  },
+  "v2_6c1c9b83": {
+    "description": "Auto-generated translation for: Learn words through sentence examples. The number of examples per word is customizable.",
+    "message": "例文を通して単語を学習します。単語ごとの例文の数はカスタマイズ可能です。"
+  },
+  "v2_59e529cb": {
+    "description": "Auto-generated translation for: Maximum number of due cards to review per session",
+    "message": "1セッションあたりの復習するデュエカードの最大枚数"
+  },
+  "v2_428fbde1": {
+    "description": "Auto-generated translation for: Maximum number of new cards to learn per session",
+    "message": "1セッションあたりの最大の学習カード数"
+  },
+  "v2_58a94797": {
+    "description": "Auto-generated translation for: Learning Center",
+    "message": "学習センター"
+  },
+  "v2_7fca1117": {
+    "description": "Auto-generated translation for: Guides",
+    "message": "ガイド"
+  },
+  "v2_036dacea": {
+    "description": "Auto-generated translation for: Text Reader",
+    "message": "テキスト リーダー"
+  },
+  "v2_05897435": {
+    "description": "Auto-generated translation for: Language settings",
+    "message": "言語設定"
+  },
+  "v2_46752ca0": {
+    "description": "Auto-generated translation for: Token Sandbox",
+    "message": "トークンサンドボックス"
+  },
+  "v2_46c2aa6d": {
+    "description": "Auto-generated translation for: Translation not available",
+    "message": "翻訳は利用できません"
+  },
+  "v2_25495899": {
+    "description": "Auto-generated translation for: Complete the sentence",
+    "message": "文章を完成させてください"
+  },
+  "v2_26f46dc1": {
+    "description": "Auto-generated translation for: Enter the word",
+    "message": "単語を入力してください"
+  },
+  "v2_402adac5": {
+    "description": "Auto-generated translation for: Enter the missing word",
+    "message": "不足している単語を入力してください"
+  },
+  "v2_00224361": {
+    "description": "Auto-generated translation for: Help",
+    "message": "助けて"
+  },
+  "v2_00274f1d": {
+    "description": "Auto-generated translation for: Show",
+    "message": "表示"
+  },
+  "v2_752f2bde": {
+    "description": "Auto-generated translation for: Answer",
+    "message": "回答"
+  },
+  "v2_173f36e9": {
+    "description": "Auto-generated translation for: Correct!",
+    "message": "正しいです"
+  },
+  "v2_23339785": {
+    "description": "Auto-generated translation for: Incorrect",
+    "message": "不正"
+  },
+  "v2_7a404293": {
+    "description": "Auto-generated translation for: The correct answer is:",
+    "message": "正解は："
+  },
+  "v2_5472d5e8": {
+    "description": "Auto-generated translation for: Import New Text",
+    "message": "新規テキストのインポート"
+  },
+  "v2_488da338": {
+    "description": "Auto-generated translation for: Import Text",
+    "message": "テキストをインポート"
+  },
+  "v2_0840eac0": {
+    "description": "Auto-generated translation for: Paste your text below and select its language to start reading",
+    "message": "テキストを以下に貼り付け、言語を選択して読書を開始してください"
+  },
+  "v2_71f67b7a": {
+    "description": "Auto-generated translation for: Text Content",
+    "message": "テキストコンテンツ"
+  },
+  "v2_05b9d915": {
+    "description": "Auto-generated translation for: Paste your text here...",
+    "message": "ここにテキストを貼り付けてください..."
+  },
+  "v2_58f435fc": {
+    "description": "Auto-generated translation for: Select Language",
+    "message": "言語を選択"
+  },
+  "v2_2ce38b72": {
+    "description": "Auto-generated translation for: Start Reading",
+    "message": "読む"
+  },
+  "v2_1a208779": {
+    "description": "Auto-generated translation for: You've completed your Sentence Miner session",
+    "message": "Sentence Minerのセッションが完了しました。"
+  },
+  "v2_4cf75654": {
+    "description": "Auto-generated translation for: Cards Reviewed",
+    "message": "審査済みカード"
+  },
+  "v2_5bea9489": {
+    "description": "Auto-generated translation for: Generating examples...",
+    "message": "例を生成しています..."
+  },
+  "v2_44e50ba2": {
+    "description": "Auto-generated translation for: Each word will be shown with different sentence examples to help you learn it in context.",
+    "message": "それぞれの単語は、文脈で学習できるよう、異なる例文とともに表示されます。"
+  },
+  "v2_145da94a": {
+    "description": "Auto-generated translation for: Example",
+    "message": "例"
+  },
+  "v2_45050956": {
+    "description": "Auto-generated translation for: New Example",
+    "message": "新しい例"
+  },
+  "v2_4f626f81": {
+    "description": "Auto-generated translation for: Cycle blur states",
+    "message": "ぼかしの状態を切り替える"
+  },
+  "v2_04aefcf4": {
+    "description": "Auto-generated translation for: Edit List",
+    "message": "リストを編集"
+  },
+  "v2_6fc27995": {
+    "description": "Auto-generated translation for: Generate",
+    "message": "生成"
+  },
+  "v2_5b27c74d": {
+    "description": "Auto-generated translation for: Add Words to List",
+    "message": "リストに言葉を追加"
+  },
+  "v2_22cfe8dd": {
+    "description": "Auto-generated translation for: Please enable at least one option to add words to the list.",
+    "message": "リストに単語を追加するには、オプションを少なくとも1つ有効にしてください。"
+  },
+  "v2_5348fd85": {
+    "description": "Auto-generated translation for: Please select learning and native languages before using AI features.",
+    "message": "AI機能を使用する前に、学習言語と母国語を選択してください。"
+  },
+  "v2_661ca3f7": {
+    "description": "Auto-generated translation for: $count$ word(s) added from selection",
+    "message": "選択範囲から$count$語追加されました",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_48f58349": {
+    "description": "Auto-generated translation for: AI-selected words added",
+    "message": "AIが選択した単語が追加されました"
+  },
+  "v2_4091dbd3": {
+    "description": "Auto-generated translation for: AI-generated words added",
+    "message": "AIが生成した単語を追加"
+  },
+  "v2_0ce3628e": {
+    "description": "Auto-generated translation for: Failed to add words: $error$",
+    "message": "単語の追加に失敗しました: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_27d50e2c": {
+    "description": "Auto-generated translation for: Choose from existing notebook words",
+    "message": "既存のノートブックの単語から選択"
+  },
+  "v2_2c920aa5": {
+    "description": "Auto-generated translation for: Select words",
+    "message": "語句を選択"
+  },
+  "v2_0e1d5dde": {
+    "description": "Auto-generated translation for: No words found.",
+    "message": "該当する言葉がありません。"
+  },
+  "v2_40810b6e": {
+    "description": "Auto-generated translation for: $count$ word(s) selected",
+    "message": "$count$語選択済み",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_20097d87": {
+    "description": "Auto-generated translation for: No words found in notebook for the selected language",
+    "message": "選択された言語のノートブックに単語が見つかりませんでした"
+  },
+  "v2_09db44e6": {
+    "description": "Auto-generated translation for: Generate new vocabulary words",
+    "message": "新しい語彙を生成する"
+  },
+  "v2_6a5f2c6f": {
+    "description": "Auto-generated translation for: AI will generate new vocabulary words based on the list context and your instructions.",
+    "message": "AIは、リストのコンテキストと指示に基づいて、新しい語彙を生成します。"
+  },
+  "v2_4e89494b": {
+    "description": "Auto-generated translation for: Let AI pick words from your notebook",
+    "message": "AIがノートブックから単語を選びます"
+  },
+  "v2_6e832bd2": {
+    "description": "Auto-generated translation for: Selection criteria (Optional)",
+    "message": "選定基準（オプション）"
+  },
+  "v2_702b9771": {
+    "description": "Auto-generated translation for: Describe what kind of words you want AI to select. For example: 'words about weather' or 'business vocabulary'",
+    "message": "AIに選択させたい単語の種類を記述してください。例：「天気に関する単語」または「ビジネス用語」"
+  },
+  "v2_4fda7d04": {
+    "description": "Auto-generated translation for: AI will analyze your notebook and select relevant words based on the list context and your criteria.",
+    "message": "AIがノートブックを分析し、リストのコンテキストとあなたの基準に基づいて関連性の高い単語を選択します。"
+  },
+  "v2_02c3515d": {
+    "description": "Auto-generated translation for: AI is selecting words...",
+    "message": "AIが単語を選択しています..."
+  },
+  "v2_088e2aa1": {
+    "description": "Auto-generated translation for: $count$ word(s) selected by AI",
+    "message": "AIによって選択された$count$語",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
   }
 }
