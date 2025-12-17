@@ -35,22 +35,6 @@
     "description": "Auto-generated translation for: Repeat Mode Subtitles",
     "message": "Kordusrežiimi subtiitrid"
   },
-  "v2_1064c8d1": {
-    "description": "Auto-generated translation for: Report feedback",
-    "message": "Tagasiside aruande kohta"
-  },
-  "v2_2fd0d448": {
-    "description": "Auto-generated translation for: Setup completed",
-    "message": "Seadist on lõpetatud"
-  },
-  "v2_010c0bbd": {
-    "description": "Auto-generated translation for: Fetching subtitles",
-    "message": "Subtiitrite laadimine"
-  },
-  "v2_1bf011ed": {
-    "description": "Auto-generated translation for: Checking maintenance",
-    "message": "Hoolduse kontrollimine"
-  },
   "v2_0d78b7a3": {
     "description": "Auto-generated translation for: Features",
     "message": "Funktsioonid"
@@ -1748,18 +1732,6 @@
     "description": "Auto-generated translation for: English (Australia)",
     "message": "Inglise (Austraalia)"
   },
-  "v2_7f8b0325": {
-    "description": "Auto-generated translation for: Feature Request",
-    "message": "Funktsioonisoov"
-  },
-  "v2_7ade1e3a": {
-    "description": "Auto-generated translation for: Neural Subtitles",
-    "message": "Neuraalsed subtiitrid"
-  },
-  "v2_5a9db48b": {
-    "description": "Auto-generated translation for: This will take a few seconds",
-    "message": "See võtab aega mõned sekundid"
-  },
   "v2_3a3be6ac": {
     "description": "Auto-generated translation for: Underline",
     "message": "Allakriipsuta"
@@ -1776,77 +1748,9 @@
     "description": "Auto-generated translation for: Import",
     "message": "Import"
   },
-  "v2_07d2decd": {
-    "description": "Auto-generated translation for: Failed to detect language",
-    "message": "Keele tuvastamine ebaõnnestus"
-  },
-  "v2_3ae5c3f9": {
-    "description": "Auto-generated translation for: Failed to import entry",
-    "message": "Kirje importimine ebaõnnestus"
-  },
-  "v2_565bbfd3": {
-    "description": "Auto-generated translation for: Could not load languages",
-    "message": "Keelepakette ei saanud laadida"
-  },
-  "v2_7eaa6e0b": {
-    "description": "Auto-generated translation for: Please provide text and select both languages.",
-    "message": "Palun sisesta tekst ja vali mõlemad keeled."
-  },
-  "v2_6658b698": {
-    "description": "Auto-generated translation for: No valid entries found in the text.",
-    "message": "Tekstist ei leitud ühtegi sobivat kirjet."
-  },
-  "v2_719b1304": {
-    "description": "Auto-generated translation for: Imported <span class=\"font-mono text-violet-500\">$count$</span> out of <span class=\"font-mono text-violet-500\">$total$</span> entries.",
-    "message": "Imporditud <span class=\"font-mono text-violet-500\">$count$</span> kirjet <span class=\"font-mono text-violet-500\">$total$</span> kirjest.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7b996a96": {
-    "description": "Auto-generated translation for: Failed to complete import",
-    "message": "Importimise lõpetamine ebaõnnestus"
-  },
-  "v2_24de7ceb": {
-    "description": "Auto-generated translation for: Import Entries",
-    "message": "Impordi kirjed"
-  },
-  "v2_6e53955e": {
-    "description": "Auto-generated translation for: Words or phrases to import",
-    "message": "Imporditavad sõnad või fraasid"
-  },
-  "v2_76494ced": {
-    "description": "Auto-generated translation for: Enter words or phrases, one per line...",
-    "message": "Sisesta sõnad või fraasid, üks rida rea kohta..."
-  },
-  "v2_5e0eea43": {
-    "description": "Auto-generated translation for: Source Language",
-    "message": "Lähtekeel"
-  },
-  "v2_0a3da3df": {
-    "description": "Auto-generated translation for: Language of the words/phrases above",
-    "message": "Ülaltoodud sõnade/fraaside keel"
-  },
-  "v2_283cc547": {
-    "description": "Auto-generated translation for: Select Source Language",
-    "message": "Vali lähtekeel"
-  },
   "v2_0468aef9": {
     "description": "Auto-generated translation for: Target Language",
     "message": "Sihtkeel"
-  },
-  "v2_1f5c7096": {
-    "description": "Auto-generated translation for: Language to translate to",
-    "message": "Keele, millesse tõlkida"
-  },
-  "v2_31697603": {
-    "description": "Auto-generated translation for: Select Target Language",
-    "message": "Vali sihtkeel"
   },
   "v2_557131fc": {
     "description": "Auto-generated translation for: Upgrade",
@@ -1911,10 +1815,6 @@
   "v2_529eed4d": {
     "description": "Auto-generated translation for: Subtitle Pronunciation",
     "message": "Subtiitrite hääldus"
-  },
-  "v2_6f220a3d": {
-    "description": "Auto-generated translation for: Download Subtitles",
-    "message": "Laadi alla subtiitrid"
   },
   "v2_4b9b7f15": {
     "description": "Auto-generated translation for: Playback Modes",
@@ -2169,10 +2069,6 @@
     "description": "Auto-generated translation for: Earn Recurring Revenue",
     "message": "Teenige korduvat tulu"
   },
-  "v2_04ac5207": {
-    "description": "Auto-generated translation for: Dev Panel",
-    "message": "Arendajapaneel"
-  },
   "v2_1d0c220d": {
     "description": "Auto-generated translation for: Account",
     "message": "Konto"
@@ -2298,10 +2194,6 @@
     "description": "Auto-generated translation for: Video Speed",
     "message": "Video kiirus"
   },
-  "v2_2a09d4ce": {
-    "description": "Auto-generated translation for: AI Neural Subtitles",
-    "message": "AI neuronalised subtiitrid"
-  },
   "v2_20c30ef1": {
     "description": "Auto-generated translation for: By signing up, you agree to our",
     "message": "Registreeruades nõustute meie"
@@ -2326,10 +2218,6 @@
     "description": "Auto-generated translation for: Your video history will appear here.",
     "message": "Teie videote ajalugu kuvatakse siin."
   },
-  "v2_7bd5e7eb": {
-    "description": "Auto-generated translation for: Delete bookmark",
-    "message": "Kustuta järjehoidja"
-  },
   "v2_5a18785f": {
     "description": "Auto-generated translation for: Error Loading Bookmarks",
     "message": "Viga järjehoidjate laadimisel"
@@ -2341,14 +2229,6 @@
   "v2_31032720": {
     "description": "Auto-generated translation for: No Bookmarks Found",
     "message": "Järjehoidjaid ei leitud"
-  },
-  "v2_5490f12b": {
-    "description": "Auto-generated translation for: Your saved words and phrases will appear here.",
-    "message": "Teie salvestatud sõnad ja fraasid kuvatakse siin."
-  },
-  "v2_05cdb6a9": {
-    "description": "Auto-generated translation for: Search bookmarks...",
-    "message": "Otsi järjehoidjatest..."
   },
   "v2_7323bd91": {
     "description": "Auto-generated translation for: Sign in to FluentAI",
@@ -2864,14 +2744,6 @@
     "description": "Auto-generated translation for: Premium tooltip",
     "message": "Premium vihje"
   },
-  "v2_2299c1b0": {
-    "description": "Auto-generated translation for: Pauses playback when you hover over a word for detailed exploration.",
-    "message": "Pausib esituse, kui liigutate hiire sõna kohale üksikasjalikuks uurimiseks."
-  },
-  "v2_01f95b31": {
-    "description": "Auto-generated translation for: Resumes playback when you move your cursor away from a word.",
-    "message": "Jätkab taasesitust, kui liigutate kursori sõna juurest eemale."
-  },
   "v2_349ccabb": {
     "description": "Auto-generated translation for: Welcome to Fluent AI",
     "message": "Tere tulemast Fluent AI-sse"
@@ -3046,15 +2918,6 @@
     "description": "Auto-generated translation for: The passionate individuals behind FluentAI, revolutionizing language learning through innovative technology.",
     "message": "Kirglikud isikud FluentAI taga, kes revolutsioonivad keeleõpet uuendusliku tehnoloogia abil."
   },
-  "v2_47f37a66": {
-    "description": "Auto-generated translation for: Previewing $preview_lines$ entries to import:",
-    "message": "Imporditavate kirjete eelvaade ($preview_lines$):",
-    "placeholders": {
-      "preview_lines": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_00007b05": {
     "description": "Auto-generated translation for: Welcome back",
     "message": "Tere tulemast tagasi"
@@ -3207,14 +3070,6 @@
     "description": "Auto-generated translation for: Control your pace with playback modes designed for learning.",
     "message": "Reguleeri oma tempot õppimiseks loodud taasesitusrežiimidega."
   },
-  "v2_3b9d428f": {
-    "description": "Auto-generated translation for: Languages Configuration",
-    "message": "Keelte seadistamine"
-  },
-  "v2_41c91b63": {
-    "description": "Auto-generated translation for: Word Translation Tutorial",
-    "message": "Sõnatõlke õpetus"
-  },
   "v2_48955299": {
     "description": "Auto-generated translation for: AI Translation",
     "message": "AI tõlge"
@@ -3286,26 +3141,6 @@
   "v2_0e5e4944": {
     "description": "Auto-generated translation for: This will open our feedback widget where you can send us your message, questions, or support requests.",
     "message": "See avab meie tagasiside vidina, kus saate saata meile oma sõnumi, küsimused või tugitaotlused."
-  },
-  "v2_57f8cba7": {
-    "description": "Auto-generated translation for: Checking user session",
-    "message": "Kasutaja seansi kontrollimine"
-  },
-  "v2_67c7cbbd": {
-    "description": "Auto-generated translation for: Setting up tracks",
-    "message": "Radade seadistamine"
-  },
-  "v2_55970b24": {
-    "description": "Auto-generated translation for: Initializing loops",
-    "message": "Silmuste lähtestamine"
-  },
-  "v2_0220ee1c": {
-    "description": "Auto-generated translation for: Setting up interface",
-    "message": "Liidese seadistamine"
-  },
-  "v2_30991ea7": {
-    "description": "Auto-generated translation for: Setting up FluentAI",
-    "message": "FluentAI seadistamine"
   },
   "v2_705dfa57": {
     "description": "Auto-generated translation for: Request Assistance",
@@ -3695,14 +3530,6 @@
     "description": "Auto-generated translation for: Preparing...",
     "message": "Valmistumine..."
   },
-  "v2_6bc24fe3": {
-    "description": "Auto-generated translation for: Speak Word on Hover",
-    "message": "Räägi sõna hõljutades"
-  },
-  "v2_6aa26046": {
-    "description": "Auto-generated translation for: Automatically pronounce words when you open the translation popup.",
-    "message": "Häälda sõnad automaatselt, kui avate tõlke hüpikakna."
-  },
   "v2_40e79ef8": {
     "description": "Auto-generated translation for: Repeat Mode",
     "message": "Kordusrežiim"
@@ -3919,18 +3746,6 @@
     "description": "Auto-generated translation for: Start Learning",
     "message": "Alusta õppimist"
   },
-  "v2_3b39273f": {
-    "description": "Auto-generated translation for: Automatically resumes the video when leaving word hover.",
-    "message": "Jätkab video esitamist automaatselt, kui sõna kohalt hiirekursor eemaldatakse."
-  },
-  "v2_4366f0e3": {
-    "description": "Auto-generated translation for: Automatically pauses the video when hovering over words.",
-    "message": "Pausib video automaatselt sõnadele kerimisel."
-  },
-  "v2_14723a8b": {
-    "description": "Auto-generated translation for: Learning Features Configuration",
-    "message": "Õppimisfunktsioonide konfiguratsioon"
-  },
   "v2_65d5236d": {
     "description": "Auto-generated translation for: Word Features",
     "message": "Sõnafunktsioonid"
@@ -3938,14 +3753,6 @@
   "v2_2546540c": {
     "description": "Auto-generated translation for: Keyboard Shortcuts",
     "message": "Klaviatuuri otseteed"
-  },
-  "v2_74787f9e": {
-    "description": "Auto-generated translation for: Add spaces between words for languages that don't use spaces.",
-    "message": "Lisage tühikud sõnade vahele keelte puhul, mis tühikuid ei kasuta."
-  },
-  "v2_415bcea8": {
-    "description": "Auto-generated translation for: Speaks the word aloud when the translation popup opens.",
-    "message": "Esitab sõna valjult, kui tõlke hüpikaken avaneb."
   },
   "v2_3677de40": {
     "description": "Auto-generated translation for: Show the translation for the subtitles list panel.",
@@ -3970,14 +3777,6 @@
   "v2_5e9db625": {
     "description": "Auto-generated translation for: Processing your audio for neural subtitles",
     "message": "Teie audio töötlemine neuraalsete subtiitrite jaoks"
-  },
-  "v2_2adaa19e": {
-    "description": "Auto-generated translation for: Subtitle Panel List",
-    "message": "Subtiitri paneelide loend"
-  },
-  "v2_2328f98e": {
-    "description": "Auto-generated translation for: Display a side panel with all subtitles for easy navigation and review.",
-    "message": "Kuva külgpaneel kõigi subtiitritega lihtsaks navigeerimiseks ja ülevaatamiseks."
   },
   "v2_2b26d5bf": {
     "description": "Auto-generated translation for: Above the bar",
@@ -4067,10 +3866,6 @@
     "description": "Auto-generated translation for: Keyboard",
     "message": "Klaviatuur"
   },
-  "v2_20470c92": {
-    "description": "Auto-generated translation for: Disable Neural Subtitles",
-    "message": "Keela neuraalsed subtiitrid"
-  },
   "v2_63a80ad3": {
     "description": "Auto-generated translation for: Assigned key",
     "message": "Määratud võti"
@@ -4102,10 +3897,6 @@
   "v2_69333c39": {
     "description": "Auto-generated translation for: YouTube subtitles available",
     "message": "YouTube'i subtiitrid saadaval"
-  },
-  "v2_28d72bb3": {
-    "description": "Auto-generated translation for: Quickly configure learning features. You can change them anytime in settings.",
-    "message": "Seadista õppimisfunktsioonid kiiresti. Neid saab muuta igal ajal seadetes."
   },
   "v2_1a2819cc": {
     "description": "Auto-generated translation for: Navigation",
@@ -4383,10 +4174,6 @@
     "description": "Auto-generated translation for: Supported Platforms",
     "message": "Toetatud platvormid"
   },
-  "v2_3a61d5a4": {
-    "description": "Auto-generated translation for: Please select a word first by clicking or hovering over it",
-    "message": "Palun valige sõna esmalt, klõpsates sellele või hõljutades hiirt selle kohal"
-  },
   "v2_18f423de": {
     "description": "Auto-generated translation for: No video found",
     "message": "Videot ei leitud"
@@ -4450,10 +4237,6 @@
   "v2_6460648d": {
     "description": "Auto-generated translation for: to see instant translations",
     "message": "kiirtõlke nägemiseks"
-  },
-  "v2_0e8caf3c": {
-    "description": "Auto-generated translation for: for detailed word analysis and information",
-    "message": "üksikasjalikuks sõnaanalüüsiks ja teabeks"
   },
   "v2_503b541d": {
     "description": "Auto-generated translation for: Select multiple words",
@@ -4531,26 +4314,6 @@
     "description": "Auto-generated translation for: Resets in",
     "message": "Lähtestub"
   },
-  "v2_4d1b86d1": {
-    "description": "Auto-generated translation for: Checking subscription status",
-    "message": "Tellimuse oleku kontrollimine"
-  },
-  "v2_2874ef0f": {
-    "description": "Auto-generated translation for: Checking onboarding status",
-    "message": "Sisseelamise oleku kontrollimine"
-  },
-  "v2_0aa2c1c3": {
-    "description": "Auto-generated translation for: Fetching text tracks",
-    "message": "Tekstiradade toomine"
-  },
-  "v2_6531d18a": {
-    "description": "Auto-generated translation for: Initializing settings",
-    "message": "Sätete lähtestamine"
-  },
-  "v2_1ebb520c": {
-    "description": "Auto-generated translation for: Applying video settings",
-    "message": "Video seadete rakendamine"
-  },
   "v2_60edc1ee": {
     "description": "Auto-generated translation for: Generate AI Subtitles",
     "message": "Loo tehisintellekti subtiitreid"
@@ -4575,10 +4338,6 @@
     "description": "Auto-generated translation for: Playback Mode",
     "message": "Taasesitusrežiim"
   },
-  "v2_0011f408": {
-    "description": "Auto-generated translation for: Choose how subtitles affect playback",
-    "message": "Vali, kuidas subtiitrid taasesitust mõjutavad"
-  },
   "v2_54604014": {
     "description": "Auto-generated translation for: Text-to-Speech",
     "message": "Tekst kõneks"
@@ -4590,10 +4349,6 @@
   "v2_40e44961": {
     "description": "Auto-generated translation for: Repeat Type",
     "message": "Korduse tüüp"
-  },
-  "v2_14049c22": {
-    "description": "Auto-generated translation for: Choose how to repeat each subtitle",
-    "message": "Valige, kuidas iga subtiitrit korrata"
   },
   "v2_2367164a": {
     "description": "Auto-generated translation for: Repeat Count",
@@ -5658,10 +5413,6 @@
       }
     }
   },
-  "v2_70abeef9": {
-    "description": "Auto-generated translation for: No word found to pronounce",
-    "message": "Hääldatavat sõna ei leitud"
-  },
   "v2_25749bd6": {
     "description": "Auto-generated translation for: Unselect All",
     "message": "Tühista kõik valikud"
@@ -5689,10 +5440,6 @@
   "v2_2e0e0805": {
     "description": "Auto-generated translation for: Languages",
     "message": "Keeled"
-  },
-  "v2_4dc00fae": {
-    "description": "Auto-generated translation for: Learning Modes",
-    "message": "Õpperežiimid"
   },
   "v2_6bc27afe": {
     "description": "Auto-generated translation for: Styles",
@@ -5945,18 +5692,6 @@
     "description": "Auto-generated translation for: Shows a popup to manually merge words into phrases and expressions.",
     "message": "Kuvab hüpikakna sõnade käsitsi ühendamiseks fraasideks ja väljenditeks."
   },
-  "v2_2f287990": {
-    "description": "Auto-generated translation for: Shows a popup to manually merge words into phrases.",
-    "message": "Kuvab hüpikakna, et sõnad käsitsi fraasideks liita."
-  },
-  "v2_76acec5a": {
-    "description": "Auto-generated translation for: Shows how each word in your learning language corresponds to your native language.",
-    "message": "Näitab, kuidas iga sõna õppimiskeeles vastab teie emakeelele."
-  },
-  "v2_12b2f306": {
-    "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal.",
-    "message": "Eelista platvormi pakutavaid subtiitreid, kui need on saadaval. Vastasel juhul tõlgib FluentAI olemasolevad subtiitrid. Videosubtiitrid on loomulikumad (tähenduspõhised), samas kui masintõlge on sõnasõnalisem."
-  },
   "v2_6c783532": {
     "description": "Auto-generated translation for: AI Text-to-Speech Volume",
     "message": "AI tekst kõneks helitugevus"
@@ -6049,10 +5784,6 @@
     "description": "Auto-generated translation for: Display the dictionary form above bookmarked words in subtitles",
     "message": "Kuva järjehoidjatesse lisatud sõnade sõnastikuvorm subtiitrites"
   },
-  "v2_041e3b6a": {
-    "description": "Auto-generated translation for: Highlights words as spoken.",
-    "message": "Tõstab esile sõnu rääkimise ajal."
-  },
   "v2_0f3410c0": {
     "description": "Auto-generated translation for: This video doesn't have word timestamps",
     "message": "Sellel videol puuduvad sõnade ajatemplid"
@@ -6072,10 +5803,6 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "Alusvormi nähtavus"
-  },
-  "v2_0fca6ffb": {
-    "description": "Auto-generated translation for: Queued...",
-    "message": "Järjekorras..."
   },
   "v2_39e97037": {
     "description": "Auto-generated translation for: Extracting audio...",
@@ -6564,18 +6291,6 @@
     "description": "Auto-generated translation for: Choose how you want to add subtitles to your video",
     "message": "Vali, kuidas soovid oma videole subtiitreid lisada"
   },
-  "v2_461d3fee": {
-    "description": "Auto-generated translation for: Upload a .srt or .vtt file",
-    "message": "Laadi üles .srt või .vtt fail"
-  },
-  "v2_18d948be": {
-    "description": "Auto-generated translation for: Create neural subtitles",
-    "message": "Loo neurosubtiitrid"
-  },
-  "v2_6bad0b0e": {
-    "description": "Auto-generated translation for: Neural subtitles are not yet available",
-    "message": "Neuraalsed subtiitrid pole veel saadaval"
-  },
   "v2_0cdb031a": {
     "description": "Auto-generated translation for: Coming soon",
     "message": "Varsti tulekul"
@@ -6587,26 +6302,6 @@
   "v2_25d7795d": {
     "description": "Auto-generated translation for: An error occurred during transcription",
     "message": "Transkriptsiooni ajal tekkis viga"
-  },
-  "v2_3a059b20": {
-    "description": "Auto-generated translation for: Import New Video",
-    "message": "Impordi uus video"
-  },
-  "v2_6c53c554": {
-    "description": "Auto-generated translation for: Play local video files with FluentAI subtitles and interactive learning features.",
-    "message": "Esitage kohalikke videofaile FluentAI subtiitrite ja interaktiivsete õppefunktsioonidega."
-  },
-  "v2_7ca54576": {
-    "description": "Auto-generated translation for: Local Player",
-    "message": "Kohalik mängija"
-  },
-  "v2_53066e84": {
-    "description": "Auto-generated translation for: Import Video File",
-    "message": "Impordi videofail"
-  },
-  "v2_56a0a959": {
-    "description": "Auto-generated translation for: Select a local video file to get started",
-    "message": "Alustamiseks vali kohalik videofail"
   },
   "v2_4775d762": {
     "description": "Auto-generated translation for: Failed to import subtitles",
@@ -6623,10 +6318,6 @@
   "v2_4f4ab581": {
     "description": "Auto-generated translation for: Please set your learning language in settings before creating neural subtitles",
     "message": "Enne neurosubtiitrite loomist määra oma õppekeel seadetes"
-  },
-  "v2_4050988e": {
-    "description": "Auto-generated translation for: Neural transcription started",
-    "message": "Neuraalne transkriptsioon algas"
   },
   "v2_7c1bf627": {
     "description": "Auto-generated translation for: An unexpected error occurred",
@@ -6760,14 +6451,6 @@
     "description": "Auto-generated translation for: Failed to delete EPUB: ",
     "message": "EPUB-i kustutamine nurjus:"
   },
-  "v2_45505288": {
-    "description": "Auto-generated translation for: Read and learn from your EPUB books",
-    "message": "Lugege ja õppige oma EPUB-raamatutest"
-  },
-  "v2_56305e75": {
-    "description": "Auto-generated translation for: EPUB Reader",
-    "message": "EPUB lugeja"
-  },
   "v2_3b0f50f1": {
     "description": "Auto-generated translation for: Are you sure you want to delete this EPUB? This action cannot be undone.",
     "message": "Kas sa oled kindel, et soovid selle EPUB-i kustutada? Seda toimingut ei saa tagasi võtta."
@@ -6783,10 +6466,6 @@
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
     "message": "Korralda salvestatud sõnad ja fraasid kohandatud nimekirjadesse, et neid oleks lihtne leida ja õppida."
-  },
-  "v2_5f364956": {
-    "description": "Auto-generated translation for: Loading list details...",
-    "message": "Loen nimekirja üksikasju..."
   },
   "v2_4bfb9f13": {
     "description": "Auto-generated translation for: List not found",
@@ -6953,10 +6632,6 @@
   "v2_47531d14": {
     "description": "Auto-generated translation for: AI subtitles are ready.",
     "message": "AI subtiitrid on valmis."
-  },
-  "v2_73da36c5": {
-    "description": "Auto-generated translation for: AI subtitle generation started.",
-    "message": "AI subtiitrite genereerimine algas."
   },
   "v2_0b50491d": {
     "description": "Auto-generated translation for: Failed to start neural transcription.",
@@ -7388,14 +7063,6 @@
     "description": "Auto-generated translation for: Neural transcription failed",
     "message": "Neuraalne transkriptsioon ebaõnnestus"
   },
-  "v2_69b99a0d": {
-    "description": "Auto-generated translation for: Resources controller not available",
-    "message": "Ressursside kontroller pole saadaval"
-  },
-  "v2_620d4c2c": {
-    "description": "Auto-generated translation for: Failed to get video ID",
-    "message": "Video ID hankimine ebaõnnestus"
-  },
   "v2_59f15ff2": {
     "description": "Auto-generated translation for: File size (${fileSizeGB}GB) exceeds the maximum limit of 2GB for AI subtitles",
     "message": "Faili suurus (${fileSizeGB}GB) ületab AI subtiitrite jaoks lubatud maksimumlimiiti 2GB.",
@@ -7404,10 +7071,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_36c7c19a": {
-    "description": "Auto-generated translation for: Video Player",
-    "message": "Videomängija"
   },
   "v2_12bbb012": {
     "description": "Auto-generated translation for: Please upload a valid video or audio file",
@@ -8083,10 +7746,6 @@
       }
     }
   },
-  "v2_06c6a29f": {
-    "description": "Auto-generated translation for: Word Merging Tutorial",
-    "message": "Sõnade ühendamise õpetus"
-  },
   "v2_0e50fa86": {
     "description": "Auto-generated translation for: Word Status & Bookmarking",
     "message": "Sõna olek ja järjehoidjad"
@@ -8099,45 +7758,9 @@
     "description": "Auto-generated translation for: Learn how to save words and manage their learning status with status icons.",
     "message": "Õppige, kuidas sõnu salvestada ja nende õppimisolekut olekuikoonide abil hallata."
   },
-  "v2_06daa183": {
-    "description": "Auto-generated translation for: Words you're actively learning",
-    "message": "Sõnad, mida aktiivselt õpite"
-  },
-  "v2_49c26fad": {
-    "description": "Auto-generated translation for: Words you've mastered",
-    "message": "Sõnad, mille olete omandanud"
-  },
-  "v2_7b5c86f4": {
-    "description": "Auto-generated translation for: Words you want to skip",
-    "message": "Sõnad, mida soovite vahele jätta"
-  },
-  "v2_549e8840": {
-    "description": "Auto-generated translation for: Right-click words",
-    "message": "Paremklõpsake sõnadel"
-  },
-  "v2_7e289ca5": {
-    "description": "Auto-generated translation for: to add to notebook or cycle status",
-    "message": "lisamiseks märkmikku või tsükli olekusse"
-  },
-  "v2_17e0d6d1": {
-    "description": "Auto-generated translation for: Click status icon",
-    "message": "Klõpsake olekuikooni"
-  },
-  "v2_62f765a6": {
-    "description": "Auto-generated translation for: to cycle through statuses",
-    "message": "staatuseid läbi lapata"
-  },
-  "v2_2417f439": {
-    "description": "Auto-generated translation for: to merge into phrases",
-    "message": "fraasideks liitma"
-  },
   "v2_4dcac02e": {
     "description": "Auto-generated translation for: Click merge button",
     "message": "Klõpsake liitmisnupul"
-  },
-  "v2_5ae40df8": {
-    "description": "Auto-generated translation for: to combine words into expressions",
-    "message": "sõnastada mõtteid"
   },
   "v2_20c7065e": {
     "description": "Auto-generated translation for: Earn 20% recurring revenue from every subscriber you bring.",
@@ -8192,10 +7815,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_57def5c4": {
-    "description": "Auto-generated translation for: Generate subtitles with AI.",
-    "message": "Genereeri subtiitrid tehisintellektiga."
   },
   "v2_4559a29d": {
     "description": "Auto-generated translation for: Language learning App for Netflix,<br>YouTube, Amazon Prime, and Disney Plus.",
@@ -8448,10 +8067,6 @@
     "description": "Auto-generated translation for: Failed to archive word",
     "message": "Sõna arhiveerimine ebaõnnestus"
   },
-  "v2_7255de43": {
-    "description": "Auto-generated translation for: Unknown - Click to mark as Learning",
-    "message": "Teadmata – klõpsake, et märkida õppimiseks"
-  },
   "v2_6d7efa68": {
     "description": "Auto-generated translation for: Click to mark as {status}",
     "message": "Klõpsa, et märkiduks kui {status}",
@@ -8504,14 +8119,6 @@
   "v2_422887b4": {
     "description": "Auto-generated translation for: Bookmark Word",
     "message": "Järjehoidja Sõna"
-  },
-  "v2_02fc98dc": {
-    "description": "Auto-generated translation for: Text-to-speech is not configured. Please configure it in settings.",
-    "message": "Kõnesüntees pole konfigureeritud. Palun konfigureerige see seadetes."
-  },
-  "v2_008b3b33": {
-    "description": "Auto-generated translation for: Failed to update word status",
-    "message": "Sõna oleku värskendamine ebaõnnestus"
   },
   "v2_13166391": {
     "description": "Auto-generated translation for: Language Learning Guides",
@@ -8705,17 +8312,9 @@
     "description": "Auto-generated translation for: Restart playback when leaving a word.",
     "message": "Taasesita sõnast lahkumisel."
   },
-  "v2_662e93b6": {
-    "description": "Auto-generated translation for: Advanced playback mode settings (configured in extension).",
-    "message": "Täpsemad taasesitusrežiimi seaded (konfigureeritud laiendis)."
-  },
   "v2_29fea828": {
     "description": "Auto-generated translation for: Playback Modes Settings",
     "message": "Taasesitusrežiimide sätted"
-  },
-  "v2_3585e6e2": {
-    "description": "Auto-generated translation for: Complex settings - configure in extension",
-    "message": "Keerukad seaded – seadista laiendis"
   },
   "v2_094a82ca": {
     "description": "Auto-generated translation for: Choose color for light mode",
@@ -9048,5 +8647,649 @@
         "content": "$1"
       }
     }
+  },
+  "v2_6aa54514": {
+    "description": "Auto-generated translation for: Invalid timed segments received from transcription service.",
+    "message": "Transkriptsiooniteenuselt saadi sobimatud ajastatud segmendid."
+  },
+  "v2_3865beea": {
+    "description": "Auto-generated translation for: No valid timed segments found in transcription response.",
+    "message": "Transkriptsiooni vastuses ei leitud kehtivaid ajastatud segmente."
+  },
+  "v2_3055b6cc": {
+    "description": "Auto-generated translation for: Need help?",
+    "message": "Abi vaja?"
+  },
+  "v2_55952cf5": {
+    "description": "Auto-generated translation for: Email Support",
+    "message": "E-posti tugi"
+  },
+  "v2_7307d836": {
+    "description": "Auto-generated translation for: Join Discord",
+    "message": "Liitu Discordiga"
+  },
+  "v2_20e30018": {
+    "description": "Auto-generated translation for: Not bookmarked - Click to add to Learning",
+    "message": "Pole järjehoidjat – klõpsake, et lisada jaotisse Õppimine"
+  },
+  "v2_6578cf4f": {
+    "description": "Auto-generated translation for: Failed to initialize settings",
+    "message": "Sätete lähtestamine ebaõnnestus"
+  },
+  "v2_1e310648": {
+    "description": "Auto-generated translation for: Unarchiving...",
+    "message": "Pakkimist tühistatakse..."
+  },
+  "v2_4f1cfc17": {
+    "description": "Auto-generated translation for: Unarchive",
+    "message": "Arhiivist välja"
+  },
+  "v2_1f123be3": {
+    "description": "Auto-generated translation for: Failed to load lists",
+    "message": "Loendite laadimine ebaõnnestus"
+  },
+  "v2_5d5c4609": {
+    "description": "Auto-generated translation for: Export failed",
+    "message": "Eksport ebaõnnestus"
+  },
+  "v2_14586536": {
+    "description": "Auto-generated translation for: Word unarchived successfully",
+    "message": "Sõna on edukalt arhiivist välja toodud"
+  },
+  "v2_4b14d7dd": {
+    "description": "Auto-generated translation for: {{count}} words archived successfully",
+    "message": "{{count}} sõna on edukalt arhiveeritud",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6648bb1c": {
+    "description": "Auto-generated translation for: {{count}} words unarchived successfully",
+    "message": "{{count}} sõna arhiveerimata",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_53a5cdc1": {
+    "description": "Auto-generated translation for: {{successes}} of {{total}} words processed",
+    "message": "{{successes}} sõna {{total}}-st töödeldud",
+    "placeholders": {
+      "successes": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_0345d5b7": {
+    "description": "Auto-generated translation for: Failed to archive words",
+    "message": "Sõnu ei õnnestunud arhiivida"
+  },
+  "v2_3babc2d8": {
+    "description": "Auto-generated translation for: Bookmark deleted successfully",
+    "message": "Järjehoidja edukalt kustutatud"
+  },
+  "v2_1153c2f7": {
+    "description": "Auto-generated translation for: Failed to delete bookmark",
+    "message": "Järjehoidja kustutamine ebaõnnestus"
+  },
+  "v2_3f1b9ebe": {
+    "description": "Auto-generated translation for: {{count}} bookmarks deleted successfully",
+    "message": "{{count}} järjehoidjat on edukalt kustutatud",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2fbf21a0": {
+    "description": "Auto-generated translation for: {{successes}} of {{total}} bookmarks deleted",
+    "message": "{{successes}} {{total}}-st järjehoidjast kustutatud",
+    "placeholders": {
+      "successes": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_19249b76": {
+    "description": "Auto-generated translation for: Failed to delete bookmarks",
+    "message": "Järjehoidjate kustutamine ebaõnnestus"
+  },
+  "v2_0be92afb": {
+    "description": "Auto-generated translation for: Clear search",
+    "message": "Tühista otsing"
+  },
+  "v2_25b55d29": {
+    "description": "Auto-generated translation for: Event-driven",
+    "message": "Sündmuspõhine"
+  },
+  "v2_4a90129b": {
+    "description": "Auto-generated translation for: Word Translation",
+    "message": "Sõna tõlge"
+  },
+  "v2_782e37df": {
+    "description": "Auto-generated translation for: Word Merging",
+    "message": "Sõnade ühendamine"
+  },
+  "v2_52e1d382": {
+    "description": "Auto-generated translation for: Configure word-related features like hover actions, merging, and pronunciation.",
+    "message": "Konfigureerige sõnaga seotud funktsioonid, nagu hõljumistoimingud, ühendamine ja hääldus."
+  },
+  "v2_4b5b25c2": {
+    "description": "Auto-generated translation for: Configure playback modes and how videos pause, repeat, or play continuously.",
+    "message": "Häälesta taasesitusrežiimid ja kuidas videod peatuvad, korduvad või katkematult esitatakse."
+  },
+  "v2_14166404": {
+    "description": "Auto-generated translation for: Configure subtitle display, transliteration, and subtitle behavior options.",
+    "message": "Konfigureerige subtiitrite kuvamise, transliteratsiooni ja subtiitrite käitumise valikud."
+  },
+  "v2_62d278ed": {
+    "description": "Auto-generated translation for: Configure subtitle list panel settings and translation display options.",
+    "message": "Konfigureerige subtiitrite loendi paneeli seaded ja tõlke kuvamise valikud."
+  },
+  "v2_6adcfe0a": {
+    "description": "Auto-generated translation for: Show dictionary form above bookmarked words",
+    "message": "Näita järjehoidjaga sõnade kohal sõnaraamatu vormi"
+  },
+  "v2_0e3c0ac0": {
+    "description": "Auto-generated translation for: Pause video when hovering over words",
+    "message": "Peata video, kui viid hiire sõnade kohale"
+  },
+  "v2_52e05400": {
+    "description": "Auto-generated translation for: Resume video when leaving word hover",
+    "message": "Jätka video esitamist sõnalt lahkudes"
+  },
+  "v2_33bcd467": {
+    "description": "Auto-generated translation for: Show popup to merge words into phrases",
+    "message": "Kuva hüpikaken sõnade fraasideks liitmiseks"
+  },
+  "v2_5697ee78": {
+    "description": "Auto-generated translation for: Speak word when translation popup opens",
+    "message": "Esita sõna, kui tõlkepopup avaneb"
+  },
+  "v2_02e4a8a3": {
+    "description": "Auto-generated translation for: Adjust the size of learning subtitle text",
+    "message": "Kohanda õppe subtiitrite teksti suurust"
+  },
+  "v2_592050ea": {
+    "description": "Auto-generated translation for: Adjust the size of native subtitle text",
+    "message": "Reguleeri algupärase subtiitri teksti suurust"
+  },
+  "v2_6cccbdc6": {
+    "description": "Auto-generated translation for: Choose your preferred theme",
+    "message": "Vali oma eelistatud teema"
+  },
+  "v2_0795e107": {
+    "description": "Auto-generated translation for: Choose how bookmarks are displayed",
+    "message": "Valige, kuidas järjehoidjaid kuvatakse"
+  },
+  "v2_6fd9f851": {
+    "description": "Auto-generated translation for: Choose the color for bookmarks",
+    "message": "Vali järjehoidjate värv"
+  },
+  "v2_152ee719": {
+    "description": "Auto-generated translation for: Show subtitles in learning language",
+    "message": "Kuva subtiitreid õppimiskeeles"
+  },
+  "v2_3003134e": {
+    "description": "Auto-generated translation for: Show subtitles in native language",
+    "message": "Näita subtiitreid emakeeles"
+  },
+  "v2_0c0fb817": {
+    "description": "Auto-generated translation for: Prefer platform subtitles over translations when available",
+    "message": "Eelista platvormi subtiitreid tõlgetele, kui need on saadaval"
+  },
+  "v2_50357167": {
+    "description": "Auto-generated translation for: Show phonetic pronunciation in Latin characters",
+    "message": "Näita foneetilist hääldust ladina tähtedega"
+  },
+  "v2_575aebba": {
+    "description": "Auto-generated translation for: Transliteration type for words and sentences",
+    "message": "Sõnade ja lausete translitereerimise tüüp"
+  },
+  "v2_52a6c6c5": {
+    "description": "Auto-generated translation for: Hide subtitle until hover to reveal content",
+    "message": "Peida subtiiter, kuni hiirega üle viid, et sisu näha"
+  },
+  "v2_562a105c": {
+    "description": "Auto-generated translation for: Highlight words as they are being spoken",
+    "message": "Tõsta sõnad esile nende rääkimise ajal"
+  },
+  "v2_0c7317ce": {
+    "description": "Auto-generated translation for: Show word correspondence between learning and native languages",
+    "message": "Näita sõnavastavust õppe- ja emakeele vahel"
+  },
+  "v2_2a5674f9": {
+    "description": "Auto-generated translation for: for detailed word analysis",
+    "message": "üksikasjalikuks sõnaanalüüsiks"
+  },
+  "v2_7ef58ec9": {
+    "description": "Auto-generated translation for: Show scrollable panel with all subtitles for navigation",
+    "message": "Kuva keritav paneel kõigi subtiitritega navigeerimiseks"
+  },
+  "v2_17bb67f6": {
+    "description": "Auto-generated translation for: Show translations in subtitle list panel",
+    "message": "Näita subtiitrite loendi paneelil tõlkeid"
+  },
+  "v2_127e261e": {
+    "description": "Auto-generated translation for: to merge words into phrases",
+    "message": "sõnu fraasideks liitma"
+  },
+  "v2_11ee721f": {
+    "description": "Auto-generated translation for: to combine into expressions",
+    "message": "väljenditeks ühendama"
+  },
+  "v2_0c1214a9": {
+    "description": "Auto-generated translation for: Right-click once or click icon to set as learning and add to notebook",
+    "message": "Paremklõpsake üks kord või klõpsake ikoonil, et määrata õppimiseks ja lisada märkmikku"
+  },
+  "v2_77979a7b": {
+    "description": "Auto-generated translation for: Right-click twice or click icon to set as learned in notebook",
+    "message": "Paremklõpsake kaks korda või klõpsake ikooni, et märkida märkmikus õpituks"
+  },
+  "v2_5e68e2c2": {
+    "description": "Auto-generated translation for: Click icon in word popup to skip and ignore words",
+    "message": "Sõnade vahelejätmiseks ja ignoreerimiseks klõpsake hüpikaknas oleval ikoonil"
+  },
+  "v2_304a1295": {
+    "description": "Auto-generated translation for: Basic Mode",
+    "message": "Põhirežiim"
+  },
+  "v2_21c87bb4": {
+    "description": "Auto-generated translation for: Pause automatically after each subtitle",
+    "message": "Peata automaatselt iga subtiitri järel"
+  },
+  "v2_2dca98f5": {
+    "description": "Auto-generated translation for: AI voice repeats the subtitle",
+    "message": "AI hääl kordab subtiitrit"
+  },
+  "v2_345b7b6e": {
+    "description": "Auto-generated translation for: The scene itself repeats",
+    "message": "Stseen ise kordub"
+  },
+  "v2_09d2688b": {
+    "description": "Auto-generated translation for: Number of times to repeat each subtitle",
+    "message": "Alatiitrite korduste arv"
+  },
+  "v2_687c2d50": {
+    "description": "Auto-generated translation for: Delay before automatically resuming playback",
+    "message": "Viivitus enne taasesituse automaatset jätkamist"
+  },
+  "v2_09a463d0": {
+    "description": "Auto-generated translation for: Resume Delay",
+    "message": "Elulookirjelduse viivitus"
+  },
+  "v2_3c571daf": {
+    "description": "Auto-generated translation for: Checking User",
+    "message": "Kasutaja kontrollimine"
+  },
+  "v2_354469a3": {
+    "description": "Auto-generated translation for: Checking Subscription",
+    "message": "Tellimuse kontrollimine"
+  },
+  "v2_66994fdf": {
+    "description": "Auto-generated translation for: Checking Onboarding",
+    "message": "Sisseelamise kontroll"
+  },
+  "v2_377155c3": {
+    "description": "Auto-generated translation for: Fetching Text Tracks",
+    "message": "Tekstiradade toomine"
+  },
+  "v2_5ed3b4e2": {
+    "description": "Auto-generated translation for: Fetching Source Track",
+    "message": "Allika jälgimine"
+  },
+  "v2_76661423": {
+    "description": "Auto-generated translation for: Fetching Subtitles",
+    "message": "Subtiitrite allalaadimine"
+  },
+  "v2_61576d6a": {
+    "description": "Auto-generated translation for: Initializing Settings",
+    "message": "Sätete lähtestamine"
+  },
+  "v2_7f59b9cd": {
+    "description": "Auto-generated translation for: Checking Maintenance",
+    "message": "Hoolduse kontrollimine"
+  },
+  "v2_569a21cc": {
+    "description": "Auto-generated translation for: Applying Video Settings",
+    "message": "Video sätete rakendamine"
+  },
+  "v2_57612843": {
+    "description": "Auto-generated translation for: Setting Up Tracks",
+    "message": "Radade seadistamine"
+  },
+  "v2_5759fb44": {
+    "description": "Auto-generated translation for: Initializing Loops",
+    "message": "Silmuste lähtestamine"
+  },
+  "v2_7d6a9029": {
+    "description": "Auto-generated translation for: Setting Up UI",
+    "message": "Kasutajaliidese seadistamine"
+  },
+  "v2_4e872308": {
+    "description": "Auto-generated translation for: Logging in...",
+    "message": "Logitakse sisse..."
+  },
+  "v2_79ba4b9b": {
+    "description": "Auto-generated translation for: Disable AI Subtitles",
+    "message": "Keela tehisintellekti subtiitrid"
+  },
+  "v2_08200e98": {
+    "description": "Auto-generated translation for: Highlights words as spoken",
+    "message": "Tõstab sõnad esiletõstetult räägituna"
+  },
+  "v2_1eec85ba": {
+    "description": "Auto-generated translation for: Speaks the word aloud when the translation popup opens",
+    "message": "Hääldab sõna valjusti, kui tõlkepäring avaneb"
+  },
+  "v2_547db6f3": {
+    "description": "Auto-generated translation for: Automatically resumes the video when leaving word hover",
+    "message": "Jätkab video automaatset esitamist, kui sõna kohalt kursoriga lahkutakse"
+  },
+  "v2_79b25b55": {
+    "description": "Auto-generated translation for: Automatically pauses the video when hovering over words",
+    "message": "Peatab video automaatselt, kui hiirega sõnade kohale liigute"
+  },
+  "v2_3311d25e": {
+    "description": "Auto-generated translation for: Shows a popup to manually merge words into phrases",
+    "message": "Kuvab hüpikakna sõnade käsitsi fraasideks liitmiseks"
+  },
+  "v2_74375228": {
+    "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal",
+    "message": "Eelista platvormipõhiseid subtiitreid, kui need on saadaval. Vastasel juhul tõlgib FluentAI olemasolevad subtiitrid. Videote subtiitrid on loomulikumad (tähenduspõhised), samas kui masintõlge on sõnasõnalisem."
+  },
+  "v2_498c8dd9": {
+    "description": "Auto-generated translation for: Adjust the volume of interface sound effects",
+    "message": "Reguleeri liidese heliefektide helitugevust"
+  },
+  "v2_57e3e40b": {
+    "description": "Auto-generated translation for: Adjust the volume of AI-generated speech",
+    "message": "Reguleerige tehisintellekti loodud kõne helitugevust"
+  },
+  "v2_2ae68684": {
+    "description": "Auto-generated translation for: Adjust the speed at which AI reads text aloud",
+    "message": "Reguleerige kiirust, millega tehisintellekt teksti ette loeb"
+  },
+  "v2_6a907c80": {
+    "description": "Auto-generated translation for: Choose the AI voice used for text-to-speech",
+    "message": "Vali tehisintellekti hääl, mida kasutatakse tekstist kõneks muundamiseks"
+  },
+  "v2_5914e852": {
+    "description": "Auto-generated translation for: Show the translation for the subtitles list panel",
+    "message": "Kuva subtiitrite loendi paneeli tõlge"
+  },
+  "v2_37d730db": {
+    "description": "Auto-generated translation for: Select Transliteration Type",
+    "message": "Vali transliteratsiooni tüüp"
+  },
+  "v2_053a110f": {
+    "description": "Auto-generated translation for: Type of transliteration for words and sentences",
+    "message": "Sõnade ja lausete translitereerimise tüüp"
+  },
+  "v2_03c1d290": {
+    "description": "Auto-generated translation for: Add spaces between words for languages that don't use spaces",
+    "message": "Lisage sõnade vahele tühikud keelte jaoks, mis ei kasuta tühikuid"
+  },
+  "v2_53290bf0": {
+    "description": "Auto-generated translation for: Light mode color",
+    "message": "Heleda režiimi värv"
+  },
+  "v2_797f7170": {
+    "description": "Auto-generated translation for: Dark mode color",
+    "message": "Tume režiimi värv"
+  },
+  "v2_28278ed1": {
+    "description": "Auto-generated translation for: Sound effects",
+    "message": "Heliefektid"
+  },
+  "v2_39130773": {
+    "description": "Auto-generated translation for: Import New Ebook",
+    "message": "Impordi uus e-raamat"
+  },
+  "v2_2cd81523": {
+    "description": "Auto-generated translation for: Media Player",
+    "message": "Meedia Pleier"
+  },
+  "v2_11ca663e": {
+    "description": "Auto-generated translation for: Onboarding Sandbox",
+    "message": "Sisseelamise liivakast"
+  },
+  "v2_2f241677": {
+    "description": "Auto-generated translation for: Test the onboarding modal flow",
+    "message": "Testi sisseelamise modaalvoogu"
+  },
+  "v2_6080a0a2": {
+    "description": "Auto-generated translation for: Open Onboarding Modal",
+    "message": "Ava kasutuselevõtu modaalaken"
+  },
+  "v2_3ec9188a": {
+    "description": "Auto-generated translation for: Configure advanced playback modes for better learning experience.",
+    "message": "Parema õppimiskogemuse saamiseks seadistage täpsemad taasesitusrežiimid."
+  },
+  "v2_04c5d8ef": {
+    "description": "Auto-generated translation for: Sound",
+    "message": "Heli"
+  },
+  "v2_6a00f095": {
+    "description": "Auto-generated translation for: Failed to compute video ID",
+    "message": "Video ID-d ei õnnestunud arvutada"
+  },
+  "v2_5a221ba2": {
+    "description": "Auto-generated translation for: Failed to save subtitles to server",
+    "message": "Subtiitrite salvestamine serverisse ebaõnnestus"
+  },
+  "v2_1a1c8f25": {
+    "description": "Auto-generated translation for: Generating subtitles using AI. This may take a few minutes.",
+    "message": "Subtiitrite genereerimine tehisintellekti abil. See võib võtta paar minutit."
+  },
+  "v2_4721fdcc": {
+    "description": "Auto-generated translation for: Upload a subtitle file from your computer",
+    "message": "Laadi subtiitrite fail oma arvutist üles"
+  },
+  "v2_10c5c04c": {
+    "description": "Auto-generated translation for: Searching for existing subtitles in your library",
+    "message": "Olemasolevate subtiitrite otsimine oma kogust"
+  },
+  "v2_5c5a2c8b": {
+    "description": "Auto-generated translation for: Preparing subtitles for smooth playback",
+    "message": "Subtiitrite ettevalmistamine sujuvaks taasesituseks"
+  },
+  "v2_4f4dc821": {
+    "description": "Auto-generated translation for: Unable to load prefetching data",
+    "message": "Eellaadimise andmeid ei saa laadida"
+  },
+  "v2_29675b70": {
+    "description": "Auto-generated translation for: Checking for subtitles...",
+    "message": "Subtiitrite otsimine..."
+  },
+  "v2_601ab149": {
+    "description": "Auto-generated translation for: Extracting Audio",
+    "message": "Heli eraldamine"
+  },
+  "v2_3eb2a1df": {
+    "description": "Auto-generated translation for: Uploading",
+    "message": "Üleslaadimine"
+  },
+  "v2_49f5687a": {
+    "description": "Auto-generated translation for: Preparing Audio",
+    "message": "Heli ettevalmistamine"
+  },
+  "v2_010bbd92": {
+    "description": "Auto-generated translation for: Transcribing",
+    "message": "Transkribeerimine"
+  },
+  "v2_1d9722d9": {
+    "description": "Auto-generated translation for: Creating Segments",
+    "message": "Segmentide loomine"
+  },
+  "v2_7b0cd377": {
+    "description": "Auto-generated translation for: AI Generated",
+    "message": "AI loodud"
+  },
+  "v2_560cedf1": {
+    "description": "Auto-generated translation for: Original",
+    "message": "Originaal"
+  },
+  "v2_102f14f6": {
+    "description": "Auto-generated translation for: Translated",
+    "message": "Tõlgitud"
+  },
+  "v2_1c10cffd": {
+    "description": "Auto-generated translation for: Found Subtitles",
+    "message": "Subtiitrid leitud"
+  },
+  "v2_6c0aabc5": {
+    "description": "Auto-generated translation for: Source",
+    "message": "Allikas"
+  },
+  "v2_1cc456a1": {
+    "description": "Auto-generated translation for: Total subtitles",
+    "message": "Subtiitrid kokku"
+  },
+  "v2_7390c06a": {
+    "description": "Auto-generated translation for: Prefetching first ${PREFETCH_SUBTITLE_COUNT} subtitles...",
+    "message": "Eelistan ${PREFETCH_SUBTITLE_COUNT} esimest subtiitrit...",
+    "placeholders": {
+      "PREFETCH_SUBTITLE_COUNT": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_0675d9a3": {
+    "description": "Auto-generated translation for: ready",
+    "message": "valmis"
+  },
+  "v2_7483b4e0": {
+    "description": "Auto-generated translation for: Overall Progress",
+    "message": "Üldine edenemine"
+  },
+  "v2_4cb96c85": {
+    "description": "Auto-generated translation for: Manual upload",
+    "message": "Käsitsi üleslaadimine"
+  },
+  "v2_14a1bd0d": {
+    "description": "Auto-generated translation for: Upload a prepared subtitle file directly from your computer.",
+    "message": "Laadige ettevalmistatud subtiitrifail üles otse oma arvutist."
+  },
+  "v2_35254b1a": {
+    "description": "Auto-generated translation for: Supported formats: .srt · .vtt",
+    "message": "Toetatud vormingud: .srt · .vtt"
+  },
+  "v2_5f5fc1e7": {
+    "description": "Auto-generated translation for: Create AI subtitles",
+    "message": "Loo AI subtiitrid"
+  },
+  "v2_660f6b3b": {
+    "description": "Auto-generated translation for: AI subtitles are not yet available",
+    "message": "AI subtiitrid pole veel saadaval"
+  },
+  "v2_46e179c5": {
+    "description": "Auto-generated translation for: Recommended",
+    "message": "Soovitatav"
+  },
+  "v2_4605eb37": {
+    "description": "Auto-generated translation for: Generate polished subtitles automatically and review them in-app.",
+    "message": "Loo viimistletud subtiitrid automaatselt ja vaata need rakenduses üle."
+  },
+  "v2_02439608": {
+    "description": "Auto-generated translation for: We'll notify you as soon as AI subtitles are available.",
+    "message": "Anname teada kohe, kui tehisintellekti subtiitrid on saadaval."
+  },
+  "v2_300ca293": {
+    "description": "Auto-generated translation for: Best when you do not have an existing subtitle file.",
+    "message": "Parim, kui sul puudub olemasolev subtiitrite fail."
+  },
+  "v2_655dcf02": {
+    "description": "Auto-generated translation for: Checking for Subtitles",
+    "message": "Subtiitrite otsimine"
+  },
+  "v2_1d6311ff": {
+    "description": "Auto-generated translation for: Preparing Subtitles",
+    "message": "Subtiitrite koostamine"
+  },
+  "v2_0025ff54": {
+    "description": "Auto-generated translation for: Play",
+    "message": "Mängi"
+  },
+  "v2_68b2a7ae": {
+    "description": "Auto-generated translation for: Unmute",
+    "message": "Tühista vaigistus"
+  },
+  "v2_0024c639": {
+    "description": "Auto-generated translation for: Mute",
+    "message": "Vaigista"
+  },
+  "v2_3984f689": {
+    "description": "Auto-generated translation for: Import New Media",
+    "message": "Impordi uus meedia"
+  },
+  "v2_7ef8104d": {
+    "description": "Auto-generated translation for: Import Media File",
+    "message": "Impordi meediafail"
+  },
+  "v2_65a8bd97": {
+    "description": "Auto-generated translation for: Select a video or audio file to get started",
+    "message": "Alustamiseks valige video- või helifail"
+  },
+  "v2_6b3550ff": {
+    "description": "Auto-generated translation for: Go back",
+    "message": "Mine tagasi"
+  },
+  "v2_438ec663": {
+    "description": "Auto-generated translation for: Type a command or search...",
+    "message": "Sisesta käsk või otsi..."
+  },
+  "v2_3b1d43b0": {
+    "description": "Auto-generated translation for: Quick nav",
+    "message": "Kiirnav"
+  },
+  "v2_37a6eaad": {
+    "description": "Auto-generated translation for: Search Notebook",
+    "message": "Otsi märkmikust"
+  },
+  "v2_3ca7c67d": {
+    "description": "Auto-generated translation for: Filter Notebook",
+    "message": "Filtreeri märkmikku"
+  },
+  "v2_07a181db": {
+    "description": "Auto-generated translation for: Import to Notebook",
+    "message": "Impordi märkmikku"
+  },
+  "v2_4ec08b39": {
+    "description": "Auto-generated translation for: Export Notebook",
+    "message": "Ekspordi märkmik"
+  },
+  "v2_7e3d48d8": {
+    "description": "Auto-generated translation for: Quick Actions & Search",
+    "message": "Kiirtoimingud ja otsing"
+  },
+  "v2_2d97a959": {
+    "description": "Auto-generated translation for: Sandbox",
+    "message": "Liivakast"
+  },
+  "v2_3bdf39d7": {
+    "description": "Auto-generated translation for: Drop zone for EPUB files. Click or press Enter to browse files.",
+    "message": "EPUB-failide sihtkoht. Failide sirvimiseks klõpsake või vajutage sisestusklahvi."
+  },
+  "v2_23bacec7": {
+    "description": "Auto-generated translation for: complete",
+    "message": "valmis"
+  },
+  "v2_251110be": {
+    "description": "Auto-generated translation for: Jump to page",
+    "message": "Mine lehele"
+  },
+  "v2_286ad152": {
+    "description": "Auto-generated translation for: Jump to section",
+    "message": "Hüppa sektsiooni juurde"
   }
 }

@@ -35,22 +35,6 @@
     "description": "Auto-generated translation for: Repeat Mode Subtitles",
     "message": "পুনরাবৃত্তি মোড সাবটাইটেলস"
   },
-  "v2_1064c8d1": {
-    "description": "Auto-generated translation for: Report feedback",
-    "message": "প্রতিবেদন প্রতিক্রিয়া"
-  },
-  "v2_2fd0d448": {
-    "description": "Auto-generated translation for: Setup completed",
-    "message": "সেটআপ সম্পন্ন হয়েছে"
-  },
-  "v2_010c0bbd": {
-    "description": "Auto-generated translation for: Fetching subtitles",
-    "message": "সাবটাইটেল আনছে"
-  },
-  "v2_1bf011ed": {
-    "description": "Auto-generated translation for: Checking maintenance",
-    "message": "রক্ষণাবেক্ষণ পরীক্ষা করা হচ্ছে"
-  },
   "v2_0d78b7a3": {
     "description": "Auto-generated translation for: Features",
     "message": "বৈশিষ্ট্যগুলি"
@@ -1748,18 +1732,6 @@
     "description": "Auto-generated translation for: English (Australia)",
     "message": "ইংরেজি (অস্ট্রেলিয়া)"
   },
-  "v2_7f8b0325": {
-    "description": "Auto-generated translation for: Feature Request",
-    "message": "\"বৈশিষ্ট্য অনুরোধ\""
-  },
-  "v2_7ade1e3a": {
-    "description": "Auto-generated translation for: Neural Subtitles",
-    "message": "নিউরল সাবটাইটেল"
-  },
-  "v2_5a9db48b": {
-    "description": "Auto-generated translation for: This will take a few seconds",
-    "message": "এতে কয়েক সেকেন্ড লাগবে।"
-  },
   "v2_3a3be6ac": {
     "description": "Auto-generated translation for: Underline",
     "message": "নিম্নরেখাঙ্কিত করুন"
@@ -1776,77 +1748,9 @@
     "description": "Auto-generated translation for: Import",
     "message": "আমদানি"
   },
-  "v2_07d2decd": {
-    "description": "Auto-generated translation for: Failed to detect language",
-    "message": "ভাষা সনাক্ত করতে ব্যর্থ"
-  },
-  "v2_3ae5c3f9": {
-    "description": "Auto-generated translation for: Failed to import entry",
-    "message": "এন্ট্রি ইম্পোর্ট করা যায়নি"
-  },
-  "v2_565bbfd3": {
-    "description": "Auto-generated translation for: Could not load languages",
-    "message": "ভাষা লোড করা যায়নি"
-  },
-  "v2_7eaa6e0b": {
-    "description": "Auto-generated translation for: Please provide text and select both languages.",
-    "message": "অনুগ্রহ করে টেক্সট দিন এবং উভয় ভাষা নির্বাচন করুন।"
-  },
-  "v2_6658b698": {
-    "description": "Auto-generated translation for: No valid entries found in the text.",
-    "message": "লেখায় কোনো বৈধ ভুক্তি পাওয়া যায়নি।"
-  },
-  "v2_719b1304": {
-    "description": "Auto-generated translation for: Imported <span class=\"font-mono text-violet-500\">$count$</span> out of <span class=\"font-mono text-violet-500\">$total$</span> entries.",
-    "message": "<span class=\"font-mono text-violet-500\">$total$</span> টি এন্ট্রির মধ্যে <span class=\"font-mono text-violet-500\">$count$</span> টি আমদানি করা হয়েছে।",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7b996a96": {
-    "description": "Auto-generated translation for: Failed to complete import",
-    "message": "ইম্পোর্ট সম্পন্ন করা যায়নি"
-  },
-  "v2_24de7ceb": {
-    "description": "Auto-generated translation for: Import Entries",
-    "message": "এন্ট্রি আমদানি করুন"
-  },
-  "v2_6e53955e": {
-    "description": "Auto-generated translation for: Words or phrases to import",
-    "message": "আমদানি করার জন্য শব্দ বা শব্দগুচ্ছ"
-  },
-  "v2_76494ced": {
-    "description": "Auto-generated translation for: Enter words or phrases, one per line...",
-    "message": "শব্দ অথবা শব্দগুচ্ছ প্রবেশ করুন, প্রতি লাইনে একটি করে..."
-  },
-  "v2_5e0eea43": {
-    "description": "Auto-generated translation for: Source Language",
-    "message": "উৎস ভাষা"
-  },
-  "v2_0a3da3df": {
-    "description": "Auto-generated translation for: Language of the words/phrases above",
-    "message": "উপরের শব্দ/শব্দগুচ্ছের ভাষা"
-  },
-  "v2_283cc547": {
-    "description": "Auto-generated translation for: Select Source Language",
-    "message": "উৎস ভাষা নির্বাচন করুন"
-  },
   "v2_0468aef9": {
     "description": "Auto-generated translation for: Target Language",
     "message": "লক্ষ্য ভাষা"
-  },
-  "v2_1f5c7096": {
-    "description": "Auto-generated translation for: Language to translate to",
-    "message": "\"যে ভাষায় অনুবাদ করতে হবে\""
-  },
-  "v2_31697603": {
-    "description": "Auto-generated translation for: Select Target Language",
-    "message": "লক্ষ্য ভাষা নির্বাচন করুন"
   },
   "v2_557131fc": {
     "description": "Auto-generated translation for: Upgrade",
@@ -1911,10 +1815,6 @@
   "v2_529eed4d": {
     "description": "Auto-generated translation for: Subtitle Pronunciation",
     "message": "সাবটাইটেলের উচ্চারণ"
-  },
-  "v2_6f220a3d": {
-    "description": "Auto-generated translation for: Download Subtitles",
-    "message": "সাবটাইটেল ডাউনলোড করুন"
   },
   "v2_4b9b7f15": {
     "description": "Auto-generated translation for: Playback Modes",
@@ -2169,10 +2069,6 @@
     "description": "Auto-generated translation for: Earn Recurring Revenue",
     "message": "পুনরাবৃত্ত আয় অর্জন করুন"
   },
-  "v2_04ac5207": {
-    "description": "Auto-generated translation for: Dev Panel",
-    "message": "দেব প্যানেল"
-  },
   "v2_1d0c220d": {
     "description": "Auto-generated translation for: Account",
     "message": "অ্যাকাউন্ট"
@@ -2298,10 +2194,6 @@
     "description": "Auto-generated translation for: Video Speed",
     "message": "ভিডিও স্পিড"
   },
-  "v2_2a09d4ce": {
-    "description": "Auto-generated translation for: AI Neural Subtitles",
-    "message": "এআই নিউরাল সাবটাইটেল"
-  },
   "v2_20c30ef1": {
     "description": "Auto-generated translation for: By signing up, you agree to our",
     "message": "সাইন আপ করার মাধ্যমে, আপনি আমাদের সাথে সম্মত হন"
@@ -2326,10 +2218,6 @@
     "description": "Auto-generated translation for: Your video history will appear here.",
     "message": "আপনার ভিডিও ইতিহাস এখানে প্রদর্শিত হবে।"
   },
-  "v2_7bd5e7eb": {
-    "description": "Auto-generated translation for: Delete bookmark",
-    "message": "বুকমার্ক মুছুন"
-  },
   "v2_5a18785f": {
     "description": "Auto-generated translation for: Error Loading Bookmarks",
     "message": "বুকমার্ক লোড করতে ত্রুটি"
@@ -2341,14 +2229,6 @@
   "v2_31032720": {
     "description": "Auto-generated translation for: No Bookmarks Found",
     "message": "কোন বুকমার্ক পাওয়া যায়নি"
-  },
-  "v2_5490f12b": {
-    "description": "Auto-generated translation for: Your saved words and phrases will appear here.",
-    "message": "আপনার সংরক্ষিত শব্দ এবং বাক্যাংশ এখানে প্রদর্শিত হবে।"
-  },
-  "v2_05cdb6a9": {
-    "description": "Auto-generated translation for: Search bookmarks...",
-    "message": "বুকমার্ক সার্চ করুন..."
   },
   "v2_7323bd91": {
     "description": "Auto-generated translation for: Sign in to FluentAI",
@@ -2864,17 +2744,9 @@
     "description": "Auto-generated translation for: Pause on Word Hover",
     "message": "শব্দে হোভার করলে থামুন"
   },
-  "v2_2299c1b0": {
-    "description": "Auto-generated translation for: Pauses playback when you hover over a word for detailed exploration.",
-    "message": "কোনো শব্দে হোভার করলে বিস্তারিত জানার জন্য প্লেব্যাক থামিয়ে থামা।"
-  },
   "v2_072b3c6f": {
     "description": "Auto-generated translation for: Resume on Word Leave",
     "message": "ওয়ার্ডে জীবনে পুনরায় শুরু করুন"
-  },
-  "v2_01f95b31": {
-    "description": "Auto-generated translation for: Resumes playback when you move your cursor away from a word.",
-    "message": "আপনি যখন কোনো শব্দ থেকে আপনার কার্সার সরিয়ে নেবেন তখন এটি প্লেব্যাক আবার শুরু করবে।"
   },
   "v2_1b2feb34": {
     "description": "Auto-generated translation for: Limited daily usage",
@@ -3045,15 +2917,6 @@
   "v2_2f148466": {
     "description": "Auto-generated translation for: The passionate individuals behind FluentAI, revolutionizing language learning through innovative technology.",
     "message": "ফ্লুয়েন্টএআই-এর নেপথ্যে থাকা উদ্যমী ব্যক্তিরা, উদ্ভাবনী প্রযুক্তির মাধ্যমে ভাষা শিক্ষায় আনছেন বৈপ্লবিক পরিবর্তন।"
-  },
-  "v2_47f37a66": {
-    "description": "Auto-generated translation for: Previewing $preview_lines$ entries to import:",
-    "message": "আমদানি করার জন্য $preview_lines$ সংখ্যক এন্ট্রির পূর্বরূপ দেখা হচ্ছে:",
-    "placeholders": {
-      "preview_lines": {
-        "content": "$1"
-      }
-    }
   },
   "v2_00007b05": {
     "description": "Auto-generated translation for: Welcome back",
@@ -3354,14 +3217,6 @@
     "description": "Auto-generated translation for: Control your pace with playback modes designed for learning.",
     "message": "শেখার জন্য তৈরি প্লেব্যাক মোডগুলির সাহায্যে আপনার গতি নিয়ন্ত্রণ করুন।"
   },
-  "v2_3b9d428f": {
-    "description": "Auto-generated translation for: Languages Configuration",
-    "message": "ভাষা কনফিগারেশন"
-  },
-  "v2_41c91b63": {
-    "description": "Auto-generated translation for: Word Translation Tutorial",
-    "message": "শব্দ অনুবাদের টিউটোরিয়াল"
-  },
   "v2_48955299": {
     "description": "Auto-generated translation for: AI Translation",
     "message": "এআই অনুবাদ"
@@ -3433,26 +3288,6 @@
   "v2_0e5e4944": {
     "description": "Auto-generated translation for: This will open our feedback widget where you can send us your message, questions, or support requests.",
     "message": "এটি আমাদের ফিডব্যাক উইজেট খুলবে যেখানে আপনি আমাদের আপনার বার্তা, প্রশ্ন বা সাপোর্টের অনুরোধ পাঠাতে পারবেন।"
-  },
-  "v2_57f8cba7": {
-    "description": "Auto-generated translation for: Checking user session",
-    "message": "ব্যবহারকারীর সেশন যাচাই করা হচ্ছে"
-  },
-  "v2_67c7cbbd": {
-    "description": "Auto-generated translation for: Setting up tracks",
-    "message": "ট্র্যাক সেট আপ করা হচ্ছে"
-  },
-  "v2_55970b24": {
-    "description": "Auto-generated translation for: Initializing loops",
-    "message": "লুপ শুরু করা হচ্ছে"
-  },
-  "v2_0220ee1c": {
-    "description": "Auto-generated translation for: Setting up interface",
-    "message": "ইন্টারফেস সেট আপ করা হচ্ছে"
-  },
-  "v2_30991ea7": {
-    "description": "Auto-generated translation for: Setting up FluentAI",
-    "message": "ফ্লুয়েন্টএআই সেট আপ করা হচ্ছে"
   },
   "v2_705dfa57": {
     "description": "Auto-generated translation for: Request Assistance",
@@ -3842,14 +3677,6 @@
     "description": "Auto-generated translation for: Preparing...",
     "message": "প্রস্তুত হচ্ছে..."
   },
-  "v2_6bc24fe3": {
-    "description": "Auto-generated translation for: Speak Word on Hover",
-    "message": "হোভার করলে শব্দ শোনা যাবে"
-  },
-  "v2_6aa26046": {
-    "description": "Auto-generated translation for: Automatically pronounce words when you open the translation popup.",
-    "message": "আপনি যখন অনুবাদ পপআপ খুলবেন তখন স্বয়ংক্রিয়ভাবে শব্দ উচ্চারণ করুন।"
-  },
   "v2_40e79ef8": {
     "description": "Auto-generated translation for: Repeat Mode",
     "message": "পুনরাবৃত্তি মোড"
@@ -4066,18 +3893,6 @@
     "description": "Auto-generated translation for: Start Learning",
     "message": "শেখা শুরু করুন"
   },
-  "v2_3b39273f": {
-    "description": "Auto-generated translation for: Automatically resumes the video when leaving word hover.",
-    "message": "শব্দের উপর থেকে মাউস সরিয়ে নিলে ভিডিওটি স্বয়ংক্রিয়ভাবে আবার চালু হবে।"
-  },
-  "v2_4366f0e3": {
-    "description": "Auto-generated translation for: Automatically pauses the video when hovering over words.",
-    "message": "শব্দের উপর হোভার করার সময় স্বয়ংক্রিয়ভাবে ভিডিও থামে।"
-  },
-  "v2_14723a8b": {
-    "description": "Auto-generated translation for: Learning Features Configuration",
-    "message": "বৈশিষ্ট্য কনফিগারেশন শেখা"
-  },
   "v2_65d5236d": {
     "description": "Auto-generated translation for: Word Features",
     "message": "শব্দের বৈশিষ্ট্য"
@@ -4085,14 +3900,6 @@
   "v2_2546540c": {
     "description": "Auto-generated translation for: Keyboard Shortcuts",
     "message": "কীবোর্ড শর্টকাট"
-  },
-  "v2_74787f9e": {
-    "description": "Auto-generated translation for: Add spaces between words for languages that don't use spaces.",
-    "message": "যেসব ভাষায় স্থান ব্যবহৃত হয় না, সেগুলোর শব্দগুলোর মধ্যে স্থান যোগ করুন।"
-  },
-  "v2_415bcea8": {
-    "description": "Auto-generated translation for: Speaks the word aloud when the translation popup opens.",
-    "message": "অনুবাদ পপআপ খুললে শব্দটি জোরে উচ্চারণ করে।"
   },
   "v2_3677de40": {
     "description": "Auto-generated translation for: Show the translation for the subtitles list panel.",
@@ -4117,14 +3924,6 @@
   "v2_5e9db625": {
     "description": "Auto-generated translation for: Processing your audio for neural subtitles",
     "message": "আপনার অডিও নিউরাল সাবটাইটেলের জন্য প্রক্রিয়া করা হচ্ছে"
-  },
-  "v2_2adaa19e": {
-    "description": "Auto-generated translation for: Subtitle Panel List",
-    "message": "উপশিরোনাম প্যানেল তালিকা"
-  },
-  "v2_2328f98e": {
-    "description": "Auto-generated translation for: Display a side panel with all subtitles for easy navigation and review.",
-    "message": "সহজ নেভিগেশন ও পর্যালোচনার জন্য সকল সাবটাইটেলসহ একটি সাইড প্যানেল প্রদর্শন করুন।"
   },
   "v2_2b26d5bf": {
     "description": "Auto-generated translation for: Above the bar",
@@ -4214,10 +4013,6 @@
     "description": "Auto-generated translation for: Keyboard",
     "message": "কীবোর্ড"
   },
-  "v2_20470c92": {
-    "description": "Auto-generated translation for: Disable Neural Subtitles",
-    "message": "নিউরাল সাবটাইটেল নিষ্ক্রিয় করুন"
-  },
   "v2_63a80ad3": {
     "description": "Auto-generated translation for: Assigned key",
     "message": "নির্ধারিত কী"
@@ -4249,10 +4044,6 @@
   "v2_69333c39": {
     "description": "Auto-generated translation for: YouTube subtitles available",
     "message": "ইউটিউব সাবটাইটেল উপলব্ধ"
-  },
-  "v2_28d72bb3": {
-    "description": "Auto-generated translation for: Quickly configure learning features. You can change them anytime in settings.",
-    "message": "দ্রুত শেখার বৈশিষ্ট্যগুলি কনফিগার করুন। আপনি সেটিংসে যেকোনো সময় তাদের পরিবর্তন করতে পারেন।"
   },
   "v2_1a2819cc": {
     "description": "Auto-generated translation for: Navigation",
@@ -4530,10 +4321,6 @@
     "description": "Auto-generated translation for: Supported Platforms",
     "message": "সমর্থিত প্ল্যাটফর্ম"
   },
-  "v2_3a61d5a4": {
-    "description": "Auto-generated translation for: Please select a word first by clicking or hovering over it",
-    "message": "অনুগ্রহ করে প্রথমে ক্লিক করে বা এর উপর হোভার করে একটি শব্দ নির্বাচন করুন"
-  },
   "v2_18f423de": {
     "description": "Auto-generated translation for: No video found",
     "message": "কোনো ভিডিও পাওয়া যায়নি"
@@ -4597,10 +4384,6 @@
   "v2_6460648d": {
     "description": "Auto-generated translation for: to see instant translations",
     "message": "তাৎক্ষণিক অনুবাদ দেখতে"
-  },
-  "v2_0e8caf3c": {
-    "description": "Auto-generated translation for: for detailed word analysis and information",
-    "message": "বিশদ শব্দ বিশ্লেষণ এবং তথ্যের জন্য"
   },
   "v2_503b541d": {
     "description": "Auto-generated translation for: Select multiple words",
@@ -4678,26 +4461,6 @@
     "description": "Auto-generated translation for: Resets in",
     "message": "রিসেট করা হবে"
   },
-  "v2_4d1b86d1": {
-    "description": "Auto-generated translation for: Checking subscription status",
-    "message": "সাবস্ক্রিপশন স্থিতি পরীক্ষা করা হচ্ছে"
-  },
-  "v2_2874ef0f": {
-    "description": "Auto-generated translation for: Checking onboarding status",
-    "message": "অনবোর্ডিং স্থিতি পরীক্ষা করা হচ্ছে"
-  },
-  "v2_0aa2c1c3": {
-    "description": "Auto-generated translation for: Fetching text tracks",
-    "message": "টেক্সট ট্র্যাক আনা হচ্ছে"
-  },
-  "v2_6531d18a": {
-    "description": "Auto-generated translation for: Initializing settings",
-    "message": "সেটিংস চালু হচ্ছে"
-  },
-  "v2_1ebb520c": {
-    "description": "Auto-generated translation for: Applying video settings",
-    "message": "ভিডিও সেটিংস প্রয়োগ করা হচ্ছে"
-  },
   "v2_60edc1ee": {
     "description": "Auto-generated translation for: Generate AI Subtitles",
     "message": "এআই সাবটাইটেল তৈরি করুন"
@@ -4722,10 +4485,6 @@
     "description": "Auto-generated translation for: Playback Mode",
     "message": "প্লেব্যাক মোড"
   },
-  "v2_0011f408": {
-    "description": "Auto-generated translation for: Choose how subtitles affect playback",
-    "message": "সাবটাইটেলগুলি প্লেব্যাককে কীভাবে প্রভাবিত করে তা চয়ন করুন"
-  },
   "v2_54604014": {
     "description": "Auto-generated translation for: Text-to-Speech",
     "message": "টেক্সট-টু-স্পিচ"
@@ -4737,10 +4496,6 @@
   "v2_40e44961": {
     "description": "Auto-generated translation for: Repeat Type",
     "message": "পুনরাবৃত্তি টাইপ করুন"
-  },
-  "v2_14049c22": {
-    "description": "Auto-generated translation for: Choose how to repeat each subtitle",
-    "message": "প্রতিটি উপশিরোনাম কীভাবে পুনরাবৃত্তি করবেন তা চয়ন করুন"
   },
   "v2_2367164a": {
     "description": "Auto-generated translation for: Repeat Count",
@@ -5805,10 +5560,6 @@
       }
     }
   },
-  "v2_70abeef9": {
-    "description": "Auto-generated translation for: No word found to pronounce",
-    "message": "উচ্চারণ করার জন্য কোনো শব্দ পাওয়া যায়নি"
-  },
   "v2_25749bd6": {
     "description": "Auto-generated translation for: Unselect All",
     "message": "সবগুলি অনির্বাচন করুন"
@@ -5836,10 +5587,6 @@
   "v2_2e0e0805": {
     "description": "Auto-generated translation for: Languages",
     "message": "ভাষা"
-  },
-  "v2_4dc00fae": {
-    "description": "Auto-generated translation for: Learning Modes",
-    "message": "শিক্ষার ধরন"
   },
   "v2_6bc27afe": {
     "description": "Auto-generated translation for: Styles",
@@ -6092,18 +5839,6 @@
     "description": "Auto-generated translation for: Shows a popup to manually merge words into phrases and expressions.",
     "message": "শব্দগুলিকে নিজে থেকে বাক্যাংশ এবং এক্সপ্রেশনে মার্জ করার জন্য একটি পপআপ দেখায়।"
   },
-  "v2_2f287990": {
-    "description": "Auto-generated translation for: Shows a popup to manually merge words into phrases.",
-    "message": "ফ্রেজ তৈরি করতে ম্যানুয়ালি শব্দ মার্জ করার জন্য একটি পপআপ দেখায়।"
-  },
-  "v2_76acec5a": {
-    "description": "Auto-generated translation for: Shows how each word in your learning language corresponds to your native language.",
-    "message": "এটি দেখায় কিভাবে আপনার শেখার ভাষার প্রতিটি শব্দ আপনার মাতৃভাষার সাথে মিলে যায়।"
-  },
-  "v2_12b2f306": {
-    "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal.",
-    "message": "প্ল্যাটফর্ম-প্রদত্ত সাবটাইটেল উপলব্ধ থাকলে সেগুলিকে অগ্রাধিকার দিন। যদি তা না হয়, FluentAI বিদ্যমান সাবটাইটেলগুলি অনুবাদ করবে। ভিডিও সাবটাইটেলগুলি আরও সাবলীল (অর্থ-চালিত), যেখানে যন্ত্র অনুবাদ আরও আক্ষরিক হয়।"
-  },
   "v2_6c783532": {
     "description": "Auto-generated translation for: AI Text-to-Speech Volume",
     "message": "এআই টেক্সট-টু-স্পিচ ভলিউম"
@@ -6196,10 +5931,6 @@
     "description": "Auto-generated translation for: Display the dictionary form above bookmarked words in subtitles",
     "message": "সাবটাইটেলে বুকমার্ক করা শব্দের উপরে অভিধান ফর্ম প্রদর্শন করুন"
   },
-  "v2_041e3b6a": {
-    "description": "Auto-generated translation for: Highlights words as spoken.",
-    "message": "বলা অনুযায়ী শব্দ হাইলাইট করুন।"
-  },
   "v2_0f3410c0": {
     "description": "Auto-generated translation for: This video doesn't have word timestamps",
     "message": "এই ভিডিওটিতে শব্দের টাইমস্ট্যাম্প নেই"
@@ -6219,10 +5950,6 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "বেস ফর্ম দৃশ্যমানতা"
-  },
-  "v2_0fca6ffb": {
-    "description": "Auto-generated translation for: Queued...",
-    "message": "সারিভুক্ত..."
   },
   "v2_39e97037": {
     "description": "Auto-generated translation for: Extracting audio...",
@@ -6711,18 +6438,6 @@
     "description": "Auto-generated translation for: Choose how you want to add subtitles to your video",
     "message": "আপনি আপনার ভিডিওতে কীভাবে সাবটাইটেল যোগ করতে চান তা নির্বাচন করুন"
   },
-  "v2_461d3fee": {
-    "description": "Auto-generated translation for: Upload a .srt or .vtt file",
-    "message": "একটি .srt অথবা .vtt ফাইল আপলোড করুন"
-  },
-  "v2_18d948be": {
-    "description": "Auto-generated translation for: Create neural subtitles",
-    "message": "নিউরল সাবটাইটেল তৈরি করুন"
-  },
-  "v2_6bad0b0e": {
-    "description": "Auto-generated translation for: Neural subtitles are not yet available",
-    "message": "নিউরাল সাবটাইটেল এখনো পাওয়া যাচ্ছে না"
-  },
   "v2_0cdb031a": {
     "description": "Auto-generated translation for: Coming soon",
     "message": "শীঘ্রই আসছে"
@@ -6734,26 +6449,6 @@
   "v2_25d7795d": {
     "description": "Auto-generated translation for: An error occurred during transcription",
     "message": "ট্রান্সক্রিপশনের সময় একটি ত্রুটি ঘটেছে"
-  },
-  "v2_3a059b20": {
-    "description": "Auto-generated translation for: Import New Video",
-    "message": "নতুন ভিডিও ইম্পোর্ট করুন"
-  },
-  "v2_6c53c554": {
-    "description": "Auto-generated translation for: Play local video files with FluentAI subtitles and interactive learning features.",
-    "message": "FluentAI সাবটাইটেল এবং ইন্টারেক্টিভ লার্নিং বৈশিষ্ট্য সহ স্থানীয় ভিডিও ফাইল চালান।"
-  },
-  "v2_7ca54576": {
-    "description": "Auto-generated translation for: Local Player",
-    "message": "স্থানীয় খেলোয়াড়"
-  },
-  "v2_53066e84": {
-    "description": "Auto-generated translation for: Import Video File",
-    "message": "\"ভিডিও ফাইল আমদানি করুন\""
-  },
-  "v2_56a0a959": {
-    "description": "Auto-generated translation for: Select a local video file to get started",
-    "message": "শুরু করতে একটি স্থানীয় ভিডিও ফাইল নির্বাচন করুন"
   },
   "v2_4775d762": {
     "description": "Auto-generated translation for: Failed to import subtitles",
@@ -6770,10 +6465,6 @@
   "v2_4f4ab581": {
     "description": "Auto-generated translation for: Please set your learning language in settings before creating neural subtitles",
     "message": "নিউরাল সাবটাইটেল তৈরি করার আগে অনুগ্রহ করে আপনার শেখার ভাষা সেটিংস-এ সেট করুন"
-  },
-  "v2_4050988e": {
-    "description": "Auto-generated translation for: Neural transcription started",
-    "message": "নিউরল ট্রান্সক্রিপশন শুরু হয়েছে"
   },
   "v2_7c1bf627": {
     "description": "Auto-generated translation for: An unexpected error occurred",
@@ -6907,14 +6598,6 @@
     "description": "Auto-generated translation for: Failed to delete EPUB: ",
     "message": "EPUB মুছতে ব্যর্থ:"
   },
-  "v2_45505288": {
-    "description": "Auto-generated translation for: Read and learn from your EPUB books",
-    "message": "আপনার EPUB বইগুলো পড়ুন এবং শিখুন"
-  },
-  "v2_56305e75": {
-    "description": "Auto-generated translation for: EPUB Reader",
-    "message": "\"ইপিইউবি রিডার\""
-  },
   "v2_3b0f50f1": {
     "description": "Auto-generated translation for: Are you sure you want to delete this EPUB? This action cannot be undone.",
     "message": "আপনি কি নিশ্চিত যে আপনি এই EPUB ফাইলটি মুছে ফেলতে চান? এই কাজটি পূর্বাবস্থায় ফেরানো যাবে না।"
@@ -6930,10 +6613,6 @@
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
     "message": "সহজ অ্যাক্সেস এবং অধ্যয়নের জন্য আপনার সংরক্ষিত শব্দ এবং শব্দগুচ্ছগুলিকে কাস্টম তালিকায় সংগঠিত করুন।"
-  },
-  "v2_5f364956": {
-    "description": "Auto-generated translation for: Loading list details...",
-    "message": "তালিকা বিবরণ লোড হচ্ছে..."
   },
   "v2_4bfb9f13": {
     "description": "Auto-generated translation for: List not found",
@@ -7100,10 +6779,6 @@
   "v2_47531d14": {
     "description": "Auto-generated translation for: AI subtitles are ready.",
     "message": "এআই সাবটাইটেল প্রস্তুত।"
-  },
-  "v2_73da36c5": {
-    "description": "Auto-generated translation for: AI subtitle generation started.",
-    "message": "এআই সাবটাইটেল তৈরি শুরু হয়েছে।"
   },
   "v2_0b50491d": {
     "description": "Auto-generated translation for: Failed to start neural transcription.",
@@ -7535,14 +7210,6 @@
     "description": "Auto-generated translation for: Neural transcription failed",
     "message": "নিউরল ট্রান্সক্রিপশন ব্যর্থ হয়েছে"
   },
-  "v2_69b99a0d": {
-    "description": "Auto-generated translation for: Resources controller not available",
-    "message": "রিসোর্স কন্ট্রোলার পাওয়া যাচ্ছে না"
-  },
-  "v2_620d4c2c": {
-    "description": "Auto-generated translation for: Failed to get video ID",
-    "message": "ভিডিও আইডি পেতে ব্যর্থ"
-  },
   "v2_59f15ff2": {
     "description": "Auto-generated translation for: File size (${fileSizeGB}GB) exceeds the maximum limit of 2GB for AI subtitles",
     "message": "ফাইলের আকার (${fileSizeGB}GB) এআই সাবটাইটেলের জন্য সর্বোচ্চ সীমা 2GB অতিক্রম করেছে",
@@ -7551,10 +7218,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_36c7c19a": {
-    "description": "Auto-generated translation for: Video Player",
-    "message": "\"ভিডিও প্লেয়ার\""
   },
   "v2_12bbb012": {
     "description": "Auto-generated translation for: Please upload a valid video or audio file",
@@ -8230,10 +7893,6 @@
       }
     }
   },
-  "v2_06c6a29f": {
-    "description": "Auto-generated translation for: Word Merging Tutorial",
-    "message": "শব্দ একত্রীকরণ টিউটোরিয়াল"
-  },
   "v2_0e50fa86": {
     "description": "Auto-generated translation for: Word Status & Bookmarking",
     "message": "শব্দের অবস্থা ও বুকমার্কিং"
@@ -8246,45 +7905,9 @@
     "description": "Auto-generated translation for: Learn how to save words and manage their learning status with status icons.",
     "message": "স্ট্যাটাস আইকনের সাহায্যে শব্দ সংরক্ষণ করা এবং সেগুলোর শেখার অবস্থা পরিচালনা করার উপায় জানুন।"
   },
-  "v2_06daa183": {
-    "description": "Auto-generated translation for: Words you're actively learning",
-    "message": "যে শব্দগুলো আপনি সক্রিয়ভাবে শিখছেন"
-  },
-  "v2_49c26fad": {
-    "description": "Auto-generated translation for: Words you've mastered",
-    "message": "আপনি যে শব্দগুলো আয়ত্ত করেছেন"
-  },
-  "v2_7b5c86f4": {
-    "description": "Auto-generated translation for: Words you want to skip",
-    "message": "যে শব্দগুলো বাদ দিতে চান"
-  },
-  "v2_549e8840": {
-    "description": "Auto-generated translation for: Right-click words",
-    "message": "শব্দে ডান-ক্লিক করুন"
-  },
-  "v2_7e289ca5": {
-    "description": "Auto-generated translation for: to add to notebook or cycle status",
-    "message": "নোটবুক বা সাইকেল স্ট্যাটাসে যোগ করতে"
-  },
-  "v2_17e0d6d1": {
-    "description": "Auto-generated translation for: Click status icon",
-    "message": "স্ট্যাটাস আইকনে ক্লিক করুন"
-  },
-  "v2_62f765a6": {
-    "description": "Auto-generated translation for: to cycle through statuses",
-    "message": "স্ট্যাটাসগুলির মাধ্যমে চক্রাকারভাবে পরিবর্তন করতে"
-  },
-  "v2_2417f439": {
-    "description": "Auto-generated translation for: to merge into phrases",
-    "message": "বাক্যাংশে মার্জ করতে"
-  },
   "v2_4dcac02e": {
     "description": "Auto-generated translation for: Click merge button",
     "message": "একত্রীকরণ বোতামে ক্লিক করুন"
-  },
-  "v2_5ae40df8": {
-    "description": "Auto-generated translation for: to combine words into expressions",
-    "message": "শব্দগুলোকে অভিব্যক্তি হিসেবে একত্রিত করতে"
   },
   "v2_20c7065e": {
     "description": "Auto-generated translation for: Earn 20% recurring revenue from every subscriber you bring.",
@@ -8339,10 +7962,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_57def5c4": {
-    "description": "Auto-generated translation for: Generate subtitles with AI.",
-    "message": "এআই দিয়ে সাবটাইটেল তৈরি করুন।"
   },
   "v2_4559a29d": {
     "description": "Auto-generated translation for: Language learning App for Netflix,<br>YouTube, Amazon Prime, and Disney Plus.",
@@ -8595,10 +8214,6 @@
     "description": "Auto-generated translation for: Failed to archive word",
     "message": "শব্দ সংরক্ষণ করা যায়নি"
   },
-  "v2_7255de43": {
-    "description": "Auto-generated translation for: Unknown - Click to mark as Learning",
-    "message": "অজানা - শেখা হিসেবে চিহ্নিত করতে ক্লিক করুন"
-  },
   "v2_6d7efa68": {
     "description": "Auto-generated translation for: Click to mark as {status}",
     "message": "{status} হিসেবে চিহ্নিত করতে ক্লিক করুন",
@@ -8651,14 +8266,6 @@
   "v2_422887b4": {
     "description": "Auto-generated translation for: Bookmark Word",
     "message": "শব্দ বুকমার্ক করুন"
-  },
-  "v2_02fc98dc": {
-    "description": "Auto-generated translation for: Text-to-speech is not configured. Please configure it in settings.",
-    "message": "টেক্সট-টু-স্পিচ কনফিগার করা নেই। অনুগ্রহ করে সেটিংসে কনফিগার করুন।"
-  },
-  "v2_008b3b33": {
-    "description": "Auto-generated translation for: Failed to update word status",
-    "message": "শব্দের অবস্থা আপডেট করা যায়নি"
   },
   "v2_13166391": {
     "description": "Auto-generated translation for: Language Learning Guides",
@@ -8852,17 +8459,9 @@
     "description": "Auto-generated translation for: Restart playback when leaving a word.",
     "message": "একটি শব্দ ছাড়ার সময় প্লেব্যাক পুনরায় শুরু করুন।"
   },
-  "v2_662e93b6": {
-    "description": "Auto-generated translation for: Advanced playback mode settings (configured in extension).",
-    "message": "উন্নত প্লেব্যাক মোড সেটিংস (এক্সটেনশনে কনফিগার করা হয়েছে)।"
-  },
   "v2_29fea828": {
     "description": "Auto-generated translation for: Playback Modes Settings",
     "message": "প্লেব্যাক মোড সেটিংস"
-  },
-  "v2_3585e6e2": {
-    "description": "Auto-generated translation for: Complex settings - configure in extension",
-    "message": "জটিল সেটিংস - এক্সটেনশনে কনফিগার করুন"
   },
   "v2_094a82ca": {
     "description": "Auto-generated translation for: Choose color for light mode",
@@ -9195,5 +8794,653 @@
         "content": "$1"
       }
     }
+  },
+  "v2_6aa54514": {
+    "description": "Auto-generated translation for: Invalid timed segments received from transcription service.",
+    "message": "ট্রান্সক্রিপশন পরিষেবা থেকে অবৈধ সময়োচিত সেগমেন্টগুলি প্রাপ্ত হয়েছে৷"
+  },
+  "v2_3865beea": {
+    "description": "Auto-generated translation for: No valid timed segments found in transcription response.",
+    "message": "ট্রান্সক্রিপশন প্রতিক্রিয়াতে কোনো বৈধ সময়যুক্ত অংশ খুঁজে পাওয়া যায়নি।"
+  },
+  "v2_3055b6cc": {
+    "description": "Auto-generated translation for: Need help?",
+    "message": "সাহায্য দরকার?"
+  },
+  "v2_55952cf5": {
+    "description": "Auto-generated translation for: Email Support",
+    "message": "ইমেল সহায়তা"
+  },
+  "v2_7307d836": {
+    "description": "Auto-generated translation for: Join Discord",
+    "message": "ডিসকর্ডে যোগ দিন"
+  },
+  "v2_20e30018": {
+    "description": "Auto-generated translation for: Not bookmarked - Click to add to Learning",
+    "message": "বুকমার্ক করা হয়নি - শেখার জন্য ক্লিক করুন"
+  },
+  "v2_6578cf4f": {
+    "description": "Auto-generated translation for: Failed to initialize settings",
+    "message": "সেটিংস শুরু করতে ব্যর্থ হয়েছে"
+  },
+  "v2_1e310648": {
+    "description": "Auto-generated translation for: Unarchiving...",
+    "message": "আর্কাইভ থেকে পুনরুদ্ধার করা হচ্ছে..."
+  },
+  "v2_4f1cfc17": {
+    "description": "Auto-generated translation for: Unarchive",
+    "message": "আর্কাইভমুক্ত করুন"
+  },
+  "v2_1f123be3": {
+    "description": "Auto-generated translation for: Failed to load lists",
+    "message": "তালিকা লোড করা যায়নি"
+  },
+  "v2_5d5c4609": {
+    "description": "Auto-generated translation for: Export failed",
+    "message": "রপ্তানি ব্যর্থ হয়েছে"
+  },
+  "v2_14586536": {
+    "description": "Auto-generated translation for: Word unarchived successfully",
+    "message": "শব্দ সফলভাবে সংরক্ষণাগারভুক্ত করা হয়েছে"
+  },
+  "v2_4b14d7dd": {
+    "description": "Auto-generated translation for: {{count}} words archived successfully",
+    "message": "{{count}}টি শব্দ সফলভাবে আর্কাইভ করা হয়েছে",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6648bb1c": {
+    "description": "Auto-generated translation for: {{count}} words unarchived successfully",
+    "message": "$count$টি শব্দ সফলভাবে পুনরুদ্ধার করা হয়েছে",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_53a5cdc1": {
+    "description": "Auto-generated translation for: {{successes}} of {{total}} words processed",
+    "message": "{{total}}টি শব্দের মধ্যে {{successes}}টি শব্দ প্রক্রিয়াকৃত হয়েছে",
+    "placeholders": {
+      "successes": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_0345d5b7": {
+    "description": "Auto-generated translation for: Failed to archive words",
+    "message": "শব্দ আর্কাইভ করা যায়নি"
+  },
+  "v2_3babc2d8": {
+    "description": "Auto-generated translation for: Bookmark deleted successfully",
+    "message": "বুকমার্ক সফলভাবে মুছে ফেলা হয়েছে"
+  },
+  "v2_1153c2f7": {
+    "description": "Auto-generated translation for: Failed to delete bookmark",
+    "message": "বুকমার্ক মোছা যায়নি"
+  },
+  "v2_3f1b9ebe": {
+    "description": "Auto-generated translation for: {{count}} bookmarks deleted successfully",
+    "message": "{{count}}টি বুকমার্ক সফলভাবে মুছে ফেলা হয়েছে",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2fbf21a0": {
+    "description": "Auto-generated translation for: {{successes}} of {{total}} bookmarks deleted",
+    "message": "{{total}}টি বুকমার্কের মধ্যে {{successes}}টি মুছে ফেলা হয়েছে",
+    "placeholders": {
+      "successes": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_19249b76": {
+    "description": "Auto-generated translation for: Failed to delete bookmarks",
+    "message": "বুকমার্কগুলি মোছা যায়নি"
+  },
+  "v2_0be92afb": {
+    "description": "Auto-generated translation for: Clear search",
+    "message": "অনুসন্ধান পরিষ্কার করুন"
+  },
+  "v2_25b55d29": {
+    "description": "Auto-generated translation for: Event-driven",
+    "message": "ইভেন্ট-চালিত"
+  },
+  "v2_4a90129b": {
+    "description": "Auto-generated translation for: Word Translation",
+    "message": "শব্দের অনুবাদ"
+  },
+  "v2_782e37df": {
+    "description": "Auto-generated translation for: Word Merging",
+    "message": "শব্দ একত্রীকরণ"
+  },
+  "v2_52e1d382": {
+    "description": "Auto-generated translation for: Configure word-related features like hover actions, merging, and pronunciation.",
+    "message": "শব্দ-সম্পর্কিত বৈশিষ্ট্য যেমন হোভার অ্যাকশন, মার্জিং এবং উচ্চারণ কনফিগার করুন।"
+  },
+  "v2_4b5b25c2": {
+    "description": "Auto-generated translation for: Configure playback modes and how videos pause, repeat, or play continuously.",
+    "message": "প্লেব্যাক মোড কনফিগার করুন এবং ভিডিওগুলি কীভাবে পজ হবে, পুনরাবৃত্তি হবে বা ক্রমাগত চলবে।"
+  },
+  "v2_14166404": {
+    "description": "Auto-generated translation for: Configure subtitle display, transliteration, and subtitle behavior options.",
+    "message": "সাবটাইটেল প্রদর্শন, প্রতিবর্ণীকরণ এবং সাবটাইটেল আচরণ বিকল্পগুলি কনফিগার করুন।"
+  },
+  "v2_62d278ed": {
+    "description": "Auto-generated translation for: Configure subtitle list panel settings and translation display options.",
+    "message": "সাবটাইটেল তালিকা প্যানেলের সেটিংস এবং অনুবাদের প্রদর্শন বিকল্পগুলি কনফিগার করুন।"
+  },
+  "v2_6adcfe0a": {
+    "description": "Auto-generated translation for: Show dictionary form above bookmarked words",
+    "message": "বুকমার্ক করা শব্দের উপরে ডিকশনারি ফর্ম দেখান"
+  },
+  "v2_0e3c0ac0": {
+    "description": "Auto-generated translation for: Pause video when hovering over words",
+    "message": "শব্দের উপর হোভার করলে ভিডিও থেমো যাবে"
+  },
+  "v2_52e05400": {
+    "description": "Auto-generated translation for: Resume video when leaving word hover",
+    "message": "শব্দ হোভার ছেড়ে যাওয়ার সময় ভিডিও আবার শুরু করুন"
+  },
+  "v2_33bcd467": {
+    "description": "Auto-generated translation for: Show popup to merge words into phrases",
+    "message": "শব্দগুলিকে বাক্যাংশে মার্জ করার পপআপ দেখান"
+  },
+  "v2_5697ee78": {
+    "description": "Auto-generated translation for: Speak word when translation popup opens",
+    "message": "অনুবাদ পপ-আপ খুললে কথা বলুন"
+  },
+  "v2_02e4a8a3": {
+    "description": "Auto-generated translation for: Adjust the size of learning subtitle text",
+    "message": "লেখার সাবটাইটেলের আকার সামঞ্জস্য করুন"
+  },
+  "v2_592050ea": {
+    "description": "Auto-generated translation for: Adjust the size of native subtitle text",
+    "message": "স্থানীয় সাবটাইটেল লেখার আকার সমন্বয় করুন"
+  },
+  "v2_6cccbdc6": {
+    "description": "Auto-generated translation for: Choose your preferred theme",
+    "message": "আপনার পছন্দের থিমটি বেছে নিন"
+  },
+  "v2_0795e107": {
+    "description": "Auto-generated translation for: Choose how bookmarks are displayed",
+    "message": "বুকমার্কগুলি কীভাবে প্রদর্শিত হবে তা নির্বাচন করুন"
+  },
+  "v2_6fd9f851": {
+    "description": "Auto-generated translation for: Choose the color for bookmarks",
+    "message": "বুকমার্কের জন্য রঙ নির্বাচন করুন"
+  },
+  "v2_152ee719": {
+    "description": "Auto-generated translation for: Show subtitles in learning language",
+    "message": "শেখার ভাষায় সাবটাইটেল দেখান"
+  },
+  "v2_3003134e": {
+    "description": "Auto-generated translation for: Show subtitles in native language",
+    "message": "স্থানীয় ভাষায় সাবটাইটেল দেখান"
+  },
+  "v2_0c0fb817": {
+    "description": "Auto-generated translation for: Prefer platform subtitles over translations when available",
+    "message": "উপলভ্য থাকলে অনুবাদগুলির চেয়ে প্ল্যাটফর্মের সাবটাইটেলগুলিকে বেশি পছন্দ করুন"
+  },
+  "v2_50357167": {
+    "description": "Auto-generated translation for: Show phonetic pronunciation in Latin characters",
+    "message": "ল্যাটিন অক্ষরে ধ্বনিগত উচ্চারণ দেখান"
+  },
+  "v2_575aebba": {
+    "description": "Auto-generated translation for: Transliteration type for words and sentences",
+    "message": "শব্দ এবং বাক্যের জন্য প্রতিবর্ণীকরণ প্রকার"
+  },
+  "v2_52a6c6c5": {
+    "description": "Auto-generated translation for: Hide subtitle until hover to reveal content",
+    "message": "বিষয়বস্তু প্রকাশ করতে হোভার না করা পর্যন্ত সাবটাইটেল লুকান"
+  },
+  "v2_562a105c": {
+    "description": "Auto-generated translation for: Highlight words as they are being spoken",
+    "message": "বলা হওয়ার সাথে সাথে শব্দ হাইলাইট করুন"
+  },
+  "v2_0c7317ce": {
+    "description": "Auto-generated translation for: Show word correspondence between learning and native languages",
+    "message": "শেখার এবং স্থানীয় ভাষার মধ্যে শব্দ মিল দেখান"
+  },
+  "v2_2a5674f9": {
+    "description": "Auto-generated translation for: for detailed word analysis",
+    "message": "শব্দের বিস্তারিত বিশ্লেষণের জন্য"
+  },
+  "v2_7ef58ec9": {
+    "description": "Auto-generated translation for: Show scrollable panel with all subtitles for navigation",
+    "message": "নেভিগেশনের জন্য সমস্ত সাবটাইটেল-সহ স্ক্রোলযোগ্য প্যানেল দেখান"
+  },
+  "v2_17bb67f6": {
+    "description": "Auto-generated translation for: Show translations in subtitle list panel",
+    "message": "সাবটাইটেল তালিকা প্যানেলে অনুবাদগুলি দেখান"
+  },
+  "v2_127e261e": {
+    "description": "Auto-generated translation for: to merge words into phrases",
+    "message": "শব্দগুলিকে বাক্যাংশে একত্রিত করতে"
+  },
+  "v2_11ee721f": {
+    "description": "Auto-generated translation for: to combine into expressions",
+    "message": "অভিব্যক্তিতে একত্রিত করা"
+  },
+  "v2_0c1214a9": {
+    "description": "Auto-generated translation for: Right-click once or click icon to set as learning and add to notebook",
+    "message": "অধ্যায়ন হিসেবে সেট করতে এবং নোটবুকে যোগ করতে একবার ডান-ক্লিক করুন অথবা আইকনে ক্লিক করুন"
+  },
+  "v2_77979a7b": {
+    "description": "Auto-generated translation for: Right-click twice or click icon to set as learned in notebook",
+    "message": "নোটবুক-এ শেখা হিসেবে সেট করতে দু'বার রাইট-ক্লিক করুন অথবা আইকনে ক্লিক করুন"
+  },
+  "v2_5e68e2c2": {
+    "description": "Auto-generated translation for: Click icon in word popup to skip and ignore words",
+    "message": "শব্দ পপআপে আইকনে ক্লিক করে শব্দগুলি এড়িয়ে যান এবং উপেক্ষা করুন"
+  },
+  "v2_304a1295": {
+    "description": "Auto-generated translation for: Basic Mode",
+    "message": "সাধারণ মোড"
+  },
+  "v2_21c87bb4": {
+    "description": "Auto-generated translation for: Pause automatically after each subtitle",
+    "message": "প্রতিটি সাবটাইটেলের পরে স্বয়ংক্রিয়ভাবে থামুন"
+  },
+  "v2_2dca98f5": {
+    "description": "Auto-generated translation for: AI voice repeats the subtitle",
+    "message": "এআই ভয়েস সাবটাইটেল পুনরাবৃত্তি করে"
+  },
+  "v2_345b7b6e": {
+    "description": "Auto-generated translation for: The scene itself repeats",
+    "message": "দৃশ্যটি নিজেই পুনরাবৃত্তি করে"
+  },
+  "v2_09d2688b": {
+    "description": "Auto-generated translation for: Number of times to repeat each subtitle",
+    "message": "প্রতিটি উপশিরোনাম কতবার পুনরাবৃত্তি করবে"
+  },
+  "v2_687c2d50": {
+    "description": "Auto-generated translation for: Delay before automatically resuming playback",
+    "message": "স্বয়ংক্রিয়ভাবে প্লেব্যাক আবার শুরুর আগে বিলম্ব"
+  },
+  "v2_09a463d0": {
+    "description": "Auto-generated translation for: Resume Delay",
+    "message": "জীবনবৃত্তান্ত বিলম্ব"
+  },
+  "v2_3c571daf": {
+    "description": "Auto-generated translation for: Checking User",
+    "message": "ব্যবহারকারী যাচাই করা হচ্ছে"
+  },
+  "v2_354469a3": {
+    "description": "Auto-generated translation for: Checking Subscription",
+    "message": "সাবস্ক্রিপশন চেক করা হচ্ছে"
+  },
+  "v2_66994fdf": {
+    "description": "Auto-generated translation for: Checking Onboarding",
+    "message": "অনবোর্ডিং পরীক্ষা করা হচ্ছে"
+  },
+  "v2_377155c3": {
+    "description": "Auto-generated translation for: Fetching Text Tracks",
+    "message": "টেক্সট ট্র্যাক আনা হচ্ছে"
+  },
+  "v2_5ed3b4e2": {
+    "description": "Auto-generated translation for: Fetching Source Track",
+    "message": "সোর্স ট্র্যাক আনা হচ্ছে"
+  },
+  "v2_76661423": {
+    "description": "Auto-generated translation for: Fetching Subtitles",
+    "message": "সাবটাইটেলগুলি আনা হচ্ছে"
+  },
+  "v2_61576d6a": {
+    "description": "Auto-generated translation for: Initializing Settings",
+    "message": "সেটিংস চালু করা হচ্ছে"
+  },
+  "v2_7f59b9cd": {
+    "description": "Auto-generated translation for: Checking Maintenance",
+    "message": "রক্ষণাবেক্ষণ পরীক্ষা করা হচ্ছে"
+  },
+  "v2_569a21cc": {
+    "description": "Auto-generated translation for: Applying Video Settings",
+    "message": "ভিডিও সেটিংস প্রয়োগ করা হচ্ছে"
+  },
+  "v2_57612843": {
+    "description": "Auto-generated translation for: Setting Up Tracks",
+    "message": "ট্র্যাক সেট আপ করা হচ্ছে"
+  },
+  "v2_5759fb44": {
+    "description": "Auto-generated translation for: Initializing Loops",
+    "message": "লুপ শুরু হচ্ছে"
+  },
+  "v2_7d6a9029": {
+    "description": "Auto-generated translation for: Setting Up UI",
+    "message": "UI সেট আপ করা হচ্ছে"
+  },
+  "v2_4e872308": {
+    "description": "Auto-generated translation for: Logging in...",
+    "message": "লগ ইন করা হচ্ছে..."
+  },
+  "v2_79ba4b9b": {
+    "description": "Auto-generated translation for: Disable AI Subtitles",
+    "message": "এআই সাবটাইটেল নিষ্ক্রিয় করুন"
+  },
+  "v2_08200e98": {
+    "description": "Auto-generated translation for: Highlights words as spoken",
+    "message": "বলা অনুযায়ী শব্দ হাইলাইট করে"
+  },
+  "v2_1eec85ba": {
+    "description": "Auto-generated translation for: Speaks the word aloud when the translation popup opens",
+    "message": "অনুবাদ পপআপ খুললে শব্দটি জোরে উচ্চারণ করে"
+  },
+  "v2_547db6f3": {
+    "description": "Auto-generated translation for: Automatically resumes the video when leaving word hover",
+    "message": "শব্দের উপর থেকে মাউস সরানোর পর স্বয়ংক্রিয়ভাবে ভিডিও আবার শুরু হয়"
+  },
+  "v2_79b25b55": {
+    "description": "Auto-generated translation for: Automatically pauses the video when hovering over words",
+    "message": "শব্দের উপর হোভার করার সময় স্বয়ংক্রিয়ভাবে ভিডিও থামিয়ে দেয়"
+  },
+  "v2_3311d25e": {
+    "description": "Auto-generated translation for: Shows a popup to manually merge words into phrases",
+    "message": "ফ্রেজে শব্দ ম্যানুয়ালি মার্জ করার জন্য একটি পপআপ দেখায়"
+  },
+  "v2_74375228": {
+    "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal",
+    "message": "প্ল্যাটফর্ম-প্রদত্ত সাবটাইটেল উপলব্ধ থাকলে সেগুলিকে অগ্রাধিকার দিন। অন্যথায়, FluentAI বিদ্যমান সাবটাইটেলগুলি অনুবাদ করে। ভিডিও সাবটাইটেলগুলি আরও স্বাভাবিক (অর্থ-ভিত্তিক), যেখানে যন্ত্র অনুবাদ আরও আক্ষরিক।"
+  },
+  "v2_498c8dd9": {
+    "description": "Auto-generated translation for: Adjust the volume of interface sound effects",
+    "message": "ইন্টারফেস সাউন্ড ইফেক্টের ভলিউম অ্যাডজাস্ট করুন"
+  },
+  "v2_57e3e40b": {
+    "description": "Auto-generated translation for: Adjust the volume of AI-generated speech",
+    "message": "এআই-জেনারেটেড স্পিচের ভলিউম অ্যাডজাস্ট করুন"
+  },
+  "v2_2ae68684": {
+    "description": "Auto-generated translation for: Adjust the speed at which AI reads text aloud",
+    "message": "যে গতিতে এআই পাঠ্য উচ্চস্বরে পড়ে তা সামঞ্জস্য করুন"
+  },
+  "v2_6a907c80": {
+    "description": "Auto-generated translation for: Choose the AI voice used for text-to-speech",
+    "message": "টেক্সট-টু-স্পিচের জন্য ব্যবহৃত এআই ভয়েস বেছে নিন"
+  },
+  "v2_5914e852": {
+    "description": "Auto-generated translation for: Show the translation for the subtitles list panel",
+    "message": "সাবটাইটেল তালিকা প্যানেলের অনুবাদ দেখান"
+  },
+  "v2_37d730db": {
+    "description": "Auto-generated translation for: Select Transliteration Type",
+    "message": "অনুলিপি প্রকার নির্বাচন করুন"
+  },
+  "v2_053a110f": {
+    "description": "Auto-generated translation for: Type of transliteration for words and sentences",
+    "message": "শব্দ এবং বাক্যের প্রতিবর্ণীকরণের ধরন"
+  },
+  "v2_03c1d290": {
+    "description": "Auto-generated translation for: Add spaces between words for languages that don't use spaces",
+    "message": "যেসব ভাষায় শব্দের মধ্যে ফাঁকা স্থান ব্যবহার করা হয় না, সেগুলোতে শব্দের মধ্যে ফাঁকা স্থান যোগ করুন"
+  },
+  "v2_53290bf0": {
+    "description": "Auto-generated translation for: Light mode color",
+    "message": "হালকা মোড রঙ"
+  },
+  "v2_797f7170": {
+    "description": "Auto-generated translation for: Dark mode color",
+    "message": "ডার্ক মোড কালার"
+  },
+  "v2_28278ed1": {
+    "description": "Auto-generated translation for: Sound effects",
+    "message": "শব্দ প্রভাব"
+  },
+  "v2_39130773": {
+    "description": "Auto-generated translation for: Import New Ebook",
+    "message": "নতুন ইবুক আমদানি করুন"
+  },
+  "v2_2cd81523": {
+    "description": "Auto-generated translation for: Media Player",
+    "message": "মিডিয়া প্লেয়ার"
+  },
+  "v2_11ca663e": {
+    "description": "Auto-generated translation for: Onboarding Sandbox",
+    "message": "অনবোর্ডিং স্যান্ডবক্স"
+  },
+  "v2_2f241677": {
+    "description": "Auto-generated translation for: Test the onboarding modal flow",
+    "message": "অনবোর্ডিং মডেল ফ্লো পরীক্ষা করুন"
+  },
+  "v2_6080a0a2": {
+    "description": "Auto-generated translation for: Open Onboarding Modal",
+    "message": "অনবোর্ডিং মোডাল খুলুন"
+  },
+  "v2_3ec9188a": {
+    "description": "Auto-generated translation for: Configure advanced playback modes for better learning experience.",
+    "message": "উন্নত শেখার অভিজ্ঞতার জন্য উন্নত প্লেব্যাক মোড কনফিগার করুন।"
+  },
+  "v2_04c5d8ef": {
+    "description": "Auto-generated translation for: Sound",
+    "message": "শব্দ"
+  },
+  "v2_6a00f095": {
+    "description": "Auto-generated translation for: Failed to compute video ID",
+    "message": "ভিডিও আইডি গণনা করতে ব্যর্থ হয়েছে"
+  },
+  "v2_5a221ba2": {
+    "description": "Auto-generated translation for: Failed to save subtitles to server",
+    "message": "সার্ভারে সাবটাইটেল সংরক্ষণ করা যায়নি"
+  },
+  "v2_1a1c8f25": {
+    "description": "Auto-generated translation for: Generating subtitles using AI. This may take a few minutes.",
+    "message": "এআই ব্যবহার করে সাবটাইটেল তৈরি করা হচ্ছে। এতে কয়েক মিনিট সময় লাগতে পারে।"
+  },
+  "v2_4721fdcc": {
+    "description": "Auto-generated translation for: Upload a subtitle file from your computer",
+    "message": "আপনার কম্পিউটার থেকে একটি সাবটাইটেল ফাইল আপলোড করুন"
+  },
+  "v2_10c5c04c": {
+    "description": "Auto-generated translation for: Searching for existing subtitles in your library",
+    "message": "আপনার লাইব্রেরিতে বিদ্যমান সাবটাইটেলগুলি অনুসন্ধান করা হচ্ছে"
+  },
+  "v2_5c5a2c8b": {
+    "description": "Auto-generated translation for: Preparing subtitles for smooth playback",
+    "message": "সাবটাইটেলগুলি মসৃণ প্লেব্যাকের জন্য প্রস্তুত করা হচ্ছে"
+  },
+  "v2_4f4dc821": {
+    "description": "Auto-generated translation for: Unable to load prefetching data",
+    "message": "প্রিফেচিং ডেটা লোড করা যায়নি"
+  },
+  "v2_29675b70": {
+    "description": "Auto-generated translation for: Checking for subtitles...",
+    "message": "সাবটাইটেল খুঁজছে..."
+  },
+  "v2_601ab149": {
+    "description": "Auto-generated translation for: Extracting Audio",
+    "message": "অডিও নিষ্কাশন করা হচ্ছে"
+  },
+  "v2_3eb2a1df": {
+    "description": "Auto-generated translation for: Uploading",
+    "message": "আপলোড হচ্ছে"
+  },
+  "v2_49f5687a": {
+    "description": "Auto-generated translation for: Preparing Audio",
+    "message": "অডিও প্রস্তুত করা হচ্ছে"
+  },
+  "v2_010bbd92": {
+    "description": "Auto-generated translation for: Transcribing",
+    "message": "অনুলিখন হচ্ছে"
+  },
+  "v2_1d9722d9": {
+    "description": "Auto-generated translation for: Creating Segments",
+    "message": "সেগমেন্ট তৈরি করা"
+  },
+  "v2_7b0cd377": {
+    "description": "Auto-generated translation for: AI Generated",
+    "message": "এআই দ্বারা নির্মিত"
+  },
+  "v2_560cedf1": {
+    "description": "Auto-generated translation for: Original",
+    "message": "আসল"
+  },
+  "v2_102f14f6": {
+    "description": "Auto-generated translation for: Translated",
+    "message": "অনুবাদিত"
+  },
+  "v2_1c10cffd": {
+    "description": "Auto-generated translation for: Found Subtitles",
+    "message": "সাবটাইটেল পাওয়া গেছে"
+  },
+  "v2_6c0aabc5": {
+    "description": "Auto-generated translation for: Source",
+    "message": "উৎস"
+  },
+  "v2_1cc456a1": {
+    "description": "Auto-generated translation for: Total subtitles",
+    "message": "মোট সাবটাইটেল"
+  },
+  "v2_7390c06a": {
+    "description": "Auto-generated translation for: Prefetching first ${PREFETCH_SUBTITLE_COUNT} subtitles...",
+    "message": "প্রথম ${PREFETCH_SUBTITLE_COUNT} সাবটাইটেল প্রিফেচ করা হচ্ছে...",
+    "placeholders": {
+      "PREFETCH_SUBTITLE_COUNT": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_0675d9a3": {
+    "description": "Auto-generated translation for: ready",
+    "message": "প্রস্তুত"
+  },
+  "v2_7483b4e0": {
+    "description": "Auto-generated translation for: Overall Progress",
+    "message": "সামগ্রিক অগ্রগতি"
+  },
+  "v2_4cb96c85": {
+    "description": "Auto-generated translation for: Manual upload",
+    "message": "ম্যানুয়াল আপলোড"
+  },
+  "v2_14a1bd0d": {
+    "description": "Auto-generated translation for: Upload a prepared subtitle file directly from your computer.",
+    "message": "সরাসরি আপনার কম্পিউটার থেকে একটি প্রস্তুত সাবটাইটেল ফাইল আপলোড করুন।"
+  },
+  "v2_35254b1a": {
+    "description": "Auto-generated translation for: Supported formats: .srt · .vtt",
+    "message": "সমর্থিত ফর্ম্যাট: .srt · .vtt"
+  },
+  "v2_5f5fc1e7": {
+    "description": "Auto-generated translation for: Create AI subtitles",
+    "message": "এআই সাবটাইটেল তৈরি করুন"
+  },
+  "v2_660f6b3b": {
+    "description": "Auto-generated translation for: AI subtitles are not yet available",
+    "message": "এআই সাবটাইটেল এখনও উপলব্ধ নয়"
+  },
+  "v2_46e179c5": {
+    "description": "Auto-generated translation for: Recommended",
+    "message": "প্রস্তাবিত"
+  },
+  "v2_4605eb37": {
+    "description": "Auto-generated translation for: Generate polished subtitles automatically and review them in-app.",
+    "message": "স্বয়ংক্রিয়ভাবে পরিমার্জিত সাবটাইটেল তৈরি করুন এবং অ্যাপের মধ্যে সেগুলি পর্যালোচনা করুন।"
+  },
+  "v2_02439608": {
+    "description": "Auto-generated translation for: We'll notify you as soon as AI subtitles are available.",
+    "message": "এআই সাবটাইটেল উপলব্ধ হওয়ামাত্র আমরা আপনাকে জানিয়ে দেব।"
+  },
+  "v2_300ca293": {
+    "description": "Auto-generated translation for: Best when you do not have an existing subtitle file.",
+    "message": "যদি আপনার কাছে বিদ্যমান কোনো সাবটাইটেল ফাইল না থাকে তবে এটি সবচেয়ে ভালো কাজ করে।"
+  },
+  "v2_655dcf02": {
+    "description": "Auto-generated translation for: Checking for Subtitles",
+    "message": "সাবটাইটেল(গুলি) এর জন্য পরীক্ষা করা হচ্ছে"
+  },
+  "v2_1d6311ff": {
+    "description": "Auto-generated translation for: Preparing Subtitles",
+    "message": "সাবটাইটেল প্রস্তুত করা হচ্ছে"
+  },
+  "v2_049535d6": {
+    "description": "Auto-generated translation for: Pause",
+    "message": "বিরতি"
+  },
+  "v2_0025ff54": {
+    "description": "Auto-generated translation for: Play",
+    "message": "খেলুন"
+  },
+  "v2_68b2a7ae": {
+    "description": "Auto-generated translation for: Unmute",
+    "message": "আনমিউট করুন"
+  },
+  "v2_0024c639": {
+    "description": "Auto-generated translation for: Mute",
+    "message": "নিঃশব্দ করুন"
+  },
+  "v2_3984f689": {
+    "description": "Auto-generated translation for: Import New Media",
+    "message": "নতুন মিডিয়া আমদানি করুন"
+  },
+  "v2_7ef8104d": {
+    "description": "Auto-generated translation for: Import Media File",
+    "message": "মিডিয়া ফাইল ইমপোর্ট করুন"
+  },
+  "v2_65a8bd97": {
+    "description": "Auto-generated translation for: Select a video or audio file to get started",
+    "message": "শুরু করতে একটি ভিডিও বা অডিও ফাইল নির্বাচন করুন"
+  },
+  "v2_6b3550ff": {
+    "description": "Auto-generated translation for: Go back",
+    "message": "ফিরে যান"
+  },
+  "v2_438ec663": {
+    "description": "Auto-generated translation for: Type a command or search...",
+    "message": "একটি কমান্ড টাইপ করুন অথবা অনুসন্ধান করুন..."
+  },
+  "v2_3b1d43b0": {
+    "description": "Auto-generated translation for: Quick nav",
+    "message": "দ্রুত নেভিগেশন"
+  },
+  "v2_37a6eaad": {
+    "description": "Auto-generated translation for: Search Notebook",
+    "message": "নোটবুক অনুসন্ধান করুন"
+  },
+  "v2_3ca7c67d": {
+    "description": "Auto-generated translation for: Filter Notebook",
+    "message": "নোটবুক ফিল্টার করুন"
+  },
+  "v2_07a181db": {
+    "description": "Auto-generated translation for: Import to Notebook",
+    "message": "নোটবুকে আমদানি করুন"
+  },
+  "v2_4ec08b39": {
+    "description": "Auto-generated translation for: Export Notebook",
+    "message": "নোটবুক রপ্তানি করুন"
+  },
+  "v2_7e3d48d8": {
+    "description": "Auto-generated translation for: Quick Actions & Search",
+    "message": "দ্রুত ক্রিয়াকলাপ এবং অনুসন্ধান"
+  },
+  "v2_2d97a959": {
+    "description": "Auto-generated translation for: Sandbox",
+    "message": "স্যান্ডবক্স"
+  },
+  "v2_3bdf39d7": {
+    "description": "Auto-generated translation for: Drop zone for EPUB files. Click or press Enter to browse files.",
+    "message": "EPUB ফাইলগুলির জন্য ড্রপ জোন। ফাইল ব্রাউজ করতে ক্লিক করুন অথবা এন্টার চাপুন।"
+  },
+  "v2_23bacec7": {
+    "description": "Auto-generated translation for: complete",
+    "message": "সম্পূর্ণ"
+  },
+  "v2_251110be": {
+    "description": "Auto-generated translation for: Jump to page",
+    "message": "পৃষ্ঠায় যান"
+  },
+  "v2_286ad152": {
+    "description": "Auto-generated translation for: Jump to section",
+    "message": "অনুচ্ছেদে যান"
   }
 }

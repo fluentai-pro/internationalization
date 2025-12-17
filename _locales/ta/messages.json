@@ -35,22 +35,6 @@
     "description": "Auto-generated translation for: Repeat Mode Subtitles",
     "message": "மீளுமை முறை வசன வரிகள்"
   },
-  "v2_1064c8d1": {
-    "description": "Auto-generated translation for: Report feedback",
-    "message": "பின்னூட்டத்தை தெரிவித்துக்கொள்ளவும்"
-  },
-  "v2_2fd0d448": {
-    "description": "Auto-generated translation for: Setup completed",
-    "message": "அமைத்தல் நிறைவேற்றப்பட்டது"
-  },
-  "v2_010c0bbd": {
-    "description": "Auto-generated translation for: Fetching subtitles",
-    "message": "சப்டைட்டில்களை எடுக்கிறது"
-  },
-  "v2_1bf011ed": {
-    "description": "Auto-generated translation for: Checking maintenance",
-    "message": "பராமரிப்புகளை சோதிக்கிறது"
-  },
   "v2_0d78b7a3": {
     "description": "Auto-generated translation for: Features",
     "message": "அம்சங்கள்"
@@ -1748,18 +1732,6 @@
     "description": "Auto-generated translation for: English (Australia)",
     "message": "ஆங்கிலம் (ஆஸ்திரேலியா)"
   },
-  "v2_7f8b0325": {
-    "description": "Auto-generated translation for: Feature Request",
-    "message": "வசதி கோரிக்கை"
-  },
-  "v2_7ade1e3a": {
-    "description": "Auto-generated translation for: Neural Subtitles",
-    "message": "நரம்பியல் வசனங்கள்"
-  },
-  "v2_5a9db48b": {
-    "description": "Auto-generated translation for: This will take a few seconds",
-    "message": "இது சில நொடிகள் எடுக்கும்"
-  },
   "v2_3a3be6ac": {
     "description": "Auto-generated translation for: Underline",
     "message": "அடிக்கோடு"
@@ -1776,77 +1748,9 @@
     "description": "Auto-generated translation for: Import",
     "message": "இறக்குமதி"
   },
-  "v2_07d2decd": {
-    "description": "Auto-generated translation for: Failed to detect language",
-    "message": "மொழியை கண்டுபிடிக்க முடியவில்லை"
-  },
-  "v2_3ae5c3f9": {
-    "description": "Auto-generated translation for: Failed to import entry",
-    "message": "உள்ளீட்டை இறக்குமதி செய்ய முடியவில்லை"
-  },
-  "v2_565bbfd3": {
-    "description": "Auto-generated translation for: Could not load languages",
-    "message": "மொழிகளை ஏற்ற முடியவில்லை"
-  },
-  "v2_7eaa6e0b": {
-    "description": "Auto-generated translation for: Please provide text and select both languages.",
-    "message": "உரை உள்ளீட்டு செய்து, இரண்டு மொழிகளையும் தேர்ந்தெடுக்கவும்."
-  },
-  "v2_6658b698": {
-    "description": "Auto-generated translation for: No valid entries found in the text.",
-    "message": "உரையில் சரியான பதிவுகள் எதுவும் காணப்படவில்லை."
-  },
-  "v2_719b1304": {
-    "description": "Auto-generated translation for: Imported <span class=\"font-mono text-violet-500\">$count$</span> out of <span class=\"font-mono text-violet-500\">$total$</span> entries.",
-    "message": "<span class=\"font-mono text-violet-500\">$total$</span> உள்ளீடுகளில், <span class=\"font-mono text-violet-500\">$count$</span> இறக்குமதி செய்யப்பட்டது.",
-    "placeholders": {
-      "count": {
-        "content": "$1"
-      },
-      "total": {
-        "content": "$2"
-      }
-    }
-  },
-  "v2_7b996a96": {
-    "description": "Auto-generated translation for: Failed to complete import",
-    "message": "இறக்குமதி நிறைவு செய்ய முடியவில்லை"
-  },
-  "v2_24de7ceb": {
-    "description": "Auto-generated translation for: Import Entries",
-    "message": "\"பதிவுகளை இறக்குமதி செய்\""
-  },
-  "v2_6e53955e": {
-    "description": "Auto-generated translation for: Words or phrases to import",
-    "message": "\"இறக்குமதி செய்ய வேண்டிய சொற்கள் அல்லது சொற்றொடர்கள்\""
-  },
-  "v2_76494ced": {
-    "description": "Auto-generated translation for: Enter words or phrases, one per line...",
-    "message": "வார்த்தைகள் அல்லது சொற்றொடர்களை ஒரு வரியாக உள்ளிடவும்..."
-  },
-  "v2_5e0eea43": {
-    "description": "Auto-generated translation for: Source Language",
-    "message": "\"மூல மொழி\""
-  },
-  "v2_0a3da3df": {
-    "description": "Auto-generated translation for: Language of the words/phrases above",
-    "message": "மேலே உள்ள வார்த்தைகள்/சொற்றொடர்களின் மொழி"
-  },
-  "v2_283cc547": {
-    "description": "Auto-generated translation for: Select Source Language",
-    "message": "\"ஆதார மொழியைத் தேர்ந்தெடுக்கவும்\""
-  },
   "v2_0468aef9": {
     "description": "Auto-generated translation for: Target Language",
     "message": "\"இலக்கு மொழி\""
-  },
-  "v2_1f5c7096": {
-    "description": "Auto-generated translation for: Language to translate to",
-    "message": "\"மொழிபெயர்க்க வேண்டிய மொழி\""
-  },
-  "v2_31697603": {
-    "description": "Auto-generated translation for: Select Target Language",
-    "message": "இலக்கு மொழியைத் தேர்ந்தெடுக்கவும்"
   },
   "v2_557131fc": {
     "description": "Auto-generated translation for: Upgrade",
@@ -1911,10 +1815,6 @@
   "v2_529eed4d": {
     "description": "Auto-generated translation for: Subtitle Pronunciation",
     "message": "வசன உச்சரிப்பு"
-  },
-  "v2_6f220a3d": {
-    "description": "Auto-generated translation for: Download Subtitles",
-    "message": "வசனங்களைப் பதிவிறக்கவும்"
   },
   "v2_4b9b7f15": {
     "description": "Auto-generated translation for: Playback Modes",
@@ -2169,10 +2069,6 @@
     "description": "Auto-generated translation for: Earn Recurring Revenue",
     "message": "தொடர்ச்சியான வருவாயை ஈட்டுங்கள்"
   },
-  "v2_04ac5207": {
-    "description": "Auto-generated translation for: Dev Panel",
-    "message": "டெவலப்பர் பேனல்"
-  },
   "v2_1d0c220d": {
     "description": "Auto-generated translation for: Account",
     "message": "கணக்கு"
@@ -2298,10 +2194,6 @@
     "description": "Auto-generated translation for: Video Speed",
     "message": "வீடியோ வேகம்"
   },
-  "v2_2a09d4ce": {
-    "description": "Auto-generated translation for: AI Neural Subtitles",
-    "message": "AI நரம்பியல் துணைத் தலைப்புகள்"
-  },
   "v2_20c30ef1": {
     "description": "Auto-generated translation for: By signing up, you agree to our",
     "message": "பதிவு செய்வதன் மூலம், நீங்கள் எங்கள்"
@@ -2326,10 +2218,6 @@
     "description": "Auto-generated translation for: Your video history will appear here.",
     "message": "உங்களின் வீடியோ வரலாறு இங்கு தோன்றும்."
   },
-  "v2_7bd5e7eb": {
-    "description": "Auto-generated translation for: Delete bookmark",
-    "message": "புக்மார்க்கை நீக்கு"
-  },
   "v2_5a18785f": {
     "description": "Auto-generated translation for: Error Loading Bookmarks",
     "message": "புக்மார்க்குககளை ஏற்றுவதில் பிழை"
@@ -2341,14 +2229,6 @@
   "v2_31032720": {
     "description": "Auto-generated translation for: No Bookmarks Found",
     "message": "புக்மார்க்குகள் எதுவும் காணப்படவில்லை"
-  },
-  "v2_5490f12b": {
-    "description": "Auto-generated translation for: Your saved words and phrases will appear here.",
-    "message": "நீங்கள் சேமித்த வார்த்தைகள் மற்றும் சொற்றொடர்கள் இங்கே தோன்றும்."
-  },
-  "v2_05cdb6a9": {
-    "description": "Auto-generated translation for: Search bookmarks...",
-    "message": "புக்மார்க்குகளைத் தேடலாம்..."
   },
   "v2_7323bd91": {
     "description": "Auto-generated translation for: Sign in to FluentAI",
@@ -2860,17 +2740,9 @@
     "description": "Auto-generated translation for: Pause on Word Hover",
     "message": "சொல் மீது சுட்டியின் போது இடைநிறுத்தம்"
   },
-  "v2_2299c1b0": {
-    "description": "Auto-generated translation for: Pauses playback when you hover over a word for detailed exploration.",
-    "message": "ஒரு சொல்லின் மீது சுட்டியை கொண்டு செல்லும் போது விரிவான ஆய்வுக்காக பிளேபேக்கை இடைநிறுத்தும்."
-  },
   "v2_072b3c6f": {
     "description": "Auto-generated translation for: Resume on Word Leave",
     "message": "வேலையில் இருந்து விடுப்பு பெறுவது"
-  },
-  "v2_01f95b31": {
-    "description": "Auto-generated translation for: Resumes playback when you move your cursor away from a word.",
-    "message": "ஒரு வார்த்தையிலிருந்து உங்கள் கர்சரை நகர்த்தும்போது பிளேபேக்கை மீண்டும் தொடங்குகிறது."
   },
   "v2_349ccabb": {
     "description": "Auto-generated translation for: Welcome to Fluent AI",
@@ -3046,15 +2918,6 @@
     "description": "Auto-generated translation for: The passionate individuals behind FluentAI, revolutionizing language learning through innovative technology.",
     "message": "புதிய யுக்திகளுடன் மொழி கற்றலை மேம்படுத்தும் FluentAI-யின் ஆர்வமுள்ள குழுவினர்."
   },
-  "v2_47f37a66": {
-    "description": "Auto-generated translation for: Previewing $preview_lines$ entries to import:",
-    "message": "இறக்குமதி செய்ய $preview_lines$ உள்ளீடுகளை முன்னோட்டமிடுகிறது:",
-    "placeholders": {
-      "preview_lines": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_00007b05": {
     "description": "Auto-generated translation for: Welcome back",
     "message": "மீண்டும் வருக"
@@ -3207,14 +3070,6 @@
     "description": "Auto-generated translation for: Control your pace with playback modes designed for learning.",
     "message": "கற்றலுக்காக வடிவமைக்கப்பட்ட பிளேபேக் முறைகள் மூலம் உங்கள் வேகத்தைக் கட்டுப்படுத்துங்கள்."
   },
-  "v2_3b9d428f": {
-    "description": "Auto-generated translation for: Languages Configuration",
-    "message": "மொழிகள் கட்டமைப்பு"
-  },
-  "v2_41c91b63": {
-    "description": "Auto-generated translation for: Word Translation Tutorial",
-    "message": "சொல் மொழிபெயர்ப்புப் பயிற்சி"
-  },
   "v2_48955299": {
     "description": "Auto-generated translation for: AI Translation",
     "message": "AI மொழிபெயர்ப்பு"
@@ -3286,26 +3141,6 @@
   "v2_0e5e4944": {
     "description": "Auto-generated translation for: This will open our feedback widget where you can send us your message, questions, or support requests.",
     "message": "இது எங்கள் கருத்துப்பரிமாற்ற விட்ஜெட்டைத் திறக்கும், அங்கு நீங்கள் உங்கள் செய்தி, கேள்விகள் அல்லது ஆதரவு கோரிக்கைகளை எங்களுக்கு அனுப்பலாம்."
-  },
-  "v2_57f8cba7": {
-    "description": "Auto-generated translation for: Checking user session",
-    "message": "பயனர் அமர்வைச் சரிபார்க்கிறது"
-  },
-  "v2_67c7cbbd": {
-    "description": "Auto-generated translation for: Setting up tracks",
-    "message": "தடங்களை அமைத்தல்"
-  },
-  "v2_55970b24": {
-    "description": "Auto-generated translation for: Initializing loops",
-    "message": "சுழல்களைத் தொடங்குதல்"
-  },
-  "v2_0220ee1c": {
-    "description": "Auto-generated translation for: Setting up interface",
-    "message": "இடைமுகத்தை அமைக்கிறது"
-  },
-  "v2_30991ea7": {
-    "description": "Auto-generated translation for: Setting up FluentAI",
-    "message": "FluentAI அமைத்தல்"
   },
   "v2_705dfa57": {
     "description": "Auto-generated translation for: Request Assistance",
@@ -3695,14 +3530,6 @@
     "description": "Auto-generated translation for: Preparing...",
     "message": "தயாராகிறது..."
   },
-  "v2_6bc24fe3": {
-    "description": "Auto-generated translation for: Speak Word on Hover",
-    "message": "ஒவர் செய்யும் போது வார்த்தையைப் பேசவும்"
-  },
-  "v2_6aa26046": {
-    "description": "Auto-generated translation for: Automatically pronounce words when you open the translation popup.",
-    "message": "மொழிபெயர்ப்பு பாப்அப்பைத் திறக்கும்போது சொற்களைத் தானாகவே உச்சரிக்கவும்."
-  },
   "v2_40e79ef8": {
     "description": "Auto-generated translation for: Repeat Mode",
     "message": "மீண்டும் இயக்கு பயன்முறை"
@@ -3919,18 +3746,6 @@
     "description": "Auto-generated translation for: Start Learning",
     "message": "கற்கத் தொடங்குங்கள்"
   },
-  "v2_3b39273f": {
-    "description": "Auto-generated translation for: Automatically resumes the video when leaving word hover.",
-    "message": "வார்த்தையின் மீது வட்டமிடுவதை விட்டு வெளியேறும்போது தானாகவே வீடியோவை மீண்டும் தொடங்குகிறது."
-  },
-  "v2_4366f0e3": {
-    "description": "Auto-generated translation for: Automatically pauses the video when hovering over words.",
-    "message": "வார்த்தைகள் மீது வட்டமிடும்போது வீடியோவை தானாகவே இடைநிறுத்துகிறது."
-  },
-  "v2_14723a8b": {
-    "description": "Auto-generated translation for: Learning Features Configuration",
-    "message": "கற்றல் அம்ச உள்ளமைவு"
-  },
   "v2_65d5236d": {
     "description": "Auto-generated translation for: Word Features",
     "message": "சொல் அம்சங்கள்"
@@ -3938,14 +3753,6 @@
   "v2_2546540c": {
     "description": "Auto-generated translation for: Keyboard Shortcuts",
     "message": "விசைப்பலகை குறுக்குவழிகள்"
-  },
-  "v2_74787f9e": {
-    "description": "Auto-generated translation for: Add spaces between words for languages that don't use spaces.",
-    "message": "இடைவெளிகளைப் பயன்படுத்தாத மொழிகளில், வார்த்தைகளுக்கு இடையே இடைவெளிகளைச் சேர்க்கவும்."
-  },
-  "v2_415bcea8": {
-    "description": "Auto-generated translation for: Speaks the word aloud when the translation popup opens.",
-    "message": "மொழிபெயர்ப்பு பாப்அப் திறக்கும்போது வார்த்தையை சத்தமாகப் பேசும்."
   },
   "v2_3677de40": {
     "description": "Auto-generated translation for: Show the translation for the subtitles list panel.",
@@ -3970,14 +3777,6 @@
   "v2_5e9db625": {
     "description": "Auto-generated translation for: Processing your audio for neural subtitles",
     "message": "உங்கள் ஆடியோவை நியூரல் சப்டைட்டில்களுக்காக செயலாக்குகிறோம்"
-  },
-  "v2_2adaa19e": {
-    "description": "Auto-generated translation for: Subtitle Panel List",
-    "message": "துணைத்தலைப்பு பேனல் பட்டியல்"
-  },
-  "v2_2328f98e": {
-    "description": "Auto-generated translation for: Display a side panel with all subtitles for easy navigation and review.",
-    "message": "எளிதான வழிசெலுத்தலுக்கும் மறுஆய்வுக்கும் அனைத்து உபதலைப்புகளுடன் பக்க பேனலை காட்டவும்"
   },
   "v2_2b26d5bf": {
     "description": "Auto-generated translation for: Above the bar",
@@ -4067,10 +3866,6 @@
     "description": "Auto-generated translation for: Keyboard",
     "message": "மென்பலகை"
   },
-  "v2_20470c92": {
-    "description": "Auto-generated translation for: Disable Neural Subtitles",
-    "message": "நியூரல் உபசர்த்தங்களை முடக்கு"
-  },
   "v2_63a80ad3": {
     "description": "Auto-generated translation for: Assigned key",
     "message": "ஒதுக்கப்பட்ட விசை"
@@ -4102,10 +3897,6 @@
   "v2_69333c39": {
     "description": "Auto-generated translation for: YouTube subtitles available",
     "message": "யூடியூப் உள்தட்டிகள் கிடைக்கும்"
-  },
-  "v2_28d72bb3": {
-    "description": "Auto-generated translation for: Quickly configure learning features. You can change them anytime in settings.",
-    "message": "கற்றல் அம்சங்களை விரைவாக உள்ளமைக்கவும். அமைப்புகளில் எப்போயும் அவற்றை மாற்றலாம்."
   },
   "v2_1a2819cc": {
     "description": "Auto-generated translation for: Navigation",
@@ -4383,10 +4174,6 @@
     "description": "Auto-generated translation for: Supported Platforms",
     "message": "ஆதரிக்கப்படும் தளங்கள்"
   },
-  "v2_3a61d5a4": {
-    "description": "Auto-generated translation for: Please select a word first by clicking or hovering over it",
-    "message": "முதலில் ஒரு சொல்லை கிளிக் செய்வதன் மூலமாகவோ அல்லது அதன் மீது ஹோவர செய்வதன் மூலமாகவோ தேர்ந்தெடுக்கவும்"
-  },
   "v2_18f423de": {
     "description": "Auto-generated translation for: No video found",
     "message": "வீடியோ கிடைக்கவில்லை"
@@ -4450,10 +4237,6 @@
   "v2_6460648d": {
     "description": "Auto-generated translation for: to see instant translations",
     "message": "உடனடி மொழிபெயர்ப்புகளைக் காண"
-  },
-  "v2_0e8caf3c": {
-    "description": "Auto-generated translation for: for detailed word analysis and information",
-    "message": "விரிவான வார்த்தை பகுப்பாய்வு மற்றும் தகவலுக்கு"
   },
   "v2_503b541d": {
     "description": "Auto-generated translation for: Select multiple words",
@@ -4531,26 +4314,6 @@
     "description": "Auto-generated translation for: Resets in",
     "message": "மீண்டும் தொடங்குவதற்கு"
   },
-  "v2_4d1b86d1": {
-    "description": "Auto-generated translation for: Checking subscription status",
-    "message": "சந்தா நிலையைச் சரிபார்த்தல்"
-  },
-  "v2_2874ef0f": {
-    "description": "Auto-generated translation for: Checking onboarding status",
-    "message": "சேர்ப்பு நிலை சரிபார்த்தல்"
-  },
-  "v2_0aa2c1c3": {
-    "description": "Auto-generated translation for: Fetching text tracks",
-    "message": "உரை தடங்கள் எடுக்கப்படுகின்றன"
-  },
-  "v2_6531d18a": {
-    "description": "Auto-generated translation for: Initializing settings",
-    "message": "அமைப்புகள் துவக்கப்படுகின்றன"
-  },
-  "v2_1ebb520c": {
-    "description": "Auto-generated translation for: Applying video settings",
-    "message": "வீடியோ அமைப்புகளைப் பயன்படுத்துகிறது"
-  },
   "v2_60edc1ee": {
     "description": "Auto-generated translation for: Generate AI Subtitles",
     "message": "AI வசனங்களை உருவாக்கு"
@@ -4575,10 +4338,6 @@
     "description": "Auto-generated translation for: Playback Mode",
     "message": "பின்னணி இயக்கும் முறை"
   },
-  "v2_0011f408": {
-    "description": "Auto-generated translation for: Choose how subtitles affect playback",
-    "message": "வசனம் பின்னணி இயக்கத்தை எப்படிப் பாதிக்கிறது என்பதைத் தேர்வுசெய்யவும்"
-  },
   "v2_54604014": {
     "description": "Auto-generated translation for: Text-to-Speech",
     "message": "உரையிலிருந்து பேச்சு"
@@ -4590,10 +4349,6 @@
   "v2_40e44961": {
     "description": "Auto-generated translation for: Repeat Type",
     "message": "மீண்டும் செய் வகை"
-  },
-  "v2_14049c22": {
-    "description": "Auto-generated translation for: Choose how to repeat each subtitle",
-    "message": "ஒவ்வொரு துணைத்தலைப்பையும் எப்படி மீண்டும் சொல்வது என்பதைத் தேர்வுசெய்யவும்"
   },
   "v2_2367164a": {
     "description": "Auto-generated translation for: Repeat Count",
@@ -5658,10 +5413,6 @@
       }
     }
   },
-  "v2_70abeef9": {
-    "description": "Auto-generated translation for: No word found to pronounce",
-    "message": "உச்சரிக்க வார்த்தை எதுவும் கண்டறியப்படவில்லை"
-  },
   "v2_25749bd6": {
     "description": "Auto-generated translation for: Unselect All",
     "message": "அனைத்தையும் தேர்வுநீக்கு"
@@ -5689,10 +5440,6 @@
   "v2_2e0e0805": {
     "description": "Auto-generated translation for: Languages",
     "message": "மொழிகள்"
-  },
-  "v2_4dc00fae": {
-    "description": "Auto-generated translation for: Learning Modes",
-    "message": "கற்றல் முறைகள்"
   },
   "v2_6bc27afe": {
     "description": "Auto-generated translation for: Styles",
@@ -5945,18 +5692,6 @@
     "description": "Auto-generated translation for: Shows a popup to manually merge words into phrases and expressions.",
     "message": "சொற்களை சொற்றொடர்கள் மற்றும் தொடர்களாக கைமுறையாக ஒன்றிணைக்க ஒரு பாப்அப்பைக் காட்டுகிறது."
   },
-  "v2_2f287990": {
-    "description": "Auto-generated translation for: Shows a popup to manually merge words into phrases.",
-    "message": "சொற்களை சொற்றொடர்களாக கைமுறையாக ஒன்றிணைக்க ஒரு பாப்அப் காட்டுகிறது."
-  },
-  "v2_76acec5a": {
-    "description": "Auto-generated translation for: Shows how each word in your learning language corresponds to your native language.",
-    "message": "உங்கள் தாய்மொழியுடன் உங்கள் கற்றல் மொழியில் உள்ள ஒவ்வொரு வார்த்தையும் எவ்வாறு ஒத்துப்போகிறது என்பதை காட்டுகிறது."
-  },
-  "v2_12b2f306": {
-    "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal.",
-    "message": "கிடைத்தால், தளத்தால் வழங்கப்படும் வசனங்களுக்கு முன்னுரிமை அளிக்கவும். இல்லையெனில், FluentAI இருக்கும் வசனங்களை மொழிபெயர்க்கிறது. வீடியோ வசனங்கள் மிகவும் இயல்பானவை (பொருள் சார்ந்தவை), இயந்திர மொழிபெயர்ப்பு மிகவும் நேரடியானது."
-  },
   "v2_6c783532": {
     "description": "Auto-generated translation for: AI Text-to-Speech Volume",
     "message": "AI உரை-க்கு-பேச்சு ஒலியளவு"
@@ -6049,10 +5784,6 @@
     "description": "Auto-generated translation for: Display the dictionary form above bookmarked words in subtitles",
     "message": "சப் டைட்டில்களில் புக்மார்க் செய்யப்பட்ட வார்த்தைகளுக்கு மேலே அகராதி வடிவத்தைக் காட்டு"
   },
-  "v2_041e3b6a": {
-    "description": "Auto-generated translation for: Highlights words as spoken.",
-    "message": "பேசப்பட்டது போல வார்த்தைகளை முன்னிலைப்படுத்தவும்."
-  },
   "v2_0f3410c0": {
     "description": "Auto-generated translation for: This video doesn't have word timestamps",
     "message": "இந்த வீடியோவில் வார்த்தை நேரமுத்திரைகள் இல்லை"
@@ -6072,10 +5803,6 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "அடிப்படை படிவத் தெரிவுநிலை"
-  },
-  "v2_0fca6ffb": {
-    "description": "Auto-generated translation for: Queued...",
-    "message": "வரிசையில் உள்ளது..."
   },
   "v2_39e97037": {
     "description": "Auto-generated translation for: Extracting audio...",
@@ -6564,18 +6291,6 @@
     "description": "Auto-generated translation for: Choose how you want to add subtitles to your video",
     "message": "உங்கள் வீடியோவுக்கு வசன வரிகளை எப்படி சேர்க்க வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்"
   },
-  "v2_461d3fee": {
-    "description": "Auto-generated translation for: Upload a .srt or .vtt file",
-    "message": ".srt அல்லது .vtt கோப்பை பதிவேற்றவும்"
-  },
-  "v2_18d948be": {
-    "description": "Auto-generated translation for: Create neural subtitles",
-    "message": "நியூரல் வசன வரிகளை உருவாக்கு"
-  },
-  "v2_6bad0b0e": {
-    "description": "Auto-generated translation for: Neural subtitles are not yet available",
-    "message": "நரம்பியல் வசன வரிகள் இன்னும் கிடைக்கவில்லை"
-  },
   "v2_0cdb031a": {
     "description": "Auto-generated translation for: Coming soon",
     "message": "விரைவில்"
@@ -6587,26 +6302,6 @@
   "v2_25d7795d": {
     "description": "Auto-generated translation for: An error occurred during transcription",
     "message": "படிவெழுத்து மாற்றத்தின்போது பிழை ஏற்பட்டது"
-  },
-  "v2_3a059b20": {
-    "description": "Auto-generated translation for: Import New Video",
-    "message": "புதிய வீடியோவை இறக்குமதி செய்"
-  },
-  "v2_6c53c554": {
-    "description": "Auto-generated translation for: Play local video files with FluentAI subtitles and interactive learning features.",
-    "message": "FluentAI வசன வரிகள் மற்றும் ஊடாடும் கற்றல் அம்சங்களுடன் உள்ளூர் வீடியோ கோப்புகளை இயக்கவும்."
-  },
-  "v2_7ca54576": {
-    "description": "Auto-generated translation for: Local Player",
-    "message": "உள்ளூர் விளையாட்டாளர்"
-  },
-  "v2_53066e84": {
-    "description": "Auto-generated translation for: Import Video File",
-    "message": "வீடியோ கோப்பை இறக்குமதி செய்"
-  },
-  "v2_56a0a959": {
-    "description": "Auto-generated translation for: Select a local video file to get started",
-    "message": "தொடங்குவதற்கு ஒரு உள்ளூர் வீடியோ கோப்பைத் தேர்ந்தெடுக்கவும்"
   },
   "v2_4775d762": {
     "description": "Auto-generated translation for: Failed to import subtitles",
@@ -6623,10 +6318,6 @@
   "v2_4f4ab581": {
     "description": "Auto-generated translation for: Please set your learning language in settings before creating neural subtitles",
     "message": "நியூரல் வசன வரிகளை உருவாக்குவதற்கு முன், அமைப்புகளில் உங்கள் கற்றல் மொழியை அமைக்கவும்."
-  },
-  "v2_4050988e": {
-    "description": "Auto-generated translation for: Neural transcription started",
-    "message": "நரம்பியல் டிரான்ஸ்கிரிப்ஷன் தொடங்கியது"
   },
   "v2_7c1bf627": {
     "description": "Auto-generated translation for: An unexpected error occurred",
@@ -6760,14 +6451,6 @@
     "description": "Auto-generated translation for: Failed to delete EPUB: ",
     "message": "EPUBஐ நீக்க முடியவில்லை:"
   },
-  "v2_45505288": {
-    "description": "Auto-generated translation for: Read and learn from your EPUB books",
-    "message": "உங்கள் EPUB புத்தகங்களைப் படித்து கற்றுக்கொள்ளுங்கள்"
-  },
-  "v2_56305e75": {
-    "description": "Auto-generated translation for: EPUB Reader",
-    "message": "ஈபப் ரீடர்"
-  },
   "v2_3b0f50f1": {
     "description": "Auto-generated translation for: Are you sure you want to delete this EPUB? This action cannot be undone.",
     "message": "இந்த EPUBஐ நீக்க நீங்கள் உறுதியாக இருக்கிறீர்களா? இந்த நடவடிக்கையை மாற்ற முடியாது."
@@ -6783,10 +6466,6 @@
   "v2_13b93494": {
     "description": "Auto-generated translation for: Organize your saved words and phrases into custom lists for easy access and study.",
     "message": "எளிதாக அணுகுவதற்கும் படிப்பதற்கும் நீங்கள் சேமித்த வார்த்தைகள் மற்றும் சொற்றொடர்களை விருப்பப் பட்டியல்களாக ஒழுங்கமைக்கவும்."
-  },
-  "v2_5f364956": {
-    "description": "Auto-generated translation for: Loading list details...",
-    "message": "பட்டியல் விவரங்கள் ஏற்றப்படுகிறது..."
   },
   "v2_4bfb9f13": {
     "description": "Auto-generated translation for: List not found",
@@ -6953,10 +6632,6 @@
   "v2_47531d14": {
     "description": "Auto-generated translation for: AI subtitles are ready.",
     "message": "AI வசன வரிகள் தயாராக உள்ளன."
-  },
-  "v2_73da36c5": {
-    "description": "Auto-generated translation for: AI subtitle generation started.",
-    "message": "AI வசன வரிகள் உருவாக்கம் துவங்கியது."
   },
   "v2_0b50491d": {
     "description": "Auto-generated translation for: Failed to start neural transcription.",
@@ -7388,14 +7063,6 @@
     "description": "Auto-generated translation for: Neural transcription failed",
     "message": "நரம்பியல் டிரான்ஸ்கிரிப்ஷன் தோல்வியடைந்தது"
   },
-  "v2_69b99a0d": {
-    "description": "Auto-generated translation for: Resources controller not available",
-    "message": "வளங்கள் கட்டுப்படுத்தி கிடைக்கவில்லை"
-  },
-  "v2_620d4c2c": {
-    "description": "Auto-generated translation for: Failed to get video ID",
-    "message": "வீடியோ ஐடியைப் பெற முடியவில்லை"
-  },
   "v2_59f15ff2": {
     "description": "Auto-generated translation for: File size (${fileSizeGB}GB) exceeds the maximum limit of 2GB for AI subtitles",
     "message": "AI வசன வரிகளுக்கான அதிகபட்ச வரம்பு 2GB ஆகும், கோப்பின் அளவு (${fileSizeGB}GB) அதை மீறுகிறது.",
@@ -7404,10 +7071,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_36c7c19a": {
-    "description": "Auto-generated translation for: Video Player",
-    "message": "காணொளி இயக்கி"
   },
   "v2_12bbb012": {
     "description": "Auto-generated translation for: Please upload a valid video or audio file",
@@ -8083,10 +7746,6 @@
       }
     }
   },
-  "v2_06c6a29f": {
-    "description": "Auto-generated translation for: Word Merging Tutorial",
-    "message": "சொல் இணைத்தல் பயிற்சி"
-  },
   "v2_0e50fa86": {
     "description": "Auto-generated translation for: Word Status & Bookmarking",
     "message": "சொல் நிலை & புக்மார்க்கிங்"
@@ -8099,45 +7758,9 @@
     "description": "Auto-generated translation for: Learn how to save words and manage their learning status with status icons.",
     "message": "வார்த்தைகளைச் சேமிப்பது எப்படி என்பதையும், நிலை ஐகான்களைக் கொண்டு அவற்றின் கற்றல் நிலையை நிர்வகிப்பது எப்படி என்பதையும் அறிக."
   },
-  "v2_06daa183": {
-    "description": "Auto-generated translation for: Words you're actively learning",
-    "message": "நீங்கள் தீவிரமாகப் படித்து வரும் வார்த்தைகள்"
-  },
-  "v2_49c26fad": {
-    "description": "Auto-generated translation for: Words you've mastered",
-    "message": "நீங்கள் கற்றுக்கொண்ட சொற்கள்"
-  },
-  "v2_7b5c86f4": {
-    "description": "Auto-generated translation for: Words you want to skip",
-    "message": "நீங்கள் தவிர்க்க விரும்பும் சொற்கள்"
-  },
-  "v2_549e8840": {
-    "description": "Auto-generated translation for: Right-click words",
-    "message": "வார்த்தைகளை ரைட்-கிளிக் செய்யவும்"
-  },
-  "v2_7e289ca5": {
-    "description": "Auto-generated translation for: to add to notebook or cycle status",
-    "message": "நோட்புக் அல்லது சுழற்சி நிலையில் சேர்க்க"
-  },
-  "v2_17e0d6d1": {
-    "description": "Auto-generated translation for: Click status icon",
-    "message": "நிலை ஐகானைக் கிளிக் செய்யவும்"
-  },
-  "v2_62f765a6": {
-    "description": "Auto-generated translation for: to cycle through statuses",
-    "message": "நிலைமைகள் வழியாக சுழற்றுவதற்கு"
-  },
-  "v2_2417f439": {
-    "description": "Auto-generated translation for: to merge into phrases",
-    "message": "சொற்றொடர்களாக இணைக்க"
-  },
   "v2_4dcac02e": {
     "description": "Auto-generated translation for: Click merge button",
     "message": "ஒன்றிணை பொத்தானைக் கிளிக் செய்யவும்"
-  },
-  "v2_5ae40df8": {
-    "description": "Auto-generated translation for: to combine words into expressions",
-    "message": "வார்த்தைகளை கோர்வையாக இணைக்க"
   },
   "v2_20c7065e": {
     "description": "Auto-generated translation for: Earn 20% recurring revenue from every subscriber you bring.",
@@ -8192,10 +7815,6 @@
         "content": "$1"
       }
     }
-  },
-  "v2_57def5c4": {
-    "description": "Auto-generated translation for: Generate subtitles with AI.",
-    "message": "AI மூலம் வசனங்களை உருவாக்குங்கள்."
   },
   "v2_4559a29d": {
     "description": "Auto-generated translation for: Language learning App for Netflix,<br>YouTube, Amazon Prime, and Disney Plus.",
@@ -8448,10 +8067,6 @@
     "description": "Auto-generated translation for: Failed to archive word",
     "message": "வார்த்தையை காப்பகப்படுத்தத் தவறிவிட்டது"
   },
-  "v2_7255de43": {
-    "description": "Auto-generated translation for: Unknown - Click to mark as Learning",
-    "message": "தெரியாதது - கற்றல் என குறிக்க கிளிக் செய்யவும்"
-  },
   "v2_6d7efa68": {
     "description": "Auto-generated translation for: Click to mark as {status}",
     "message": "{status} என குறியிட கிளிக் செய்யவும்",
@@ -8504,14 +8119,6 @@
   "v2_422887b4": {
     "description": "Auto-generated translation for: Bookmark Word",
     "message": "சொல்லை புக்மார்க் செய்யவும்"
-  },
-  "v2_02fc98dc": {
-    "description": "Auto-generated translation for: Text-to-speech is not configured. Please configure it in settings.",
-    "message": "உரை-க்கு-பேச்சு கட்டமைக்கப்படவில்லை. அமைப்புகளில் உள்ளமைக்கவும்."
-  },
-  "v2_008b3b33": {
-    "description": "Auto-generated translation for: Failed to update word status",
-    "message": "சொல் நிலையைப் புதுப்பிக்கத் தவறிவிட்டது"
   },
   "v2_13166391": {
     "description": "Auto-generated translation for: Language Learning Guides",
@@ -8705,17 +8312,9 @@
     "description": "Auto-generated translation for: Restart playback when leaving a word.",
     "message": "ஒரு சொல்லை விட்டு வெளியேறும்போது பிளேபேக்கை மறுதொடக்கம் செய்யவும்."
   },
-  "v2_662e93b6": {
-    "description": "Auto-generated translation for: Advanced playback mode settings (configured in extension).",
-    "message": "மேம்பட்ட பிளேபேக் பயன்முறை அமைப்புகள் (நீட்டிப்பில் உள்ளமைக்கப்பட்டது)."
-  },
   "v2_29fea828": {
     "description": "Auto-generated translation for: Playback Modes Settings",
     "message": "பின்னணி முறைகள் அமைப்புகள்"
-  },
-  "v2_3585e6e2": {
-    "description": "Auto-generated translation for: Complex settings - configure in extension",
-    "message": "சிக்கலான அமைப்புகள் - நீட்டிப்பில் உள்ளமைக்கவும்"
   },
   "v2_094a82ca": {
     "description": "Auto-generated translation for: Choose color for light mode",
@@ -9048,5 +8647,653 @@
         "content": "$1"
       }
     }
+  },
+  "v2_6aa54514": {
+    "description": "Auto-generated translation for: Invalid timed segments received from transcription service.",
+    "message": "படியெடுத்தல் சேவையிலிருந்து தவறான நேரப் பிரிவுகள் பெறப்பட்டன."
+  },
+  "v2_3865beea": {
+    "description": "Auto-generated translation for: No valid timed segments found in transcription response.",
+    "message": "படியெடுத்தல் மறுமொழியில் சரியான நேரப்படுத்தப்பட்ட பிரிவுகள் எதுவும் கண்டறியப்படவில்லை."
+  },
+  "v2_3055b6cc": {
+    "description": "Auto-generated translation for: Need help?",
+    "message": "உதவி வேண்டுமா?"
+  },
+  "v2_55952cf5": {
+    "description": "Auto-generated translation for: Email Support",
+    "message": "மின்னஞ்சல் ஆதரவு"
+  },
+  "v2_7307d836": {
+    "description": "Auto-generated translation for: Join Discord",
+    "message": "டிஸ்கார்டில் சேரவும்"
+  },
+  "v2_20e30018": {
+    "description": "Auto-generated translation for: Not bookmarked - Click to add to Learning",
+    "message": "புக்மார்க் செய்யப்படவில்லை - கற்றுக்கொள்வதற்குச் சேர்க்க கிளிக் செய்யவும்"
+  },
+  "v2_6578cf4f": {
+    "description": "Auto-generated translation for: Failed to initialize settings",
+    "message": "அமைப்புகளைத் தொடங்கத் தவறிவிட்டது"
+  },
+  "v2_1e310648": {
+    "description": "Auto-generated translation for: Unarchiving...",
+    "message": "காப்பகத்தை அகற்றுதல்..."
+  },
+  "v2_4f1cfc17": {
+    "description": "Auto-generated translation for: Unarchive",
+    "message": "சேவையகத்திலிருந்து நீக்கு"
+  },
+  "v2_1f123be3": {
+    "description": "Auto-generated translation for: Failed to load lists",
+    "message": "பட்டியல்களை ஏற்ற முடியவில்லை"
+  },
+  "v2_5d5c4609": {
+    "description": "Auto-generated translation for: Export failed",
+    "message": "ஏற்றுமதி தோல்வியடைந்தது"
+  },
+  "v2_14586536": {
+    "description": "Auto-generated translation for: Word unarchived successfully",
+    "message": "சொல் வெற்றிகரமாக நீக்கப்பட்டது"
+  },
+  "v2_4b14d7dd": {
+    "description": "Auto-generated translation for: {{count}} words archived successfully",
+    "message": "{{count}} வார்த்தைகள் வெற்றிகரமாகச் சேமிக்கப்பட்டுள்ளன",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6648bb1c": {
+    "description": "Auto-generated translation for: {{count}} words unarchived successfully",
+    "message": "{{count}} வார்த்தைகள் வெற்றிகரமாக காப்பகத்திலிருந்து நீக்கப்பட்டன",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_53a5cdc1": {
+    "description": "Auto-generated translation for: {{successes}} of {{total}} words processed",
+    "message": "{{total}} வார்த்தைகளில் {{successes}} செயலாக்கப்பட்டது",
+    "placeholders": {
+      "successes": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_0345d5b7": {
+    "description": "Auto-generated translation for: Failed to archive words",
+    "message": "வார்த்தைகளைச் சேமிக்கத் தவறிவிட்டது"
+  },
+  "v2_3babc2d8": {
+    "description": "Auto-generated translation for: Bookmark deleted successfully",
+    "message": "புக்மார்க் வெற்றிகரமாக நீக்கப்பட்டது"
+  },
+  "v2_1153c2f7": {
+    "description": "Auto-generated translation for: Failed to delete bookmark",
+    "message": "புக்மார்க்கை நீக்கத் தவறிவிட்டது"
+  },
+  "v2_3f1b9ebe": {
+    "description": "Auto-generated translation for: {{count}} bookmarks deleted successfully",
+    "message": "{{count}} புக்மார்க்குகள் வெற்றிகரமாக நீக்கப்பட்டன",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_2fbf21a0": {
+    "description": "Auto-generated translation for: {{successes}} of {{total}} bookmarks deleted",
+    "message": "{{total}} புக்மார்க்குகளில் {{successes}} நீக்கப்பட்டன",
+    "placeholders": {
+      "successes": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_19249b76": {
+    "description": "Auto-generated translation for: Failed to delete bookmarks",
+    "message": "புக்மார்க்குகளை நீக்க முடியவில்லை"
+  },
+  "v2_0be92afb": {
+    "description": "Auto-generated translation for: Clear search",
+    "message": "தேடலை அழி"
+  },
+  "v2_25b55d29": {
+    "description": "Auto-generated translation for: Event-driven",
+    "message": "நிகழ்வு சார்ந்த"
+  },
+  "v2_4a90129b": {
+    "description": "Auto-generated translation for: Word Translation",
+    "message": "சொல் மொழிபெயர்ப்பு"
+  },
+  "v2_782e37df": {
+    "description": "Auto-generated translation for: Word Merging",
+    "message": "வார்த்தை ஒன்றிணைத்தல்"
+  },
+  "v2_52e1d382": {
+    "description": "Auto-generated translation for: Configure word-related features like hover actions, merging, and pronunciation.",
+    "message": "ஹோவர் செயல்கள், ஒன்றிணைத்தல் மற்றும் உச்சரிப்பு போன்ற சொல் தொடர்பான அம்சங்களை உள்ளமைக்கவும்."
+  },
+  "v2_4b5b25c2": {
+    "description": "Auto-generated translation for: Configure playback modes and how videos pause, repeat, or play continuously.",
+    "message": "வீடியோக்களை இடைநிறுத்துவது, மீண்டும் இயக்குவது அல்லது தொடர்ச்சியாக இயக்குவது எப்படி என்பதையும் பிளேபேக் முறைகளையும் உள்ளமைக்கவும்."
+  },
+  "v2_14166404": {
+    "description": "Auto-generated translation for: Configure subtitle display, transliteration, and subtitle behavior options.",
+    "message": "வசனக் காட்சி, ஒலிபெயர்ப்பு மற்றும் வசனச் செயல்பாட்டு விருப்பத்தேர்வுகளை உள்ளமைக்கவும்."
+  },
+  "v2_62d278ed": {
+    "description": "Auto-generated translation for: Configure subtitle list panel settings and translation display options.",
+    "message": "வசனப் பட்டியல் பேனல் அமைப்புகளையும் மொழிபெயர்ப்பு காட்சி விருப்பங்களையும் உள்ளமைக்கவும்."
+  },
+  "v2_6adcfe0a": {
+    "description": "Auto-generated translation for: Show dictionary form above bookmarked words",
+    "message": "புக்மார்க் செய்யப்பட்ட வார்த்தைகளுக்கு மேலே அகராதி வடிவத்தைக் காட்டு"
+  },
+  "v2_0e3c0ac0": {
+    "description": "Auto-generated translation for: Pause video when hovering over words",
+    "message": "வார்த்தைகள் மீது வட்டமிடும்போது வீடியோவை இடைநிறுத்தவும்"
+  },
+  "v2_52e05400": {
+    "description": "Auto-generated translation for: Resume video when leaving word hover",
+    "message": "சமச்சொல்லை விட்டு வெளியேறும்போது வீடியோவைத் தொடரவும்"
+  },
+  "v2_33bcd467": {
+    "description": "Auto-generated translation for: Show popup to merge words into phrases",
+    "message": "சொற்களை சொற்றொடர்களாக இணைக்க பாப்அப்பைக் காட்டு"
+  },
+  "v2_5697ee78": {
+    "description": "Auto-generated translation for: Speak word when translation popup opens",
+    "message": "மொழிபெயர்ப்பு பாப்அப் திறக்கும்போது வார்த்தையை பேசுங்கள்"
+  },
+  "v2_02e4a8a3": {
+    "description": "Auto-generated translation for: Adjust the size of learning subtitle text",
+    "message": "கற்றல் வசன உரையின் அளவைச் சரிசெய்யவும்"
+  },
+  "v2_592050ea": {
+    "description": "Auto-generated translation for: Adjust the size of native subtitle text",
+    "message": "உள்ளடக்க வசன உரையின் அளவைச் சரிசெய்"
+  },
+  "v2_6cccbdc6": {
+    "description": "Auto-generated translation for: Choose your preferred theme",
+    "message": "உங்களுக்கு விருப்பமான தீமைத் தேர்வு செய்யவும்."
+  },
+  "v2_0795e107": {
+    "description": "Auto-generated translation for: Choose how bookmarks are displayed",
+    "message": "புக்மார்க்குகள் எவ்வாறு காட்டப்பட வேண்டும் என்பதைத் தேர்வு செய்யவும்"
+  },
+  "v2_6fd9f851": {
+    "description": "Auto-generated translation for: Choose the color for bookmarks",
+    "message": "புக்மார்க்குகளுக்கு வண்ணத்தைத் தேர்வு செய்யவும்"
+  },
+  "v2_152ee719": {
+    "description": "Auto-generated translation for: Show subtitles in learning language",
+    "message": "கற்றல் மொழியில் வசன வரிகளைக் காட்டு"
+  },
+  "v2_3003134e": {
+    "description": "Auto-generated translation for: Show subtitles in native language",
+    "message": "தாய்மொழியில் வசனங்களைக் காட்டு"
+  },
+  "v2_0c0fb817": {
+    "description": "Auto-generated translation for: Prefer platform subtitles over translations when available",
+    "message": "கிடைத்தால், மொழிபெயர்ப்புகளை விட பிளாட்ஃபார்ம் சப்-டைட்டில்களை விரும்பு"
+  },
+  "v2_50357167": {
+    "description": "Auto-generated translation for: Show phonetic pronunciation in Latin characters",
+    "message": "லத்தீன் எழுத்துக்களில் ஒலியியல் உச்சரிப்பைக் காட்டு"
+  },
+  "v2_575aebba": {
+    "description": "Auto-generated translation for: Transliteration type for words and sentences",
+    "message": "சொற்களுக்கும் வாக்கியங்களுக்கும் ஒலிபெயர்ப்பு வகை"
+  },
+  "v2_52a6c6c5": {
+    "description": "Auto-generated translation for: Hide subtitle until hover to reveal content",
+    "message": "உள்ளடக்கத்தை வெளிப்படுத்த, சுட்டி மூலம் சுட்டிக்காட்டும் வரை வசனத்தை மறைக்கவும்"
+  },
+  "v2_562a105c": {
+    "description": "Auto-generated translation for: Highlight words as they are being spoken",
+    "message": "பேசப்படும்போது வார்த்தைகளை ஹைலைட் செய்யவும்"
+  },
+  "v2_0c7317ce": {
+    "description": "Auto-generated translation for: Show word correspondence between learning and native languages",
+    "message": "கற்றல் மற்றும் தாய்மொழிகளுக்கு இடையே உள்ள சொல் தொடர்பைக் காட்டு"
+  },
+  "v2_2a5674f9": {
+    "description": "Auto-generated translation for: for detailed word analysis",
+    "message": "விரிவான சொல் பகுப்பாய்வுக்காக"
+  },
+  "v2_7ef58ec9": {
+    "description": "Auto-generated translation for: Show scrollable panel with all subtitles for navigation",
+    "message": "வழிசெலுத்தலுக்கான அனைத்து துணைத் தலைப்புகளுடன் உருட்டக்கூடிய பேனலைக் காட்டு"
+  },
+  "v2_17bb67f6": {
+    "description": "Auto-generated translation for: Show translations in subtitle list panel",
+    "message": "சப் டைட்டில் பட்டியல் பேனலில் மொழிபெயர்ப்புகளைக் காட்டு"
+  },
+  "v2_127e261e": {
+    "description": "Auto-generated translation for: to merge words into phrases",
+    "message": "வார்த்தைகளை சொற்றொடர்களாக இணைக்க"
+  },
+  "v2_11ee721f": {
+    "description": "Auto-generated translation for: to combine into expressions",
+    "message": "வெளிப்பாடுகளாக இணைக்க"
+  },
+  "v2_0c1214a9": {
+    "description": "Auto-generated translation for: Right-click once or click icon to set as learning and add to notebook",
+    "message": "கற்றலுக்காக அமைக்க ஒருமுறை வலது கிளிக் செய்யவும் அல்லது ஐகானைக் கிளிக் செய்யவும், மற்றும் குறிப்பேட்டில் சேர்க்கவும்"
+  },
+  "v2_77979a7b": {
+    "description": "Auto-generated translation for: Right-click twice or click icon to set as learned in notebook",
+    "message": "நோட்புக்கில் கற்றதாக அமைக்க ஐகானை இருமுறை ரைட் கிளிக் செய்யவும் அல்லது கிளிக் செய்யவும்"
+  },
+  "v2_5e68e2c2": {
+    "description": "Auto-generated translation for: Click icon in word popup to skip and ignore words",
+    "message": "சொற்களைத் தவிர்க்கவும் புறக்கணிக்கவும் வார்த்தை பாப்அப்பில் உள்ள ஐகானைக் கிளிக் செய்யவும்"
+  },
+  "v2_304a1295": {
+    "description": "Auto-generated translation for: Basic Mode",
+    "message": "அடிப்படை முறை"
+  },
+  "v2_21c87bb4": {
+    "description": "Auto-generated translation for: Pause automatically after each subtitle",
+    "message": "ஒவ்வொரு வசனத்திற்கும் பிறகு தானாகவே இடைநிறுத்துங்கள்."
+  },
+  "v2_2dca98f5": {
+    "description": "Auto-generated translation for: AI voice repeats the subtitle",
+    "message": "AI குரல் வசனத்தை மீண்டும் சொல்கிறது"
+  },
+  "v2_345b7b6e": {
+    "description": "Auto-generated translation for: The scene itself repeats",
+    "message": "அந்தக் காட்சி மீண்டும் நிகழ்கிறது"
+  },
+  "v2_09d2688b": {
+    "description": "Auto-generated translation for: Number of times to repeat each subtitle",
+    "message": "ஒவ்வொரு துணைத்தலைப்பையும் எத்தனை முறை திரும்பத் திரும்பக் கூற வேண்டும்"
+  },
+  "v2_687c2d50": {
+    "description": "Auto-generated translation for: Delay before automatically resuming playback",
+    "message": "தானாக மறுஇயக்கம் செய்யப்படுவதற்கு முன் நிறுத்துதல்"
+  },
+  "v2_09a463d0": {
+    "description": "Auto-generated translation for: Resume Delay",
+    "message": "மீண்டும் தொடங்குவதில் தாமதம்"
+  },
+  "v2_3c571daf": {
+    "description": "Auto-generated translation for: Checking User",
+    "message": "பயனரைச் சரிபார்க்கிறது"
+  },
+  "v2_354469a3": {
+    "description": "Auto-generated translation for: Checking Subscription",
+    "message": "சந்தா சரிபார்க்கப்படுகிறது"
+  },
+  "v2_66994fdf": {
+    "description": "Auto-generated translation for: Checking Onboarding",
+    "message": "சேர்ப்பு சரிபார்க்கப்படுகிறது"
+  },
+  "v2_377155c3": {
+    "description": "Auto-generated translation for: Fetching Text Tracks",
+    "message": "உரை தடங்களைக் கொண்டுவருகிறது"
+  },
+  "v2_5ed3b4e2": {
+    "description": "Auto-generated translation for: Fetching Source Track",
+    "message": "மூலத் தடத்தைப் பெறுகிறது"
+  },
+  "v2_76661423": {
+    "description": "Auto-generated translation for: Fetching Subtitles",
+    "message": "வசனங்கள் பெறப்படுகிறது"
+  },
+  "v2_61576d6a": {
+    "description": "Auto-generated translation for: Initializing Settings",
+    "message": "அமைப்புகள் துவக்கப்படுகின்றன"
+  },
+  "v2_7f59b9cd": {
+    "description": "Auto-generated translation for: Checking Maintenance",
+    "message": "பராமரிப்பைச் சரிபார்க்கிறது"
+  },
+  "v2_569a21cc": {
+    "description": "Auto-generated translation for: Applying Video Settings",
+    "message": "வீடியோ அமைப்புகளைப் பயன்படுத்துகிறது"
+  },
+  "v2_57612843": {
+    "description": "Auto-generated translation for: Setting Up Tracks",
+    "message": "ட்ரேக்களை அமைத்தல்"
+  },
+  "v2_5759fb44": {
+    "description": "Auto-generated translation for: Initializing Loops",
+    "message": "சுழல்களைத் துவக்குகிறது"
+  },
+  "v2_7d6a9029": {
+    "description": "Auto-generated translation for: Setting Up UI",
+    "message": "பயனர் இடைமுகத்தை அமைத்தல்"
+  },
+  "v2_4e872308": {
+    "description": "Auto-generated translation for: Logging in...",
+    "message": "உள்நுழைகிறது..."
+  },
+  "v2_79ba4b9b": {
+    "description": "Auto-generated translation for: Disable AI Subtitles",
+    "message": "AI வசனங்களை முடக்கு"
+  },
+  "v2_08200e98": {
+    "description": "Auto-generated translation for: Highlights words as spoken",
+    "message": "சொற்கள் பேசியவுடன் முன்னிலைப்படுத்தப்படும்"
+  },
+  "v2_1eec85ba": {
+    "description": "Auto-generated translation for: Speaks the word aloud when the translation popup opens",
+    "message": "மொழிபெயர்ப்பு பாப்-அப் திறக்கும் போது வார்த்தையை சத்தமாகப் பேசுங்கள்"
+  },
+  "v2_547db6f3": {
+    "description": "Auto-generated translation for: Automatically resumes the video when leaving word hover",
+    "message": "வார்த்தையின் மீது வட்டமிடுவதை விடும்போது தானாகவே வீடியோவை மீண்டும் தொடங்கும்"
+  },
+  "v2_79b25b55": {
+    "description": "Auto-generated translation for: Automatically pauses the video when hovering over words",
+    "message": "வார்த்தைகள் மீது வட்டமிடும்போது வீடியோ தானாகவே இடைநிறுத்தப்படும்"
+  },
+  "v2_3311d25e": {
+    "description": "Auto-generated translation for: Shows a popup to manually merge words into phrases",
+    "message": "சொற்களை கைமுறையாக சொற்றொடர்களில் இணைக்க ஒரு பாப்அப்பைக் காட்டுகிறது"
+  },
+  "v2_74375228": {
+    "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal",
+    "message": "கிடைப்பதாக இருந்தால், தளத்தால் வழங்கப்படும் வசனங்களுக்கு முன்னுரிமை அளிக்கவும். இல்லையெனில், FluentAI ஏற்கனவே உள்ள வசனங்களை மொழிபெயர்க்கிறது. வீடியோ வசனங்கள் மிகவும் இயல்பானவை (பொருள் சார்ந்தவை), இயந்திர மொழிபெயர்ப்பு மிகவும் நேரடியானவை."
+  },
+  "v2_498c8dd9": {
+    "description": "Auto-generated translation for: Adjust the volume of interface sound effects",
+    "message": "இடைமுக ஒலி விளைவுகளின் ஒலியளவை சரிசெய்யவும்"
+  },
+  "v2_57e3e40b": {
+    "description": "Auto-generated translation for: Adjust the volume of AI-generated speech",
+    "message": "AI-யால் உருவாக்கப்பட்ட பேச்சின் ஒலியளவைச் சரிசெய்யவும்"
+  },
+  "v2_2ae68684": {
+    "description": "Auto-generated translation for: Adjust the speed at which AI reads text aloud",
+    "message": "AI உரை உரக்கப் படிக்கும் வேகத்தைச் சரிசெய்யவும்"
+  },
+  "v2_6a907c80": {
+    "description": "Auto-generated translation for: Choose the AI voice used for text-to-speech",
+    "message": "உரையிலிருந்து பேச்சுக்கான AI குரலைத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_5914e852": {
+    "description": "Auto-generated translation for: Show the translation for the subtitles list panel",
+    "message": "சப்-டைட்டில்கள் பட்டியல் பேனலுக்கான மொழிபெயர்ப்பைக் காட்டு"
+  },
+  "v2_37d730db": {
+    "description": "Auto-generated translation for: Select Transliteration Type",
+    "message": "ஒலிபெயர்ப்பு வகையைத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_053a110f": {
+    "description": "Auto-generated translation for: Type of transliteration for words and sentences",
+    "message": "சொற்கள் மற்றும் வாக்கியங்களுக்கான ஒலிபெயர்ப்பு வகை"
+  },
+  "v2_03c1d290": {
+    "description": "Auto-generated translation for: Add spaces between words for languages that don't use spaces",
+    "message": "இடைவெளிகளைப் பயன்படுத்தாத மொழிகளுக்கான வார்த்தைகளுக்கு இடையில் இடைவெளிகளைச் சேர்க்கவும்"
+  },
+  "v2_53290bf0": {
+    "description": "Auto-generated translation for: Light mode color",
+    "message": "ஒளிப் பயன்முறை வண்ணம்"
+  },
+  "v2_797f7170": {
+    "description": "Auto-generated translation for: Dark mode color",
+    "message": "இருண்ட பயன்முறை வண்ணம்"
+  },
+  "v2_28278ed1": {
+    "description": "Auto-generated translation for: Sound effects",
+    "message": "ஒலி விளைவுகள்"
+  },
+  "v2_39130773": {
+    "description": "Auto-generated translation for: Import New Ebook",
+    "message": "புதிய மின்புத்தகத்தை இறக்குமதி செய்க"
+  },
+  "v2_2cd81523": {
+    "description": "Auto-generated translation for: Media Player",
+    "message": "மீடியா பிளேயர்"
+  },
+  "v2_11ca663e": {
+    "description": "Auto-generated translation for: Onboarding Sandbox",
+    "message": "புதிய பணியாளர் இணைப்புச் செயல்முறை மாதிரிச் சூழல்"
+  },
+  "v2_2f241677": {
+    "description": "Auto-generated translation for: Test the onboarding modal flow",
+    "message": "சேர்ப்பு மாதிரி ஓட்டத்தைச் சோதிக்கவும்"
+  },
+  "v2_6080a0a2": {
+    "description": "Auto-generated translation for: Open Onboarding Modal",
+    "message": "சேர்ப்பு படிவத்தைத் திறக்கவும்"
+  },
+  "v2_3ec9188a": {
+    "description": "Auto-generated translation for: Configure advanced playback modes for better learning experience.",
+    "message": "சிறந்த கற்றல் அனுபவத்திற்காக மேம்பட்ட பிளேபேக் முறைகளை உள்ளமைக்கவும்."
+  },
+  "v2_04c5d8ef": {
+    "description": "Auto-generated translation for: Sound",
+    "message": "ஒலி"
+  },
+  "v2_6a00f095": {
+    "description": "Auto-generated translation for: Failed to compute video ID",
+    "message": "வீடியோ ஐடியைக் கணக்கிடத் தவறிவிட்டது"
+  },
+  "v2_5a221ba2": {
+    "description": "Auto-generated translation for: Failed to save subtitles to server",
+    "message": "சர்வரில் வசனங்களைச் சேமிக்க முடியவில்லை"
+  },
+  "v2_1a1c8f25": {
+    "description": "Auto-generated translation for: Generating subtitles using AI. This may take a few minutes.",
+    "message": "AI ஐப் பயன்படுத்தி வசனங்களை உருவாக்குகிறது. இதற்கு சில நிமிடங்கள் ஆகலாம்."
+  },
+  "v2_4721fdcc": {
+    "description": "Auto-generated translation for: Upload a subtitle file from your computer",
+    "message": "உங்கள் கணினியிலிருந்து வசனக்கோப்பை பதிவேற்றவும்"
+  },
+  "v2_10c5c04c": {
+    "description": "Auto-generated translation for: Searching for existing subtitles in your library",
+    "message": "உங்கள் நூலகத்தில் தற்போதுள்ள வசனங்களைத் தேடுகிறது"
+  },
+  "v2_5c5a2c8b": {
+    "description": "Auto-generated translation for: Preparing subtitles for smooth playback",
+    "message": "சீரான பின்னணி இயக்கத்திற்காக வசன வரிகளைத் தயாரித்தல்"
+  },
+  "v2_4f4dc821": {
+    "description": "Auto-generated translation for: Unable to load prefetching data",
+    "message": "முன்னெச்சரிக்கை தரவை ஏற்ற முடியவில்லை"
+  },
+  "v2_29675b70": {
+    "description": "Auto-generated translation for: Checking for subtitles...",
+    "message": "வசனங்களுக்காகச் சரிபார்க்கிறது..."
+  },
+  "v2_601ab149": {
+    "description": "Auto-generated translation for: Extracting Audio",
+    "message": "ஆடியோ பிரித்தெடுத்தல்"
+  },
+  "v2_3eb2a1df": {
+    "description": "Auto-generated translation for: Uploading",
+    "message": "பதிவேற்றுகிறது"
+  },
+  "v2_49f5687a": {
+    "description": "Auto-generated translation for: Preparing Audio",
+    "message": "ஆடியோவைத் தயாரிக்கிறது"
+  },
+  "v2_010bbd92": {
+    "description": "Auto-generated translation for: Transcribing",
+    "message": "படியெடுத்தல்"
+  },
+  "v2_1d9722d9": {
+    "description": "Auto-generated translation for: Creating Segments",
+    "message": "பிரிவுகளை உருவாக்குதல்"
+  },
+  "v2_7b0cd377": {
+    "description": "Auto-generated translation for: AI Generated",
+    "message": "AI உருவாக்கம்"
+  },
+  "v2_560cedf1": {
+    "description": "Auto-generated translation for: Original",
+    "message": "அசல்"
+  },
+  "v2_102f14f6": {
+    "description": "Auto-generated translation for: Translated",
+    "message": "மொழிபெயர்க்கப்பட்டது"
+  },
+  "v2_1c10cffd": {
+    "description": "Auto-generated translation for: Found Subtitles",
+    "message": "சப் டைட்டில்கள் கண்டறியப்பட்டன"
+  },
+  "v2_6c0aabc5": {
+    "description": "Auto-generated translation for: Source",
+    "message": "ஆதாரம்"
+  },
+  "v2_1cc456a1": {
+    "description": "Auto-generated translation for: Total subtitles",
+    "message": "மொத்த வசனங்கள்"
+  },
+  "v2_7390c06a": {
+    "description": "Auto-generated translation for: Prefetching first ${PREFETCH_SUBTITLE_COUNT} subtitles...",
+    "message": "முதல் ${PREFETCH_SUBTITLE_COUNT} துணைத்தலைப்புகளை முன்கூட்டியே ஏற்றுகிறது...",
+    "placeholders": {
+      "PREFETCH_SUBTITLE_COUNT": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_0675d9a3": {
+    "description": "Auto-generated translation for: ready",
+    "message": "தயார்"
+  },
+  "v2_7483b4e0": {
+    "description": "Auto-generated translation for: Overall Progress",
+    "message": "ஒட்டுமொத்த வளர்ச்சி"
+  },
+  "v2_4cb96c85": {
+    "description": "Auto-generated translation for: Manual upload",
+    "message": "கைமுறைப் பதிவேற்றம்"
+  },
+  "v2_14a1bd0d": {
+    "description": "Auto-generated translation for: Upload a prepared subtitle file directly from your computer.",
+    "message": "சமர்ப்பிக்கப்பட்ட வசனக் கோப்பை உங்கள் கணினியிலிருந்து நேரடியாகப் பதிவேற்றவும்."
+  },
+  "v2_35254b1a": {
+    "description": "Auto-generated translation for: Supported formats: .srt · .vtt",
+    "message": "ஆதரிக்கப்படும் வடிவங்கள்: .srt · .vtt"
+  },
+  "v2_5f5fc1e7": {
+    "description": "Auto-generated translation for: Create AI subtitles",
+    "message": "AI வசனங்களை உருவாக்கவும்"
+  },
+  "v2_660f6b3b": {
+    "description": "Auto-generated translation for: AI subtitles are not yet available",
+    "message": "AI வசனங்கள் இன்னும் கிடைக்கப்பெறவில்லை"
+  },
+  "v2_46e179c5": {
+    "description": "Auto-generated translation for: Recommended",
+    "message": "பரிந்துரைக்கப்பட்டது"
+  },
+  "v2_4605eb37": {
+    "description": "Auto-generated translation for: Generate polished subtitles automatically and review them in-app.",
+    "message": "தானாகவே மெருகூட்டப்பட்ட வசனங்களை உருவாக்கி, அவற்றை ஆப்ஸில் மதிப்பாய்வு செய்யவும்."
+  },
+  "v2_02439608": {
+    "description": "Auto-generated translation for: We'll notify you as soon as AI subtitles are available.",
+    "message": "AI வசனங்கள் கிடைத்ததும் உங்களுக்குத் தெரிவிப்போம்."
+  },
+  "v2_300ca293": {
+    "description": "Auto-generated translation for: Best when you do not have an existing subtitle file.",
+    "message": "உங்களிடம் ஏற்கனவே ஒரு வசன கோப்பு இல்லாதபோது சிறந்தது."
+  },
+  "v2_655dcf02": {
+    "description": "Auto-generated translation for: Checking for Subtitles",
+    "message": "வசனங்களுக்காகச் சரிபார்க்கிறது"
+  },
+  "v2_1d6311ff": {
+    "description": "Auto-generated translation for: Preparing Subtitles",
+    "message": "வசனங்களைத் தயாரிக்கிறது"
+  },
+  "v2_049535d6": {
+    "description": "Auto-generated translation for: Pause",
+    "message": "இடைநிறுத்து"
+  },
+  "v2_0025ff54": {
+    "description": "Auto-generated translation for: Play",
+    "message": "விளையாடு"
+  },
+  "v2_68b2a7ae": {
+    "description": "Auto-generated translation for: Unmute",
+    "message": "ஒலியை இயக்கு"
+  },
+  "v2_0024c639": {
+    "description": "Auto-generated translation for: Mute",
+    "message": "ஒலி இல்லாமல்"
+  },
+  "v2_3984f689": {
+    "description": "Auto-generated translation for: Import New Media",
+    "message": "புதிய மீடியாவை இறக்குமதி செய்"
+  },
+  "v2_7ef8104d": {
+    "description": "Auto-generated translation for: Import Media File",
+    "message": "மீடியா கோப்பை இறக்குமதி செய்"
+  },
+  "v2_65a8bd97": {
+    "description": "Auto-generated translation for: Select a video or audio file to get started",
+    "message": "தொடங்குவதற்கு ஒரு வீடியோ அல்லது ஆடியோ கோப்பைத் தேர்ந்தெடுக்கவும்"
+  },
+  "v2_6b3550ff": {
+    "description": "Auto-generated translation for: Go back",
+    "message": "திரும்பிச் செல்லவும்"
+  },
+  "v2_438ec663": {
+    "description": "Auto-generated translation for: Type a command or search...",
+    "message": "கட்டளையைத் தட்டச்சு செய்யவும் அல்லது தேடவும்..."
+  },
+  "v2_3b1d43b0": {
+    "description": "Auto-generated translation for: Quick nav",
+    "message": "விரைவு வழிசெலுத்தல்"
+  },
+  "v2_37a6eaad": {
+    "description": "Auto-generated translation for: Search Notebook",
+    "message": "நோட்புக்கைத் தேடு"
+  },
+  "v2_3ca7c67d": {
+    "description": "Auto-generated translation for: Filter Notebook",
+    "message": "நோட்புக்கைப் வடிகட்டு"
+  },
+  "v2_07a181db": {
+    "description": "Auto-generated translation for: Import to Notebook",
+    "message": "நோட்புக்கில் உட்புகுத்துக"
+  },
+  "v2_4ec08b39": {
+    "description": "Auto-generated translation for: Export Notebook",
+    "message": "நோட்புக்கை ஏற்றுமதிசெய்"
+  },
+  "v2_7e3d48d8": {
+    "description": "Auto-generated translation for: Quick Actions & Search",
+    "message": "விரைவுச் செயல்கள் & தேடல்"
+  },
+  "v2_2d97a959": {
+    "description": "Auto-generated translation for: Sandbox",
+    "message": "மணல் தொட்டி"
+  },
+  "v2_3bdf39d7": {
+    "description": "Auto-generated translation for: Drop zone for EPUB files. Click or press Enter to browse files.",
+    "message": "EPUB கோப்புகளுக்கான தளப்பகுதி. கோப்புகளை உலாவ கிளிக் செய்யவும் அல்லது Enter ஐ அழுத்தவும்."
+  },
+  "v2_23bacec7": {
+    "description": "Auto-generated translation for: complete",
+    "message": "முழுமையானது"
+  },
+  "v2_251110be": {
+    "description": "Auto-generated translation for: Jump to page",
+    "message": "பக்கத்திற்குச் செல்லவும்"
+  },
+  "v2_286ad152": {
+    "description": "Auto-generated translation for: Jump to section",
+    "message": "பகுதிக்குச் செல்லவும்"
   }
 }
