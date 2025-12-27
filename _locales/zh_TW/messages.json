@@ -2033,18 +2033,6 @@
     "description": "Auto-generated translation for: Filters",
     "message": "篩選條件"
   },
-  "v2_324dab0f": {
-    "description": "Auto-generated translation for: Merge left",
-    "message": "靠左合併"
-  },
-  "v2_17be1814": {
-    "description": "Auto-generated translation for: Merge right",
-    "message": "向右合併"
-  },
-  "v2_5f1a5870": {
-    "description": "Auto-generated translation for: Split word",
-    "message": "拆分字詞"
-  },
   "v2_74b21635": {
     "description": "Auto-generated translation for: Back to menu",
     "message": "返回主選單"
@@ -2966,19 +2954,6 @@
     "description": "Auto-generated translation for: Casual Usage",
     "message": "休閒使用"
   },
-  "v2_6d2708eb": {
-    "description": "Auto-generated translation for: Pro trial: $time$ left",
-    "message": "專業試用：剩餘 $time$",
-    "placeholders": {
-      "time": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_5256651f": {
-    "description": "Auto-generated translation for: Unmerge",
-    "message": "取消合併"
-  },
   "v2_3d1b87e9": {
     "description": "Auto-generated translation for: Lifetime",
     "message": "終生"
@@ -3525,10 +3500,6 @@
   "v2_0e6f5b4b": {
     "description": "Auto-generated translation for: Search configs...",
     "message": "搜尋設定..."
-  },
-  "v2_6777abf6": {
-    "description": "Auto-generated translation for: Preparing...",
-    "message": "準備中..."
   },
   "v2_40e79ef8": {
     "description": "Auto-generated translation for: Repeat Mode",
@@ -4530,10 +4501,6 @@
     "description": "Auto-generated translation for: Mini Popup Settings",
     "message": "迷你彈出視窗設定"
   },
-  "v2_4ad980f4": {
-    "description": "Auto-generated translation for: Number of Translations",
-    "message": "翻譯數量"
-  },
   "v2_62e23b91": {
     "description": "Auto-generated translation for: Contribute on Github",
     "message": "在 Github 上貢獻"
@@ -5248,10 +5215,6 @@
     "description": "Auto-generated translation for: Turn On/Off Voice Repeat Mode",
     "message": "開啟/關閉語音重複模式"
   },
-  "v2_4d9359fa": {
-    "description": "Auto-generated translation for: Turn On/Off Word Mapping Colors",
-    "message": "開啟/關閉文字對應色彩"
-  },
   "v2_0c503f96": {
     "description": "Auto-generated translation for: Pronounce Current Subtitle",
     "message": "朗讀目前字幕"
@@ -5323,10 +5286,6 @@
   "v2_44a64649": {
     "description": "Auto-generated translation for: Unblur Native",
     "message": "原生去模糊"
-  },
-  "v2_356ad346": {
-    "description": "Auto-generated translation for: Word Colors",
-    "message": "文字顏色"
   },
   "v2_49847ac9": {
     "description": "Auto-generated translation for: Pronounce",
@@ -5556,14 +5515,6 @@
     "description": "Auto-generated translation for: Scale all translation popups including text, buttons, and spacing",
     "message": "縮放所有翻譯彈出視窗，包括文字、按鈕和間距"
   },
-  "v2_78606dc1": {
-    "description": "Auto-generated translation for: Merge with previous word",
-    "message": "與前一個詞合併"
-  },
-  "v2_5f4dfdbb": {
-    "description": "Auto-generated translation for: Merge with next word",
-    "message": "與下個字詞合併"
-  },
   "v2_03c2f0e0": {
     "description": "Auto-generated translation for: Added",
     "message": "已新增"
@@ -5732,10 +5683,6 @@
     "description": "Auto-generated translation for: Subtitle List",
     "message": "字幕列表"
   },
-  "v2_6f2ede54": {
-    "description": "Auto-generated translation for: Shows how each word in your learning language corresponds to your native language",
-    "message": "顯示學習語言中的每個詞彙如何對應到您的母語"
-  },
   "v2_2064f6c7": {
     "description": "Auto-generated translation for: Show Translation in List",
     "message": "在列表中顯示翻譯"
@@ -5772,10 +5719,6 @@
     "description": "Auto-generated translation for: User Analytics",
     "message": "使用者分析"
   },
-  "v2_456af5e4": {
-    "description": "Auto-generated translation for: Highlight Word Correspondence",
-    "message": "突顯單字對應"
-  },
   "v2_3d481770": {
     "description": "Auto-generated translation for: Show Base Form",
     "message": "顯示基本形式"
@@ -5803,18 +5746,6 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "表單可視性"
-  },
-  "v2_39e97037": {
-    "description": "Auto-generated translation for: Extracting audio...",
-    "message": "正在擷取音訊..."
-  },
-  "v2_4abdcc64": {
-    "description": "Auto-generated translation for: Transcribing...",
-    "message": "轉錄中..."
-  },
-  "v2_25b6c807": {
-    "description": "Auto-generated translation for: Creating segments...",
-    "message": "正在建立區隔..."
   },
   "v2_33cd69e2": {
     "description": "Auto-generated translation for: AI List Generation",
@@ -6263,10 +6194,6 @@
     "description": "Auto-generated translation for: Keep playback paused after repeats finish",
     "message": "重複播放結束後保持暫停"
   },
-  "v2_596712ca": {
-    "description": "Auto-generated translation for: Token Translation",
-    "message": "令牌翻譯"
-  },
   "v2_3e668542": {
     "description": "Auto-generated translation for: HOW TO GET STARTED",
     "message": "如何開始使用"
@@ -6613,77 +6540,9 @@
     "description": "Auto-generated translation for: Failed to update bookmark",
     "message": "更新書籤失敗"
   },
-  "v2_5dce8b1c": {
-    "description": "Auto-generated translation for: Upload failed",
-    "message": "上傳失敗"
-  },
-  "v2_4cda3d4e": {
-    "description": "Auto-generated translation for: Neural transcription is already running for this video.",
-    "message": "這個影片的神經網路轉錄已經在執行中。"
-  },
-  "v2_2cc15054": {
-    "description": "Auto-generated translation for: Please configure your learning language before continuing.",
-    "message": "請在繼續之前設定您的學習語言。"
-  },
-  "v2_07ddf321": {
-    "description": "Auto-generated translation for: AI subtitles are currently unavailable.",
-    "message": "目前暫不提供 AI 字幕。"
-  },
-  "v2_47531d14": {
-    "description": "Auto-generated translation for: AI subtitles are ready.",
-    "message": "AI 字幕已準備就緒。"
-  },
-  "v2_0b50491d": {
-    "description": "Auto-generated translation for: Failed to start neural transcription.",
-    "message": "啟動神經轉錄失敗。"
-  },
-  "v2_2e29759b": {
-    "description": "Auto-generated translation for: Learning language is required to build AI subtitles.",
-    "message": "學習語言是構建AI字幕的必要條件。"
-  },
-  "v2_7b769a63": {
-    "description": "Auto-generated translation for: No timed segments were returned for this transcription.",
-    "message": "此聽寫稿沒有傳回任何時間戳記區段。"
-  },
-  "v2_183981f8": {
-    "description": "Auto-generated translation for: Failed to complete neural transcription.",
-    "message": "無法完成神經轉錄。"
-  },
-  "v2_06abed02": {
-    "description": "Auto-generated translation for: Failed to generate AI subtitles.",
-    "message": "產生 AI 字幕失敗。"
-  },
   "v2_6f270a6d": {
     "description": "Auto-generated translation for: Queued",
     "message": "已佇列"
-  },
-  "v2_5e70a46c": {
-    "description": "Auto-generated translation for: Preparing audio...",
-    "message": "準備音訊中..."
-  },
-  "v2_601aac2a": {
-    "description": "Auto-generated translation for: Current audio language is not supported for AI subtitles.",
-    "message": "目前音訊語言不支援 AI 字幕。"
-  },
-  "v2_34bf789b": {
-    "description": "Auto-generated translation for: Unable to access the current audio track for AI subtitles.",
-    "message": "無法存取目前的音訊軌，以產生AI字幕。"
-  },
-  "v2_5433b40f": {
-    "description": "Auto-generated translation for: Switch the audio track to match your learning language before generating AI subtitles.",
-    "message": "在產生 AI 字幕之前，請先切換音訊軌以符合您的學習語言。"
-  },
-  "v2_6cfa0493": {
-    "description": "Auto-generated translation for: This video already contains high-quality subtitles.",
-    "message": "這部影片已經包含高品質的字幕。"
-  },
-  "v2_1645ab12": {
-    "description": "Auto-generated translation for: Subtitles are already available for this video.",
-    "message": "這部影片已提供字幕。"
-  },
-  "v2_63bef93b": {
-    "description": "Auto-generated translation for: AI subtitles are not available on this platform yet.",
-    "message": "這個平台上目前還沒有提供 AI 字幕。"
   },
   "v2_63f90643": {
     "description": "Auto-generated translation for: Copied!",
@@ -7794,28 +7653,6 @@
     "description": "Auto-generated translation for: Earn 20% recurring revenue from every subscriber you bring, for as long as they stay",
     "message": "您所推薦的每位訂閱者，只要持續訂閱，您就能從中獲得 20% 的經常性收入"
   },
-  "v2_4023819e": {
-    "description": "Auto-generated translation for: Extracting audio... {{percentage}}%",
-    "message": "正在擷取音訊... {{percentage}}%",
-    "placeholders": {
-      "percentage": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_5c4fc5f7": {
-    "description": "Auto-generated translation for: Requesting transcription...",
-    "message": "請求轉錄..."
-  },
-  "v2_11fbe422": {
-    "description": "Auto-generated translation for: Uploading audio... {{percentage}}%",
-    "message": "正在上傳音訊... {{percentage}}%",
-    "placeholders": {
-      "percentage": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_4559a29d": {
     "description": "Auto-generated translation for: Language learning App for Netflix,<br>YouTube, Amazon Prime, and Disney Plus.",
     "message": "適用於 Netflix、YouTube、Amazon Prime 和 Disney Plus 的語言學習應用程式。"
@@ -8224,22 +8061,6 @@
     "description": "Auto-generated translation for: Word Merging Enabled",
     "message": "文字合併已啟用"
   },
-  "v2_4a463c01": {
-    "description": "Auto-generated translation for: Enable token translation.",
-    "message": "啟用代幣翻譯。"
-  },
-  "v2_305d9835": {
-    "description": "Auto-generated translation for: Token Translation Enabled",
-    "message": "啟用代幣轉譯"
-  },
-  "v2_3fd88d7f": {
-    "description": "Auto-generated translation for: Enable learning to native language mapping.",
-    "message": "啟用學習到母語的映射。"
-  },
-  "v2_2260eb57": {
-    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
-    "message": "已啟用學習至原生對應"
-  },
   "v2_54d2596b": {
     "description": "Auto-generated translation for: Enable sentence transliteration.",
     "message": "啟用句子音譯"
@@ -8271,26 +8092,6 @@
   "v2_2a01bf90": {
     "description": "Auto-generated translation for: Choose color for learning subtitle text",
     "message": "選擇學習用字幕文字的顏色"
-  },
-  "v2_56f71b61": {
-    "description": "Auto-generated translation for: Show or hide word insights.",
-    "message": "顯示或隱藏字詞深入資訊"
-  },
-  "v2_51950c86": {
-    "description": "Auto-generated translation for: Show or hide word meanings.",
-    "message": "顯示或隱藏單字含義。"
-  },
-  "v2_3d40af08": {
-    "description": "Auto-generated translation for: Show or hide dictionary information.",
-    "message": "顯示或隱藏字典資訊。"
-  },
-  "v2_299b6507": {
-    "description": "Auto-generated translation for: Show or hide transliteration.",
-    "message": "顯示或隱藏音譯"
-  },
-  "v2_04cc1813": {
-    "description": "Auto-generated translation for: Show or hide base form information.",
-    "message": "顯示或隱藏基本形式資訊。"
   },
   "v2_4a5bbaee": {
     "description": "Auto-generated translation for: Preferred character length for subtitles.",
@@ -8387,10 +8188,6 @@
   "v2_67d3a8c5": {
     "description": "Auto-generated translation for: Subtitles",
     "message": "字幕"
-  },
-  "v2_1577c0ce": {
-    "description": "Auto-generated translation for: Visibility",
-    "message": "能見度"
   },
   "v2_6a9872e7": {
     "description": "Auto-generated translation for: Interface",
@@ -8648,14 +8445,6 @@
       }
     }
   },
-  "v2_6aa54514": {
-    "description": "Auto-generated translation for: Invalid timed segments received from transcription service.",
-    "message": "從轉錄服務收到無效的定時區段。"
-  },
-  "v2_3865beea": {
-    "description": "Auto-generated translation for: No valid timed segments found in transcription response.",
-    "message": "在轉錄回應中找不到有效的定時區段。"
-  },
   "v2_3055b6cc": {
     "description": "Auto-generated translation for: Need help?",
     "message": "需要協助嗎？"
@@ -8853,10 +8642,6 @@
   "v2_562a105c": {
     "description": "Auto-generated translation for: Highlight words as they are being spoken",
     "message": "在詞語被說出時高亮顯示"
-  },
-  "v2_0c7317ce": {
-    "description": "Auto-generated translation for: Show word correspondence between learning and native languages",
-    "message": "顯示學習語言與母語之間的詞彙對應關係"
   },
   "v2_2a5674f9": {
     "description": "Auto-generated translation for: for detailed word analysis",
@@ -9126,18 +8911,6 @@
     "description": "Auto-generated translation for: Translated",
     "message": "已翻譯"
   },
-  "v2_1c10cffd": {
-    "description": "Auto-generated translation for: Found Subtitles",
-    "message": "找到字幕"
-  },
-  "v2_6c0aabc5": {
-    "description": "Auto-generated translation for: Source",
-    "message": "來源"
-  },
-  "v2_1cc456a1": {
-    "description": "Auto-generated translation for: Total subtitles",
-    "message": "總字幕"
-  },
   "v2_7390c06a": {
     "description": "Auto-generated translation for: Prefetching first ${PREFETCH_SUBTITLE_COUNT} subtitles...",
     "message": "正在預取前 ${PREFETCH_SUBTITLE_COUNT} 個字幕…",
@@ -9278,5 +9051,243 @@
   "v2_286ad152": {
     "description": "Auto-generated translation for: Jump to section",
     "message": "跳至章節"
+  },
+  "v2_3599a6b5": {
+    "description": "Auto-generated translation for: Merge failed: $error$",
+    "message": "合併失敗：$error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_38a669bc": {
+    "description": "Auto-generated translation for: Unmerge failed: $error$",
+    "message": "取消合併失敗：$error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_53ff1ea0": {
+    "description": "Auto-generated translation for: Translation Count",
+    "message": "翻譯數量"
+  },
+  "v2_4b14d7dd": {
+    "description": "Auto-generated translation for: {{count}} words archived successfully",
+    "message": "已成功存檔 {{count}} 個字詞",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_64202cfd": {
+    "description": "Auto-generated translation for: Compact",
+    "message": "輕巧"
+  },
+  "v2_696240f7": {
+    "description": "Auto-generated translation for: Uploading Audio",
+    "message": "正在上傳音訊"
+  },
+  "v2_6d9b0991": {
+    "description": "Auto-generated translation for: Generating AI Subtitles",
+    "message": "正在產生AI字幕"
+  },
+  "v2_5acd92d8": {
+    "description": "Auto-generated translation for: Please wait while we process the audio",
+    "message": "正在處理音訊，請稍候"
+  },
+  "v2_30e7ca8e": {
+    "description": "Auto-generated translation for: Copy sentence",
+    "message": "複製句子"
+  },
+  "v2_46366626": {
+    "description": "Auto-generated translation for: AI subtitles ready - transcription continues in background",
+    "message": "AI 字幕已就緒，轉錄作業仍在背景執行"
+  },
+  "v2_356c975a": {
+    "description": "Auto-generated translation for: AI subtitles ready",
+    "message": "AI字幕已就緒"
+  },
+  "v2_341e30ef": {
+    "description": "Auto-generated translation for: Platform not available",
+    "message": "平台無法使用"
+  },
+  "v2_69b99a0d": {
+    "description": "Auto-generated translation for: Resources controller not available",
+    "message": "資源控制器無法使用"
+  },
+  "v2_6c73b8d4": {
+    "description": "Auto-generated translation for: Audio fetching not available for this platform",
+    "message": "此平台不提供音訊擷取功能"
+  },
+  "v2_74c3cdca": {
+    "description": "Auto-generated translation for: Could not get video ID",
+    "message": "無法取得影片ID"
+  },
+  "v2_0b5efd9a": {
+    "description": "Auto-generated translation for: Video ID is not available",
+    "message": "影片ID無效"
+  },
+  "v2_2b45f66f": {
+    "description": "Auto-generated translation for: Could not get video duration",
+    "message": "無法取得影片長度"
+  },
+  "v2_74375228": {
+    "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal",
+    "message": "如果平台提供字幕，請優先使用。否則，FluentAI 會翻譯現有的字幕。影片字幕會更自然（語義導向），而機器翻譯則更為直譯。"
+  },
+  "v2_57e3e40b": {
+    "description": "Auto-generated translation for: Adjust the volume of AI-generated speech",
+    "message": "調整AI生成語音的音量"
+  },
+  "v2_78c1f3e3": {
+    "description": "Auto-generated translation for: Press a key",
+    "message": "按任意鍵"
+  },
+  "v2_56206947": {
+    "description": "Auto-generated translation for: Waiting for key...",
+    "message": "等待鑰匙中..."
+  },
+  "v2_6560b365": {
+    "description": "Auto-generated translation for: Press any key on your keyboard",
+    "message": "在鍵盤上按任意鍵"
+  },
+  "v2_74946a56": {
+    "description": "Auto-generated translation for: Action",
+    "message": "動作"
+  },
+  "v2_0001263f": {
+    "description": "Auto-generated translation for: Key",
+    "message": "鍵"
+  },
+  "v2_488fdd55": {
+    "description": "Auto-generated translation for: Reset column order",
+    "message": "重設欄位順序"
+  },
+  "v2_19ed530d": {
+    "description": "Auto-generated translation for: {selected} of {page} row(s) selected ({total} total)",
+    "message": "已選取 {selected} / {page} 列 ({total} 總計)",
+    "placeholders": {
+      "selected": {
+        "content": "$1"
+      },
+      "page": {
+        "content": "$2"
+      },
+      "total": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_43709f10": {
+    "description": "Auto-generated translation for: All bookmarks deleted successfully",
+    "message": "所有書籤均已成功刪除"
+  },
+  "v2_1b21e1b5": {
+    "description": "Auto-generated translation for: Failed to delete all bookmarks",
+    "message": "無法刪除所有書籤"
+  },
+  "v2_28cea832": {
+    "description": "Auto-generated translation for: No bookmarks to delete",
+    "message": "沒有可刪除的書籤"
+  },
+  "v2_69e74069": {
+    "description": "Auto-generated translation for: Delete All Bookmarks",
+    "message": "一律刪除書籤"
+  },
+  "v2_40df7789": {
+    "description": "Auto-generated translation for: Danger Zone",
+    "message": "危險區域"
+  },
+  "v2_5f4034b8": {
+    "description": "Auto-generated translation for: Delete Account",
+    "message": "刪除帳戶"
+  },
+  "v2_201befa2": {
+    "description": "Auto-generated translation for: Once you delete your account, there is no going back. This action cannot be undone.",
+    "message": "一旦您刪除帳戶，將無法復原。此操作無法撤銷。"
+  },
+  "v2_72f13ac5": {
+    "description": "Auto-generated translation for: Are you absolutely sure?",
+    "message": "你確定嗎？"
+  },
+  "v2_374ce61e": {
+    "description": "Auto-generated translation for: This action cannot be undone. This will permanently delete your account and remove all your data from our servers.",
+    "message": "此動作無法復原。這將永久刪除您的帳戶並移除我們伺服器上的所有資料。"
+  },
+  "v2_1c7b0a70": {
+    "description": "Auto-generated translation for: Please type",
+    "message": "請輸入"
+  },
+  "v2_368d228d": {
+    "description": "Auto-generated translation for: to confirm.",
+    "message": "確認。"
+  },
+  "v2_6d1f8b6c": {
+    "description": "Auto-generated translation for: Learning Subtitle Font Size",
+    "message": "學習字幕字體大小"
+  },
+  "v2_29e9744a": {
+    "description": "Auto-generated translation for: Learning Subtitle Text Color",
+    "message": "學習字幕文字顏色"
+  },
+  "v2_43266384": {
+    "description": "Auto-generated translation for: Show Transliteration Above Words",
+    "message": "在詞語上方顯示拼音"
+  },
+  "v2_41fbb1cc": {
+    "description": "Auto-generated translation for: Display phonetic pronunciation above words using the selected transliteration type",
+    "message": "使用選定的轉寫類型在單字上方顯示語音發音"
+  },
+  "v2_63b16a91": {
+    "description": "Auto-generated translation for: Show Dictionary Form Above Words",
+    "message": "在單字上方顯示字典形式"
+  },
+  "v2_754e29d3": {
+    "description": "Auto-generated translation for: Native Subtitle Font Size",
+    "message": "原生字幕字體大小"
+  },
+  "v2_2c4445d1": {
+    "description": "Auto-generated translation for: Native Subtitle Text Color",
+    "message": "原生字幕文字顏色"
+  },
+  "v2_4390c9a4": {
+    "description": "Auto-generated translation for: Choose the language for AI-generated subtitles. This should match the video's spoken language.",
+    "message": "選擇 AI 產生字幕的語言。此語言應與影片中的口說語言相符。"
+  },
+  "v2_7c675384": {
+    "description": "Auto-generated translation for: Use found subtitles",
+    "message": "使用找到的字幕"
+  },
+  "v2_4793d4bc": {
+    "description": "Auto-generated translation for: Use Found Subtitles",
+    "message": "使用找到的字幕"
+  },
+  "v2_3eef47a0": {
+    "description": "Auto-generated translation for: segments",
+    "message": "區段"
+  },
+  "v2_7f82fd38": {
+    "description": "Auto-generated translation for: Import my own subtitles",
+    "message": "匯入我的字幕"
+  },
+  "v2_65fec73b": {
+    "description": "Auto-generated translation for: Upload a different subtitle file from your computer.",
+    "message": "從您的電腦上傳不同的字幕檔案。"
+  },
+  "v2_14d0c3cb": {
+    "description": "Auto-generated translation for: Search languages...",
+    "message": "搜尋語言..."
+  },
+  "v2_6248a6fe": {
+    "description": "Auto-generated translation for: No languages found",
+    "message": "找不到任何語言"
+  },
+  "v2_71087a3d": {
+    "description": "Auto-generated translation for: Subtitles Found",
+    "message": "已找到字幕"
   }
 }

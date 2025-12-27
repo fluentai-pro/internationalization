@@ -2033,18 +2033,6 @@
     "description": "Auto-generated translation for: Filters",
     "message": "Bộ lọc"
   },
-  "v2_324dab0f": {
-    "description": "Auto-generated translation for: Merge left",
-    "message": "Sáp nhập sang trái"
-  },
-  "v2_17be1814": {
-    "description": "Auto-generated translation for: Merge right",
-    "message": "Nhập làn bên phải"
-  },
-  "v2_5f1a5870": {
-    "description": "Auto-generated translation for: Split word",
-    "message": "Tách từ"
-  },
   "v2_74b21635": {
     "description": "Auto-generated translation for: Back to menu",
     "message": "Quay lại menu"
@@ -2966,19 +2954,6 @@
     "description": "Auto-generated translation for: Casual Usage",
     "message": "Sử dụng thông thường"
   },
-  "v2_6d2708eb": {
-    "description": "Auto-generated translation for: Pro trial: $time$ left",
-    "message": "Thời gian dùng thử Pro còn: $time$",
-    "placeholders": {
-      "time": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_5256651f": {
-    "description": "Auto-generated translation for: Unmerge",
-    "message": "Hủy hợp nhất"
-  },
   "v2_3d1b87e9": {
     "description": "Auto-generated translation for: Lifetime",
     "message": "Trọn đời"
@@ -3525,10 +3500,6 @@
   "v2_0e6f5b4b": {
     "description": "Auto-generated translation for: Search configs...",
     "message": "Tìm cấu hình..."
-  },
-  "v2_6777abf6": {
-    "description": "Auto-generated translation for: Preparing...",
-    "message": "Đang chuẩn bị..."
   },
   "v2_40e79ef8": {
     "description": "Auto-generated translation for: Repeat Mode",
@@ -4530,10 +4501,6 @@
     "description": "Auto-generated translation for: Mini Popup Settings",
     "message": "Cài đặt Mini Popup"
   },
-  "v2_4ad980f4": {
-    "description": "Auto-generated translation for: Number of Translations",
-    "message": "Số bản dịch"
-  },
   "v2_62e23b91": {
     "description": "Auto-generated translation for: Contribute on Github",
     "message": "Đóng góp trên Github"
@@ -5248,10 +5215,6 @@
     "description": "Auto-generated translation for: Turn On/Off Voice Repeat Mode",
     "message": "Bật/Tắt Chế độ Lặp lại Giọng nói"
   },
-  "v2_4d9359fa": {
-    "description": "Auto-generated translation for: Turn On/Off Word Mapping Colors",
-    "message": "Bật/Tắt Màu Sắc Ánh Xạ Từ"
-  },
   "v2_0c503f96": {
     "description": "Auto-generated translation for: Pronounce Current Subtitle",
     "message": "Phát âm phụ đề hiện tại"
@@ -5323,10 +5286,6 @@
   "v2_44a64649": {
     "description": "Auto-generated translation for: Unblur Native",
     "message": "Bỏ mờ ảnh gốc"
-  },
-  "v2_356ad346": {
-    "description": "Auto-generated translation for: Word Colors",
-    "message": "Màu từ"
   },
   "v2_49847ac9": {
     "description": "Auto-generated translation for: Pronounce",
@@ -5556,14 +5515,6 @@
     "description": "Auto-generated translation for: Scale all translation popups including text, buttons, and spacing",
     "message": "Điều chỉnh tỷ lệ tất cả các cửa sổ bật lên bản dịch, bao gồm văn bản, nút và khoảng cách"
   },
-  "v2_78606dc1": {
-    "description": "Auto-generated translation for: Merge with previous word",
-    "message": "Gộp với từ trước"
-  },
-  "v2_5f4dfdbb": {
-    "description": "Auto-generated translation for: Merge with next word",
-    "message": "Gộp với từ tiếp theo"
-  },
   "v2_03c2f0e0": {
     "description": "Auto-generated translation for: Added",
     "message": "Đã thêm"
@@ -5732,10 +5683,6 @@
     "description": "Auto-generated translation for: Subtitle List",
     "message": "Danh sách phụ đề"
   },
-  "v2_6f2ede54": {
-    "description": "Auto-generated translation for: Shows how each word in your learning language corresponds to your native language",
-    "message": "Hiển thị cách mỗi từ trong ngôn ngữ bạn đang học tương ứng với ngôn ngữ mẹ đẻ của bạn"
-  },
   "v2_2064f6c7": {
     "description": "Auto-generated translation for: Show Translation in List",
     "message": "Hiển thị bản dịch trong danh sách"
@@ -5772,10 +5719,6 @@
     "description": "Auto-generated translation for: User Analytics",
     "message": "Phân tích người dùng"
   },
-  "v2_456af5e4": {
-    "description": "Auto-generated translation for: Highlight Word Correspondence",
-    "message": "Tô sáng từ tương ứng"
-  },
   "v2_3d481770": {
     "description": "Auto-generated translation for: Show Base Form",
     "message": "Hiện dạng nguyên thể"
@@ -5803,18 +5746,6 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "Hiển thị biểu mẫu gốc"
-  },
-  "v2_39e97037": {
-    "description": "Auto-generated translation for: Extracting audio...",
-    "message": "Đang trích xuất âm thanh..."
-  },
-  "v2_4abdcc64": {
-    "description": "Auto-generated translation for: Transcribing...",
-    "message": "Đang ghi âm..."
-  },
-  "v2_25b6c807": {
-    "description": "Auto-generated translation for: Creating segments...",
-    "message": "Đang tạo phân đoạn..."
   },
   "v2_33cd69e2": {
     "description": "Auto-generated translation for: AI List Generation",
@@ -6263,10 +6194,6 @@
     "description": "Auto-generated translation for: Keep playback paused after repeats finish",
     "message": "Tạm dừng phát lại sau khi lặp lại xong"
   },
-  "v2_596712ca": {
-    "description": "Auto-generated translation for: Token Translation",
-    "message": "Dịch Mã Thông Báo"
-  },
   "v2_3e668542": {
     "description": "Auto-generated translation for: HOW TO GET STARTED",
     "message": "HƯỚNG DẪN BẮT ĐẦU"
@@ -6613,77 +6540,9 @@
     "description": "Auto-generated translation for: Failed to update bookmark",
     "message": "Không thể cập nhật dấu trang"
   },
-  "v2_5dce8b1c": {
-    "description": "Auto-generated translation for: Upload failed",
-    "message": "Tải lên thất bại"
-  },
-  "v2_4cda3d4e": {
-    "description": "Auto-generated translation for: Neural transcription is already running for this video.",
-    "message": "Quá trình phiên âm bằng mạng nơ-ron đã chạy cho video này."
-  },
-  "v2_2cc15054": {
-    "description": "Auto-generated translation for: Please configure your learning language before continuing.",
-    "message": "Vui lòng cấu hình ngôn ngữ học tập của bạn trước khi tiếp tục."
-  },
-  "v2_07ddf321": {
-    "description": "Auto-generated translation for: AI subtitles are currently unavailable.",
-    "message": "Hiện tại không khả dụng phụ đề AI."
-  },
-  "v2_47531d14": {
-    "description": "Auto-generated translation for: AI subtitles are ready.",
-    "message": "Phụ đề AI đã sẵn sàng."
-  },
-  "v2_0b50491d": {
-    "description": "Auto-generated translation for: Failed to start neural transcription.",
-    "message": "Không thể khởi động phiên mã hóa thần kinh."
-  },
-  "v2_2e29759b": {
-    "description": "Auto-generated translation for: Learning language is required to build AI subtitles.",
-    "message": "Học ngôn ngữ là điều cần thiết để xây dựng phụ đề AI."
-  },
-  "v2_7b769a63": {
-    "description": "Auto-generated translation for: No timed segments were returned for this transcription.",
-    "message": "Không có phân đoạn thời gian nào được trả về cho bản ghi này."
-  },
-  "v2_183981f8": {
-    "description": "Auto-generated translation for: Failed to complete neural transcription.",
-    "message": "Không thể hoàn thành phiên âm thần kinh."
-  },
-  "v2_06abed02": {
-    "description": "Auto-generated translation for: Failed to generate AI subtitles.",
-    "message": "Không tạo được phụ đề AI."
-  },
   "v2_6f270a6d": {
     "description": "Auto-generated translation for: Queued",
     "message": "Đã xếp hàng chờ"
-  },
-  "v2_5e70a46c": {
-    "description": "Auto-generated translation for: Preparing audio...",
-    "message": "Đang chuẩn bị âm thanh..."
-  },
-  "v2_601aac2a": {
-    "description": "Auto-generated translation for: Current audio language is not supported for AI subtitles.",
-    "message": "Ngôn ngữ âm thanh hiện tại không được hỗ trợ cho phụ đề AI."
-  },
-  "v2_34bf789b": {
-    "description": "Auto-generated translation for: Unable to access the current audio track for AI subtitles.",
-    "message": "Không thể truy cập vào трек âm thanh hiện tại cho phụ đề AI."
-  },
-  "v2_5433b40f": {
-    "description": "Auto-generated translation for: Switch the audio track to match your learning language before generating AI subtitles.",
-    "message": "Chuyển đổi kênh âm thanh cho phù hợp với ngôn ngữ bạn đang học trước khi tạo phụ đề AI."
-  },
-  "v2_6cfa0493": {
-    "description": "Auto-generated translation for: This video already contains high-quality subtitles.",
-    "message": "Video này đã có sẵn phụ đề chất lượng cao."
-  },
-  "v2_1645ab12": {
-    "description": "Auto-generated translation for: Subtitles are already available for this video.",
-    "message": "Đã có phụ đề cho video này."
-  },
-  "v2_63bef93b": {
-    "description": "Auto-generated translation for: AI subtitles are not available on this platform yet.",
-    "message": "Tính năng phụ đề AI chưa khả dụng trên nền tảng này."
   },
   "v2_63f90643": {
     "description": "Auto-generated translation for: Copied!",
@@ -7794,28 +7653,6 @@
     "description": "Auto-generated translation for: Earn 20% recurring revenue from every subscriber you bring, for as long as they stay",
     "message": "Kiếm 20% doanh thu định kỳ từ mỗi người đăng ký mà bạn giới thiệu, chừng nào họ còn duy trì dịch vụ"
   },
-  "v2_4023819e": {
-    "description": "Auto-generated translation for: Extracting audio... {{percentage}}%",
-    "message": "Đang trích xuất âm thanh... {{percentage}}%",
-    "placeholders": {
-      "percentage": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_5c4fc5f7": {
-    "description": "Auto-generated translation for: Requesting transcription...",
-    "message": "Yêu cầu phiên âm..."
-  },
-  "v2_11fbe422": {
-    "description": "Auto-generated translation for: Uploading audio... {{percentage}}%",
-    "message": "Đang tải âm thanh lên... {{percentage}}%",
-    "placeholders": {
-      "percentage": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_4559a29d": {
     "description": "Auto-generated translation for: Language learning App for Netflix,<br>YouTube, Amazon Prime, and Disney Plus.",
     "message": "Ứng dụng học ngôn ngữ dành cho Netflix, YouTube, Amazon Prime và Disney Plus."
@@ -8228,22 +8065,6 @@
     "description": "Auto-generated translation for: Word Merging Enabled",
     "message": "Ghép từ được bật"
   },
-  "v2_4a463c01": {
-    "description": "Auto-generated translation for: Enable token translation.",
-    "message": "Bật dịch mã thông báo."
-  },
-  "v2_305d9835": {
-    "description": "Auto-generated translation for: Token Translation Enabled",
-    "message": "Đã Bật Dịch Mã thông báo"
-  },
-  "v2_3fd88d7f": {
-    "description": "Auto-generated translation for: Enable learning to native language mapping.",
-    "message": "Bật tính năng ánh xạ ngôn ngữ học đến ngôn ngữ bản địa."
-  },
-  "v2_2260eb57": {
-    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
-    "message": "Đã bật Ánh xạ gốc theo học"
-  },
   "v2_54d2596b": {
     "description": "Auto-generated translation for: Enable sentence transliteration.",
     "message": "Bật phiên âm câu."
@@ -8275,26 +8096,6 @@
   "v2_2a01bf90": {
     "description": "Auto-generated translation for: Choose color for learning subtitle text",
     "message": "Chọn màu cho phụ đề nội dung học tập"
-  },
-  "v2_56f71b61": {
-    "description": "Auto-generated translation for: Show or hide word insights.",
-    "message": "Hiện hoặc ẩn thông tin chi tiết từ"
-  },
-  "v2_51950c86": {
-    "description": "Auto-generated translation for: Show or hide word meanings.",
-    "message": "Hiển thị hoặc ẩn nghĩa của từ"
-  },
-  "v2_3d40af08": {
-    "description": "Auto-generated translation for: Show or hide dictionary information.",
-    "message": "Hiển thị hoặc ẩn thông tin từ điển."
-  },
-  "v2_299b6507": {
-    "description": "Auto-generated translation for: Show or hide transliteration.",
-    "message": "Hiện hoặc ẩn phiên âm."
-  },
-  "v2_04cc1813": {
-    "description": "Auto-generated translation for: Show or hide base form information.",
-    "message": "Hiện hoặc ẩn thông tin dạng gốc."
   },
   "v2_4a5bbaee": {
     "description": "Auto-generated translation for: Preferred character length for subtitles.",
@@ -8387,10 +8188,6 @@
   "v2_67d3a8c5": {
     "description": "Auto-generated translation for: Subtitles",
     "message": "Phụ đề"
-  },
-  "v2_1577c0ce": {
-    "description": "Auto-generated translation for: Visibility",
-    "message": "Khả năng hiển thị"
   },
   "v2_6a9872e7": {
     "description": "Auto-generated translation for: Interface",
@@ -8648,14 +8445,6 @@
       }
     }
   },
-  "v2_6aa54514": {
-    "description": "Auto-generated translation for: Invalid timed segments received from transcription service.",
-    "message": "Các phân đoạn có mốc thời gian không hợp lệ đã nhận được từ dịch vụ phiên âm."
-  },
-  "v2_3865beea": {
-    "description": "Auto-generated translation for: No valid timed segments found in transcription response.",
-    "message": "Không tìm thấy phân đoạn hẹn giờ hợp lệ trong phản hồi phiên âm."
-  },
   "v2_3055b6cc": {
     "description": "Auto-generated translation for: Need help?",
     "message": "Cần giúp đỡ không?"
@@ -8862,10 +8651,6 @@
   "v2_562a105c": {
     "description": "Auto-generated translation for: Highlight words as they are being spoken",
     "message": "Tô sáng các từ khi chúng đang được nói"
-  },
-  "v2_0c7317ce": {
-    "description": "Auto-generated translation for: Show word correspondence between learning and native languages",
-    "message": "Hiển thị các từ tương ứng giữa ngôn ngữ đang học và ngôn ngữ bản địa"
   },
   "v2_2a5674f9": {
     "description": "Auto-generated translation for: for detailed word analysis",
@@ -9143,18 +8928,6 @@
     "description": "Auto-generated translation for: Translated",
     "message": "Đã dịch"
   },
-  "v2_1c10cffd": {
-    "description": "Auto-generated translation for: Found Subtitles",
-    "message": "Đã tìm thấy phụ đề"
-  },
-  "v2_6c0aabc5": {
-    "description": "Auto-generated translation for: Source",
-    "message": "Nguồn"
-  },
-  "v2_1cc456a1": {
-    "description": "Auto-generated translation for: Total subtitles",
-    "message": "Tổng phụ đề"
-  },
   "v2_7390c06a": {
     "description": "Auto-generated translation for: Prefetching first ${PREFETCH_SUBTITLE_COUNT} subtitles...",
     "message": "Đang tìm nạp trước ${PREFETCH_SUBTITLE_COUNT} phụ đề đầu tiên...",
@@ -9295,5 +9068,226 @@
   "v2_286ad152": {
     "description": "Auto-generated translation for: Jump to section",
     "message": "Chuyển đến mục"
+  },
+  "v2_3599a6b5": {
+    "description": "Auto-generated translation for: Merge failed: $error$",
+    "message": "Hợp nhất thất bại: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_38a669bc": {
+    "description": "Auto-generated translation for: Unmerge failed: $error$",
+    "message": "Hợp nhất không thành công: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_53ff1ea0": {
+    "description": "Auto-generated translation for: Translation Count",
+    "message": "Số lượt dịch"
+  },
+  "v2_64202cfd": {
+    "description": "Auto-generated translation for: Compact",
+    "message": "Nhỏ gọn"
+  },
+  "v2_696240f7": {
+    "description": "Auto-generated translation for: Uploading Audio",
+    "message": "Đang tải âm thanh lên"
+  },
+  "v2_6d9b0991": {
+    "description": "Auto-generated translation for: Generating AI Subtitles",
+    "message": "Tạo phụ đề AI"
+  },
+  "v2_5acd92d8": {
+    "description": "Auto-generated translation for: Please wait while we process the audio",
+    "message": "Vui lòng đợi trong khi chúng tôi xử lý âm thanh"
+  },
+  "v2_30e7ca8e": {
+    "description": "Auto-generated translation for: Copy sentence",
+    "message": "Sao chép câu"
+  },
+  "v2_46366626": {
+    "description": "Auto-generated translation for: AI subtitles ready - transcription continues in background",
+    "message": "Phụ đề AI đã sẵn sàng - bản chép lời tiếp tục trong nền"
+  },
+  "v2_356c975a": {
+    "description": "Auto-generated translation for: AI subtitles ready",
+    "message": "Phụ đề AI đã sẵn sàng"
+  },
+  "v2_341e30ef": {
+    "description": "Auto-generated translation for: Platform not available",
+    "message": "Nền tảng không khả dụng"
+  },
+  "v2_69b99a0d": {
+    "description": "Auto-generated translation for: Resources controller not available",
+    "message": "Bộ điều khiển tài nguyên không khả dụng"
+  },
+  "v2_6c73b8d4": {
+    "description": "Auto-generated translation for: Audio fetching not available for this platform",
+    "message": "Không có tính năng tìm nạp âm thanh cho nền tảng này"
+  },
+  "v2_74c3cdca": {
+    "description": "Auto-generated translation for: Could not get video ID",
+    "message": "Không lấy được ID video"
+  },
+  "v2_0b5efd9a": {
+    "description": "Auto-generated translation for: Video ID is not available",
+    "message": "Mã video không khả dụng"
+  },
+  "v2_2b45f66f": {
+    "description": "Auto-generated translation for: Could not get video duration",
+    "message": "Không thể lấy thời lượng video"
+  },
+  "v2_78c1f3e3": {
+    "description": "Auto-generated translation for: Press a key",
+    "message": "Nhấn một phím bất kỳ"
+  },
+  "v2_56206947": {
+    "description": "Auto-generated translation for: Waiting for key...",
+    "message": "Đang chờ khóa..."
+  },
+  "v2_6560b365": {
+    "description": "Auto-generated translation for: Press any key on your keyboard",
+    "message": "Nhấn phím bất kỳ trên bàn phím của bạn"
+  },
+  "v2_74946a56": {
+    "description": "Auto-generated translation for: Action",
+    "message": "Hành động"
+  },
+  "v2_0001263f": {
+    "description": "Auto-generated translation for: Key",
+    "message": "Khóa"
+  },
+  "v2_488fdd55": {
+    "description": "Auto-generated translation for: Reset column order",
+    "message": "Đặt lại thứ tự cột"
+  },
+  "v2_19ed530d": {
+    "description": "Auto-generated translation for: {selected} of {page} row(s) selected ({total} total)",
+    "message": "{selected} trong số {page} hàng đã chọn ({total} tổng cộng)",
+    "placeholders": {
+      "selected": {
+        "content": "$1"
+      },
+      "page": {
+        "content": "$2"
+      },
+      "total": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_43709f10": {
+    "description": "Auto-generated translation for: All bookmarks deleted successfully",
+    "message": "Tất cả dấu trang đã được xóa thành công"
+  },
+  "v2_1b21e1b5": {
+    "description": "Auto-generated translation for: Failed to delete all bookmarks",
+    "message": "Không xóa được tất cả dấu trang"
+  },
+  "v2_28cea832": {
+    "description": "Auto-generated translation for: No bookmarks to delete",
+    "message": "Không có dấu trang nào để xóa"
+  },
+  "v2_69e74069": {
+    "description": "Auto-generated translation for: Delete All Bookmarks",
+    "message": "Xóa Tất Cả Dấu Trang"
+  },
+  "v2_40df7789": {
+    "description": "Auto-generated translation for: Danger Zone",
+    "message": "Vùng nguy hiểm"
+  },
+  "v2_5f4034b8": {
+    "description": "Auto-generated translation for: Delete Account",
+    "message": "Xóa tài khoản"
+  },
+  "v2_201befa2": {
+    "description": "Auto-generated translation for: Once you delete your account, there is no going back. This action cannot be undone.",
+    "message": "Sau khi bạn xóa tài khoản, bạn không thể quay lại được nữa. Hành động này không thể hoàn tác."
+  },
+  "v2_72f13ac5": {
+    "description": "Auto-generated translation for: Are you absolutely sure?",
+    "message": "Bạn hoàn toàn chắc chắn chứ?"
+  },
+  "v2_374ce61e": {
+    "description": "Auto-generated translation for: This action cannot be undone. This will permanently delete your account and remove all your data from our servers.",
+    "message": "Hành động này không thể hoàn tác. Việc này sẽ xóa vĩnh viễn tài khoản của bạn và loại bỏ tất cả dữ liệu của bạn khỏi máy chủ của chúng tôi."
+  },
+  "v2_1c7b0a70": {
+    "description": "Auto-generated translation for: Please type",
+    "message": "Vui lòng nhập"
+  },
+  "v2_368d228d": {
+    "description": "Auto-generated translation for: to confirm.",
+    "message": "để xác nhận."
+  },
+  "v2_6d1f8b6c": {
+    "description": "Auto-generated translation for: Learning Subtitle Font Size",
+    "message": "Kích thước phông chữ phụ đề học tập"
+  },
+  "v2_29e9744a": {
+    "description": "Auto-generated translation for: Learning Subtitle Text Color",
+    "message": "Màu chữ phụ đề học tập"
+  },
+  "v2_43266384": {
+    "description": "Auto-generated translation for: Show Transliteration Above Words",
+    "message": "Hiển thị phiên âm phía trên các từ"
+  },
+  "v2_41fbb1cc": {
+    "description": "Auto-generated translation for: Display phonetic pronunciation above words using the selected transliteration type",
+    "message": "Hiển thị ngữ âm phía trên các từ bằng cách sử dụng kiểu chuyển ngữ đã chọn"
+  },
+  "v2_63b16a91": {
+    "description": "Auto-generated translation for: Show Dictionary Form Above Words",
+    "message": "Hiển thị Từ điển dạng gốc ở trên"
+  },
+  "v2_754e29d3": {
+    "description": "Auto-generated translation for: Native Subtitle Font Size",
+    "message": "Kích thước phông chữ phụ đề gốc"
+  },
+  "v2_2c4445d1": {
+    "description": "Auto-generated translation for: Native Subtitle Text Color",
+    "message": "Màu văn bản phụ đề gốc"
+  },
+  "v2_4390c9a4": {
+    "description": "Auto-generated translation for: Choose the language for AI-generated subtitles. This should match the video's spoken language.",
+    "message": "Chọn ngôn ngữ cho phụ đề do AI tạo. Ngôn ngữ này phải khớp với ngôn ngữ nói trong video."
+  },
+  "v2_7c675384": {
+    "description": "Auto-generated translation for: Use found subtitles",
+    "message": "Sử dụng phụ đề tìm thấy"
+  },
+  "v2_4793d4bc": {
+    "description": "Auto-generated translation for: Use Found Subtitles",
+    "message": "Sử dụng phụ đề đã tìm thấy"
+  },
+  "v2_3eef47a0": {
+    "description": "Auto-generated translation for: segments",
+    "message": "phân đoạn"
+  },
+  "v2_7f82fd38": {
+    "description": "Auto-generated translation for: Import my own subtitles",
+    "message": "Nhập phụ đề của riêng tôi"
+  },
+  "v2_65fec73b": {
+    "description": "Auto-generated translation for: Upload a different subtitle file from your computer.",
+    "message": "Tải một tệp phụ đề khác từ máy tính của bạn."
+  },
+  "v2_14d0c3cb": {
+    "description": "Auto-generated translation for: Search languages...",
+    "message": "Tìm kiếm ngôn ngữ..."
+  },
+  "v2_6248a6fe": {
+    "description": "Auto-generated translation for: No languages found",
+    "message": "Không tìm thấy ngôn ngữ nào"
+  },
+  "v2_71087a3d": {
+    "description": "Auto-generated translation for: Subtitles Found",
+    "message": "Đã tìm thấy phụ đề"
   }
 }

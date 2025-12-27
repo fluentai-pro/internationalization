@@ -2033,18 +2033,6 @@
     "description": "Auto-generated translation for: Filters",
     "message": "Szűrők"
   },
-  "v2_324dab0f": {
-    "description": "Auto-generated translation for: Merge left",
-    "message": "Besorolás balra"
-  },
-  "v2_17be1814": {
-    "description": "Auto-generated translation for: Merge right",
-    "message": "Besorolás jobbra"
-  },
-  "v2_5f1a5870": {
-    "description": "Auto-generated translation for: Split word",
-    "message": "Szó felosztása"
-  },
   "v2_74b21635": {
     "description": "Auto-generated translation for: Back to menu",
     "message": "Vissza a menübe"
@@ -2966,19 +2954,6 @@
     "description": "Auto-generated translation for: Casual Usage",
     "message": "Alkalmi használat"
   },
-  "v2_6d2708eb": {
-    "description": "Auto-generated translation for: Pro trial: $time$ left",
-    "message": "Pro próbaverzió: $time$ van hátra",
-    "placeholders": {
-      "time": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_5256651f": {
-    "description": "Auto-generated translation for: Unmerge",
-    "message": "Feloldás"
-  },
   "v2_3d1b87e9": {
     "description": "Auto-generated translation for: Lifetime",
     "message": "Élettartam"
@@ -3525,10 +3500,6 @@
   "v2_0e6f5b4b": {
     "description": "Auto-generated translation for: Search configs...",
     "message": "Keresés a konfigurációkban..."
-  },
-  "v2_6777abf6": {
-    "description": "Auto-generated translation for: Preparing...",
-    "message": "Előkészítés..."
   },
   "v2_40e79ef8": {
     "description": "Auto-generated translation for: Repeat Mode",
@@ -4530,10 +4501,6 @@
     "description": "Auto-generated translation for: Mini Popup Settings",
     "message": "Mini felugró beállítások"
   },
-  "v2_4ad980f4": {
-    "description": "Auto-generated translation for: Number of Translations",
-    "message": "Fordítások száma"
-  },
   "v2_62e23b91": {
     "description": "Auto-generated translation for: Contribute on Github",
     "message": "Közreműködés GitHubon"
@@ -5248,10 +5215,6 @@
     "description": "Auto-generated translation for: Turn On/Off Voice Repeat Mode",
     "message": "Hangismétlés mód Be/Ki"
   },
-  "v2_4d9359fa": {
-    "description": "Auto-generated translation for: Turn On/Off Word Mapping Colors",
-    "message": "Szóleképzési színek be-/kikapcsolása"
-  },
   "v2_0c503f96": {
     "description": "Auto-generated translation for: Pronounce Current Subtitle",
     "message": "Aktuális felirat felolvasása"
@@ -5323,10 +5286,6 @@
   "v2_44a64649": {
     "description": "Auto-generated translation for: Unblur Native",
     "message": "Nyers kép élesítése"
-  },
-  "v2_356ad346": {
-    "description": "Auto-generated translation for: Word Colors",
-    "message": "Szószínezés"
   },
   "v2_49847ac9": {
     "description": "Auto-generated translation for: Pronounce",
@@ -5556,14 +5515,6 @@
     "description": "Auto-generated translation for: Scale all translation popups including text, buttons, and spacing",
     "message": "Méretezzen minden fordítási előugró ablakot, beleértve a szöveget, gombokat és a térközt is"
   },
-  "v2_78606dc1": {
-    "description": "Auto-generated translation for: Merge with previous word",
-    "message": "Összefűzés az előző szóval"
-  },
-  "v2_5f4dfdbb": {
-    "description": "Auto-generated translation for: Merge with next word",
-    "message": "Összefűzés a következő szóval"
-  },
   "v2_03c2f0e0": {
     "description": "Auto-generated translation for: Added",
     "message": "Hozzáadva"
@@ -5732,10 +5683,6 @@
     "description": "Auto-generated translation for: Subtitle List",
     "message": "Feliratlista"
   },
-  "v2_6f2ede54": {
-    "description": "Auto-generated translation for: Shows how each word in your learning language corresponds to your native language",
-    "message": "Megmutatja, hogyan felel meg a tanult nyelv minden szava az anyanyelvednek"
-  },
   "v2_2064f6c7": {
     "description": "Auto-generated translation for: Show Translation in List",
     "message": "Fordítás megjelenítése listában"
@@ -5772,10 +5719,6 @@
     "description": "Auto-generated translation for: User Analytics",
     "message": "Felhasználói elemzés"
   },
-  "v2_456af5e4": {
-    "description": "Auto-generated translation for: Highlight Word Correspondence",
-    "message": "Kiemelt szó-megfeleltetés"
-  },
   "v2_3d481770": {
     "description": "Auto-generated translation for: Show Base Form",
     "message": "Alapforma mutatása"
@@ -5803,18 +5746,6 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "Alapforma láthatósága"
-  },
-  "v2_39e97037": {
-    "description": "Auto-generated translation for: Extracting audio...",
-    "message": "Hang kinyerése..."
-  },
-  "v2_4abdcc64": {
-    "description": "Auto-generated translation for: Transcribing...",
-    "message": "Átírás..."
-  },
-  "v2_25b6c807": {
-    "description": "Auto-generated translation for: Creating segments...",
-    "message": "Szegmensek létrehozása..."
   },
   "v2_33cd69e2": {
     "description": "Auto-generated translation for: AI List Generation",
@@ -6263,10 +6194,6 @@
     "description": "Auto-generated translation for: Keep playback paused after repeats finish",
     "message": "Ismétlések befejezése után a lejátszás maradjon szüneteltetve"
   },
-  "v2_596712ca": {
-    "description": "Auto-generated translation for: Token Translation",
-    "message": "Token Fordítás"
-  },
   "v2_3e668542": {
     "description": "Auto-generated translation for: HOW TO GET STARTED",
     "message": "HOGYAN KEZDJE EL"
@@ -6613,77 +6540,9 @@
     "description": "Auto-generated translation for: Failed to update bookmark",
     "message": "Nem sikerült frissíteni a könyvjelzőt"
   },
-  "v2_5dce8b1c": {
-    "description": "Auto-generated translation for: Upload failed",
-    "message": "A feltöltés sikertelen"
-  },
-  "v2_4cda3d4e": {
-    "description": "Auto-generated translation for: Neural transcription is already running for this video.",
-    "message": "A neurális átírás már fut ehhez a videóhoz."
-  },
-  "v2_2cc15054": {
-    "description": "Auto-generated translation for: Please configure your learning language before continuing.",
-    "message": "Kérjük, folytatás előtt állítsa be a tanulási nyelvét."
-  },
-  "v2_07ddf321": {
-    "description": "Auto-generated translation for: AI subtitles are currently unavailable.",
-    "message": "A mesterséges intelligencia által generált feliratok jelenleg nem elérhetők."
-  },
-  "v2_47531d14": {
-    "description": "Auto-generated translation for: AI subtitles are ready.",
-    "message": "A mesterséges intelligencia által generált feliratok készen állnak."
-  },
-  "v2_0b50491d": {
-    "description": "Auto-generated translation for: Failed to start neural transcription.",
-    "message": "Nem sikerült elindítani a neurális átírást."
-  },
-  "v2_2e29759b": {
-    "description": "Auto-generated translation for: Learning language is required to build AI subtitles.",
-    "message": "A nyelvelsajátítás szükséges a mesterséges intelligencia feliratok készítéséhez."
-  },
-  "v2_7b769a63": {
-    "description": "Auto-generated translation for: No timed segments were returned for this transcription.",
-    "message": "Ehhez az átíráshoz nem tartoznak időzített szakaszok."
-  },
-  "v2_183981f8": {
-    "description": "Auto-generated translation for: Failed to complete neural transcription.",
-    "message": "Nem sikerült befejezni a neurális átírást."
-  },
-  "v2_06abed02": {
-    "description": "Auto-generated translation for: Failed to generate AI subtitles.",
-    "message": "Nem sikerült létrehozni az AI feliratokat."
-  },
   "v2_6f270a6d": {
     "description": "Auto-generated translation for: Queued",
     "message": "Sorban áll"
-  },
-  "v2_5e70a46c": {
-    "description": "Auto-generated translation for: Preparing audio...",
-    "message": "Hang előkészítése..."
-  },
-  "v2_601aac2a": {
-    "description": "Auto-generated translation for: Current audio language is not supported for AI subtitles.",
-    "message": "A jelenlegi hangsáv nyelve nem támogatott a mesterséges intelligencia által generált feliratokhoz."
-  },
-  "v2_34bf789b": {
-    "description": "Auto-generated translation for: Unable to access the current audio track for AI subtitles.",
-    "message": "Nem sikerült elérni a jelenlegi hangsávot az AI feliratokhoz."
-  },
-  "v2_5433b40f": {
-    "description": "Auto-generated translation for: Switch the audio track to match your learning language before generating AI subtitles.",
-    "message": "Váltson a tanulási nyelvének megfelelő hangsávra, mielőtt AI feliratokat generál."
-  },
-  "v2_6cfa0493": {
-    "description": "Auto-generated translation for: This video already contains high-quality subtitles.",
-    "message": "Ez a videó már tartalmaz kiváló minőségű feliratokat."
-  },
-  "v2_1645ab12": {
-    "description": "Auto-generated translation for: Subtitles are already available for this video.",
-    "message": "Ehhez a videóhoz már elérhetők feliratok."
-  },
-  "v2_63bef93b": {
-    "description": "Auto-generated translation for: AI subtitles are not available on this platform yet.",
-    "message": "Ezen a platformon az AI feliratok még nem elérhetők."
   },
   "v2_63f90643": {
     "description": "Auto-generated translation for: Copied!",
@@ -7794,28 +7653,6 @@
     "description": "Auto-generated translation for: Earn 20% recurring revenue from every subscriber you bring, for as long as they stay",
     "message": "20% visszatérő bevételt szerezhet minden előfizető után, akit hoz, ameddig csak marad."
   },
-  "v2_4023819e": {
-    "description": "Auto-generated translation for: Extracting audio... {{percentage}}%",
-    "message": "Hang kivonása... {{percentage}}%",
-    "placeholders": {
-      "percentage": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_5c4fc5f7": {
-    "description": "Auto-generated translation for: Requesting transcription...",
-    "message": "Átírás kérése..."
-  },
-  "v2_11fbe422": {
-    "description": "Auto-generated translation for: Uploading audio... {{percentage}}%",
-    "message": "Hanganyag feltöltése... {{percentage}}%",
-    "placeholders": {
-      "percentage": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_4559a29d": {
     "description": "Auto-generated translation for: Language learning App for Netflix,<br>YouTube, Amazon Prime, and Disney Plus.",
     "message": "Nyelvtanuló alkalmazás Netflixhez, YouTube-hoz, Amazon Prime-hoz és Disney Plushoz."
@@ -8228,22 +8065,6 @@
     "description": "Auto-generated translation for: Word Merging Enabled",
     "message": "Szóösszefűzés engedélyezve"
   },
-  "v2_4a463c01": {
-    "description": "Auto-generated translation for: Enable token translation.",
-    "message": "Tokenfordítás engedélyezése."
-  },
-  "v2_305d9835": {
-    "description": "Auto-generated translation for: Token Translation Enabled",
-    "message": "Tokenfordítás engedélyezve"
-  },
-  "v2_3fd88d7f": {
-    "description": "Auto-generated translation for: Enable learning to native language mapping.",
-    "message": "Tanulás engedélyezése az anyanyelvre való hozzárendeléssel."
-  },
-  "v2_2260eb57": {
-    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
-    "message": "Tanulás a natív leképezéshez engedélyezve"
-  },
   "v2_54d2596b": {
     "description": "Auto-generated translation for: Enable sentence transliteration.",
     "message": "Mondatátírás engedélyezése."
@@ -8275,26 +8096,6 @@
   "v2_2a01bf90": {
     "description": "Auto-generated translation for: Choose color for learning subtitle text",
     "message": "Válasszon színt a felirat szövegének tanulásához"
-  },
-  "v2_56f71b61": {
-    "description": "Auto-generated translation for: Show or hide word insights.",
-    "message": "Szóbevezető megtekintése vagy elrejtése"
-  },
-  "v2_51950c86": {
-    "description": "Auto-generated translation for: Show or hide word meanings.",
-    "message": "Szójelentések megjelenítése vagy elrejtése."
-  },
-  "v2_3d40af08": {
-    "description": "Auto-generated translation for: Show or hide dictionary information.",
-    "message": "Szótárinformáció megjelenítése vagy elrejtése."
-  },
-  "v2_299b6507": {
-    "description": "Auto-generated translation for: Show or hide transliteration.",
-    "message": "Transzliteráció megjelenítése vagy elrejtése."
-  },
-  "v2_04cc1813": {
-    "description": "Auto-generated translation for: Show or hide base form information.",
-    "message": "Alapforma információk megjelenítése vagy elrejtése."
   },
   "v2_4a5bbaee": {
     "description": "Auto-generated translation for: Preferred character length for subtitles.",
@@ -8387,10 +8188,6 @@
   "v2_67d3a8c5": {
     "description": "Auto-generated translation for: Subtitles",
     "message": "Feliratok"
-  },
-  "v2_1577c0ce": {
-    "description": "Auto-generated translation for: Visibility",
-    "message": "Láthatóság"
   },
   "v2_6a9872e7": {
     "description": "Auto-generated translation for: Interface",
@@ -8648,14 +8445,6 @@
       }
     }
   },
-  "v2_6aa54514": {
-    "description": "Auto-generated translation for: Invalid timed segments received from transcription service.",
-    "message": "Érvénytelen időzített szegmensek érkeztek az átíró szolgáltatásból."
-  },
-  "v2_3865beea": {
-    "description": "Auto-generated translation for: No valid timed segments found in transcription response.",
-    "message": "Nincsenek érvényes időzített szegmensek az átírási válaszban."
-  },
   "v2_3055b6cc": {
     "description": "Auto-generated translation for: Need help?",
     "message": "Segítségre van szüksége?"
@@ -8862,10 +8651,6 @@
   "v2_562a105c": {
     "description": "Auto-generated translation for: Highlight words as they are being spoken",
     "message": "Kiemelje a szavakat beszéd közben"
-  },
-  "v2_0c7317ce": {
-    "description": "Auto-generated translation for: Show word correspondence between learning and native languages",
-    "message": "Szavak megfeleltetése a tanult és az anyanyelv között"
   },
   "v2_2a5674f9": {
     "description": "Auto-generated translation for: for detailed word analysis",
@@ -9139,18 +8924,6 @@
     "description": "Auto-generated translation for: Translated",
     "message": "Lefordítva"
   },
-  "v2_1c10cffd": {
-    "description": "Auto-generated translation for: Found Subtitles",
-    "message": "Feliratok találhatók"
-  },
-  "v2_6c0aabc5": {
-    "description": "Auto-generated translation for: Source",
-    "message": "Forrás"
-  },
-  "v2_1cc456a1": {
-    "description": "Auto-generated translation for: Total subtitles",
-    "message": "Összes felirat"
-  },
   "v2_7390c06a": {
     "description": "Auto-generated translation for: Prefetching first ${PREFETCH_SUBTITLE_COUNT} subtitles...",
     "message": "Első ${PREFETCH_SUBTITLE_COUNT} felirat előzetes lekérése...",
@@ -9287,5 +9060,234 @@
   "v2_286ad152": {
     "description": "Auto-generated translation for: Jump to section",
     "message": "Ugrás a szakaszra"
+  },
+  "v2_3599a6b5": {
+    "description": "Auto-generated translation for: Merge failed: $error$",
+    "message": "Az egyesítés sikertelen: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_38a669bc": {
+    "description": "Auto-generated translation for: Unmerge failed: $error$",
+    "message": "Az szétválasztás sikertelen: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_53ff1ea0": {
+    "description": "Auto-generated translation for: Translation Count",
+    "message": "Fordítások száma"
+  },
+  "v2_64202cfd": {
+    "description": "Auto-generated translation for: Compact",
+    "message": "Kompakt"
+  },
+  "v2_696240f7": {
+    "description": "Auto-generated translation for: Uploading Audio",
+    "message": "Hangfájl feltöltése"
+  },
+  "v2_6d9b0991": {
+    "description": "Auto-generated translation for: Generating AI Subtitles",
+    "message": "MI feliratok generálása"
+  },
+  "v2_5acd92d8": {
+    "description": "Auto-generated translation for: Please wait while we process the audio",
+    "message": "Kérjük, várjon, amíg feldolgozzuk a hangot"
+  },
+  "v2_30e7ca8e": {
+    "description": "Auto-generated translation for: Copy sentence",
+    "message": "Mondat másolása"
+  },
+  "v2_46366626": {
+    "description": "Auto-generated translation for: AI subtitles ready - transcription continues in background",
+    "message": "MI feliratok készen – az átírás folytatódik a háttérben"
+  },
+  "v2_356c975a": {
+    "description": "Auto-generated translation for: AI subtitles ready",
+    "message": "AI feliratok készen"
+  },
+  "v2_341e30ef": {
+    "description": "Auto-generated translation for: Platform not available",
+    "message": "A platform nem elérhető"
+  },
+  "v2_69b99a0d": {
+    "description": "Auto-generated translation for: Resources controller not available",
+    "message": "Az erőforrás-vezérlő nem elérhető"
+  },
+  "v2_6c73b8d4": {
+    "description": "Auto-generated translation for: Audio fetching not available for this platform",
+    "message": "Hanganyag lekérése nem elérhető ezen a platformon"
+  },
+  "v2_74c3cdca": {
+    "description": "Auto-generated translation for: Could not get video ID",
+    "message": "Nem sikerült lekérni a videóazonosítót"
+  },
+  "v2_0b5efd9a": {
+    "description": "Auto-generated translation for: Video ID is not available",
+    "message": "A videó azonosító nem érhető el"
+  },
+  "v2_2b45f66f": {
+    "description": "Auto-generated translation for: Could not get video duration",
+    "message": "Nem sikerült lekérni a videó időtartamát"
+  },
+  "v2_74375228": {
+    "description": "Auto-generated translation for: Prefer platform-provided subtitles when available. Otherwise, FluentAI translates existing subtitles. Video subtitles are more natural (meaning-driven), while machine translation is more literal",
+    "message": "Ha elérhetők, előnyben részesítjük a platform által biztosított feliratokat. Ellenkező esetben a FluentAI lefordítja a meglévő feliratokat. A videófeliratok természetesebbek (jelentésvezéreltek), míg a gépi fordítás szó szerinti."
+  },
+  "v2_78c1f3e3": {
+    "description": "Auto-generated translation for: Press a key",
+    "message": "Nyomjon meg egy gombot"
+  },
+  "v2_56206947": {
+    "description": "Auto-generated translation for: Waiting for key...",
+    "message": "Kulcsra várva..."
+  },
+  "v2_6560b365": {
+    "description": "Auto-generated translation for: Press any key on your keyboard",
+    "message": "Nyomjon meg egy billentyűt a billentyűzetén"
+  },
+  "v2_74946a56": {
+    "description": "Auto-generated translation for: Action",
+    "message": "Művelet"
+  },
+  "v2_0001263f": {
+    "description": "Auto-generated translation for: Key",
+    "message": "Kulcs"
+  },
+  "v2_488fdd55": {
+    "description": "Auto-generated translation for: Reset column order",
+    "message": "Oszloprend visszaállítása"
+  },
+  "v2_19ed530d": {
+    "description": "Auto-generated translation for: {selected} of {page} row(s) selected ({total} total)",
+    "message": "$selected$ a(z) $page$ kiválasztott sorból ($total$ összesen)",
+    "placeholders": {
+      "selected": {
+        "content": "$1"
+      },
+      "page": {
+        "content": "$2"
+      },
+      "total": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_43709f10": {
+    "description": "Auto-generated translation for: All bookmarks deleted successfully",
+    "message": "Minden könyvjelző sikeresen törölve"
+  },
+  "v2_1b21e1b5": {
+    "description": "Auto-generated translation for: Failed to delete all bookmarks",
+    "message": "Nem sikerült az összes könyvjelző törlése"
+  },
+  "v2_28cea832": {
+    "description": "Auto-generated translation for: No bookmarks to delete",
+    "message": "Nincsenek törölhető könyvjelzők"
+  },
+  "v2_69e74069": {
+    "description": "Auto-generated translation for: Delete All Bookmarks",
+    "message": "Összes könyvjelző törlése"
+  },
+  "v2_40df7789": {
+    "description": "Auto-generated translation for: Danger Zone",
+    "message": "Veszélyzóna"
+  },
+  "v2_5f4034b8": {
+    "description": "Auto-generated translation for: Delete Account",
+    "message": "Fiók törlése"
+  },
+  "v2_201befa2": {
+    "description": "Auto-generated translation for: Once you delete your account, there is no going back. This action cannot be undone.",
+    "message": "Fiókja törlése után nincs visszaút. Ezt a műveletet nem lehet visszavonni."
+  },
+  "v2_72f13ac5": {
+    "description": "Auto-generated translation for: Are you absolutely sure?",
+    "message": "Teljesen biztos vagy?"
+  },
+  "v2_374ce61e": {
+    "description": "Auto-generated translation for: This action cannot be undone. This will permanently delete your account and remove all your data from our servers.",
+    "message": "Ezt a műveletet nem lehet visszavonni.  Ez véglegesen törli fiókját és minden adatát a szervereinkről."
+  },
+  "v2_1c7b0a70": {
+    "description": "Auto-generated translation for: Please type",
+    "message": "Kérjük, írja be"
+  },
+  "v2_368d228d": {
+    "description": "Auto-generated translation for: to confirm.",
+    "message": "megerősíteni"
+  },
+  "v2_6d1f8b6c": {
+    "description": "Auto-generated translation for: Learning Subtitle Font Size",
+    "message": "Tanulási felirat betűmérete"
+  },
+  "v2_29e9744a": {
+    "description": "Auto-generated translation for: Learning Subtitle Text Color",
+    "message": "Felirat szöveg színének tanulása"
+  },
+  "v2_43266384": {
+    "description": "Auto-generated translation for: Show Transliteration Above Words",
+    "message": "Transzliteráció megjelenítése a szavak felett"
+  },
+  "v2_41fbb1cc": {
+    "description": "Auto-generated translation for: Display phonetic pronunciation above words using the selected transliteration type",
+    "message": "Fonetikus kiejtés megjelenítése a szavak felett a kiválasztott átírási típus használatával"
+  },
+  "v2_63b16a91": {
+    "description": "Auto-generated translation for: Show Dictionary Form Above Words",
+    "message": "Szótári alak megjelenítése a szavak felett"
+  },
+  "v2_754e29d3": {
+    "description": "Auto-generated translation for: Native Subtitle Font Size",
+    "message": "Natív felirat betűmérete"
+  },
+  "v2_2c4445d1": {
+    "description": "Auto-generated translation for: Native Subtitle Text Color",
+    "message": "Natív felirat szöveg színe"
+  },
+  "v2_4390c9a4": {
+    "description": "Auto-generated translation for: Choose the language for AI-generated subtitles. This should match the video's spoken language.",
+    "message": "Válassza ki a nyelvet az AI által generált feliratokhoz. Ennek meg kell egyeznie a videóban beszélt nyelvvel."
+  },
+  "v2_7c675384": {
+    "description": "Auto-generated translation for: Use found subtitles",
+    "message": "Talált feliratok használata"
+  },
+  "v2_4793d4bc": {
+    "description": "Auto-generated translation for: Use Found Subtitles",
+    "message": "Talált feliratok használata"
+  },
+  "v2_3eef47a0": {
+    "description": "Auto-generated translation for: segments",
+    "message": "szegmensek"
+  },
+  "v2_7f82fd38": {
+    "description": "Auto-generated translation for: Import my own subtitles",
+    "message": "Saját feliratok importálása"
+  },
+  "v2_65fec73b": {
+    "description": "Auto-generated translation for: Upload a different subtitle file from your computer.",
+    "message": "Tölts fel egy másik feliratfájlt a számítógépedről."
+  },
+  "v2_14d0c3cb": {
+    "description": "Auto-generated translation for: Search languages...",
+    "message": "Nyelvek keresése..."
+  },
+  "v2_6248a6fe": {
+    "description": "Auto-generated translation for: No languages found",
+    "message": "Nincs nyelv található"
+  },
+  "v2_4605eb37": {
+    "description": "Auto-generated translation for: Generate polished subtitles automatically and review them in-app.",
+    "message": "Készítsen automatikusan kifinomult feliratokat, és tekintse át őket az alkalmazáson belül."
+  },
+  "v2_71087a3d": {
+    "description": "Auto-generated translation for: Subtitles Found",
+    "message": "Feliratok találhatók"
   }
 }

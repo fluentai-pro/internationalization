@@ -2033,18 +2033,6 @@
     "description": "Auto-generated translation for: Filters",
     "message": "ફિલ્ટર્સ"
   },
-  "v2_324dab0f": {
-    "description": "Auto-generated translation for: Merge left",
-    "message": "ડાબે મર્જ કરો"
-  },
-  "v2_17be1814": {
-    "description": "Auto-generated translation for: Merge right",
-    "message": "જમણી બાજુ ભળી જાઓ"
-  },
-  "v2_5f1a5870": {
-    "description": "Auto-generated translation for: Split word",
-    "message": "શબ્દને સ્પ્લિટ કરો"
-  },
   "v2_74b21635": {
     "description": "Auto-generated translation for: Back to menu",
     "message": "મેનુ પર પાછા"
@@ -2966,19 +2954,6 @@
     "description": "Auto-generated translation for: Casual Usage",
     "message": "સામાન્ય ઉપયોગ"
   },
-  "v2_6d2708eb": {
-    "description": "Auto-generated translation for: Pro trial: $time$ left",
-    "message": "પ્રો ટ્રાયલ: $time$ બાકી",
-    "placeholders": {
-      "time": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_5256651f": {
-    "description": "Auto-generated translation for: Unmerge",
-    "message": "અલગ કરો"
-  },
   "v2_3d1b87e9": {
     "description": "Auto-generated translation for: Lifetime",
     "message": "આજીવન"
@@ -3525,10 +3500,6 @@
   "v2_0e6f5b4b": {
     "description": "Auto-generated translation for: Search configs...",
     "message": "રૂપરેખાંકનો શોધો..."
-  },
-  "v2_6777abf6": {
-    "description": "Auto-generated translation for: Preparing...",
-    "message": "તૈયાર થઈ રહ્યું છે..."
   },
   "v2_40e79ef8": {
     "description": "Auto-generated translation for: Repeat Mode",
@@ -4530,10 +4501,6 @@
     "description": "Auto-generated translation for: Mini Popup Settings",
     "message": "મીની પોપઅપ સેટિંગ્સ"
   },
-  "v2_4ad980f4": {
-    "description": "Auto-generated translation for: Number of Translations",
-    "message": "ભાષાંતરોની સંખ્યા"
-  },
   "v2_62e23b91": {
     "description": "Auto-generated translation for: Contribute on Github",
     "message": "Github પર યોગદાન આપો"
@@ -5248,10 +5215,6 @@
     "description": "Auto-generated translation for: Turn On/Off Voice Repeat Mode",
     "message": "વૉઇસ રિપીટ મોડ ચાલુ/બંધ કરો"
   },
-  "v2_4d9359fa": {
-    "description": "Auto-generated translation for: Turn On/Off Word Mapping Colors",
-    "message": "વર્ડ મેપિંગ કલર્સ ચાલુ/બંધ કરો"
-  },
   "v2_0c503f96": {
     "description": "Auto-generated translation for: Pronounce Current Subtitle",
     "message": "વર્તમાન સબટાઈટલનો ઉચ્ચાર કરો"
@@ -5323,10 +5286,6 @@
   "v2_44a64649": {
     "description": "Auto-generated translation for: Unblur Native",
     "message": "નેટીવ અનબ્લર"
-  },
-  "v2_356ad346": {
-    "description": "Auto-generated translation for: Word Colors",
-    "message": "શબ્દ રંગો"
   },
   "v2_49847ac9": {
     "description": "Auto-generated translation for: Pronounce",
@@ -5556,14 +5515,6 @@
     "description": "Auto-generated translation for: Scale all translation popups including text, buttons, and spacing",
     "message": "ટેક્સ્ટ, બટનો અને સ્પેસિંગ સહિતના તમામ અનુવાદ પોપઅપ્સને સ્કેલ કરો"
   },
-  "v2_78606dc1": {
-    "description": "Auto-generated translation for: Merge with previous word",
-    "message": "પાછલા શબ્દ સાથે મર્જ કરો"
-  },
-  "v2_5f4dfdbb": {
-    "description": "Auto-generated translation for: Merge with next word",
-    "message": "આગળના શબ્દ સાથે મર્જ કરો"
-  },
   "v2_03c2f0e0": {
     "description": "Auto-generated translation for: Added",
     "message": "ઉમેરાયું"
@@ -5732,10 +5683,6 @@
     "description": "Auto-generated translation for: Subtitle List",
     "message": "સબટાઈટલ સૂચિ"
   },
-  "v2_6f2ede54": {
-    "description": "Auto-generated translation for: Shows how each word in your learning language corresponds to your native language",
-    "message": "તમારી શીખવાની ભાષાનો પ્રત્યેક શબ્દ તમારી મૂળ ભાષાને કેવી રીતે અનુલક્ષીને છે તે દર્શાવે છે"
-  },
   "v2_2064f6c7": {
     "description": "Auto-generated translation for: Show Translation in List",
     "message": "આપેલ યાદીમાં ભાષાંતર બતાવો"
@@ -5772,10 +5719,6 @@
     "description": "Auto-generated translation for: User Analytics",
     "message": "વપરાશકર્તા વિશ્લેષણ"
   },
-  "v2_456af5e4": {
-    "description": "Auto-generated translation for: Highlight Word Correspondence",
-    "message": "શબ્દ પત્રવ્યવહારને પ્રકાશિત કરો"
-  },
   "v2_3d481770": {
     "description": "Auto-generated translation for: Show Base Form",
     "message": "આધાર ફોર્મ બતાવો"
@@ -5803,18 +5746,6 @@
   "v2_7d5594bf": {
     "description": "Auto-generated translation for: Base Form Visibility",
     "message": "આધાર ફોર્મ દૃશ્યતા"
-  },
-  "v2_39e97037": {
-    "description": "Auto-generated translation for: Extracting audio...",
-    "message": "ઑડિયો કાઢવામાં આવી રહ્યું છે..."
-  },
-  "v2_4abdcc64": {
-    "description": "Auto-generated translation for: Transcribing...",
-    "message": "લખાણ ઉતારી રહ્યા છીએ..."
-  },
-  "v2_25b6c807": {
-    "description": "Auto-generated translation for: Creating segments...",
-    "message": "સેગમેન્ટ્સ બનાવી રહ્યા છીએ..."
   },
   "v2_33cd69e2": {
     "description": "Auto-generated translation for: AI List Generation",
@@ -6263,10 +6194,6 @@
     "description": "Auto-generated translation for: Keep playback paused after repeats finish",
     "message": "પુનરાવર્તનો પૂરા થયા પછી પ્લેબેક થોભાવેલું રાખો"
   },
-  "v2_596712ca": {
-    "description": "Auto-generated translation for: Token Translation",
-    "message": "ટોકન અનુવાદ"
-  },
   "v2_3e668542": {
     "description": "Auto-generated translation for: HOW TO GET STARTED",
     "message": "કેવી રીતે શરૂઆત કરવી"
@@ -6613,77 +6540,9 @@
     "description": "Auto-generated translation for: Failed to update bookmark",
     "message": "બુકમાર્ક અપડેટ કરવામાં નિષ્ફળ."
   },
-  "v2_5dce8b1c": {
-    "description": "Auto-generated translation for: Upload failed",
-    "message": "અપલોડ નિષ્ફળ થયું"
-  },
-  "v2_4cda3d4e": {
-    "description": "Auto-generated translation for: Neural transcription is already running for this video.",
-    "message": "આ વિડિયો માટે ન્યુરલ ટ્રાન્સક્રિપ્શન પહેલેથી જ ચાલી રહ્યું છે."
-  },
-  "v2_2cc15054": {
-    "description": "Auto-generated translation for: Please configure your learning language before continuing.",
-    "message": "કૃપા કરીને ચાલુ રાખતા પહેલા તમારી શીખવાની ભાષા રૂપરેખાંકિત કરો."
-  },
-  "v2_07ddf321": {
-    "description": "Auto-generated translation for: AI subtitles are currently unavailable.",
-    "message": "AI સબટાઈટલ્સ હાલમાં ઉપલબ્ધ નથી."
-  },
-  "v2_47531d14": {
-    "description": "Auto-generated translation for: AI subtitles are ready.",
-    "message": "AI સબટાઇટલ્સ તૈયાર છે."
-  },
-  "v2_0b50491d": {
-    "description": "Auto-generated translation for: Failed to start neural transcription.",
-    "message": "ન્યુરલ ટ્રાન્સક્રિપ્શન શરૂ કરવામાં નિષ્ફળ."
-  },
-  "v2_2e29759b": {
-    "description": "Auto-generated translation for: Learning language is required to build AI subtitles.",
-    "message": "AI સબટાઈટલ બનાવવા માટે ભાષા શીખવી જરૂરી છે."
-  },
-  "v2_7b769a63": {
-    "description": "Auto-generated translation for: No timed segments were returned for this transcription.",
-    "message": "આ ટ્રાંસ્ક્રિપ્શન માટે કોઈ સમયબદ્ધ સેગમેન્ટ પરત કરવામાં આવ્યા નથી."
-  },
-  "v2_183981f8": {
-    "description": "Auto-generated translation for: Failed to complete neural transcription.",
-    "message": "ન્યુરલ ટ્રાન્સક્રિપ્શન પૂર્ણ કરવામાં નિષ્ફળ."
-  },
-  "v2_06abed02": {
-    "description": "Auto-generated translation for: Failed to generate AI subtitles.",
-    "message": "AI સબટાઈટલ જનરેટ કરવામાં નિષ્ફળ."
-  },
   "v2_6f270a6d": {
     "description": "Auto-generated translation for: Queued",
     "message": "કતારમાં"
-  },
-  "v2_5e70a46c": {
-    "description": "Auto-generated translation for: Preparing audio...",
-    "message": "ઑડિયો તૈયાર કરી રહ્યા છીએ..."
-  },
-  "v2_601aac2a": {
-    "description": "Auto-generated translation for: Current audio language is not supported for AI subtitles.",
-    "message": "વર્તમાન ઑડિયો ભાષા AI સબટાઈટલ માટે સપોર્ટેડ નથી."
-  },
-  "v2_34bf789b": {
-    "description": "Auto-generated translation for: Unable to access the current audio track for AI subtitles.",
-    "message": "AI સબટાઈટલ્સ માટે વર્તમાન ઑડિયો ટ્રૅકને ઍક્સેસ કરવામાં અસમર્થ."
-  },
-  "v2_5433b40f": {
-    "description": "Auto-generated translation for: Switch the audio track to match your learning language before generating AI subtitles.",
-    "message": "AI સબટાઇટલ જનરેટ કરતા પહેલા તમારી શીખવાની ભાષા સાથે મેળ ખાતો ઑડિયો ટ્રેક સ્વિચ કરો."
-  },
-  "v2_6cfa0493": {
-    "description": "Auto-generated translation for: This video already contains high-quality subtitles.",
-    "message": "આ વિડિયોમાં પહેલાથી જ ઉચ્ચ ગુણવત્તાવાળા સબટાઈટલ છે."
-  },
-  "v2_1645ab12": {
-    "description": "Auto-generated translation for: Subtitles are already available for this video.",
-    "message": "આ વિડિયો માટે સબટાઈટલ્સ પહેલેથી જ ઉપલબ્ધ છે."
-  },
-  "v2_63bef93b": {
-    "description": "Auto-generated translation for: AI subtitles are not available on this platform yet.",
-    "message": "આ પ્લેટફોર્મ પર હજી સુધી AI સબટાઈટલ્સ ઉપલબ્ધ નથી."
   },
   "v2_63f90643": {
     "description": "Auto-generated translation for: Copied!",
@@ -7794,28 +7653,6 @@
     "description": "Auto-generated translation for: Earn 20% recurring revenue from every subscriber you bring, for as long as they stay",
     "message": "તમે લાવો છો તે દરેક સબ્સ્ક્રાઇબરમાંથી 20% વારંવાર આવતી આવક કમાઓ, જ્યાં સુધી તેઓ રહે ત્યાં સુધી"
   },
-  "v2_4023819e": {
-    "description": "Auto-generated translation for: Extracting audio... {{percentage}}%",
-    "message": "ઑડિઓ ઍક્સ્ટ્રેક્ટ કરવામાં આવી રહ્યું છે... {{percentage}}%",
-    "placeholders": {
-      "percentage": {
-        "content": "$1"
-      }
-    }
-  },
-  "v2_5c4fc5f7": {
-    "description": "Auto-generated translation for: Requesting transcription...",
-    "message": "ટ્રાન્સક્રિપ્શનની વિનંતી કરવામાં આવી રહી છે..."
-  },
-  "v2_11fbe422": {
-    "description": "Auto-generated translation for: Uploading audio... {{percentage}}%",
-    "message": "ઑડિઓ અપલોડ કરી રહ્યું છે... {{percentage}}%",
-    "placeholders": {
-      "percentage": {
-        "content": "$1"
-      }
-    }
-  },
   "v2_4559a29d": {
     "description": "Auto-generated translation for: Language learning App for Netflix,<br>YouTube, Amazon Prime, and Disney Plus.",
     "message": "નેટફ્લિક્સ, યુટ્યુબ, એમેઝોન પ્રાઇમ અને ડિઝની પ્લસ માટે ભાષા શીખવાની એપ્લિકેશન."
@@ -8228,22 +8065,6 @@
     "description": "Auto-generated translation for: Word Merging Enabled",
     "message": "શબ્દ મર્જિંગ સક્ષમ કરેલ"
   },
-  "v2_4a463c01": {
-    "description": "Auto-generated translation for: Enable token translation.",
-    "message": "ટોકન અનુવાદ સક્ષમ કરો."
-  },
-  "v2_305d9835": {
-    "description": "Auto-generated translation for: Token Translation Enabled",
-    "message": "ટોકન ભાષાંતર સક્ષમ કરેલ"
-  },
-  "v2_3fd88d7f": {
-    "description": "Auto-generated translation for: Enable learning to native language mapping.",
-    "message": "મૂળ ભાષા મેપિંગ માટે લર્નિંગને સક્ષમ કરો."
-  },
-  "v2_2260eb57": {
-    "description": "Auto-generated translation for: Learning to Native Mapping Enabled",
-    "message": "નેટિવ મેપિંગ પર શીખવું સક્ષમ કર્યું"
-  },
   "v2_54d2596b": {
     "description": "Auto-generated translation for: Enable sentence transliteration.",
     "message": "વાક્યનું લિવ્યંતરણ સક્ષમ કરો."
@@ -8275,26 +8096,6 @@
   "v2_2a01bf90": {
     "description": "Auto-generated translation for: Choose color for learning subtitle text",
     "message": "શીખવા માટે સબટાઈટલ ટેક્સ્ટનો રંગ પસંદ કરો"
-  },
-  "v2_56f71b61": {
-    "description": "Auto-generated translation for: Show or hide word insights.",
-    "message": "શબ્દ આંતરદૃષ્ટિ બતાવો અથવા છુપાવો."
-  },
-  "v2_51950c86": {
-    "description": "Auto-generated translation for: Show or hide word meanings.",
-    "message": "શબ્દના અર્થ દર્શાવો અથવા છુપાવો."
-  },
-  "v2_3d40af08": {
-    "description": "Auto-generated translation for: Show or hide dictionary information.",
-    "message": "શબ્દકોશની માહિતી બતાવો અથવા છુપાવો."
-  },
-  "v2_299b6507": {
-    "description": "Auto-generated translation for: Show or hide transliteration.",
-    "message": "લિપ્યંતરણ બતાવો અથવા છુપાવો."
-  },
-  "v2_04cc1813": {
-    "description": "Auto-generated translation for: Show or hide base form information.",
-    "message": "આધાર ફોર્મ માહિતી બતાવો અથવા છુપાવો."
   },
   "v2_4a5bbaee": {
     "description": "Auto-generated translation for: Preferred character length for subtitles.",
@@ -8387,10 +8188,6 @@
   "v2_67d3a8c5": {
     "description": "Auto-generated translation for: Subtitles",
     "message": "ઉપશીર્ષકો"
-  },
-  "v2_1577c0ce": {
-    "description": "Auto-generated translation for: Visibility",
-    "message": "દૃશ્યતા"
   },
   "v2_6a9872e7": {
     "description": "Auto-generated translation for: Interface",
@@ -8648,14 +8445,6 @@
       }
     }
   },
-  "v2_6aa54514": {
-    "description": "Auto-generated translation for: Invalid timed segments received from transcription service.",
-    "message": "ટ્રાન્સક્રિપ્શન સેવા તરફથી અમાન્ય સમયબદ્ધ સેગમેન્ટ્સ મળ્યા છે."
-  },
-  "v2_3865beea": {
-    "description": "Auto-generated translation for: No valid timed segments found in transcription response.",
-    "message": "ટ્રાન્સક્રિપ્શન પ્રતિસાદમાં કોઈ માન્ય સમયબદ્ધ સેગમેન્ટ મળ્યા નથી."
-  },
   "v2_3055b6cc": {
     "description": "Auto-generated translation for: Need help?",
     "message": "મદદ જોઈતી હતી?"
@@ -8862,10 +8651,6 @@
   "v2_562a105c": {
     "description": "Auto-generated translation for: Highlight words as they are being spoken",
     "message": "બોલાતા શબ્દોને હાઇલાઇટ કરો"
-  },
-  "v2_0c7317ce": {
-    "description": "Auto-generated translation for: Show word correspondence between learning and native languages",
-    "message": "શીખવાની અને માતૃભાષા વચ્ચે શબ્દનો સુમેળ બતાવો"
   },
   "v2_2a5674f9": {
     "description": "Auto-generated translation for: for detailed word analysis",
@@ -9143,18 +8928,6 @@
     "description": "Auto-generated translation for: Translated",
     "message": "ભાષાંતર કરેલું"
   },
-  "v2_1c10cffd": {
-    "description": "Auto-generated translation for: Found Subtitles",
-    "message": "સબટાઈટલ મળ્યા"
-  },
-  "v2_6c0aabc5": {
-    "description": "Auto-generated translation for: Source",
-    "message": "સ્ત્રોત"
-  },
-  "v2_1cc456a1": {
-    "description": "Auto-generated translation for: Total subtitles",
-    "message": "કુલ સબટાઈટલ"
-  },
   "v2_7390c06a": {
     "description": "Auto-generated translation for: Prefetching first ${PREFETCH_SUBTITLE_COUNT} subtitles...",
     "message": "પ્રથમ ${PREFETCH_SUBTITLE_COUNT} સબટાઈટલ પ્રીફેચ કરી રહ્યાં છીએ...",
@@ -9295,5 +9068,226 @@
   "v2_286ad152": {
     "description": "Auto-generated translation for: Jump to section",
     "message": "વિભાગ પર જાઓ"
+  },
+  "v2_3599a6b5": {
+    "description": "Auto-generated translation for: Merge failed: $error$",
+    "message": "મર્જ નિષ્ફળ: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_38a669bc": {
+    "description": "Auto-generated translation for: Unmerge failed: $error$",
+    "message": "અનમર્જ નિષ્ફળ: $error$",
+    "placeholders": {
+      "error": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_53ff1ea0": {
+    "description": "Auto-generated translation for: Translation Count",
+    "message": "ભાષાંતર ગણતરી"
+  },
+  "v2_64202cfd": {
+    "description": "Auto-generated translation for: Compact",
+    "message": "સઘન"
+  },
+  "v2_696240f7": {
+    "description": "Auto-generated translation for: Uploading Audio",
+    "message": "ઑડિઓ અપલોડ કરી રહ્યું છે"
+  },
+  "v2_6d9b0991": {
+    "description": "Auto-generated translation for: Generating AI Subtitles",
+    "message": "AI સબટાઈટલ જનરેટ કરી રહ્યા છીએ"
+  },
+  "v2_5acd92d8": {
+    "description": "Auto-generated translation for: Please wait while we process the audio",
+    "message": "ઑડિઓ પ્રક્રિયા થઈ રહી છે, કૃપા કરીને રાહ જુઓ"
+  },
+  "v2_30e7ca8e": {
+    "description": "Auto-generated translation for: Copy sentence",
+    "message": "વાક્યની નકલ કરો"
+  },
+  "v2_46366626": {
+    "description": "Auto-generated translation for: AI subtitles ready - transcription continues in background",
+    "message": "AI સબટાઇટલ તૈયાર છે - ટ્રાન્સક્રિપ્શન બેકગ્રાઉન્ડમાં ચાલુ છે"
+  },
+  "v2_356c975a": {
+    "description": "Auto-generated translation for: AI subtitles ready",
+    "message": "AI સબટાઈટલ તૈયાર છે"
+  },
+  "v2_341e30ef": {
+    "description": "Auto-generated translation for: Platform not available",
+    "message": "પ્લેટફોર્મ ઉપલબ્ધ નથી"
+  },
+  "v2_69b99a0d": {
+    "description": "Auto-generated translation for: Resources controller not available",
+    "message": "સંસાધનો નિયંત્રક ઉપલબ્ધ નથી"
+  },
+  "v2_6c73b8d4": {
+    "description": "Auto-generated translation for: Audio fetching not available for this platform",
+    "message": "આ પ્લેટફોર્મ માટે ઑડિઓ મેળવવાનું ઉપલબ્ધ નથી"
+  },
+  "v2_74c3cdca": {
+    "description": "Auto-generated translation for: Could not get video ID",
+    "message": "વીડિયો ID મેળવી શકાયો નથી"
+  },
+  "v2_0b5efd9a": {
+    "description": "Auto-generated translation for: Video ID is not available",
+    "message": "વીડિયો ID ઉપલબ્ધ નથી"
+  },
+  "v2_2b45f66f": {
+    "description": "Auto-generated translation for: Could not get video duration",
+    "message": "વિડિઓ અવધિ મેળવી શક્યા નથી"
+  },
+  "v2_78c1f3e3": {
+    "description": "Auto-generated translation for: Press a key",
+    "message": "કોઈપણ કી દબાવો"
+  },
+  "v2_56206947": {
+    "description": "Auto-generated translation for: Waiting for key...",
+    "message": "કી ની રાહ જોવાય છે..."
+  },
+  "v2_6560b365": {
+    "description": "Auto-generated translation for: Press any key on your keyboard",
+    "message": "તમારા કીબોર્ડ પર કોઈપણ કી દબાવો"
+  },
+  "v2_74946a56": {
+    "description": "Auto-generated translation for: Action",
+    "message": "ક્રિયા"
+  },
+  "v2_0001263f": {
+    "description": "Auto-generated translation for: Key",
+    "message": "કી"
+  },
+  "v2_488fdd55": {
+    "description": "Auto-generated translation for: Reset column order",
+    "message": "સ્તંભનો ક્રમ રીસેટ કરો"
+  },
+  "v2_19ed530d": {
+    "description": "Auto-generated translation for: {selected} of {page} row(s) selected ({total} total)",
+    "message": "{selected} માંથી {page} પંક્તિ(ઓ) પસંદ કરી ({total} કુલ)",
+    "placeholders": {
+      "selected": {
+        "content": "$1"
+      },
+      "page": {
+        "content": "$2"
+      },
+      "total": {
+        "content": "$3"
+      }
+    }
+  },
+  "v2_43709f10": {
+    "description": "Auto-generated translation for: All bookmarks deleted successfully",
+    "message": "બધા બુકમાર્ક્સ સફળતાપૂર્વક કાઢી નાખવામાં આવ્યા છે"
+  },
+  "v2_1b21e1b5": {
+    "description": "Auto-generated translation for: Failed to delete all bookmarks",
+    "message": "બધા બુકમાર્ક્સ કાઢી શક્યાં નથી"
+  },
+  "v2_28cea832": {
+    "description": "Auto-generated translation for: No bookmarks to delete",
+    "message": "કાઢી નાખવા માટે કોઈ બુકમાર્ક્સ નથી"
+  },
+  "v2_69e74069": {
+    "description": "Auto-generated translation for: Delete All Bookmarks",
+    "message": "બધા બુકમાર્ક્સ કાઢી નાખો"
+  },
+  "v2_40df7789": {
+    "description": "Auto-generated translation for: Danger Zone",
+    "message": "જોખમી ક્ષેત્ર"
+  },
+  "v2_5f4034b8": {
+    "description": "Auto-generated translation for: Delete Account",
+    "message": "એકાઉન્ટ કાઢી નાખો"
+  },
+  "v2_201befa2": {
+    "description": "Auto-generated translation for: Once you delete your account, there is no going back. This action cannot be undone.",
+    "message": "એકવાર તમે તમારું એકાઉન્ટ ડિલીટ કરી દો પછી તેને પાછું લાવી શકાશે નહીં. આ ક્રિયાને પૂર્વવત કરી શકાશે નહીં."
+  },
+  "v2_72f13ac5": {
+    "description": "Auto-generated translation for: Are you absolutely sure?",
+    "message": "શું તમને પૂરી ખાતરી છે?"
+  },
+  "v2_374ce61e": {
+    "description": "Auto-generated translation for: This action cannot be undone. This will permanently delete your account and remove all your data from our servers.",
+    "message": "આ ક્રિયાને પૂર્વવત્ કરી શકાશે નહીં. આનાથી તમારું એકાઉન્ટ કાયમી ધોરણે ડિલીટ થઈ જશે અને તમારા બધા ડેટા અમારા સર્વર્સ પરથી દૂર થઈ જશે."
+  },
+  "v2_1c7b0a70": {
+    "description": "Auto-generated translation for: Please type",
+    "message": "કૃપા કરીને ટાઈપ કરો"
+  },
+  "v2_368d228d": {
+    "description": "Auto-generated translation for: to confirm.",
+    "message": "પુષ્ટિ કરવા."
+  },
+  "v2_6d1f8b6c": {
+    "description": "Auto-generated translation for: Learning Subtitle Font Size",
+    "message": "લર્નિંગ સબટાઈટલ ફોન્ટ સાઈઝ"
+  },
+  "v2_29e9744a": {
+    "description": "Auto-generated translation for: Learning Subtitle Text Color",
+    "message": "સબટાઈટલ ટેક્સ્ટનો રંગ શીખવો"
+  },
+  "v2_43266384": {
+    "description": "Auto-generated translation for: Show Transliteration Above Words",
+    "message": "શબ્દોની ઉપર લિવ્યંતરણ બતાવો"
+  },
+  "v2_41fbb1cc": {
+    "description": "Auto-generated translation for: Display phonetic pronunciation above words using the selected transliteration type",
+    "message": "પસંદ કરેલા લિપ્યંતરણ પ્રકારનો ઉપયોગ કરીને શબ્દોની ઉપર ધ્વન્યાત્મક ઉચ્ચારણ દર્શાવો"
+  },
+  "v2_63b16a91": {
+    "description": "Auto-generated translation for: Show Dictionary Form Above Words",
+    "message": "શબ્દોની ઉપર ડિક્શનરી ફોર્મ બતાવો"
+  },
+  "v2_754e29d3": {
+    "description": "Auto-generated translation for: Native Subtitle Font Size",
+    "message": "મૂળ ઉપશીર્ષક ફોન્ટનું કદ"
+  },
+  "v2_2c4445d1": {
+    "description": "Auto-generated translation for: Native Subtitle Text Color",
+    "message": "મૂળ સબટાઈટલ ટેક્સ્ટનો રંગ"
+  },
+  "v2_4390c9a4": {
+    "description": "Auto-generated translation for: Choose the language for AI-generated subtitles. This should match the video's spoken language.",
+    "message": "AI-જનરેટેડ સબટાઈટલ માટે ભાષા પસંદ કરો. આ વીડિયોની બોલાતી ભાષા સાથે મેળ ખાતી હોવી જોઈએ."
+  },
+  "v2_7c675384": {
+    "description": "Auto-generated translation for: Use found subtitles",
+    "message": "મળેલા સબટાઈટલનો ઉપયોગ કરો"
+  },
+  "v2_4793d4bc": {
+    "description": "Auto-generated translation for: Use Found Subtitles",
+    "message": "મળેલ સબટાઈટલનો ઉપયોગ કરો"
+  },
+  "v2_3eef47a0": {
+    "description": "Auto-generated translation for: segments",
+    "message": "સેગમેન્ટ"
+  },
+  "v2_7f82fd38": {
+    "description": "Auto-generated translation for: Import my own subtitles",
+    "message": "મારા પોતાના સબટાઈટલ ઇમ્પોર્ટ કરો"
+  },
+  "v2_65fec73b": {
+    "description": "Auto-generated translation for: Upload a different subtitle file from your computer.",
+    "message": "તમારા કમ્પ્યુટરમાંથી એક અલગ સબટાઈટલ ફાઇલ અપલોડ કરો."
+  },
+  "v2_14d0c3cb": {
+    "description": "Auto-generated translation for: Search languages...",
+    "message": "ભાષાઓ શોધો..."
+  },
+  "v2_6248a6fe": {
+    "description": "Auto-generated translation for: No languages found",
+    "message": "કોઈ ભાષા મળી નથી"
+  },
+  "v2_71087a3d": {
+    "description": "Auto-generated translation for: Subtitles Found",
+    "message": "ઉપશીર્ષકો મળ્યા"
   }
 }
