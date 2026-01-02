@@ -4057,10 +4057,6 @@
     "description": "Auto-generated translation for: Create subtitles for videos that don't have any, making any content accessible for language learning.",
     "message": "สร้างคำบรรยายสำหรับวิดีโอที่ไม่มีคำบรรยาย ทำให้เนื้อหาใด ๆ สามารถเข้าถึงได้สำหรับการเรียนภาษา"
   },
-  "v2_26bbe0e0": {
-    "description": "Auto-generated translation for: You have reached your AI Subtitles quota limit. Upgrade for access to AI-powered subtitles.",
-    "message": "คุณได้ถึงขีดจำกัดโควต้าชุดคำบรรยาย AI แล้ว อัปเกรดเพื่อเข้าถึงชุดคำบรรยายที่ขับเคลื่อนด้วย AI"
-  },
   "v2_4ef78a26": {
     "description": "Auto-generated translation for: Learn languages naturally with AI-powered subtitles and real-time translations",
     "message": "เรียนภาษาอย่างเป็นธรรมชาติด้วยคำบรรยายที่ขับเคลื่อนด้วย AI และการแปลแบบเรียลไทม์"
@@ -4679,10 +4675,6 @@
     "description": "Auto-generated translation for: Disabled",
     "message": "ผู้พิการ"
   },
-  "v2_3ef27976": {
-    "description": "Auto-generated translation for: Characters",
-    "message": "ตัวละคร"
-  },
   "v2_77578069": {
     "description": "Auto-generated translation for: Examples",
     "message": "ตัวอย่าง"
@@ -4738,10 +4730,6 @@
   "v2_1cf42327": {
     "description": "Auto-generated translation for: Learning Subtitles",
     "message": "คำบรรยายการเรียนรู้"
-  },
-  "v2_55ec6ee5": {
-    "description": "Auto-generated translation for: Subtitle Character Length",
-    "message": "ความยาวอักขระของคำบรรยาย"
   },
   "v2_788e051b": {
     "description": "Auto-generated translation for: Text-to-Speech Speed",
@@ -5487,10 +5475,6 @@
     "description": "Auto-generated translation for: Live Word Highlight",
     "message": "ไฮไลต์คำบรรยายสด"
   },
-  "v2_19903c02": {
-    "description": "Auto-generated translation for: Set the maximum number of characters per subtitle line",
-    "message": "กำหนดจำนวนอักขระสูงสุดต่อบรรทัดของคำบรรยาย"
-  },
   "v2_78da76c6": {
     "description": "Auto-generated translation for: Translation Popup Settings",
     "message": "การตั้งค่าป๊อปอัปคำแปล"
@@ -6030,10 +6014,6 @@
     "description": "Auto-generated translation for: Select language",
     "message": "เลือกภาษา"
   },
-  "v2_09329d09": {
-    "description": "Auto-generated translation for: Choose the language you want to practice with.",
-    "message": "เลือกภาษาที่คุณต้องการฝึกฝน"
-  },
   "v2_27a98b23": {
     "description": "Auto-generated translation for: This is the language you'd like explanations in.",
     "message": "นี่คือภาษาที่คุณต้องการให้แสดงคำอธิบาย"
@@ -6437,14 +6417,6 @@
   "v2_152ebc42": {
     "description": "Auto-generated translation for: No items in this list yet.",
     "message": "ยังไม่มีรายการในรายการนี้"
-  },
-  "v2_60cbc3e4": {
-    "description": "Auto-generated translation for: Generating...",
-    "message": "กำลังสร้าง..."
-  },
-  "v2_12228bc2": {
-    "description": "Auto-generated translation for: Generate Words",
-    "message": "สร้างคำศัพท์"
   },
   "v2_4f004b9c": {
     "description": "Auto-generated translation for: Move to Ignored",
@@ -6866,10 +6838,6 @@
     "description": "Auto-generated translation for: No Subtitles Found",
     "message": "ไม่พบคำบรรยาย"
   },
-  "v2_2924b787": {
-    "description": "Auto-generated translation for: This video doesn't have subtitles. Generate AI-powered subtitles to continue learning.",
-    "message": "วิดีโอนี้ไม่มีคำบรรยาย โปรดสร้างคำบรรยายที่ขับเคลื่อนด้วย AI เพื่อเรียนรู้ต่อไป"
-  },
   "v2_5a9ef735": {
     "description": "Auto-generated translation for: Failed to validate code",
     "message": "ไม่สามารถตรวจสอบรหัสได้"
@@ -6982,14 +6950,6 @@
   "v2_7e5e3b99": {
     "description": "Auto-generated translation for: Back to Notebook",
     "message": "กลับสู่สมุดบันทึก"
-  },
-  "v2_223aeb69": {
-    "description": "Auto-generated translation for: Flashcard Training Settings",
-    "message": "การตั้งค่าการฝึกอบรมด้วยบัตรคำศัพท์"
-  },
-  "v2_48ccb12c": {
-    "description": "Auto-generated translation for: Choose which words you want to practice",
-    "message": "เลือกคำศัพท์ที่คุณต้องการฝึกฝน"
   },
   "v2_6ee2cd06": {
     "description": "Auto-generated translation for: Reset to Defaults",
@@ -7969,17 +7929,9 @@
     "description": "Auto-generated translation for: See what our users are saying about FluentAI. Browse through authentic reviews and testimonials from language learners around the world.",
     "message": "ดูว่าผู้ใช้ของเราพูดถึง FluentAI อย่างไรบ้าง เลือกดูรีวิวและคำรับรองที่แท้จริงจากผู้เรียนภาษาทั่วโลก"
   },
-  "v2_42662a0f": {
-    "description": "Auto-generated translation for: Traditional flashcard review",
-    "message": "การทบทวนด้วยบัตรคำแบบดั้งเดิม"
-  },
   "v2_6a71e162": {
     "description": "Auto-generated translation for: Cloze System",
     "message": "ระบบเติมคำในช่องว่าง"
-  },
-  "v2_51461a44": {
-    "description": "Auto-generated translation for: Fill in the blank with the learning word",
-    "message": "เติมคำในช่องว่างด้วยคำศัพท์การเรียนรู้"
   },
   "v2_3aac7742": {
     "description": "Auto-generated translation for: Review words at optimal intervals",
@@ -8096,14 +8048,6 @@
   "v2_2a01bf90": {
     "description": "Auto-generated translation for: Choose color for learning subtitle text",
     "message": "เลือกสีสำหรับคำบรรยายย่อยการเรียนรู้"
-  },
-  "v2_4a5bbaee": {
-    "description": "Auto-generated translation for: Preferred character length for subtitles.",
-    "message": "ความยาวอักขระที่ต้องการสำหรับคำบรรยาย"
-  },
-  "v2_2f1f2fc9": {
-    "description": "Auto-generated translation for: Subtitle Preferred Char Length",
-    "message": "ความยาวอักขระที่ต้องการสำหรับคำบรรยาย"
   },
   "v2_32880c31": {
     "description": "Auto-generated translation for: Automatically pause video when hovering over words.",
@@ -8340,14 +8284,6 @@
   "v2_04aefcf4": {
     "description": "Auto-generated translation for: Edit List",
     "message": "แก้ไขรายการ"
-  },
-  "v2_6fc27995": {
-    "description": "Auto-generated translation for: Generate",
-    "message": "สร้าง"
-  },
-  "v2_5b27c74d": {
-    "description": "Auto-generated translation for: Add Words to List",
-    "message": "เพิ่มคำในรายการ"
   },
   "v2_22cfe8dd": {
     "description": "Auto-generated translation for: Please enable at least one option to add words to the list.",
@@ -9143,26 +9079,6 @@
     "description": "Auto-generated translation for: Could not get video duration",
     "message": "ไม่สามารถดูความยาวของวิดีโอได้"
   },
-  "v2_78c1f3e3": {
-    "description": "Auto-generated translation for: Press a key",
-    "message": "กดปุ่มใดปุ่มหนึ่ง"
-  },
-  "v2_56206947": {
-    "description": "Auto-generated translation for: Waiting for key...",
-    "message": "กำลังรอคีย์..."
-  },
-  "v2_6560b365": {
-    "description": "Auto-generated translation for: Press any key on your keyboard",
-    "message": "กดปุ่มใดก็ได้บนแป้นพิมพ์ของคุณ"
-  },
-  "v2_74946a56": {
-    "description": "Auto-generated translation for: Action",
-    "message": "การกระทำ"
-  },
-  "v2_0001263f": {
-    "description": "Auto-generated translation for: Key",
-    "message": "สำคัญ"
-  },
   "v2_488fdd55": {
     "description": "Auto-generated translation for: Reset column order",
     "message": "รีเซ็ตลำดับคอลัมน์"
@@ -9289,5 +9205,249 @@
   "v2_71087a3d": {
     "description": "Auto-generated translation for: Subtitles Found",
     "message": "พบคำบรรยาย"
+  },
+  "v2_5d26213a": {
+    "description": "Auto-generated translation for: Download Subtitle Data",
+    "message": "ดาวน์โหลดข้อมูลซับไตเติล"
+  },
+  "v2_59a075ee": {
+    "description": "Auto-generated translation for: Export raw subtitle data as separate JSON files for debugging and analysis",
+    "message": "ส่งออกข้อมูลคำบรรยายดิบเป็นไฟล์ JSON แยกต่างหาก เพื่อการแก้ไขข้อผิดพลาดและการวิเคราะห์"
+  },
+  "v2_1565f1f9": {
+    "description": "Auto-generated translation for: Select Data Types",
+    "message": "เลือกชนิดข้อมูล"
+  },
+  "v2_4445c0ee": {
+    "description": "Auto-generated translation for: Select Languages for Platform Subtitles",
+    "message": "เลือกภาษาสำหรับคำบรรยายแพลตฟอร์ม"
+  },
+  "v2_106e23ee": {
+    "description": "Auto-generated translation for: Loading available languages...",
+    "message": "กำลังโหลดภาษาที่ใช้งานได้..."
+  },
+  "v2_070b7adb": {
+    "description": "Auto-generated translation for: No subtitle languages available",
+    "message": "ไม่มีภาษาคำบรรยายภาพ"
+  },
+  "v2_49332df5": {
+    "description": "Auto-generated translation for: Custom Filename (Optional)",
+    "message": "ชื่อไฟล์ที่กำหนดเอง (ไม่บังคับ)"
+  },
+  "v2_56f71062": {
+    "description": "Auto-generated translation for: Leave empty for auto-generated base name",
+    "message": "เว้นว่างไว้สำหรับชื่อฐานที่สร้างโดยอัตโนมัติ"
+  },
+  "v2_26460df7": {
+    "description": "Auto-generated translation for: Base name for files (e.g., 'my_video' will create 'my_video_prefetched_subtitles_123.json",
+    "message": "ชื่อไฟล์พื้นฐาน (เช่น 'my_video' จะสร้าง 'my_video_prefetched_subtitles_123.json)"
+  },
+  "v2_0c7c2b0a": {
+    "description": "Auto-generated translation for: Will download",
+    "message": "จะดาวน์โหลด"
+  },
+  "v2_63e2d1b4": {
+    "description": "Auto-generated translation for: JSON file",
+    "message": "ไฟล์ JSON"
+  },
+  "v2_1b52ec60": {
+    "description": "Auto-generated translation for: with base name",
+    "message": "ด้วยชื่อฐาน"
+  },
+  "v2_6ede1321": {
+    "description": "Auto-generated translation for: Download Files",
+    "message": "ดาวน์โหลดไฟล์"
+  },
+  "v2_691fb5d0": {
+    "description": "Auto-generated translation for: Upgrade to FluentAI+ Pro to access AI-powered subtitles.",
+    "message": "อัปเกรดเป็น FluentAI+ Pro เพื่อเข้าถึงคำบรรยายที่ขับเคลื่อนด้วย AI"
+  },
+  "v2_626c9df4": {
+    "description": "Auto-generated translation for: Upgrade to Pro",
+    "message": "อัปเกรดเป็น Pro"
+  },
+  "v2_0d0769ae": {
+    "description": "Auto-generated translation for: AI subtitles are available for Pro and Backer users. Upgrade to generate subtitles for any video.",
+    "message": "คำบรรยายที่สร้างจาก AI มีให้สำหรับผู้ใช้ Pro และ Backer อัปเกรดเพื่อสร้างคำบรรยายสำหรับวิดีโอใดๆ"
+  },
+  "v2_724503fa": {
+    "description": "Auto-generated translation for: AI-Powered Subtitles",
+    "message": "คำบรรยายที่ขับเคลื่อนด้วย AI"
+  },
+  "v2_7196ecb2": {
+    "description": "Auto-generated translation for: Generate accurate subtitles with neural networks",
+    "message": "สร้างคำบรรยายที่แม่นยำด้วยโครงข่ายประสาทเทียม"
+  },
+  "v2_4cf3d846": {
+    "description": "Auto-generated translation for: This video doesn't have subtitles.",
+    "message": "วิดีโอไม่มีคำบรรยาย"
+  },
+  "v2_09e2e778": {
+    "description": "Auto-generated translation for: Playback Settings",
+    "message": "การตั้งค่าการเล่น"
+  },
+  "v2_5a7e1bf4": {
+    "description": "Auto-generated translation for: continuous playback",
+    "message": "เล่นต่อเนื่อง"
+  },
+  "v2_7c4d6117": {
+    "description": "Auto-generated translation for: pause after each subtitle",
+    "message": "หยุดหลังจากแต่ละคําบรรยาย"
+  },
+  "v2_6c917192": {
+    "description": "Auto-generated translation for: repeat each subtitle",
+    "message": "เล่นบทบรรยายย่อยซ้ำแต่ละรายการ"
+  },
+  "v2_7d8a007b": {
+    "description": "Auto-generated translation for: Keep subtitle visible",
+    "message": "ให้คำบรรยายแสดงอยู่"
+  },
+  "v2_4bf8dc39": {
+    "description": "Auto-generated translation for: Keep subtitle on screen after it's spoken",
+    "message": "แสดงคำบรรยายบนหน้าจอหลังจากที่พูดจบ"
+  },
+  "v2_125c079e": {
+    "description": "Auto-generated translation for: Auto resume",
+    "message": "เล่นต่ออัตโนมัติ"
+  },
+  "v2_487d8f76": {
+    "description": "Auto-generated translation for: Automatically resume after a delay",
+    "message": "เล่นต่ออัตโนมัติหลังจากหน่วงเวลา"
+  },
+  "v2_0b6753f0": {
+    "description": "Auto-generated translation for: Resume delay",
+    "message": "เรซูเม่ล่าช้า"
+  },
+  "v2_7a1ce8d2": {
+    "description": "Auto-generated translation for: Time to wait before resuming",
+    "message": "เวลารอคอยก่อนดำเนินการต่อ"
+  },
+  "v2_4cdec0c6": {
+    "description": "Auto-generated translation for: AI voice",
+    "message": "เสียง AI"
+  },
+  "v2_75aa89e5": {
+    "description": "Auto-generated translation for: Scene replay",
+    "message": "เล่นซ้ำฉาก"
+  },
+  "v2_252a066a": {
+    "description": "Auto-generated translation for: Repeat count",
+    "message": "จำนวนครั้งที่ทำซ้ำ"
+  },
+  "v2_06c299a6": {
+    "description": "Auto-generated translation for: Pause playback after repeats finish",
+    "message": "หยุดเล่นซ้ำเมื่อเล่นซ้ำเสร็จสิ้น"
+  },
+  "v2_3c27216d": {
+    "description": "Auto-generated translation for: Audio Settings",
+    "message": "การตั้งค่าเสียง"
+  },
+  "v2_44c1ad70": {
+    "description": "Auto-generated translation for: Click a key on the keyboard below",
+    "message": "คลิกแป้นบนคีย์บอร์ดด้านล่าง"
+  },
+  "v2_45af8684": {
+    "description": "Auto-generated translation for: Click a key to assign",
+    "message": "คลิกปุ่มเพื่อกำหนดคีย์"
+  },
+  "v2_66dd586f": {
+    "description": "Auto-generated translation for: Regular Training System",
+    "message": "ระบบการฝึกอบรมทั่วไป"
+  },
+  "v2_3c2dcf81": {
+    "description": "Auto-generated translation for: Training where you can choose which vocabulary to train",
+    "message": "การฝึกที่คุณสามารถเลือกคำศัพท์ที่จะฝึกได้"
+  },
+  "v2_73420598": {
+    "description": "Auto-generated translation for: Classic flip card review. See the word and reveal its translation to test recall.",
+    "message": "รีวิวบัตรคำพลิกคลาสสิก เห็นคำศัพท์แล้วเปิดเผยคำแปลเพื่อทดสอบการจดจำ"
+  },
+  "v2_26c5d2dc": {
+    "description": "Auto-generated translation for: Fill in the blank practice. Complete sentences by typing the missing vocabulary word.",
+    "message": "แบบฝึกหัดเติมคำในช่องว่าง เติมประโยคให้สมบูรณ์โดยพิมพ์คำศัพท์ที่หายไป"
+  },
+  "v2_3ed9540d": {
+    "description": "Auto-generated translation for: Modals Sandbox",
+    "message": "กระบะทรายคำกริยาช่วย"
+  },
+  "v2_272f49eb": {
+    "description": "Auto-generated translation for: Test and preview all available modals",
+    "message": "ทดสอบและดูตัวอย่างโมดอลทั้งหมดที่มี"
+  },
+  "v2_326ac157": {
+    "description": "Auto-generated translation for: Open Modal",
+    "message": "เปิดโมดัล"
+  },
+  "v2_570ca1da": {
+    "description": "Auto-generated translation for: Study Mode",
+    "message": "โหมดการเรียน"
+  },
+  "v2_6ee02ed8": {
+    "description": "Auto-generated translation for: Balanced",
+    "message": "สมดุล"
+  },
+  "v2_1c6bbda3": {
+    "description": "Auto-generated translation for: New Words Only",
+    "message": "เฉพาะคำใหม่"
+  },
+  "v2_07f0c32f": {
+    "description": "Auto-generated translation for: Reviews Only",
+    "message": "เฉพาะรีวิว"
+  },
+  "v2_00526fe0": {
+    "description": "Auto-generated translation for: Focus on learning new words",
+    "message": "เน้นการเรียนรู้คำศัพท์ใหม่ๆ"
+  },
+  "v2_7dee4144": {
+    "description": "Auto-generated translation for: Only review previously learned words",
+    "message": "ทบทวนเฉพาะคำศัพท์ที่เรียนรู้ไปแล้วเท่านั้น"
+  },
+  "v2_741caecf": {
+    "description": "Auto-generated translation for: Mix of new and review words",
+    "message": "ผสมคำศัพท์ใหม่และทบทวน"
+  },
+  "v2_5709bc0c": {
+    "description": "Auto-generated translation for: Word List",
+    "message": "รายการคำศัพท์"
+  },
+  "v2_05195b2a": {
+    "description": "Auto-generated translation for: All Words",
+    "message": "ทุกคำ"
+  },
+  "v2_11015f56": {
+    "description": "Auto-generated translation for: Only words from this list will be included",
+    "message": "จะรวมเฉพาะคำจากรายการนี้เท่านั้น"
+  },
+  "v2_2007f83f": {
+    "description": "Auto-generated translation for: All your bookmarked words will be included",
+    "message": "คำที่คุณบุ๊กมาร์กทั้งหมดจะถูกรวมไว้"
+  },
+  "v2_6fd2ba83": {
+    "description": "Auto-generated translation for: Word Progress",
+    "message": "ความคืบหน้าของคำ"
+  },
+  "v2_374b7c92": {
+    "description": "Auto-generated translation for: Learning Only",
+    "message": "เรียนรู้เท่านั้น"
+  },
+  "v2_779b8a15": {
+    "description": "Auto-generated translation for: Mastered Only",
+    "message": "เชี่ยวชาญเท่านั้น"
+  },
+  "v2_3c6d3750": {
+    "description": "Auto-generated translation for: Only words you're still learning",
+    "message": "เป็นเพียงคำที่คุณยังคงเรียนรู้"
+  },
+  "v2_14dc1d38": {
+    "description": "Auto-generated translation for: Only words you've mastered (30+ day intervals)",
+    "message": "เฉพาะคำที่คุณเชี่ยวชาญแล้ว (ช่วงเวลา 30+ วัน)"
+  },
+  "v2_4ff09b9c": {
+    "description": "Auto-generated translation for: Include all words regardless of progress",
+    "message": "รวมคำทั้งหมดโดยไม่คำนึงถึงความคืบหน้า"
+  },
+  "v2_1ede1a2a": {
+    "description": "Auto-generated translation for: Add Words",
+    "message": "เพิ่มคำศัพท์"
   }
 }
