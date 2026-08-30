@@ -9469,5 +9469,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "Formát príkladu použitia"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "1 celkové prehratie"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "{{count}} celkové prehratia",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "Ponechať rozmazané"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "Odhaliť pri opakovaní {{count}}",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "Titulky na učenie"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "Odhaliť titulky na učenie"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "Zvoľte, kedy sa titulky na učenie stanú viditeľnými počas opakovania scény."
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "Natívne titulky"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "Odhaliť natívne titulky"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "Zvoľte, kedy sa natívne titulky stanú viditeľnými počas opakovania scény."
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "Celkový počet prehratí scény"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "Zahŕňa prvé prehratie a každé opakovanie."
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "Prvé prehratie zostane rozmazané. Zvoľte opakovanie, ktoré odhalí každé titulky."
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "Odhaliť titulky"
   }
 }

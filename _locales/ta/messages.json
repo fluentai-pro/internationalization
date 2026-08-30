@@ -9469,5 +9469,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "பயன்பாட்டு உதாரண வடிவம்"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "1 மொத்தம் ஒரு முறை பார்க்கப்பட்டது"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "மொத்தம் {{count}} முறை பார்க்கப்பட்டது",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "மங்கலாக வைக்கவும்"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "மீண்டும் இயக்கும் போது {{count}} இல் வெளிப்படுத்தவும்",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "கற்றல் வசனங்கள்"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "கற்றல் வசன வெளிப்பாடு"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "காட்சி மறுபதிவின் போது கற்றல் வசனங்கள் எப்போது தெரியும் என்பதைத் தேர்வுசெய்யவும்."
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "தாய்மொழி வசனங்கள்"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "தாய்மொழி வசன வெளிப்பாடு"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "காட்சி மறுபதிவின் போது தாய்மொழி வசனங்கள் எப்போது தெரியும் என்பதைத் தேர்வுசெய்யவும்."
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "மொத்த காட்சி விளையாட்டுகள்"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "முதல் முறை பார்த்தது மற்றும் ஒவ்வொரு மறுபதிவும் அடங்கும்."
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "முதல் முறை பார்த்தது மங்கலாக இருக்கும். ஒவ்வொரு வசனத்தையும் வெளிப்படுத்தும் மறுபதிவைத் தேர்வுசெய்யவும்."
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "வசன வெளிப்பாடு"
   }
 }

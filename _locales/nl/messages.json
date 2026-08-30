@@ -9469,5 +9469,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "Voorbeeldindeling voor gebruik"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "1 afgespeeld"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "{{count}} keer afgespeeld",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "Wazig houden"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "Onthul bij herhaling {{count}}",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "Oefensubtitles"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "Onthulling oefensubtitles"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "Kies wanneer oefensubtitles zichtbaar worden bij het herhalen van scènes."
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "Moedertaal-subtitles"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "Onthulling moedertaal-subtitles"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "Kies wanneer moedertaal-subtitles zichtbaar worden bij het herhalen van scènes."
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "Totaal aantal scèneafspeelbeurten"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "Inclusief de eerste afspeelbeurt en elke herhaling."
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "De eerste afspeelbeurt blijft wazig. Kies de herhaling die elke subtitle onthult."
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "Subtitle onthullen"
   }
 }

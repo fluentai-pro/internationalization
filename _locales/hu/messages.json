@@ -9469,5 +9469,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "Használati példa formátum"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "1 lejátszás összesen"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "{{count}} lejátszás összesen",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "Homályosítás megtartása"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "Felfedés a(z) {{count}}. visszajátszásnál",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "Tanulási feliratok"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "Tanulási felirat felfedése"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "Válassza ki, mikor jelenjenek meg a tanulási feliratok a jelenet visszajátszásakor."
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "Natív feliratok"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "Natív felirat felfedése"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "Válassza ki, mikor jelenjenek meg a natív feliratok a jelenet visszajátszásakor."
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "Összes jelenet lejátszás"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "Tartalmazza az első lejátszást és minden visszajátszást."
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "Az első lejátszás homályos marad. Válassza ki a visszajátszást, amely felfedi az egyes feliratokat."
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "Felirat felfedése"
   }
 }

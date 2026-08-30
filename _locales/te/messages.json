@@ -9616,5 +9616,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "వినియోగ ఉదాహరణ ఫార్మాట్"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "మొత్తం 1 సారి ప్లే చేయబడింది"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "మొత్తం {{count}} సార్లు ప్లే చేయబడింది",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "మసకగా ఉంచండి"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "రీప్లే {{count}} లో చూపించు",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "నేర్చుకునే సబ్‌టైటిల్‌లు"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "నేర్చుకునే సబ్‌టైటిల్ రివీల్"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "సీన్ రీప్లే సమయంలో నేర్చుకునే సబ్‌టైటిల్‌లు ఎప్పుడు కనిపించాలో ఎంచుకోండి."
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "స్థానిక సబ్‌టైటిల్‌లు"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "స్థానిక సబ్‌టైటిల్ రివీల్"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "సీన్ రీప్లే సమయంలో స్థానిక సబ్‌టైటిల్‌లు ఎప్పుడు కనిపించాలో ఎంచుకోండి."
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "మొత్తం సీన్ ప్లేలు"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "మొదటి ప్లే మరియు ప్రతి రీప్లేను కలిగి ఉంటుంది."
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "మొదటి ప్లే మసకగా ఉంటుంది. ప్రతి సబ్‌టైటిల్‌ను చూపించే రీప్లేను ఎంచుకోండి."
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "సబ్‌టైటిల్ రివీల్"
   }
 }

@@ -9469,5 +9469,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "የአጠቃቀም ምሳሌ ቅርጸት"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "1 አጠቃላይ ጨዋታ"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "{{count}} አጠቃላይ ጨዋታዎች",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "ብዥ ይበል"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "በድጋሚ ሲታይ ይገለጥ {{count}}",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "የመማሪያ ንዑስ ርዕሶች"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "የመማሪያ ንዑስ ርዕስ መገለጥ"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "በትዕይንት ድጋሚ መልሶ ማጫወት ወቅት የመማሪያ ንዑስ ርዕሶች የሚታዩበትን ጊዜ ይምረጡ።"
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "የአፍ መፍቻ ንዑስ ርዕሶች"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "የአፍ መፍቻ ንዑስ ርዕስ መገለጥ"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "በትዕይንት ድጋሚ መልሶ ማጫወት ወቅት የአፍ መፍቻ ንዑስ ርዕሶች የሚታዩበትን ጊዜ ይምረጡ።"
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "አጠቃላይ የትዕይንት ጨዋታዎች"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "የመጀመሪያውን እና እያንዳንዱን ድጋሚ ጨዋታ ያካትታል።"
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "የመጀመሪያው መልሶ ማጫወት የደበዘዘ ሆኖ ይቆያል። እያንዳንዱን ንዑስ ርዕስ የሚገልጥበትን ድጋሚ መልሶ ማጫወት ይምረጡ።"
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "የንዑስ ርዕስ መገለጥ"
   }
 }

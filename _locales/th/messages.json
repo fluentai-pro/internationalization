@@ -9469,5 +9469,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "รูปแบบตัวอย่างการใช้งาน"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "เล่นทั้งหมด 1 ครั้ง"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "เล่นทั้งหมด {{count}} ครั้ง",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "คงเบลอไว้"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "แสดงเมื่อเล่นซ้ำครั้งที่ {{count}}",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "คำบรรยายเพื่อการเรียนรู้"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "การแสดงคำบรรยายเพื่อการเรียนรู้"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "เลือกว่าจะให้คำบรรยายเพื่อการเรียนรู้แสดงเมื่อใดระหว่างการเล่นซ้ำฉาก"
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "คำบรรยายภาษาแม่"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "การแสดงคำบรรยายภาษาแม่"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "เลือกว่าจะให้คำบรรยายภาษาแม่แสดงเมื่อใดระหว่างการเล่นซ้ำฉาก"
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "จำนวนครั้งที่เล่นฉากทั้งหมด"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "รวมการเล่นครั้งแรกและการเล่นซ้ำแต่ละครั้ง"
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "การเล่นครั้งแรกจะเบลอไว้ เลือกการเล่นซ้ำที่จะแสดงคำบรรยายแต่ละรายการ"
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "การแสดงคำบรรยาย"
   }
 }
