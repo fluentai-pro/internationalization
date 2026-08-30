@@ -9616,5 +9616,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "ব্যবহারের উদাহরণ বিন্যাস"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "মোট ১ বার চালানো হয়েছে"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "মোট {{count}} বার চালানো হয়েছে",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "ঝাপসা রাখুন"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "পুনরায় চালালে দেখান {{count}}",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "শেখার সাবটাইটেল"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "শেখার সাবটাইটেল প্রকাশ"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "দৃশ্য পুনরায় চালানোর সময় শেখার সাবটাইটেল কখন দৃশ্যমান হবে তা নির্বাচন করুন।"
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "স্থানীয় সাবটাইটেল"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "স্থানীয় সাবটাইটেল প্রকাশ"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "দৃশ্য পুনরায় চালানোর সময় স্থানীয় সাবটাইটেল কখন দৃশ্যমান হবে তা নির্বাচন করুন।"
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "মোট দৃশ্য চালানো হয়েছে"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "প্রথম চালানো এবং প্রতিটি পুনরায় চালানো অন্তর্ভুক্ত।"
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "প্রথমবার চালালে ঝাপসা থাকবে। প্রতিটি সাবটাইটেল দেখানোর জন্য পুনরায় চালানোর সময়টি নির্বাচন করুন।"
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "সাবটাইটেল প্রকাশ"
   }
 }

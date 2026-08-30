@@ -9469,5 +9469,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "ഉപയോഗ ഉദാഹരണ ഫോർമാറ്റ്"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "ആകെ 1 പ്ലേ"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "ആകെ {{count}} പ്ലേകൾ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "മങ്ങിയതായി നിലനിർത്തുക"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "റീപ്ലേ {{count}}-ൽ വെളിപ്പെടുത്തുക",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "പഠനത്തിനുള്ള സബ്‌ടൈറ്റിലുകൾ"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "പഠന സബ്‌ടൈറ്റിൽ വെളിപ്പെടുത്തൽ"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "സീൻ റീപ്ലേ ചെയ്യുമ്പോൾ പഠനത്തിനുള്ള സബ്‌ടൈറ്റിലുകൾ എപ്പോൾ ദൃശ്യമാകണമെന്ന് തിരഞ്ഞെടുക്കുക."
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "മാതൃഭാഷാ സബ്‌ടൈറ്റിലുകൾ"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "മാതൃഭാഷാ സബ്‌ടൈറ്റിൽ വെളിപ്പെടുത്തൽ"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "സീൻ റീപ്ലേ ചെയ്യുമ്പോൾ മാതൃഭാഷാ സബ്‌ടൈറ്റിലുകൾ എപ്പോൾ ദൃശ്യമാകണമെന്ന് തിരഞ്ഞെടുക്കുക."
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "ആകെ സീൻ പ്ലേകൾ"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "ആദ്യത്തെ പ്ലേയും ഓരോ റീപ്ലേയും ഉൾപ്പെടുന്നു."
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "ആദ്യത്തെ പ്ലേ മങ്ങിയതായി തുടരും. ഓരോ സബ്‌ടൈറ്റിലും വെളിപ്പെടുത്തുന്ന റീപ്ലേ തിരഞ്ഞെടുക്കുക."
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "സബ്‌ടൈറ്റിൽ വെളിപ്പെടുത്തൽ"
   }
 }

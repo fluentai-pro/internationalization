@@ -9469,5 +9469,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "ಬಳಕೆಯ ಉದಾಹರಣೆ ಸ್ವರೂಪ"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "ಒಂದು ಒಟ್ಟು ವೀಕ್ಷಣೆ"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "ಒಟ್ಟು {{count}} ವೀಕ್ಷಣೆಗಳು",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "ಮಸುಕಾಗಿಸಿ ಇಡಿ"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "ಮರು-ವೀಕ್ಷಣೆಯಲ್ಲಿ {{count}} ಪ್ರಕಟಿಸಿ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "ಕಲಿಯುವ ಉಪಶೀರ್ಷಿಕೆಗಳು"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "ಕಲಿಯುವ ಉಪಶೀರ್ಷಿಕೆ ಪ್ರಕಟಣೆ"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "ಸನ್ನಿವೇಶದ ಮರು-ವೀಕ್ಷಣೆಯ ಸಮಯದಲ್ಲಿ ಕಲಿಯುವ ಉಪಶೀರ್ಷಿಕೆಗಳು ಯಾವಾಗ ಗೋಚರಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಆರಿಸಿ."
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "ಸ್ಥಳೀಯ ಉಪಶೀರ್ಷಿಕೆಗಳು"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "ಸ್ಥಳೀಯ ಉಪಶೀರ್ಷಿಕೆ ಪ್ರಕಟಣೆ"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "ಸನ್ನಿವೇಶದ ಮರು-ವೀಕ್ಷಣೆಯ ಸಮಯದಲ್ಲಿ ಸ್ಥಳೀಯ ಉಪಶೀರ್ಷಿಕೆಗಳು ಯಾವಾಗ ಗೋಚರಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಆರಿಸಿ."
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "ಒಟ್ಟು ಸನ್ನಿವೇಶ ವೀಕ್ಷಣೆಗಳು"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "ಮೊದಲ ವೀಕ್ಷಣೆ ಮತ್ತು ಪ್ರತಿ ಮರು-ವೀಕ್ಷಣೆ ಸೇರಿದೆ."
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "ಮೊದಲ ವೀಕ್ಷಣೆ ಮಸುಕಾಗಿ ಉಳಿಯುತ್ತದೆ. ಪ್ರತಿ ಉಪಶೀರ್ಷಿಕೆಯನ್ನು ಪ್ರಕಟಿಸುವ ಮರು-ವೀಕ್ಷಣೆಯನ್ನು ಆರಿಸಿ."
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "ಉಪಶೀರ್ಷಿಕೆ ಪ್ರಕಟಣೆ"
   }
 }

@@ -9616,5 +9616,71 @@
   "v2_6978abec": {
     "description": "Auto-generated translation for: Usage example format",
     "message": "वापराच्या उदाहरणाचे स्वरूप"
+  },
+  "v2_17edf621": {
+    "description": "Auto-generated translation for: 1 total play",
+    "message": "एकूण 1 प्ले"
+  },
+  "v2_2f7ead2e": {
+    "description": "Auto-generated translation for: {{count}} total plays",
+    "message": "एकूण {{count}} प्ले",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_396a214f": {
+    "description": "Auto-generated translation for: Keep blurred",
+    "message": "अस्पष्ट ठेवा"
+  },
+  "v2_533e17fc": {
+    "description": "Auto-generated translation for: Reveal on replay {{count}}",
+    "message": "रिप्ले {{count}} वर उघड करा",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "v2_6b99bcf9": {
+    "description": "Auto-generated translation for: Learning subtitles",
+    "message": "शिकण्यासाठी उपशीर्षके"
+  },
+  "v2_4209f00d": {
+    "description": "Auto-generated translation for: Learning subtitle reveal",
+    "message": "शिकण्यासाठी उपशीर्षके उघड करणे"
+  },
+  "v2_31352611": {
+    "description": "Auto-generated translation for: Choose when learning subtitles become visible during scene replay.",
+    "message": "दृश्य पुन्हा प्ले करताना शिकण्यासाठी उपशीर्षके कधी दृश्यमान होतील ते निवडा."
+  },
+  "v2_1929014e": {
+    "description": "Auto-generated translation for: Native subtitles",
+    "message": "मूळ उपशीर्षके"
+  },
+  "v2_39209d14": {
+    "description": "Auto-generated translation for: Native subtitle reveal",
+    "message": "मूळ उपशीर्षके उघड करणे"
+  },
+  "v2_2bda9d76": {
+    "description": "Auto-generated translation for: Choose when native subtitles become visible during scene replay.",
+    "message": "दृश्य पुन्हा प्ले करताना मूळ उपशीर्षके कधी दृश्यमान होतील ते निवडा."
+  },
+  "v2_3f618fd1": {
+    "description": "Auto-generated translation for: Total scene plays",
+    "message": "एकूण दृश्य प्ले"
+  },
+  "v2_08aeb149": {
+    "description": "Auto-generated translation for: Includes the first play and each replay.",
+    "message": "पहिला प्ले आणि प्रत्येक रिप्ले समाविष्ट आहे."
+  },
+  "v2_609cc8e0": {
+    "description": "Auto-generated translation for: The first play stays blurred. Choose the replay that reveals each subtitle.",
+    "message": "पहिला प्ले अस्पष्ट राहतो. प्रत्येक उपशीर्षक उघड करणारा रिप्ले निवडा."
+  },
+  "v2_27f78f4b": {
+    "description": "Auto-generated translation for: Subtitle reveal",
+    "message": "उपशीर्षक उघड करणे"
   }
 }
