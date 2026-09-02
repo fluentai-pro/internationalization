@@ -9563,5 +9563,41 @@
   "v2_48a277e6": {
     "description": "Auto-generated translation for: Word frequency",
     "message": "Częstotliwość słów"
+  },
+  "v2_7527ef29": {
+    "description": "Auto-generated translation for: Translating {{current}} of {{total}}",
+    "message": "Tłumaczenie {{current}} z {{total}}",
+    "placeholders": {
+      "current": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_04473a03": {
+    "description": "Auto-generated translation for: Translate every paragraph in this text",
+    "message": "Przetłumacz każdy akapit w tym tekście"
+  },
+  "v2_26edbf66": {
+    "description": "Auto-generated translation for: Set your native language to translate this text",
+    "message": "Ustaw swój język ojczysty, aby przetłumaczyć ten tekst"
+  },
+  "v2_56dacfaf": {
+    "description": "Auto-generated translation for: Translate all",
+    "message": "Przetłumacz wszystko"
+  },
+  "v2_7f8f3e7c": {
+    "description": "Auto-generated translation for: Translate remaining",
+    "message": "Przetłumacz pozostałe"
+  },
+  "v2_0dda4e20": {
+    "description": "Auto-generated translation for: Hide translations",
+    "message": "Ukryj tłumaczenia"
+  },
+  "v2_45e61c05": {
+    "description": "Auto-generated translation for: Show translations",
+    "message": "Pokaż tłumaczenia"
   }
 }

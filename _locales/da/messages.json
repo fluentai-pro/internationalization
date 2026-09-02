@@ -9563,5 +9563,41 @@
   "v2_48a277e6": {
     "description": "Auto-generated translation for: Word frequency",
     "message": "Ordfrekvens"
+  },
+  "v2_7527ef29": {
+    "description": "Auto-generated translation for: Translating {{current}} of {{total}}",
+    "message": "Oversætter {{current}} af {{total}}",
+    "placeholders": {
+      "current": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_04473a03": {
+    "description": "Auto-generated translation for: Translate every paragraph in this text",
+    "message": "Oversæt alle afsnit i denne tekst"
+  },
+  "v2_26edbf66": {
+    "description": "Auto-generated translation for: Set your native language to translate this text",
+    "message": "Indstil dit modersmål for at oversætte denne tekst"
+  },
+  "v2_56dacfaf": {
+    "description": "Auto-generated translation for: Translate all",
+    "message": "Oversæt alle"
+  },
+  "v2_7f8f3e7c": {
+    "description": "Auto-generated translation for: Translate remaining",
+    "message": "Oversæt resterende"
+  },
+  "v2_0dda4e20": {
+    "description": "Auto-generated translation for: Hide translations",
+    "message": "Skjul oversættelser"
+  },
+  "v2_45e61c05": {
+    "description": "Auto-generated translation for: Show translations",
+    "message": "Vis oversættelser"
   }
 }

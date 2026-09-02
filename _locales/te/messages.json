@@ -9710,5 +9710,41 @@
   "v2_48a277e6": {
     "description": "Auto-generated translation for: Word frequency",
     "message": "పద పౌనఃపున్యం"
+  },
+  "v2_7527ef29": {
+    "description": "Auto-generated translation for: Translating {{current}} of {{total}}",
+    "message": "{{total}}లో {{current}} అనువదిస్తోంది",
+    "placeholders": {
+      "current": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_04473a03": {
+    "description": "Auto-generated translation for: Translate every paragraph in this text",
+    "message": "ఈ వచనంలోని ప్రతి పేరాను అనువదించండి"
+  },
+  "v2_26edbf66": {
+    "description": "Auto-generated translation for: Set your native language to translate this text",
+    "message": "ఈ వచనాన్ని అనువదించడానికి మీ మాతృభాషను సెట్ చేయండి"
+  },
+  "v2_56dacfaf": {
+    "description": "Auto-generated translation for: Translate all",
+    "message": "అన్నీ అనువదించు"
+  },
+  "v2_7f8f3e7c": {
+    "description": "Auto-generated translation for: Translate remaining",
+    "message": "మిగిలినవి అనువదించు"
+  },
+  "v2_0dda4e20": {
+    "description": "Auto-generated translation for: Hide translations",
+    "message": "అనువాదాలను దాచు"
+  },
+  "v2_45e61c05": {
+    "description": "Auto-generated translation for: Show translations",
+    "message": "అనువాదాలను చూపు"
   }
 }

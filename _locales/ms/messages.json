@@ -9710,5 +9710,41 @@
   "v2_48a277e6": {
     "description": "Auto-generated translation for: Word frequency",
     "message": "Kekerapan perkataan"
+  },
+  "v2_7527ef29": {
+    "description": "Auto-generated translation for: Translating {{current}} of {{total}}",
+    "message": "Menterjemah {{current}} daripada {{total}}",
+    "placeholders": {
+      "current": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_04473a03": {
+    "description": "Auto-generated translation for: Translate every paragraph in this text",
+    "message": "Terjemah setiap perenggan dalam teks ini"
+  },
+  "v2_26edbf66": {
+    "description": "Auto-generated translation for: Set your native language to translate this text",
+    "message": "Tetapkan bahasa ibunda anda untuk menterjemah teks ini"
+  },
+  "v2_56dacfaf": {
+    "description": "Auto-generated translation for: Translate all",
+    "message": "Terjemah semua"
+  },
+  "v2_7f8f3e7c": {
+    "description": "Auto-generated translation for: Translate remaining",
+    "message": "Terjemah baki"
+  },
+  "v2_0dda4e20": {
+    "description": "Auto-generated translation for: Hide translations",
+    "message": "Sembunyikan terjemahan"
+  },
+  "v2_45e61c05": {
+    "description": "Auto-generated translation for: Show translations",
+    "message": "Tunjukkan terjemahan"
   }
 }

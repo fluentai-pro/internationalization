@@ -9563,5 +9563,41 @@
   "v2_48a277e6": {
     "description": "Auto-generated translation for: Word frequency",
     "message": "വാക്കുകളുടെ ആവൃത്തി"
+  },
+  "v2_7527ef29": {
+    "description": "Auto-generated translation for: Translating {{current}} of {{total}}",
+    "message": "{{total}} എണ്ണത്തിൽ {{current}} എണ്ണം വിവർത്തനം ചെയ്യുന്നു",
+    "placeholders": {
+      "current": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_04473a03": {
+    "description": "Auto-generated translation for: Translate every paragraph in this text",
+    "message": "ഈ ടെക്സ്റ്റിലെ ഓരോ ഖണ്ഡികയും വിവർത്തനം ചെയ്യുക"
+  },
+  "v2_26edbf66": {
+    "description": "Auto-generated translation for: Set your native language to translate this text",
+    "message": "ഈ ടെക്സ്റ്റ് വിവർത്തനം ചെയ്യാൻ നിങ്ങളുടെ മാതൃഭാഷ സജ്ജമാക്കുക"
+  },
+  "v2_56dacfaf": {
+    "description": "Auto-generated translation for: Translate all",
+    "message": "എല്ലാം വിവർത്തനം ചെയ്യുക"
+  },
+  "v2_7f8f3e7c": {
+    "description": "Auto-generated translation for: Translate remaining",
+    "message": "ബാക്കിയുള്ളവ വിവർത്തനം ചെയ്യുക"
+  },
+  "v2_0dda4e20": {
+    "description": "Auto-generated translation for: Hide translations",
+    "message": "വിവർത്തനങ്ങൾ മറയ്ക്കുക"
+  },
+  "v2_45e61c05": {
+    "description": "Auto-generated translation for: Show translations",
+    "message": "വിവർത്തനങ്ങൾ കാണിക്കുക"
   }
 }

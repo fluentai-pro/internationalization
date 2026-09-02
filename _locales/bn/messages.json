@@ -9710,5 +9710,41 @@
   "v2_48a277e6": {
     "description": "Auto-generated translation for: Word frequency",
     "message": "শব্দের ফ্রিকোয়েন্সি"
+  },
+  "v2_7527ef29": {
+    "description": "Auto-generated translation for: Translating {{current}} of {{total}}",
+    "message": "{{total}}-এর মধ্যে {{current}}টি অনুবাদ করা হচ্ছে",
+    "placeholders": {
+      "current": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_04473a03": {
+    "description": "Auto-generated translation for: Translate every paragraph in this text",
+    "message": "এই লেখার প্রতিটি অনুচ্ছেদ অনুবাদ করুন"
+  },
+  "v2_26edbf66": {
+    "description": "Auto-generated translation for: Set your native language to translate this text",
+    "message": "এই লেখাটি অনুবাদ করতে আপনার মাতৃভাষা সেট করুন"
+  },
+  "v2_56dacfaf": {
+    "description": "Auto-generated translation for: Translate all",
+    "message": "সব অনুবাদ করুন"
+  },
+  "v2_7f8f3e7c": {
+    "description": "Auto-generated translation for: Translate remaining",
+    "message": "বাকিগুলো অনুবাদ করুন"
+  },
+  "v2_0dda4e20": {
+    "description": "Auto-generated translation for: Hide translations",
+    "message": "অনুবাদগুলি লুকান"
+  },
+  "v2_45e61c05": {
+    "description": "Auto-generated translation for: Show translations",
+    "message": "অনুবাদগুলি দেখান"
   }
 }

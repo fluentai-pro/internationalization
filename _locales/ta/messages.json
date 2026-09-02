@@ -9563,5 +9563,41 @@
   "v2_48a277e6": {
     "description": "Auto-generated translation for: Word frequency",
     "message": "சொல் அதிர்வெண்"
+  },
+  "v2_7527ef29": {
+    "description": "Auto-generated translation for: Translating {{current}} of {{total}}",
+    "message": "{{total}} இல் {{current}} மொழிபெயர்க்கிறது",
+    "placeholders": {
+      "current": {
+        "content": "$1"
+      },
+      "total": {
+        "content": "$2"
+      }
+    }
+  },
+  "v2_04473a03": {
+    "description": "Auto-generated translation for: Translate every paragraph in this text",
+    "message": "இந்த உரையில் உள்ள ஒவ்வொரு பத்தியையும் மொழிபெயர்க்கவும்"
+  },
+  "v2_26edbf66": {
+    "description": "Auto-generated translation for: Set your native language to translate this text",
+    "message": "இந்த உரையை மொழிபெயர்க்க உங்கள் தாய்மொழியை அமைக்கவும்"
+  },
+  "v2_56dacfaf": {
+    "description": "Auto-generated translation for: Translate all",
+    "message": "அனைத்தையும் மொழிபெயர்க்கவும்"
+  },
+  "v2_7f8f3e7c": {
+    "description": "Auto-generated translation for: Translate remaining",
+    "message": "மீதமுள்ளவற்றை மொழிபெயர்க்கவும்"
+  },
+  "v2_0dda4e20": {
+    "description": "Auto-generated translation for: Hide translations",
+    "message": "மொழிபெயர்ப்புகளை மறை"
+  },
+  "v2_45e61c05": {
+    "description": "Auto-generated translation for: Show translations",
+    "message": "மொழிபெயர்ப்புகளைக் காட்டு"
   }
 }
