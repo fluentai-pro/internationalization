@@ -10306,11 +10306,11 @@
     "description": "Auto-generated translation for: 0-100",
     "message": "0–100"
   },
-  "v2_0165fb9b": {
-    "description": "Auto-generated translation for: Remove meaning ${index + 1}",
-    "message": "Удалить значение ${index + 1}",
+  "v2_2c9fee13": {
+    "description": "Auto-generated translation for: Remove meaning ${meaningNumber}",
+    "message": "Удалить значение ${meaningNumber}",
     "placeholders": {
-      "index + 1": {
+      "meaningNumber": {
         "content": "$1"
       }
     }
@@ -11295,11 +11295,11 @@
     "description": "Auto-generated translation for: Browse the full community on the website",
     "message": "Посмотрите всё сообщество на сайте"
   },
-  "v2_39060f4a": {
-    "description": "Auto-generated translation for: Title needs ${TITLE_MIN - trimmedTitle.length} more characters",
-    "message": "В заголовке не хватает ${TITLE_MIN - trimmedTitle.length} символов",
+  "v2_62a26dd8": {
+    "description": "Auto-generated translation for: Title needs ${missingCharacterCount} more characters",
+    "message": "В заголовке не хватает ${missingCharacterCount} символов",
     "placeholders": {
-      "TITLE_MIN - trimmedTitle.length": {
+      "missingCharacterCount": {
         "content": "$1"
       }
     }

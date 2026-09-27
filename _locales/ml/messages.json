@@ -10306,11 +10306,11 @@
     "description": "Auto-generated translation for: 0-100",
     "message": "0-100"
   },
-  "v2_0165fb9b": {
-    "description": "Auto-generated translation for: Remove meaning ${index + 1}",
-    "message": "അർത്ഥം ${index + 1} നീക്കം ചെയ്യുക",
+  "v2_2c9fee13": {
+    "description": "Auto-generated translation for: Remove meaning ${meaningNumber}",
+    "message": "അർത്ഥം ${meaningNumber} നീക്കം ചെയ്യുക",
     "placeholders": {
-      "index + 1": {
+      "meaningNumber": {
         "content": "$1"
       }
     }
@@ -11295,11 +11295,11 @@
     "description": "Auto-generated translation for: Browse the full community on the website",
     "message": "വെബ്‌സൈറ്റിൽ മുഴുവൻ കമ്മ്യൂണിറ്റിയും കാണുക"
   },
-  "v2_39060f4a": {
-    "description": "Auto-generated translation for: Title needs ${TITLE_MIN - trimmedTitle.length} more characters",
-    "message": "ശീർഷകത്തിന് ${TITLE_MIN - trimmedTitle.length} അക്ഷരങ്ങൾ കൂടി വേണം",
+  "v2_62a26dd8": {
+    "description": "Auto-generated translation for: Title needs ${missingCharacterCount} more characters",
+    "message": "ശീർഷകത്തിന് ${missingCharacterCount} അക്ഷരങ്ങൾ കൂടി വേണം",
     "placeholders": {
-      "TITLE_MIN - trimmedTitle.length": {
+      "missingCharacterCount": {
         "content": "$1"
       }
     }

@@ -10306,11 +10306,11 @@
     "description": "Auto-generated translation for: 0-100",
     "message": "0-100"
   },
-  "v2_0165fb9b": {
-    "description": "Auto-generated translation for: Remove meaning ${index + 1}",
-    "message": "Ukloni značenje ${index + 1}",
+  "v2_2c9fee13": {
+    "description": "Auto-generated translation for: Remove meaning ${meaningNumber}",
+    "message": "Ukloni značenje ${meaningNumber}",
     "placeholders": {
-      "index + 1": {
+      "meaningNumber": {
         "content": "$1"
       }
     }
@@ -11295,11 +11295,11 @@
     "description": "Auto-generated translation for: Browse the full community on the website",
     "message": "Istražite cijelu zajednicu na web-stranici"
   },
-  "v2_39060f4a": {
-    "description": "Auto-generated translation for: Title needs ${TITLE_MIN - trimmedTitle.length} more characters",
-    "message": "Naslovu nedostaje još ${TITLE_MIN - trimmedTitle.length} znakova",
+  "v2_62a26dd8": {
+    "description": "Auto-generated translation for: Title needs ${missingCharacterCount} more characters",
+    "message": "Naslovu nedostaje još ${missingCharacterCount} znakova",
     "placeholders": {
-      "TITLE_MIN - trimmedTitle.length": {
+      "missingCharacterCount": {
         "content": "$1"
       }
     }
