@@ -10306,11 +10306,11 @@
     "description": "Auto-generated translation for: 0-100",
     "message": "೦-೧೦೦"
   },
-  "v2_0165fb9b": {
-    "description": "Auto-generated translation for: Remove meaning ${index + 1}",
-    "message": "ಅರ್ಥ ${index + 1} ಅನ್ನು ತೆಗೆದುಹಾಕಿ",
+  "v2_2c9fee13": {
+    "description": "Auto-generated translation for: Remove meaning ${meaningNumber}",
+    "message": "ಅರ್ಥ ${meaningNumber} ಅನ್ನು ತೆಗೆದುಹಾಕಿ",
     "placeholders": {
-      "index + 1": {
+      "meaningNumber": {
         "content": "$1"
       }
     }
@@ -11295,11 +11295,11 @@
     "description": "Auto-generated translation for: Browse the full community on the website",
     "message": "ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಇಡೀ ಸಮುದಾಯವನ್ನು ಅನ್ವೇಷಿಸಿ"
   },
-  "v2_39060f4a": {
-    "description": "Auto-generated translation for: Title needs ${TITLE_MIN - trimmedTitle.length} more characters",
-    "message": "ಶೀರ್ಷಿಕೆಗೆ ಇನ್ನೂ ${TITLE_MIN - trimmedTitle.length} ಅಕ್ಷರಗಳು ಬೇಕು",
+  "v2_62a26dd8": {
+    "description": "Auto-generated translation for: Title needs ${missingCharacterCount} more characters",
+    "message": "ಶೀರ್ಷಿಕೆಗೆ ಇನ್ನೂ ${missingCharacterCount} ಅಕ್ಷರಗಳು ಬೇಕು",
     "placeholders": {
-      "TITLE_MIN - trimmedTitle.length": {
+      "missingCharacterCount": {
         "content": "$1"
       }
     }

@@ -10453,11 +10453,11 @@
     "description": "Auto-generated translation for: 0-100",
     "message": "0-100"
   },
-  "v2_0165fb9b": {
-    "description": "Auto-generated translation for: Remove meaning ${index + 1}",
-    "message": "అర్థం ${index + 1}ని తొలగించండి",
+  "v2_2c9fee13": {
+    "description": "Auto-generated translation for: Remove meaning ${meaningNumber}",
+    "message": "అర్థం ${meaningNumber}ని తొలగించండి",
     "placeholders": {
-      "index + 1": {
+      "meaningNumber": {
         "content": "$1"
       }
     }
@@ -11442,11 +11442,11 @@
     "description": "Auto-generated translation for: Browse the full community on the website",
     "message": "వెబ్‌సైట్‌లో మొత్తం కమ్యూనిటీని చూడండి"
   },
-  "v2_39060f4a": {
-    "description": "Auto-generated translation for: Title needs ${TITLE_MIN - trimmedTitle.length} more characters",
-    "message": "శీర్షికకు ఇంకా ${TITLE_MIN - trimmedTitle.length} అక్షరాలు కావాలి",
+  "v2_62a26dd8": {
+    "description": "Auto-generated translation for: Title needs ${missingCharacterCount} more characters",
+    "message": "శీర్షికకు ఇంకా ${missingCharacterCount} అక్షరాలు కావాలి",
     "placeholders": {
-      "TITLE_MIN - trimmedTitle.length": {
+      "missingCharacterCount": {
         "content": "$1"
       }
     }

@@ -10306,11 +10306,11 @@
     "description": "Auto-generated translation for: 0-100",
     "message": "0-100"
   },
-  "v2_0165fb9b": {
-    "description": "Auto-generated translation for: Remove meaning ${index + 1}",
-    "message": "移除意義 ${index + 1}",
+  "v2_2c9fee13": {
+    "description": "Auto-generated translation for: Remove meaning ${meaningNumber}",
+    "message": "移除意義 ${meaningNumber}",
     "placeholders": {
-      "index + 1": {
+      "meaningNumber": {
         "content": "$1"
       }
     }
@@ -11295,11 +11295,11 @@
     "description": "Auto-generated translation for: Browse the full community on the website",
     "message": "在網站上瀏覽完整社群"
   },
-  "v2_39060f4a": {
-    "description": "Auto-generated translation for: Title needs ${TITLE_MIN - trimmedTitle.length} more characters",
-    "message": "標題還需要 ${TITLE_MIN - trimmedTitle.length} 個字元",
+  "v2_62a26dd8": {
+    "description": "Auto-generated translation for: Title needs ${missingCharacterCount} more characters",
+    "message": "標題還需要 ${missingCharacterCount} 個字元",
     "placeholders": {
-      "TITLE_MIN - trimmedTitle.length": {
+      "missingCharacterCount": {
         "content": "$1"
       }
     }

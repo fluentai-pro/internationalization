@@ -10154,11 +10154,11 @@
     "description": "Auto-generated translation for: 0-100",
     "message": "0-100"
   },
-  "v2_0165fb9b": {
-    "description": "Auto-generated translation for: Remove meaning ${index + 1}",
-    "message": "Remover significado ${index + 1}",
+  "v2_2c9fee13": {
+    "description": "Auto-generated translation for: Remove meaning ${meaningNumber}",
+    "message": "Remover significado ${meaningNumber}",
     "placeholders": {
-      "index + 1": {
+      "meaningNumber": {
         "content": "$1"
       }
     }
@@ -11143,11 +11143,11 @@
     "description": "Auto-generated translation for: Browse the full community on the website",
     "message": "Explore toda a comunidade no site"
   },
-  "v2_39060f4a": {
-    "description": "Auto-generated translation for: Title needs ${TITLE_MIN - trimmedTitle.length} more characters",
-    "message": "O título precisa de mais ${TITLE_MIN - trimmedTitle.length} caracteres",
+  "v2_62a26dd8": {
+    "description": "Auto-generated translation for: Title needs ${missingCharacterCount} more characters",
+    "message": "O título precisa de mais ${missingCharacterCount} caracteres",
     "placeholders": {
-      "TITLE_MIN - trimmedTitle.length": {
+      "missingCharacterCount": {
         "content": "$1"
       }
     }

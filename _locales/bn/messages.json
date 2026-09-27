@@ -10453,11 +10453,11 @@
     "description": "Auto-generated translation for: 0-100",
     "message": "০-১০০"
   },
-  "v2_0165fb9b": {
-    "description": "Auto-generated translation for: Remove meaning ${index + 1}",
-    "message": "অর্থ ${index + 1} সরান",
+  "v2_2c9fee13": {
+    "description": "Auto-generated translation for: Remove meaning ${meaningNumber}",
+    "message": "অর্থ ${meaningNumber} সরান",
     "placeholders": {
-      "index + 1": {
+      "meaningNumber": {
         "content": "$1"
       }
     }
@@ -11442,11 +11442,11 @@
     "description": "Auto-generated translation for: Browse the full community on the website",
     "message": "ওয়েবসাইটে পুরো কমিউনিটিটি ঘুরে দেখুন"
   },
-  "v2_39060f4a": {
-    "description": "Auto-generated translation for: Title needs ${TITLE_MIN - trimmedTitle.length} more characters",
-    "message": "শিরোনামে আরও ${TITLE_MIN - trimmedTitle.length}টি অক্ষর দরকার",
+  "v2_62a26dd8": {
+    "description": "Auto-generated translation for: Title needs ${missingCharacterCount} more characters",
+    "message": "শিরোনামে আরও ${missingCharacterCount}টি অক্ষর দরকার",
     "placeholders": {
-      "TITLE_MIN - trimmedTitle.length": {
+      "missingCharacterCount": {
         "content": "$1"
       }
     }
